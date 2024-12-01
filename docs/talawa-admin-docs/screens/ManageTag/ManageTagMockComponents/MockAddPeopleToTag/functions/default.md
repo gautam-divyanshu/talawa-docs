@@ -26,4 +26,4 @@
 
 ## Defined in
 
-[src/screens/ManageTag/ManageTagMockComponents/MockAddPeopleToTag.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/ManageTag/ManageTagMockComponents/MockAddPeopleToTag.tsx#L12)
+[src/screens/ManageTag/ManageTagMockComponents/MockAddPeopleToTag.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/ManageTag/ManageTagMockComponents/MockAddPeopleToTag.tsx#L12)

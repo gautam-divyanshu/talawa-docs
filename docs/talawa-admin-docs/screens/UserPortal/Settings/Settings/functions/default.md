@@ -19,4 +19,4 @@ The Settings component.
 
 ## Defined in
 
-[src/screens/UserPortal/Settings/Settings.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/UserPortal/Settings/Settings.tsx#L33)
+[src/screens/UserPortal/Settings/Settings.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/UserPortal/Settings/Settings.tsx#L33)

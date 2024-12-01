@@ -21,4 +21,4 @@ The JSX element for the events management interface.
 
 ## Defined in
 
-[src/screens/UserPortal/Events/Events.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/UserPortal/Events/Events.tsx#L43)
+[src/screens/UserPortal/Events/Events.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/UserPortal/Events/Events.tsx#L43)

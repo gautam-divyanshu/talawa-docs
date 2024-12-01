@@ -32,4 +32,4 @@ The `CategoryModal` component.
 
 ## Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L41)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L41)

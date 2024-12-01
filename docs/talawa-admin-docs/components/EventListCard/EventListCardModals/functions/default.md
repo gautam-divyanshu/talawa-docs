@@ -25,4 +25,4 @@ A JSX element containing the event modals.
 
 ## Defined in
 
-[src/components/EventListCard/EventListCardModals.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/EventListCard/EventListCardModals.tsx#L72)
+[src/components/EventListCard/EventListCardModals.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/components/EventListCard/EventListCardModals.tsx#L72)

@@ -16,4 +16,4 @@ Component that renders the Manage Tag screen when the app navigates to '/orgtags
 
 ## Defined in
 
-[src/screens/ManageTag/ManageTag.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/ManageTag/ManageTag.tsx#L47)
+[src/screens/ManageTag/ManageTag.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/ManageTag/ManageTag.tsx#L47)

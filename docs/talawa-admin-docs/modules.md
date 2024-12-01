@@ -7,7 +7,7 @@
 ## Modules
 
 - [components/AddOn/AddOn](components/AddOn/AddOn/README.md)
-- [components/AddOn/AddOn.test](components/AddOn/AddOn.test/README.md)
+- [components/AddOn/AddOn.spec](components/AddOn/AddOn.spec/README.md)
 - [components/AddOn/core/AddOnEntry/AddOnEntry](components/AddOn/core/AddOnEntry/AddOnEntry/README.md)
 - [components/AddOn/core/AddOnEntry/AddOnEntry.test](components/AddOn/core/AddOnEntry/AddOnEntry.test/README.md)
 - [components/AddOn/core/AddOnEntry/AddOnEntryMocks](components/AddOn/core/AddOnEntry/AddOnEntryMocks/README.md)

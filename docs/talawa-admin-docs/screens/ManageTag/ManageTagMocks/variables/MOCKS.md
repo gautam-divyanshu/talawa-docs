@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[src/screens/ManageTag/ManageTagMocks.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/ManageTag/ManageTagMocks.ts#L9)
+[src/screens/ManageTag/ManageTagMocks.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/ManageTag/ManageTagMocks.ts#L9)

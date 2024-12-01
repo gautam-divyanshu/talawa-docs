@@ -30,4 +30,4 @@ returns the AgendaCategoryPreviewModal component
 
 ## Defined in
 
-[src/components/OrgSettings/AgendaItemCategories/AgendaCategoryPreviewModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryPreviewModal.tsx#L38)
+[src/components/OrgSettings/AgendaItemCategories/AgendaCategoryPreviewModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryPreviewModal.tsx#L38)

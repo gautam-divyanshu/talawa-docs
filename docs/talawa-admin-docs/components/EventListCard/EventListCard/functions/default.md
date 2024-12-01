@@ -24,4 +24,4 @@ The rendered EventListCard component.
 
 ## Defined in
 
-[src/components/EventListCard/EventListCard.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/EventListCard/EventListCard.tsx#L45)
+[src/components/EventListCard/EventListCard.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/components/EventListCard/EventListCard.tsx#L45)
