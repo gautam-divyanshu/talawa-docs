@@ -41,7 +41,7 @@ The result of the next function in the resolver chain.
 
 ##### context
 
-###### context.userId
+###### userId
 
 `any`
 

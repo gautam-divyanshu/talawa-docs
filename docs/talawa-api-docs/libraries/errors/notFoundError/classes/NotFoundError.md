@@ -31,9 +31,13 @@ The error message. Defaults to "Not Found".
 
 ##### code
 
+The error code. Can be null. Defaults to null.
+
 `null` | `string`
 
 ##### param
+
+The parameter related to the error. Can be null. Defaults to null.
 
 `null` | `string`
 

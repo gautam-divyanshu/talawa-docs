@@ -15,6 +15,8 @@ combining existing event data with new input data.
 
 ### updateEventInputData
 
+The input data to update the event.
+
 `undefined` | `null` | [`UpdateEventInput`](../../../../../types/generatedGraphQLTypes/type-aliases/UpdateEventInput.md)
 
 ### event

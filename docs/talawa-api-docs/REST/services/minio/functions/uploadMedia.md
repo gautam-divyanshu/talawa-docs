@@ -39,7 +39,7 @@ The original file name, used to determine the file extension.
 
 An object specifying the content type of the file.
 
-#### contentType.ContentType
+#### ContentType
 
 `string`
 

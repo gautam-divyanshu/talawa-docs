@@ -64,11 +64,9 @@ Attaches a callback for only the rejection of the Promise.
 
 ##### onrejected?
 
-`null`
-
-(`reason`) =\> `TResult` \| `PromiseLike`\<`TResult`\>
-
 The callback to execute when the Promise is rejected.
+
+`null` | (`reason`) =\> `TResult` \| `PromiseLike`\<`TResult`\>
 
 #### Returns
 
@@ -100,11 +98,9 @@ resolved value cannot be modified from the callback.
 
 ##### onfinally?
 
-`null`
-
-() =\> `void`
-
 The callback to execute when the Promise is settled (fulfilled or rejected).
+
+`null` | () =\> `void`
 
 #### Returns
 
@@ -169,19 +165,15 @@ Attaches callbacks for the resolution and/or rejection of the Promise.
 
 ##### onfulfilled?
 
-`null`
-
-(`value`) =\> `TResult1` \| `PromiseLike`\<`TResult1`\>
-
 The callback to execute when the Promise is resolved.
+
+`null` | (`value`) =\> `TResult1` \| `PromiseLike`\<`TResult1`\>
 
 ##### onrejected?
 
-`null`
-
-(`reason`) =\> `TResult2` \| `PromiseLike`\<`TResult2`\>
-
 The callback to execute when the Promise is rejected.
+
+`null` | (`reason`) =\> `TResult2` \| `PromiseLike`\<`TResult2`\>
 
 #### Returns
 
@@ -444,6 +436,8 @@ Casts this query to the schema of `model`.
 #### Parameters
 
 ##### model?
+
+the model to cast to. If not set, defaults to `this.model`
 
 `null` | `Model`\<`any`, `object`, `object`, `object`, `any`, `any`\>
 
@@ -1729,11 +1723,11 @@ Specifies a `$geometry` condition
 
 ##### object
 
-###### object.coordinates
+###### coordinates
 
 `any`[]
 
-###### object.type
+###### type
 
 `string`
 
@@ -2754,9 +2748,7 @@ an extra `if` statement to check if no document was found.
 
 ##### err?
 
-`NativeError`
-
-() =\> `NativeError`
+`NativeError` | () =\> `NativeError`
 
 #### Returns
 
@@ -3640,17 +3632,11 @@ Sets the sort order. If an object is passed, values allowed are `asc`, `desc`, `
 
 ##### arg?
 
-`null`
-
-`string`
-
-[`string`, `SortOrder`][]
-
-\{\}
+`null` | `string` | [`string`, `SortOrder`][] | \{\}
 
 ##### options?
 
-###### options.override
+###### override
 
 `boolean`
 
@@ -3682,11 +3668,11 @@ Sets the tailable option (for use with capped collections).
 
 ##### opts?
 
-###### opts.numberOfRetries
+###### numberOfRetries
 
 `number`
 
-###### opts.tailableRetryInterval
+###### tailableRetryInterval
 
 `number`
 

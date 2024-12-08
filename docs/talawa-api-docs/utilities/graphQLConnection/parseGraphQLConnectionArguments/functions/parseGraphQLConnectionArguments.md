@@ -18,15 +18,15 @@ This function handles validating and transforming arguments of a base graphQL co
 
 ### \_\_namedParameters
 
-#### __namedParameters.args
+#### args
 
 [`DefaultGraphQLConnectionArguments`](../../type-aliases/DefaultGraphQLConnectionArguments.md)
 
-#### __namedParameters.maximumLimit
+#### maximumLimit
 
 `number` = `MAXIMUM_FETCH_LIMIT`
 
-#### __namedParameters.parseCursor
+#### parseCursor
 
 [`ParseGraphQLConnectionCursor`](../type-aliases/ParseGraphQLConnectionCursor.md)\<`T0`\>
 

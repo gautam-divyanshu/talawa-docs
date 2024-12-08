@@ -31,9 +31,13 @@ The error message (default is "Invalid File Type").
 
 ##### code
 
+Optional error code (default is null).
+
 `null` | `string`
 
 ##### param
+
+Optional parameter associated with the error (default is null).
 
 `null` | `string`
 

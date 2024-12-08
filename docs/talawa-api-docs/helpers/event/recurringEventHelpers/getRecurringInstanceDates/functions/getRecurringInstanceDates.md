@@ -26,6 +26,8 @@ The starting date from which to generate instances.
 
 ### recurrenceEndDate
 
+The end date of the event.
+
 `null` | `Date`
 
 ### queryUptoDate

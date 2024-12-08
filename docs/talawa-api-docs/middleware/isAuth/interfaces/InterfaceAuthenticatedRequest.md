@@ -1197,6 +1197,8 @@ Translate the given phrase using locale configuration
 
 ###### phraseOrOptions
 
+The phrase to translate or options for translation
+
 `string` | `TranslateOptions`
 
 ###### replace
@@ -1226,6 +1228,8 @@ Translate the given phrase using locale configuration
 ##### Parameters
 
 ###### phraseOrOptions
+
+The phrase to translate or options for translation
 
 `string` | `TranslateOptions`
 
@@ -1323,6 +1327,8 @@ Translate the given phrase using locale configuration and MessageFormat
 
 ###### phraseOrOptions
 
+The phrase to translate or options for translation
+
 `string` | `TranslateOptions`
 
 ###### replace
@@ -1352,6 +1358,8 @@ Translate the given phrase using locale configuration and MessageFormat
 ##### Parameters
 
 ###### phraseOrOptions
+
+The phrase to translate or options for translation
 
 `string` | `TranslateOptions`
 
@@ -1469,6 +1477,8 @@ The plural phrase to translate if count is \> 1
 
 ###### count
 
+The number which allow to select from plural to singular
+
 `string` | `number`
 
 ##### Returns
@@ -1500,6 +1510,8 @@ Translate with plural condition the given phrase and count using locale configur
 The phrase to translate or a flattened key path in locale json file
 
 ###### count
+
+The number which allow to select from plural to singular
 
 `string` | `number`
 
@@ -2418,7 +2430,7 @@ node\_modules/@types/node/stream.d.ts:549
 
 ##### options?
 
-###### options.signal
+###### signal
 
 `AbortSignal`
 
@@ -3341,7 +3353,7 @@ or if the iterator should destroy the stream if the stream emitted an error duri
 
 ##### options?
 
-###### options.destroyOnReturn
+###### destroyOnReturn
 
 `boolean`
 
@@ -3382,6 +3394,8 @@ in the list of the listeners of the event.
 #### Parameters
 
 ##### eventName
+
+The name of the event being listened for
 
 `string` | `symbol`
 
@@ -4115,7 +4129,7 @@ node\_modules/@types/node/stream.d.ts:259
 
 ##### options?
 
-###### options.end
+###### end
 
 `boolean`
 

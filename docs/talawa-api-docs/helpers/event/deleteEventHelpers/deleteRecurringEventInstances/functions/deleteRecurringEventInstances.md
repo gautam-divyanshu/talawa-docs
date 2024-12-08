@@ -14,6 +14,10 @@ Deletes all instances or thisAndFollowingInstances of a recurring event.
 
 ### event
 
+The event instance to be deleted:
+  - For thisAndFollowingInstances, represents the starting instance.
+  - For allInstances, should be null.
+
 `null` | [`InterfaceEvent`](../../../../../models/Event/interfaces/InterfaceEvent.md)
 
 ### recurrenceRule

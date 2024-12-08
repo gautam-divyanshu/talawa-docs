@@ -15,6 +15,8 @@ Throws an UnauthorizedError if the user is neither an admin nor a super admin.
 
 ### userId
 
+The ID of the current user.
+
 `string` | `ObjectId`
 
 ### userFamily

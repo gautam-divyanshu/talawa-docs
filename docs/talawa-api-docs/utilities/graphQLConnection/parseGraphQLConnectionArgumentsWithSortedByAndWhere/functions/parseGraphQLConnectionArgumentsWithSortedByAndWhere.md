@@ -23,23 +23,23 @@ connection that also provides filtering and sorting capabilities.
 
 ### \_\_namedParameters
 
-#### __namedParameters.args
+#### args
 
 [`DefaultGraphQLConnectionArguments`](../../type-aliases/DefaultGraphQLConnectionArguments.md)
 
-#### __namedParameters.maximumLimit
+#### maximumLimit
 
 `number` = `MAXIMUM_FETCH_LIMIT`
 
-#### __namedParameters.parseCursor
+#### parseCursor
 
 [`ParseGraphQLConnectionCursor`](../../parseGraphQLConnectionArguments/type-aliases/ParseGraphQLConnectionCursor.md)\<`T0`\>
 
-#### __namedParameters.parseSortedByResult
+#### parseSortedByResult
 
 [`ParseGraphQLConnectionSortedByResult`](../../parseGraphQLConnectionArgumentsWithSortedBy/type-aliases/ParseGraphQLConnectionSortedByResult.md)\<`T2`\>
 
-#### __namedParameters.parseWhereResult
+#### parseWhereResult
 
 [`ParseGraphQLConnectionWhereResult`](../../parseGraphQLConnectionArgumentsWithWhere/type-aliases/ParseGraphQLConnectionWhereResult.md)\<`T1`\>
 

@@ -85,6 +85,14 @@ This interface defines the structure and types of data that an event volunteer d
 
 \> **hoursHistory**: `object`[]
 
+#### date
+
+\> **date**: `Date`
+
+#### hours
+
+\> **hours**: `number`
+
 #### Defined in
 
 [src/models/EventVolunteer.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/EventVolunteer.ts#L23)

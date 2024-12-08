@@ -1229,13 +1229,7 @@ in this document is modified.
 
 ###### options?
 
-`null`
-
-\{`ignoreAtomics`: `boolean`; \}
-
-###### options.ignoreAtomics
-
-`boolean`
+`null` | \{`ignoreAtomics`: `boolean`; \}
 
 ##### Returns
 
@@ -1264,13 +1258,7 @@ in this document is modified.
 
 ###### options?
 
-`null`
-
-\{`ignoreAtomics`: `boolean`; \}
-
-###### options.ignoreAtomics
-
-`boolean`
+`null` | \{`ignoreAtomics`: `boolean`; \}
 
 ##### Returns
 
@@ -1470,7 +1458,7 @@ Returns the list of paths that have been modified.
 
 ##### options?
 
-###### options.includeChildren
+###### includeChildren
 
 `boolean`
 
@@ -2058,7 +2046,7 @@ Executes registered validation rules for this document.
 
 ###### options
 
-###### options.pathsToSkip
+###### pathsToSkip
 
 `pathsToSkip`
 
@@ -2088,7 +2076,7 @@ Executes registered validation rules (skipping asynchronous validators) for this
 
 ###### options
 
-###### options.pathsToSkip
+###### pathsToSkip
 
 `pathsToSkip`
 

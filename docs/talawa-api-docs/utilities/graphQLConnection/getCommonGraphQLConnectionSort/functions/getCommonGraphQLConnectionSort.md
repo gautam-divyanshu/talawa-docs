@@ -14,7 +14,7 @@ This function is used to get an object containing common mongoose sorting logic.
 
 ### \_\_namedParameters
 
-#### __namedParameters.direction
+#### direction
 
 [`GraphQLConnectionTraversalDirection`](../../type-aliases/GraphQLConnectionTraversalDirection.md)
 

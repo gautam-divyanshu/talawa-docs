@@ -14,6 +14,8 @@ Creates instances of recurring events up to a specified date during queries.
 
 ### organizationId
 
+The ID of the organization to which the events belong.
+
 `undefined` | `null` | `string`
 
 ## Returns

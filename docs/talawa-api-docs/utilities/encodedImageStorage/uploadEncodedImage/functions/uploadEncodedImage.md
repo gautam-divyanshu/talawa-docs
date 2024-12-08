@@ -20,6 +20,8 @@ The URL or content of the encoded image to upload.
 
 ### previousImagePath?
 
+Optional. The path of the previous image to delete before uploading the new one.
+
 `null` | `string`
 
 ## Returns

@@ -14,6 +14,8 @@ Checks if a user or organization is attempting to re-upload the same image.
 
 ### oldImagePath
 
+Path of the current image (could be a string, URL request object, or buffer object).
+
 `null` | [`TypeImagePath`](../type-aliases/TypeImagePath.md)
 
 ### newImagePath

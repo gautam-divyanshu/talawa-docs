@@ -15,6 +15,8 @@ If the user is an admin, the function completes successfully. Otherwise, it thro
 
 ### userId
 
+The ID of the current user. It can be a string or a Types.ObjectId.
+
 `string` | `ObjectId`
 
 ### organization

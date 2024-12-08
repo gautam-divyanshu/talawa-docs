@@ -20,6 +20,8 @@ The URL or content of the encoded video to upload.
 
 ### previousVideoPath?
 
+Optional. The path of the previous video to delete before uploading the new one.
+
 `null` | `string`
 
 ## Returns

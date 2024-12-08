@@ -26,6 +26,8 @@ The start date of recurrence.
 
 ### recurrenceEndDate
 
+The end date of recurrence, if specified.
+
 `null` | `Date`
 
 ### organizationId

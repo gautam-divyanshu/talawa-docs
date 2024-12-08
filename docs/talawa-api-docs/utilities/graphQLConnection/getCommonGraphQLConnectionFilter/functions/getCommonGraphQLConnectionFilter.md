@@ -14,11 +14,11 @@ This function is used to get an object containing common mongoose filtering logi
 
 ### \_\_namedParameters
 
-#### __namedParameters.cursor
+#### cursor
 
 `null` \| `string`
 
-#### __namedParameters.direction
+#### direction
 
 [`GraphQLConnectionTraversalDirection`](../../type-aliases/GraphQLConnectionTraversalDirection.md)
 

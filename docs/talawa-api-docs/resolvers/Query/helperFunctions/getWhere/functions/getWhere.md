@@ -22,6 +22,8 @@ used to return an object of a generic type `FilterQuery\<T\>`
 
 ### where
 
+an object that contains properties that can be used to filter out documents.
+
 `undefined` | [`InputMaybe`](../../../../../types/generatedGraphQLTypes/type-aliases/InputMaybe.md)\<`Partial`\<[`EventWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/EventWhereInput.md) & [`EventVolunteerGroupWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/EventVolunteerGroupWhereInput.md) & [`OrganizationWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/OrganizationWhereInput.md) & [`PostWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/PostWhereInput.md) & [`UserWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/UserWhereInput.md) & [`DonationWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/DonationWhereInput.md) & [`ActionItemWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/ActionItemWhereInput.md) & [`ActionItemCategoryWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/ActionItemCategoryWhereInput.md) & [`CampaignWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/CampaignWhereInput.md) & [`FundWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/FundWhereInput.md) & [`PledgeWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/PledgeWhereInput.md) & [`VenueWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/VenueWhereInput.md) & [`EventVolunteerWhereInput`](../../../../../types/generatedGraphQLTypes/type-aliases/EventVolunteerWhereInput.md)\>\>
 
 ## Returns

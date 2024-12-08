@@ -14,9 +14,13 @@ This function checks whether the baseRecurringEvent should be updated.
 
 ### recurrenceRuleEndDate
 
+the end date of the recurrence rule.
+
 `undefined` | `null` | `string`
 
 ### baseRecurringEventEndDate
+
+the end date of the base recurring event.
 
 `undefined` | `null` | `string`
 

@@ -14,9 +14,13 @@ Validates the start and end dates.
 
 ### startDate
 
+The starting date.
+
 `undefined` | `Date`
 
 ### endDate
+
+The ending date.
 
 `undefined` | `Date`
 

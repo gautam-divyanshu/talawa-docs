@@ -21,19 +21,19 @@ also provides sorting capabilities.
 
 ### \_\_namedParameters
 
-#### __namedParameters.args
+#### args
 
 [`DefaultGraphQLConnectionArguments`](../../type-aliases/DefaultGraphQLConnectionArguments.md)
 
-#### __namedParameters.maximumLimit
+#### maximumLimit
 
 `number` = `MAXIMUM_FETCH_LIMIT`
 
-#### __namedParameters.parseCursor
+#### parseCursor
 
 [`ParseGraphQLConnectionCursor`](../../parseGraphQLConnectionArguments/type-aliases/ParseGraphQLConnectionCursor.md)\<`T0`\>
 
-#### __namedParameters.parseSortedByResult
+#### parseSortedByResult
 
 [`ParseGraphQLConnectionSortedByResult`](../type-aliases/ParseGraphQLConnectionSortedByResult.md)\<`T1`\>
 

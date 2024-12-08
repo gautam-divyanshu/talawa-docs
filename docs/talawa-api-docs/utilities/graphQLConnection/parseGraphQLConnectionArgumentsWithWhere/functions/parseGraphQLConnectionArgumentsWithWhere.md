@@ -21,19 +21,19 @@ that also provides filtering capabilities.
 
 ### \_\_namedParameters
 
-#### __namedParameters.args
+#### args
 
 [`DefaultGraphQLConnectionArguments`](../../type-aliases/DefaultGraphQLConnectionArguments.md)
 
-#### __namedParameters.maximumLimit
+#### maximumLimit
 
 `number` = `MAXIMUM_FETCH_LIMIT`
 
-#### __namedParameters.parseCursor
+#### parseCursor
 
 [`ParseGraphQLConnectionCursor`](../../parseGraphQLConnectionArguments/type-aliases/ParseGraphQLConnectionCursor.md)\<`T0`\>
 
-#### __namedParameters.parseWhereResult
+#### parseWhereResult
 
 [`ParseGraphQLConnectionWhereResult`](../type-aliases/ParseGraphQLConnectionWhereResult.md)\<`T1`\>
 

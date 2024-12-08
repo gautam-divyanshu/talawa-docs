@@ -16,6 +16,8 @@ If the image does not exist, it saves the image hash in the database.
 
 ### oldImagePath
 
+Path of the old image that might be replaced.
+
 `null` | `string`
 
 ### newImagePath

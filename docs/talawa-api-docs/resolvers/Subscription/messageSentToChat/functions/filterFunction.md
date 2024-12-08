@@ -12,17 +12,17 @@
 
 ### payload
 
-#### payload.messageSentToChat
+#### messageSentToChat
 
-`object`
+\{`chatMessageBelongsTo`: `string`; \}
 
-#### payload.messageSentToChat.chatMessageBelongsTo
+#### messageSentToChat.chatMessageBelongsTo
 
 `string`
 
 ### variables
 
-#### variables.userId
+#### userId
 
 `string`
 
