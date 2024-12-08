@@ -33,4 +33,4 @@ The JSX element for the user profile card.
 
 ## Defined in
 
-[src/components/UserProfileSettings/UserProfile.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/components/UserProfileSettings/UserProfile.tsx#L38)
+[src/components/UserProfileSettings/UserProfile.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/components/UserProfileSettings/UserProfile.tsx#L38)

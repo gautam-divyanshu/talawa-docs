@@ -37,4 +37,4 @@ The rendered component.
 
 ## Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/UserPortal/Donate/Donate.tsx#L65)
+[src/screens/UserPortal/Donate/Donate.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/UserPortal/Donate/Donate.tsx#L65)

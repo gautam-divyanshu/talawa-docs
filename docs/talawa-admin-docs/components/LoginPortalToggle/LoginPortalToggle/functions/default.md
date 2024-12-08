@@ -24,4 +24,4 @@ JSX element for login portal toggle.
 
 ## Defined in
 
-[src/components/LoginPortalToggle/LoginPortalToggle.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/components/LoginPortalToggle/LoginPortalToggle.tsx#L18)
+[src/components/LoginPortalToggle/LoginPortalToggle.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/components/LoginPortalToggle/LoginPortalToggle.tsx#L18)

@@ -26,4 +26,4 @@
 
 ## Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L42)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L42)

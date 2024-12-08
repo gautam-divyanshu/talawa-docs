@@ -16,7 +16,7 @@ Props for the `ItemDeleteModal` component.
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L16)
+[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L16)
 
 ***
 
@@ -30,7 +30,7 @@ Props for the `ItemDeleteModal` component.
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L17)
+[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L17)
 
 ***
 
@@ -44,7 +44,7 @@ Props for the `ItemDeleteModal` component.
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L15)
+[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L15)
 
 ***
 
@@ -54,4 +54,4 @@ Props for the `ItemDeleteModal` component.
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L14)
+[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L14)

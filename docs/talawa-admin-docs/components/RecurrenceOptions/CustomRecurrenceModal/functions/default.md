@@ -36,4 +36,4 @@ The JSX element representing the CustomRecurrenceModal.
 
 ## Defined in
 
-[src/components/RecurrenceOptions/CustomRecurrenceModal.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/components/RecurrenceOptions/CustomRecurrenceModal.tsx#L54)
+[src/components/RecurrenceOptions/CustomRecurrenceModal.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/components/RecurrenceOptions/CustomRecurrenceModal.tsx#L54)

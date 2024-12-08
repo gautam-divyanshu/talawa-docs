@@ -46,4 +46,4 @@ Success or error messages are displayed using toast notifications based on the r
 
 ## Defined in
 
-[src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L71)
+[src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L71)

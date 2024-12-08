@@ -26,4 +26,4 @@ The rendered component.
 
 ## Defined in
 
-[src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/f9e10b8fb1fe524b91de30d7dafa20ceb7bc037b/src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx#L33)
+[src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx#L33)
