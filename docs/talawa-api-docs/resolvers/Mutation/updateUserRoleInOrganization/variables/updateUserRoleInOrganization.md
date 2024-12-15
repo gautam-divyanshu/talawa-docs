@@ -29,4 +29,4 @@ Only SUPERADMIN & ADMIN of a organization can update the role of a user in an or
 
 ## Defined in
 
-[src/resolvers/Mutation/updateUserRoleInOrganization.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/resolvers/Mutation/updateUserRoleInOrganization.ts#L24)
+[src/resolvers/Mutation/updateUserRoleInOrganization.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Mutation/updateUserRoleInOrganization.ts#L24)

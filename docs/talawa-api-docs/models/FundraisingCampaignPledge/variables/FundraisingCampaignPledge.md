@@ -6,7 +6,7 @@
 
 # Variable: FundraisingCampaignPledge
 
-\> `const` **FundraisingCampaignPledge**: `Model`\<[`InterfaceFundraisingCampaignPledges`](../interfaces/InterfaceFundraisingCampaignPledges.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceFundraisingCampaignPledges`](../interfaces/InterfaceFundraisingCampaignPledges.md)\> & [`InterfaceFundraisingCampaignPledges`](../interfaces/InterfaceFundraisingCampaignPledges.md) & `Required`\<`object`\>, `any`\>
+\> `const` **FundraisingCampaignPledge**: `Model`\<[`InterfaceFundraisingCampaignPledges`](../interfaces/InterfaceFundraisingCampaignPledges.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceFundraisingCampaignPledges`](../interfaces/InterfaceFundraisingCampaignPledges.md)\> & [`InterfaceFundraisingCampaignPledges`](../interfaces/InterfaceFundraisingCampaignPledges.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 The Mongoose model for the FundraisingCampaignPledge.
 If the model already exists (e.g., during testing), it uses the existing model.
@@ -14,4 +14,4 @@ Otherwise, it creates a new model.
 
 ## Defined in
 
-[src/models/FundraisingCampaignPledge.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/FundraisingCampaignPledge.ts#L88)
+[src/models/FundraisingCampaignPledge.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/FundraisingCampaignPledge.ts#L88)

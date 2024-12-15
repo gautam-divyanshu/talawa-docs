@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[src/libraries/dbLogger.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/libraries/dbLogger.ts#L22)
+[src/libraries/dbLogger.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/libraries/dbLogger.ts#L22)

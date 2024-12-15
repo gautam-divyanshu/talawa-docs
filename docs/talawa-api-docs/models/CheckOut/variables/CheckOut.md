@@ -6,8 +6,8 @@
 
 # Variable: CheckOut
 
-\> `const` **CheckOut**: `Model`\<[`InterfaceCheckOut`](../interfaces/InterfaceCheckOut.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceCheckOut`](../interfaces/InterfaceCheckOut.md)\> & [`InterfaceCheckOut`](../interfaces/InterfaceCheckOut.md) & `Required`\<`object`\>, `any`\>
+\> `const` **CheckOut**: `Model`\<[`InterfaceCheckOut`](../interfaces/InterfaceCheckOut.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceCheckOut`](../interfaces/InterfaceCheckOut.md)\> & [`InterfaceCheckOut`](../interfaces/InterfaceCheckOut.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 ## Defined in
 
-[src/models/CheckOut.ts:66](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/CheckOut.ts#L66)
+[src/models/CheckOut.ts:66](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/CheckOut.ts#L66)

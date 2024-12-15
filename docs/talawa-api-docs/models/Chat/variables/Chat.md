@@ -6,8 +6,8 @@
 
 # Variable: Chat
 
-\> `const` **Chat**: `Model`\<[`InterfaceChat`](../interfaces/InterfaceChat.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceChat`](../interfaces/InterfaceChat.md)\> & [`InterfaceChat`](../interfaces/InterfaceChat.md) & `Required`\<`object`\>, `any`\>
+\> `const` **Chat**: `Model`\<[`InterfaceChat`](../interfaces/InterfaceChat.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceChat`](../interfaces/InterfaceChat.md)\> & [`InterfaceChat`](../interfaces/InterfaceChat.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 ## Defined in
 
-[src/models/Chat.ts:118](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/Chat.ts#L118)
+[src/models/Chat.ts:118](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/Chat.ts#L118)

@@ -31,4 +31,4 @@ A promise that resolves to `true` if the organization is a sample organization, 
 
 ## Defined in
 
-[src/resolvers/Query/organizationIsSample.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/resolvers/Query/organizationIsSample.ts#L21)
+[src/resolvers/Query/organizationIsSample.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Query/organizationIsSample.ts#L21)

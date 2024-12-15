@@ -6,7 +6,7 @@
 
 # Variable: RecurrenceRule
 
-\> `const` **RecurrenceRule**: `Model`\<[`InterfaceRecurrenceRule`](../interfaces/InterfaceRecurrenceRule.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceRecurrenceRule`](../interfaces/InterfaceRecurrenceRule.md)\> & [`InterfaceRecurrenceRule`](../interfaces/InterfaceRecurrenceRule.md) & `Required`\<`object`\>, `any`\>
+\> `const` **RecurrenceRule**: `Model`\<[`InterfaceRecurrenceRule`](../interfaces/InterfaceRecurrenceRule.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceRecurrenceRule`](../interfaces/InterfaceRecurrenceRule.md)\> & [`InterfaceRecurrenceRule`](../interfaces/InterfaceRecurrenceRule.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 The Mongoose model for the Recurrence Rule.
 If the model already exists (e.g., during testing), it uses the existing model.
@@ -14,4 +14,4 @@ Otherwise, it creates a new model.
 
 ## Defined in
 
-[src/models/RecurrenceRule.ts:124](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/RecurrenceRule.ts#L124)
+[src/models/RecurrenceRule.ts:124](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/RecurrenceRule.ts#L124)

@@ -6,26 +6,8 @@
 
 # Variable: ACTION\_ITEM\_CATEGORY\_NOT\_FOUND\_ERROR
 
-\> `const` **ACTION\_ITEM\_CATEGORY\_NOT\_FOUND\_ERROR**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"actionItemCategory.notFound"` = `"actionItemCategory.notFound"`
-
-### DESC
-
-\> **DESC**: `"ActionItemCategory not found"` = `"ActionItemCategory not found"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"actionItemCategory.notFound"` = `"actionItemCategory.notFound"`
-
-### PARAM
-
-\> **PARAM**: `"actionItemCategory"` = `"actionItemCategory"`
+\> `const` **ACTION\_ITEM\_CATEGORY\_NOT\_FOUND\_ERROR**: `Readonly`\<\{ `CODE`: `"actionItemCategory.notFound"`; `DESC`: `"ActionItemCategory not found"`; `MESSAGE`: `"actionItemCategory.notFound"`; `PARAM`: `"actionItemCategory"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L18)
+[src/constants.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L18)

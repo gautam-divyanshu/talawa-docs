@@ -58,4 +58,4 @@ console.log(result);
 
 ## Defined in
 
-[src/REST/services/minio/index.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/REST/services/minio/index.ts#L43)
+[src/REST/services/minio/index.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/REST/services/minio/index.ts#L43)

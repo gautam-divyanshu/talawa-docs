@@ -12,4 +12,4 @@ GraphQL schema definition for directives.
 
 ## Defined in
 
-[src/typeDefs/directives.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/typeDefs/directives.ts#L9)
+[src/typeDefs/directives.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/typeDefs/directives.ts#L9)

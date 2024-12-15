@@ -42,4 +42,4 @@ app.get("/file/:key*", getFile);
 
 ## Defined in
 
-[src/REST/controllers/query/getFile.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/REST/controllers/query/getFile.ts#L23)
+[src/REST/controllers/query/getFile.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/REST/controllers/query/getFile.ts#L23)

@@ -6,26 +6,8 @@
 
 # Variable: USER\_ALREADY\_MEMBER\_ERROR
 
-\> `const` **USER\_ALREADY\_MEMBER\_ERROR**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"user.alreadyMember"` = `"user.alreadyMember"`
-
-### DESC
-
-\> **DESC**: `"User is already a member"` = `"User is already a member"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"user.alreadyMember"` = `"user.alreadyMember"`
-
-### PARAM
-
-\> **PARAM**: `"user"` = `"user"`
+\> `const` **USER\_ALREADY\_MEMBER\_ERROR**: `Readonly`\<\{ `CODE`: `"user.alreadyMember"`; `DESC`: `"User is already a member"`; `MESSAGE`: `"user.alreadyMember"`; `PARAM`: `"user"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:518](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L518)
+[src/constants.ts:518](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L518)

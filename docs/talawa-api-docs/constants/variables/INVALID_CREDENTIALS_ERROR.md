@@ -6,26 +6,8 @@
 
 # Variable: INVALID\_CREDENTIALS\_ERROR
 
-\> `const` **INVALID\_CREDENTIALS\_ERROR**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"invalid.credentials"` = `"invalid.credentials"`
-
-### DESC
-
-\> **DESC**: `"Invalid credentials"` = `"Invalid credentials"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"invalid.credentials"` = `"invalid.credentials"`
-
-### PARAM
-
-\> **PARAM**: `"credentials"` = `"credentials"`
+\> `const` **INVALID\_CREDENTIALS\_ERROR**: `Readonly`\<\{ `CODE`: `"invalid.credentials"`; `DESC`: `"Invalid credentials"`; `MESSAGE`: `"invalid.credentials"`; `PARAM`: `"credentials"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:623](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L623)
+[src/constants.ts:623](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L623)

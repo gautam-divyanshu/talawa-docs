@@ -27,4 +27,4 @@ A promise that resolves to an array of comment documents found in the database. 
 
 ## Defined in
 
-[src/resolvers/Post/comments.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/resolvers/Post/comments.ts#L18)
+[src/resolvers/Post/comments.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Post/comments.ts#L18)

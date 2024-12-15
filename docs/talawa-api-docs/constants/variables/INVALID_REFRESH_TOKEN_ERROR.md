@@ -6,26 +6,8 @@
 
 # Variable: INVALID\_REFRESH\_TOKEN\_ERROR
 
-\> `const` **INVALID\_REFRESH\_TOKEN\_ERROR**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"invalid.refreshToken"` = `"invalid.refreshToken"`
-
-### DESC
-
-\> **DESC**: `"Invalid refreshToken"` = `"Invalid refreshToken"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"invalid.refreshToken"` = `"invalid.refreshToken"`
-
-### PARAM
-
-\> **PARAM**: `"refreshToken"` = `"refreshToken"`
+\> `const` **INVALID\_REFRESH\_TOKEN\_ERROR**: `Readonly`\<\{ `CODE`: `"invalid.refreshToken"`; `DESC`: `"Invalid refreshToken"`; `MESSAGE`: `"invalid.refreshToken"`; `PARAM`: `"refreshToken"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:629](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L629)
+[src/constants.ts:629](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L629)

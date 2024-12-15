@@ -6,26 +6,8 @@
 
 # Variable: TRANSLATION\_ALREADY\_PRESENT\_ERROR
 
-\> `const` **TRANSLATION\_ALREADY\_PRESENT\_ERROR**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"translation.alreadyPresent"` = `"translation.alreadyPresent"`
-
-### DESC
-
-\> **DESC**: `"Translation Already Present"` = `"Translation Already Present"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"translation.alreadyPresent"` = `"translation.alreadyPresent"`
-
-### PARAM
-
-\> **PARAM**: `"translationAlreadyPresent"` = `"translationAlreadyPresent"`
+\> `const` **TRANSLATION\_ALREADY\_PRESENT\_ERROR**: `Readonly`\<\{ `CODE`: `"translation.alreadyPresent"`; `DESC`: `"Translation Already Present"`; `MESSAGE`: `"translation.alreadyPresent"`; `PARAM`: `"translationAlreadyPresent"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:617](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L617)
+[src/constants.ts:617](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L617)

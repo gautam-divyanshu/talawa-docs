@@ -498,7 +498,7 @@ Mapping between all available schema types and the resolvers types
 
 ### Mutation
 
-\> **Mutation**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<`object`\>
+\> **Mutation**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<\{\}\>
 
 ### Note
 
@@ -622,7 +622,7 @@ Mapping between all available schema types and the resolvers types
 
 ### Query
 
-\> **Query**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<`object`\>
+\> **Query**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<\{\}\>
 
 ### RecaptchaVerification
 
@@ -662,7 +662,7 @@ Mapping between all available schema types and the resolvers types
 
 ### Subscription
 
-\> **Subscription**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<`object`\>
+\> **Subscription**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<\{\}\>
 
 ### TagActionsInput
 
@@ -930,4 +930,4 @@ Mapping between all available schema types and the resolvers types
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3442](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/types/generatedGraphQLTypes.ts#L3442)
+[src/types/generatedGraphQLTypes.ts:3442](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/types/generatedGraphQLTypes.ts#L3442)

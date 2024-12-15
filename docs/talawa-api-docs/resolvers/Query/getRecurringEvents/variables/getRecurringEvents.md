@@ -22,4 +22,4 @@ An array of `Event` objects that are instances of the base recurring event.
 
 ## Defined in
 
-[src/resolvers/Query/getRecurringEvents.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/resolvers/Query/getRecurringEvents.ts#L11)
+[src/resolvers/Query/getRecurringEvents.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Query/getRecurringEvents.ts#L11)

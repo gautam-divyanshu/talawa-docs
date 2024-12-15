@@ -6,22 +6,8 @@
 
 # Variable: USER\_REMOVING\_SELF
 
-\> `const` **USER\_REMOVING\_SELF**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"user.selfRemove"` = `"user.selfRemove"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"Error: Current user cannot remove self, instead you can use leave Org function"` = `"Error: Current user cannot remove self, instead you can use leave Org function"`
-
-### PARAM
-
-\> **PARAM**: `"userSelfRemove"` = `"userSelfRemove"`
+\> `const` **USER\_REMOVING\_SELF**: `Readonly`\<\{ `CODE`: `"user.selfRemove"`; `MESSAGE`: `"Error: Current user cannot remove self, instead you can use leave Org function"`; `PARAM`: `"userSelfRemove"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:389](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L389)
+[src/constants.ts:389](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L389)

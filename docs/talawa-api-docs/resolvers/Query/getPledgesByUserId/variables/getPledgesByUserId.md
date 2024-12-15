@@ -22,4 +22,4 @@ An array of `fundraisingCampaignPledge` object.
 
 ## Defined in
 
-[src/resolvers/Query/getPledgesByUserId.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/resolvers/Query/getPledgesByUserId.ts#L15)
+[src/resolvers/Query/getPledgesByUserId.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Query/getPledgesByUserId.ts#L15)

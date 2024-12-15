@@ -6,26 +6,8 @@
 
 # Variable: EVENT\_VOLUNTEER\_MEMBERSHIP\_NOT\_FOUND\_ERROR
 
-\> `const` **EVENT\_VOLUNTEER\_MEMBERSHIP\_NOT\_FOUND\_ERROR**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"volunteerMembership.notFound"` = `"volunteerMembership.notFound"`
-
-### DESC
-
-\> **DESC**: `"Volunteer membership not found"` = `"Volunteer membership not found"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"volunteerMembership.notFound"` = `"volunteerMembership.notFound"`
-
-### PARAM
-
-\> **PARAM**: `"volunteerMemberships"` = `"volunteerMemberships"`
+\> `const` **EVENT\_VOLUNTEER\_MEMBERSHIP\_NOT\_FOUND\_ERROR**: `Readonly`\<\{ `CODE`: `"volunteerMembership.notFound"`; `DESC`: `"Volunteer membership not found"`; `MESSAGE`: `"volunteerMembership.notFound"`; `PARAM`: `"volunteerMemberships"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:671](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L671)
+[src/constants.ts:671](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L671)

@@ -84,4 +84,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2277](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/types/generatedGraphQLTypes.ts#L2277)
+[src/types/generatedGraphQLTypes.ts:2277](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/types/generatedGraphQLTypes.ts#L2277)

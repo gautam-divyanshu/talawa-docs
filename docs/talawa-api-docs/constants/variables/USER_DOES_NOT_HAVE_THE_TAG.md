@@ -6,22 +6,8 @@
 
 # Variable: USER\_DOES\_NOT\_HAVE\_THE\_TAG
 
-\> `const` **USER\_DOES\_NOT\_HAVE\_THE\_TAG**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"user.doesNotHaveTag"` = `"user.doesNotHaveTag"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"The user does not have the tag that is being requested to be removed."` = `"The user does not have the tag that is being requested to be removed."`
-
-### PARAM
-
-\> **PARAM**: `"user.doesNotHaveTag"` = `"user.doesNotHaveTag"`
+\> `const` **USER\_DOES\_NOT\_HAVE\_THE\_TAG**: `Readonly`\<\{ `CODE`: `"user.doesNotHaveTag"`; `MESSAGE`: `"The user does not have the tag that is being requested to be removed."`; `PARAM`: `"user.doesNotHaveTag"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:493](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L493)
+[src/constants.ts:493](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L493)

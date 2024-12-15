@@ -6,8 +6,8 @@
 
 # Variable: MembershipRequest
 
-\> `const` **MembershipRequest**: `Model`\<[`InterfaceMembershipRequest`](../interfaces/InterfaceMembershipRequest.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceMembershipRequest`](../interfaces/InterfaceMembershipRequest.md)\> & [`InterfaceMembershipRequest`](../interfaces/InterfaceMembershipRequest.md) & `Required`\<`object`\>, `any`\>
+\> `const` **MembershipRequest**: `Model`\<[`InterfaceMembershipRequest`](../interfaces/InterfaceMembershipRequest.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceMembershipRequest`](../interfaces/InterfaceMembershipRequest.md)\> & [`InterfaceMembershipRequest`](../interfaces/InterfaceMembershipRequest.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 ## Defined in
 
-[src/models/MembershipRequest.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/MembershipRequest.ts#L54)
+[src/models/MembershipRequest.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/MembershipRequest.ts#L54)

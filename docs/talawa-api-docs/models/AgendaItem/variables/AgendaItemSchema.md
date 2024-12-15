@@ -6,7 +6,7 @@
 
 # Variable: AgendaItemSchema
 
-\> `const` **AgendaItemSchema**: `Schema`\<`any`, `Model`\<`any`, `any`, `any`, `any`, `any`, `any`\>, `object`, `object`, `object`, `object`, `DefaultSchemaOptions`, `object`, `Document`\<`unknown`, `object`, `FlatRecord`\<`object`\>\> & `FlatRecord`\<`object`\> & `object`\>
+\> `const` **AgendaItemSchema**: `Schema`\<`any`, `Model`\<`any`, `any`, `any`, `any`, `any`, `any`\>, \{\}, \{\}, \{\}, \{\}, `DefaultSchemaOptions`, \{ `attachments`: `string`[]; `categories`: `ObjectId`[]; `createdAt`: `null` \| `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `null` \| `string`; `duration`: `string`; `itemType`: `null` \| [`Regular`](../enumerations/ItemType.md#regular) \| [`Note`](../enumerations/ItemType.md#note); `notes`: `ObjectId`[]; `organizationId`: `null` \| `ObjectId`; `relatedEventId`: `null` \| `ObjectId`; `sequence`: `null` \| `number`; `title`: `string`; `updatedAt`: `null` \| `Date`; `updatedBy`: `null` \| `ObjectId`; `urls`: `string`[]; `users`: `ObjectId`[]; \}, `Document`\<`unknown`, \{\}, `FlatRecord`\<\{ `attachments`: `string`[]; `categories`: `ObjectId`[]; `createdAt`: `null` \| `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `null` \| `string`; `duration`: `string`; `itemType`: `null` \| [`Regular`](../enumerations/ItemType.md#regular) \| [`Note`](../enumerations/ItemType.md#note); `notes`: `ObjectId`[]; `organizationId`: `null` \| `ObjectId`; `relatedEventId`: `null` \| `ObjectId`; `sequence`: `null` \| `number`; `title`: `string`; `updatedAt`: `null` \| `Date`; `updatedBy`: `null` \| `ObjectId`; `urls`: `string`[]; `users`: `ObjectId`[]; \}\>\> & `FlatRecord`\<\{ `attachments`: `string`[]; `categories`: `ObjectId`[]; `createdAt`: `null` \| `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `null` \| `string`; `duration`: `string`; `itemType`: `null` \| [`Regular`](../enumerations/ItemType.md#regular) \| [`Note`](../enumerations/ItemType.md#note); `notes`: `ObjectId`[]; `organizationId`: `null` \| `ObjectId`; `relatedEventId`: `null` \| `ObjectId`; `sequence`: `null` \| `number`; `title`: `string`; `updatedAt`: `null` \| `Date`; `updatedBy`: `null` \| `ObjectId`; `urls`: `string`[]; `users`: `ObjectId`[]; \}\> & `object`\>
 
 Mongoose schema definition for an agenda item document.
 
@@ -76,4 +76,4 @@ Array of notes associated with the agenda item.
 
 ## Defined in
 
-[src/models/AgendaItem.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/AgendaItem.ts#L59)
+[src/models/AgendaItem.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/AgendaItem.ts#L59)

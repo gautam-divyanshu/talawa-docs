@@ -6,22 +6,8 @@
 
 # Variable: ADMIN\_CHANGING\_ROLE\_OF\_CREATOR
 
-\> `const` **ADMIN\_CHANGING\_ROLE\_OF\_CREATOR**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"admin.changeRoleOfCreator"` = `"admin.changeRoleOfCreator"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"Error: Current admin cannot change the role of the creator of the Org"` = `"Error: Current admin cannot change the role of the creator of the Org"`
-
-### PARAM
-
-\> **PARAM**: `"admin.changeRoleOfCreator"` = `"admin.changeRoleOfCreator"`
+\> `const` **ADMIN\_CHANGING\_ROLE\_OF\_CREATOR**: `Readonly`\<\{ `CODE`: `"admin.changeRoleOfCreator"`; `MESSAGE`: `"Error: Current admin cannot change the role of the creator of the Org"`; `PARAM`: `"admin.changeRoleOfCreator"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:408](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L408)
+[src/constants.ts:408](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L408)

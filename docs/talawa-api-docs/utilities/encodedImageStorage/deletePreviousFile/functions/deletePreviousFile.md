@@ -33,4 +33,4 @@ A promise that resolves when the file is either deleted or its reference count i
 
 ## Defined in
 
-[src/utilities/encodedImageStorage/deletePreviousFile.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/utilities/encodedImageStorage/deletePreviousFile.ts#L13)
+[src/utilities/encodedImageStorage/deletePreviousFile.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/utilities/encodedImageStorage/deletePreviousFile.ts#L13)

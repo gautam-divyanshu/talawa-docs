@@ -6,26 +6,8 @@
 
 # Variable: RECURRENCE\_RULE\_NOT\_FOUND
 
-\> `const` **RECURRENCE\_RULE\_NOT\_FOUND**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"recurrenceRule.notFound"` = `"recurrenceRule.notFound"`
-
-### DESC
-
-\> **DESC**: `"Recurrence Rule not found"` = `"Recurrence Rule not found"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"recurrenceRule.notFound"` = `"recurrenceRule.notFound"`
-
-### PARAM
-
-\> **PARAM**: `"recurrenceRule"` = `"recurrenceRule"`
+\> `const` **RECURRENCE\_RULE\_NOT\_FOUND**: `Readonly`\<\{ `CODE`: `"recurrenceRule.notFound"`; `DESC`: `"Recurrence Rule not found"`; `MESSAGE`: `"recurrenceRule.notFound"`; `PARAM`: `"recurrenceRule"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:215](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L215)
+[src/constants.ts:215](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L215)

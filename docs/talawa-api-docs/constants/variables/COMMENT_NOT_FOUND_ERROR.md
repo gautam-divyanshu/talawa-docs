@@ -6,26 +6,8 @@
 
 # Variable: COMMENT\_NOT\_FOUND\_ERROR
 
-\> `const` **COMMENT\_NOT\_FOUND\_ERROR**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"comment.notFound"` = `"comment.notFound"`
-
-### DESC
-
-\> **DESC**: `"Comment not found"` = `"Comment not found"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"comment.notFound"` = `"comment.notFound"`
-
-### PARAM
-
-\> **PARAM**: `"comment"` = `"comment"`
+\> `const` **COMMENT\_NOT\_FOUND\_ERROR**: `Readonly`\<\{ `CODE`: `"comment.notFound"`; `DESC`: `"Comment not found"`; `MESSAGE`: `"comment.notFound"`; `PARAM`: `"comment"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:95](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L95)
+[src/constants.ts:95](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L95)

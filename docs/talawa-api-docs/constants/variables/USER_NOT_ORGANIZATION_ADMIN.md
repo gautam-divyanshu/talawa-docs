@@ -6,22 +6,8 @@
 
 # Variable: USER\_NOT\_ORGANIZATION\_ADMIN
 
-\> `const` **USER\_NOT\_ORGANIZATION\_ADMIN**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"role.notValid.admin"` = `"role.notValid.admin"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"Error: User must be an ADMIN"` = `"Error: User must be an ADMIN"`
-
-### PARAM
-
-\> **PARAM**: `"roleValidationAdmin"` = `"roleValidationAdmin"`
+\> `const` **USER\_NOT\_ORGANIZATION\_ADMIN**: `Readonly`\<\{ `CODE`: `"role.notValid.admin"`; `MESSAGE`: `"Error: User must be an ADMIN"`; `PARAM`: `"roleValidationAdmin"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:377](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L377)
+[src/constants.ts:377](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L377)

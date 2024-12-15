@@ -6,8 +6,8 @@
 
 # Variable: ActionItemCategory
 
-\> `const` **ActionItemCategory**: `Model`\<[`InterfaceActionItemCategory`](../interfaces/InterfaceActionItemCategory.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceActionItemCategory`](../interfaces/InterfaceActionItemCategory.md)\> & [`InterfaceActionItemCategory`](../interfaces/InterfaceActionItemCategory.md) & `Required`\<`object`\>, `any`\>
+\> `const` **ActionItemCategory**: `Model`\<[`InterfaceActionItemCategory`](../interfaces/InterfaceActionItemCategory.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceActionItemCategory`](../interfaces/InterfaceActionItemCategory.md)\> & [`InterfaceActionItemCategory`](../interfaces/InterfaceActionItemCategory.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 ## Defined in
 
-[src/models/ActionItemCategory.ts:69](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/ActionItemCategory.ts#L69)
+[src/models/ActionItemCategory.ts:69](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/ActionItemCategory.ts#L69)

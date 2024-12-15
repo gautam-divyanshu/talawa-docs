@@ -6,26 +6,8 @@
 
 # Variable: AGENDA\_SECTION\_NOT\_FOUND\_ERROR
 
-\> `const` **AGENDA\_SECTION\_NOT\_FOUND\_ERROR**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"agendaSection.notFound"` = `"agendaSection.notFound"`
-
-### DESC
-
-\> **DESC**: `"Agenda section not found"` = `"Agenda section not found"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"agendaSection.notFound"` = `"agendaSection.notFound"`
-
-### PARAM
-
-\> **PARAM**: `"agendaSection"` = `"agendaSection"`
+\> `const` **AGENDA\_SECTION\_NOT\_FOUND\_ERROR**: `Readonly`\<\{ `CODE`: `"agendaSection.notFound"`; `DESC`: `"Agenda section not found"`; `MESSAGE`: `"agendaSection.notFound"`; `PARAM`: `"agendaSection"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:563](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L563)
+[src/constants.ts:563](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L563)

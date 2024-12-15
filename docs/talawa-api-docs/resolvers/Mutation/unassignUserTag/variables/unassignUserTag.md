@@ -43,4 +43,4 @@ The user from whom the tag was unassigned.
 
 ## Defined in
 
-[src/resolvers/Mutation/unassignUserTag.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/resolvers/Mutation/unassignUserTag.ts#L47)
+[src/resolvers/Mutation/unassignUserTag.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Mutation/unassignUserTag.ts#L47)

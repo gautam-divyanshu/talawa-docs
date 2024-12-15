@@ -6,7 +6,7 @@
 
 # Function: uploadImage()
 
-\> **uploadImage**(`newImageFile`, `oldImagePath`): `Promise`\<`object`\>
+\> **uploadImage**(`newImageFile`, `oldImagePath`): `Promise`\<\{ `imageAlreadyInDbPath`: `string`; `newImagePath`: `string`; \}\>
 
 ## Parameters
 
@@ -20,16 +20,8 @@
 
 ## Returns
 
-`Promise`\<`object`\>
-
-### imageAlreadyInDbPath
-
-\> **imageAlreadyInDbPath**: `string`
-
-### newImagePath
-
-\> **newImagePath**: `string`
+`Promise`\<\{ `imageAlreadyInDbPath`: `string`; `newImagePath`: `string`; \}\>
 
 ## Defined in
 
-[src/utilities/uploadImage.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/utilities/uploadImage.ts#L22)
+[src/utilities/uploadImage.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/utilities/uploadImage.ts#L22)

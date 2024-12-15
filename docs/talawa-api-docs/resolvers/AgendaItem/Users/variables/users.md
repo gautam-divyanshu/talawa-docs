@@ -27,4 +27,4 @@ A promise that resolves to the user documents found in the database. These docum
 
 ## Defined in
 
-[src/resolvers/AgendaItem/Users.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/resolvers/AgendaItem/Users.ts#L16)
+[src/resolvers/AgendaItem/Users.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/AgendaItem/Users.ts#L16)

@@ -33,4 +33,4 @@ An object containing the parsed cursor value or an array of errors if the cursor
 
 ## Defined in
 
-[src/resolvers/User/tagsAssignedWith.ts:131](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/resolvers/User/tagsAssignedWith.ts#L131)
+[src/resolvers/User/tagsAssignedWith.ts:131](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/User/tagsAssignedWith.ts#L131)

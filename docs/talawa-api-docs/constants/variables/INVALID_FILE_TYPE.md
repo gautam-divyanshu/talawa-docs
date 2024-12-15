@@ -6,22 +6,8 @@
 
 # Variable: INVALID\_FILE\_TYPE
 
-\> `const` **INVALID\_FILE\_TYPE**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"internalServerError"` = `"internalServerError"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"invalid.fileType"` = `"invalid.fileType"`
-
-### PARAM
-
-\> **PARAM**: `"internalServerError"` = `"internalServerError"`
+\> `const` **INVALID\_FILE\_TYPE**: `Readonly`\<\{ `CODE`: `"internalServerError"`; `MESSAGE`: `"invalid.fileType"`; `PARAM`: `"internalServerError"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:261](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L261)
+[src/constants.ts:261](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L261)

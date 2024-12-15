@@ -6,8 +6,8 @@
 
 # Variable: NoteModel
 
-\> `const` **NoteModel**: `Model`\<[`InterfaceNote`](../interfaces/InterfaceNote.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceNote`](../interfaces/InterfaceNote.md)\> & [`InterfaceNote`](../interfaces/InterfaceNote.md) & `Required`\<`object`\>, `any`\>
+\> `const` **NoteModel**: `Model`\<[`InterfaceNote`](../interfaces/InterfaceNote.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceNote`](../interfaces/InterfaceNote.md)\> & [`InterfaceNote`](../interfaces/InterfaceNote.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 ## Defined in
 
-[src/models/Note.ts:64](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/Note.ts#L64)
+[src/models/Note.ts:64](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/Note.ts#L64)

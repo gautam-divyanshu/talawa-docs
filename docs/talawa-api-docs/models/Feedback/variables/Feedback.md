@@ -6,11 +6,11 @@
 
 # Variable: Feedback
 
-\> `const` **Feedback**: `Model`\<[`InterfaceFeedback`](../interfaces/InterfaceFeedback.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceFeedback`](../interfaces/InterfaceFeedback.md)\> & [`InterfaceFeedback`](../interfaces/InterfaceFeedback.md) & `Required`\<`object`\>, `any`\>
+\> `const` **Feedback**: `Model`\<[`InterfaceFeedback`](../interfaces/InterfaceFeedback.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceFeedback`](../interfaces/InterfaceFeedback.md)\> & [`InterfaceFeedback`](../interfaces/InterfaceFeedback.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 Export the Feedback model.
 This syntax ensures we don't get an OverwriteModelError while running tests.
 
 ## Defined in
 
-[src/models/Feedback.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/Feedback.ts#L73)
+[src/models/Feedback.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/Feedback.ts#L73)

@@ -32,4 +32,4 @@ true if the recurrence rule is the latest rule that the instances were following
 
 ## Defined in
 
-[src/helpers/event/updateEventHelpers/shouldUpdateBaseRecurringEvent.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/helpers/event/updateEventHelpers/shouldUpdateBaseRecurringEvent.ts#L8)
+[src/helpers/event/updateEventHelpers/shouldUpdateBaseRecurringEvent.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/helpers/event/updateEventHelpers/shouldUpdateBaseRecurringEvent.ts#L8)

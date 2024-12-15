@@ -6,11 +6,11 @@
 
 # Variable: Fund
 
-\> `const` **Fund**: `Model`\<[`InterfaceFund`](../interfaces/InterfaceFund.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceFund`](../interfaces/InterfaceFund.md)\> & [`InterfaceFund`](../interfaces/InterfaceFund.md) & `Required`\<`object`\>, `any`\>
+\> `const` **Fund**: `Model`\<[`InterfaceFund`](../interfaces/InterfaceFund.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceFund`](../interfaces/InterfaceFund.md)\> & [`InterfaceFund`](../interfaces/InterfaceFund.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 Export the Fund model.
 This syntax ensures we don't get an OverwriteModelError while running tests.
 
 ## Defined in
 
-[src/models/Fund.ts:94](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/Fund.ts#L94)
+[src/models/Fund.ts:94](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/Fund.ts#L94)

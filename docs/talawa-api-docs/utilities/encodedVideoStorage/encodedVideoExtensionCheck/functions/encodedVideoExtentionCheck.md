@@ -26,4 +26,4 @@ The base64 encoded URL of the video.
 
 ## Defined in
 
-[src/utilities/encodedVideoStorage/encodedVideoExtensionCheck.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/utilities/encodedVideoStorage/encodedVideoExtensionCheck.ts#L6)
+[src/utilities/encodedVideoStorage/encodedVideoExtensionCheck.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/utilities/encodedVideoStorage/encodedVideoExtensionCheck.ts#L6)

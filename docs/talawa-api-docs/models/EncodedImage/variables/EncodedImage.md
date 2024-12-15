@@ -6,8 +6,8 @@
 
 # Variable: EncodedImage
 
-\> `const` **EncodedImage**: `Model`\<[`InterfaceEncodedImage`](../interfaces/InterfaceEncodedImage.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceEncodedImage`](../interfaces/InterfaceEncodedImage.md)\> & [`InterfaceEncodedImage`](../interfaces/InterfaceEncodedImage.md) & `Required`\<`object`\>, `any`\>
+\> `const` **EncodedImage**: `Model`\<[`InterfaceEncodedImage`](../interfaces/InterfaceEncodedImage.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceEncodedImage`](../interfaces/InterfaceEncodedImage.md)\> & [`InterfaceEncodedImage`](../interfaces/InterfaceEncodedImage.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 ## Defined in
 
-[src/models/EncodedImage.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/EncodedImage.ts#L44)
+[src/models/EncodedImage.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/EncodedImage.ts#L44)

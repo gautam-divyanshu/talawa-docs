@@ -6,8 +6,8 @@
 
 # Variable: AgendaSectionModel
 
-\> `const` **AgendaSectionModel**: `Model`\<[`InterfaceAgendaSection`](../interfaces/InterfaceAgendaSection.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceAgendaSection`](../interfaces/InterfaceAgendaSection.md)\> & [`InterfaceAgendaSection`](../interfaces/InterfaceAgendaSection.md) & `Required`\<`object`\>, `any`\>
+\> `const` **AgendaSectionModel**: `Model`\<[`InterfaceAgendaSection`](../interfaces/InterfaceAgendaSection.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceAgendaSection`](../interfaces/InterfaceAgendaSection.md)\> & [`InterfaceAgendaSection`](../interfaces/InterfaceAgendaSection.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 ## Defined in
 
-[src/models/AgendaSection.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/AgendaSection.ts#L73)
+[src/models/AgendaSection.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/AgendaSection.ts#L73)

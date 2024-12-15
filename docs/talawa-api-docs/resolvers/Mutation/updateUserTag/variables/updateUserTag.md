@@ -30,4 +30,4 @@ The updated tag with its new name.
 
 ## Defined in
 
-[src/resolvers/Mutation/updateUserTag.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/resolvers/Mutation/updateUserTag.ts#L29)
+[src/resolvers/Mutation/updateUserTag.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Mutation/updateUserTag.ts#L29)

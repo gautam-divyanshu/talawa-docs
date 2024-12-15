@@ -126,13 +126,13 @@ Information about the transaction log (optional)
 
 #### Defined in
 
-[src/libraries/dbLogger.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/libraries/dbLogger.ts#L55)
+[src/libraries/dbLogger.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/libraries/dbLogger.ts#L55)
 
 ***
 
 ### model
 
-\> **model**: `Model`\<`any`, `object`, `object`, `object`, `any`, `any`\>
+\> **model**: `Model`\<`any`, \{\}, \{\}, \{\}, `any`, `any`\>
 
 The model this query was created from
 
@@ -215,7 +215,7 @@ node\_modules/mongoose/types/query.d.ts:216
 
 ### $where()
 
-\> **$where**(`argument`): `Query`\<`T`[], `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+\> **$where**(`argument`): `Query`\<`T`[], `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 #### Parameters
 
@@ -225,7 +225,7 @@ node\_modules/mongoose/types/query.d.ts:216
 
 #### Returns
 
-`Query`\<`T`[], `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<`T`[], `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -439,7 +439,7 @@ Casts this query to the schema of `model`.
 
 the model to cast to. If not set, defaults to `this.model`
 
-`null` | `Model`\<`any`, `object`, `object`, `object`, `any`, `any`\>
+`null` | `Model`\<`any`, \{\}, \{\}, \{\}, `any`, `any`\>
 
 ##### obj?
 
@@ -593,7 +593,7 @@ node\_modules/mongoose/types/query.d.ts:282
 
 ### countDocuments()
 
-\> **countDocuments**(`criteria`?, `options`?): `Query`\<`number`, `T`, `object`, `T`, `"countDocuments"`, `Record`\<`string`, `never`\>\>
+\> **countDocuments**(`criteria`?, `options`?): `Query`\<`number`, `T`, \{\}, `T`, `"countDocuments"`, `Record`\<`string`, `never`\>\>
 
 Specifies this query as a `countDocuments` query.
 
@@ -609,7 +609,7 @@ Specifies this query as a `countDocuments` query.
 
 #### Returns
 
-`Query`\<`number`, `T`, `object`, `T`, `"countDocuments"`, `Record`\<`string`, `never`\>\>
+`Query`\<`number`, `T`, \{\}, `T`, `"countDocuments"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -652,7 +652,7 @@ node\_modules/mongoose/types/query.d.ts:294
 
 #### Call Signature
 
-\> **deleteMany**(`filter`?, `options`?): `Query`\<`any`, `T`, `object`, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
+\> **deleteMany**(`filter`?, `options`?): `Query`\<`any`, `T`, \{\}, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
 
 Declare and/or execute this query as a `deleteMany()` operation. Works like
 remove, except it deletes _every_ document that matches `filter` in the
@@ -670,7 +670,7 @@ collection, regardless of the value of `single`.
 
 ##### Returns
 
-`Query`\<`any`, `T`, `object`, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
+`Query`\<`any`, `T`, \{\}, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -682,7 +682,7 @@ node\_modules/mongoose/types/query.d.ts:301
 
 #### Call Signature
 
-\> **deleteMany**(`filter`): `Query`\<`any`, `T`, `object`, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
+\> **deleteMany**(`filter`): `Query`\<`any`, `T`, \{\}, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
 
 Declare and/or execute this query as a `deleteMany()` operation. Works like
 remove, except it deletes _every_ document that matches `filter` in the
@@ -696,7 +696,7 @@ collection, regardless of the value of `single`.
 
 ##### Returns
 
-`Query`\<`any`, `T`, `object`, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
+`Query`\<`any`, `T`, \{\}, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -708,7 +708,7 @@ node\_modules/mongoose/types/query.d.ts:305
 
 #### Call Signature
 
-\> **deleteMany**(): `Query`\<`any`, `T`, `object`, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
+\> **deleteMany**(): `Query`\<`any`, `T`, \{\}, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
 
 Declare and/or execute this query as a `deleteMany()` operation. Works like
 remove, except it deletes _every_ document that matches `filter` in the
@@ -716,7 +716,7 @@ collection, regardless of the value of `single`.
 
 ##### Returns
 
-`Query`\<`any`, `T`, `object`, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
+`Query`\<`any`, `T`, \{\}, `T`, `"deleteMany"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -732,7 +732,7 @@ node\_modules/mongoose/types/query.d.ts:312
 
 #### Call Signature
 
-\> **deleteOne**(`filter`?, `options`?): `Query`\<`any`, `T`, `object`, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
+\> **deleteOne**(`filter`?, `options`?): `Query`\<`any`, `T`, \{\}, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
 
 Declare and/or execute this query as a `deleteOne()` operation. Works like
 remove, except it deletes at most one document regardless of the `single`
@@ -750,7 +750,7 @@ option.
 
 ##### Returns
 
-`Query`\<`any`, `T`, `object`, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`any`, `T`, \{\}, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -762,7 +762,7 @@ node\_modules/mongoose/types/query.d.ts:319
 
 #### Call Signature
 
-\> **deleteOne**(`filter`): `Query`\<`any`, `T`, `object`, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
+\> **deleteOne**(`filter`): `Query`\<`any`, `T`, \{\}, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
 
 Declare and/or execute this query as a `deleteOne()` operation. Works like
 remove, except it deletes at most one document regardless of the `single`
@@ -776,7 +776,7 @@ option.
 
 ##### Returns
 
-`Query`\<`any`, `T`, `object`, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`any`, `T`, \{\}, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -788,7 +788,7 @@ node\_modules/mongoose/types/query.d.ts:323
 
 #### Call Signature
 
-\> **deleteOne**(): `Query`\<`any`, `T`, `object`, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
+\> **deleteOne**(): `Query`\<`any`, `T`, \{\}, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
 
 Declare and/or execute this query as a `deleteOne()` operation. Works like
 remove, except it deletes at most one document regardless of the `single`
@@ -796,7 +796,7 @@ option.
 
 ##### Returns
 
-`Query`\<`any`, `T`, `object`, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`any`, `T`, \{\}, `T`, `"deleteOne"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -810,7 +810,7 @@ node\_modules/mongoose/types/query.d.ts:330
 
 ### distinct()
 
-\> **distinct**\<`DocKey`, `ResultType`\>(`field`, `filter`?): `Query`\<`DocKey` *extends* keyof `T` ? `Unpacked`\<`T`\[`DocKey`\<`DocKey`\>\]\> : `ResultType`[], `T`, `object`, `T`, `"distinct"`, `Record`\<`string`, `never`\>\>
+\> **distinct**\<`DocKey`, `ResultType`\>(`field`, `filter`?): `Query`\<`DocKey` *extends* keyof `T` ? `Unpacked`\<`T`\[`DocKey`\<`DocKey`\>\]\> : `ResultType`[], `T`, \{\}, `T`, `"distinct"`, `Record`\<`string`, `never`\>\>
 
 Creates a `distinct` query: returns the distinct values of the given `field` that match `filter`.
 
@@ -832,7 +832,7 @@ Creates a `distinct` query: returns the distinct values of the given `field` tha
 
 #### Returns
 
-`Query`\<`DocKey` *extends* keyof `T` ? `Unpacked`\<`T`\[`DocKey`\<`DocKey`\>\]\> : `ResultType`[], `T`, `object`, `T`, `"distinct"`, `Record`\<`string`, `never`\>\>
+`Query`\<`DocKey` *extends* keyof `T` ? `Unpacked`\<`T`\[`DocKey`\<`DocKey`\>\]\> : `ResultType`[], `T`, \{\}, `T`, `"distinct"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -980,7 +980,7 @@ node\_modules/mongoose/types/query.d.ts:347
 
 ### estimatedDocumentCount()
 
-\> **estimatedDocumentCount**(`options`?): `Query`\<`number`, `T`, `object`, `T`, `"estimatedDocumentCount"`, `Record`\<`string`, `never`\>\>
+\> **estimatedDocumentCount**(`options`?): `Query`\<`number`, `T`, \{\}, `T`, `"estimatedDocumentCount"`, `Record`\<`string`, `never`\>\>
 
 Creates a `estimatedDocumentCount` query: counts the number of documents in the collection.
 
@@ -992,7 +992,7 @@ Creates a `estimatedDocumentCount` query: counts the number of documents in the 
 
 #### Returns
 
-`Query`\<`number`, `T`, `object`, `T`, `"estimatedDocumentCount"`, `Record`\<`string`, `never`\>\>
+`Query`\<`number`, `T`, \{\}, `T`, `"estimatedDocumentCount"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -1117,7 +1117,7 @@ node\_modules/mongoose/types/query.d.ts:371
 
 #### Call Signature
 
-\> **find**(`filter`, `projection`?, `options`?): `Query`\<`T`[], `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+\> **find**(`filter`, `projection`?, `options`?): `Query`\<`T`[], `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 Creates a `find` query: gets a list of documents that match `filter`.
 
@@ -1137,7 +1137,7 @@ Creates a `find` query: gets a list of documents that match `filter`.
 
 ##### Returns
 
-`Query`\<`T`[], `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<`T`[], `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1149,7 +1149,7 @@ node\_modules/mongoose/types/query.d.ts:374
 
 #### Call Signature
 
-\> **find**(`filter`, `projection`?): `Query`\<`T`[], `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+\> **find**(`filter`, `projection`?): `Query`\<`T`[], `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 Creates a `find` query: gets a list of documents that match `filter`.
 
@@ -1165,7 +1165,7 @@ Creates a `find` query: gets a list of documents that match `filter`.
 
 ##### Returns
 
-`Query`\<`T`[], `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<`T`[], `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1177,7 +1177,7 @@ node\_modules/mongoose/types/query.d.ts:379
 
 #### Call Signature
 
-\> **find**(`filter`): `Query`\<`T`[], `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+\> **find**(`filter`): `Query`\<`T`[], `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 Creates a `find` query: gets a list of documents that match `filter`.
 
@@ -1189,7 +1189,7 @@ Creates a `find` query: gets a list of documents that match `filter`.
 
 ##### Returns
 
-`Query`\<`T`[], `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<`T`[], `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1201,13 +1201,13 @@ node\_modules/mongoose/types/query.d.ts:383
 
 #### Call Signature
 
-\> **find**(): `Query`\<`T`[], `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+\> **find**(): `Query`\<`T`[], `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 Creates a `find` query: gets a list of documents that match `filter`.
 
 ##### Returns
 
-`Query`\<`T`[], `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<`T`[], `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1223,7 +1223,7 @@ node\_modules/mongoose/types/query.d.ts:386
 
 #### Call Signature
 
-\> **findById**(`id`, `projection`?, `options`?): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+\> **findById**(`id`, `projection`?, `options`?): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 Declares the query a findById operation. When executed, returns the document with the given `_id`.
 
@@ -1243,7 +1243,7 @@ Declares the query a findById operation. When executed, returns the document wit
 
 ##### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1255,7 +1255,7 @@ node\_modules/mongoose/types/query.d.ts:426
 
 #### Call Signature
 
-\> **findById**(`id`, `projection`?): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+\> **findById**(`id`, `projection`?): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 Declares the query a findById operation. When executed, returns the document with the given `_id`.
 
@@ -1271,7 +1271,7 @@ Declares the query a findById operation. When executed, returns the document wit
 
 ##### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1283,7 +1283,7 @@ node\_modules/mongoose/types/query.d.ts:431
 
 #### Call Signature
 
-\> **findById**(`id`): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+\> **findById**(`id`): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 Declares the query a findById operation. When executed, returns the document with the given `_id`.
 
@@ -1295,7 +1295,7 @@ Declares the query a findById operation. When executed, returns the document wit
 
 ##### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1311,7 +1311,7 @@ node\_modules/mongoose/types/query.d.ts:435
 
 #### Call Signature
 
-\> **findByIdAndDelete**(`id`, `options`): `Query`\<`ModifyResult`\<`T`\>, `T`, `object`, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
+\> **findByIdAndDelete**(`id`, `options`): `Query`\<`ModifyResult`\<`T`\>, `T`, \{\}, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
 
 Creates a `findByIdAndDelete` query, filtering by the given `_id`.
 
@@ -1327,7 +1327,7 @@ Creates a `findByIdAndDelete` query, filtering by the given `_id`.
 
 ##### Returns
 
-`Query`\<`ModifyResult`\<`T`\>, `T`, `object`, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
+`Query`\<`ModifyResult`\<`T`\>, `T`, \{\}, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1339,7 +1339,7 @@ node\_modules/mongoose/types/query.d.ts:440
 
 #### Call Signature
 
-\> **findByIdAndDelete**(`id`?, `options`?): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
+\> **findByIdAndDelete**(`id`?, `options`?): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
 
 Creates a `findByIdAndDelete` query, filtering by the given `_id`.
 
@@ -1355,7 +1355,7 @@ Creates a `findByIdAndDelete` query, filtering by the given `_id`.
 
 ##### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1371,7 +1371,7 @@ node\_modules/mongoose/types/query.d.ts:444
 
 #### Call Signature
 
-\> **findByIdAndUpdate**(`id`, `update`, `options`): `Query`\<`any`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+\> **findByIdAndUpdate**(`id`, `update`, `options`): `Query`\<`any`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
@@ -1391,7 +1391,7 @@ Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
 ##### Returns
 
-`Query`\<`any`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+`Query`\<`any`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1403,7 +1403,7 @@ node\_modules/mongoose/types/query.d.ts:450
 
 #### Call Signature
 
-\> **findByIdAndUpdate**(`id`, `update`, `options`): `Query`\<`T`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+\> **findByIdAndUpdate**(`id`, `update`, `options`): `Query`\<`T`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
@@ -1423,7 +1423,7 @@ Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
 ##### Returns
 
-`Query`\<`T`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+`Query`\<`T`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1435,7 +1435,7 @@ node\_modules/mongoose/types/query.d.ts:455
 
 #### Call Signature
 
-\> **findByIdAndUpdate**(`id`?, `update`?, `options`?): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+\> **findByIdAndUpdate**(`id`?, `update`?, `options`?): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
@@ -1455,7 +1455,7 @@ Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
 ##### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1467,7 +1467,7 @@ node\_modules/mongoose/types/query.d.ts:460
 
 #### Call Signature
 
-\> **findByIdAndUpdate**(`id`, `update`): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+\> **findByIdAndUpdate**(`id`, `update`): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
@@ -1483,7 +1483,7 @@ Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
 ##### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1499,7 +1499,7 @@ node\_modules/mongoose/types/query.d.ts:465
 
 #### Call Signature
 
-\> **findOne**(`filter`?, `projection`?, `options`?): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+\> **findOne**(`filter`?, `projection`?, `options`?): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 Declares the query a findOne operation. When executed, returns the first found document.
 
@@ -1519,7 +1519,7 @@ Declares the query a findOne operation. When executed, returns the first found d
 
 ##### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1531,7 +1531,7 @@ node\_modules/mongoose/types/query.d.ts:389
 
 #### Call Signature
 
-\> **findOne**(`filter`?, `projection`?): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+\> **findOne**(`filter`?, `projection`?): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 Declares the query a findOne operation. When executed, returns the first found document.
 
@@ -1547,7 +1547,7 @@ Declares the query a findOne operation. When executed, returns the first found d
 
 ##### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1559,7 +1559,7 @@ node\_modules/mongoose/types/query.d.ts:394
 
 #### Call Signature
 
-\> **findOne**(`filter`?): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+\> **findOne**(`filter`?): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 Declares the query a findOne operation. When executed, returns the first found document.
 
@@ -1571,7 +1571,7 @@ Declares the query a findOne operation. When executed, returns the first found d
 
 ##### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOne"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1585,7 +1585,7 @@ node\_modules/mongoose/types/query.d.ts:398
 
 ### findOneAndDelete()
 
-\> **findOneAndDelete**(`filter`?, `options`?): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
+\> **findOneAndDelete**(`filter`?, `options`?): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
 
 Creates a `findOneAndDelete` query: atomically finds the given document, deletes it, and returns the document as it was before deletion.
 
@@ -1601,7 +1601,7 @@ Creates a `findOneAndDelete` query: atomically finds the given document, deletes
 
 #### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOneAndDelete"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -1617,7 +1617,7 @@ node\_modules/mongoose/types/query.d.ts:403
 
 #### Call Signature
 
-\> **findOneAndUpdate**(`filter`, `update`, `options`): `Query`\<`ModifyResult`\<`T`\>, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+\> **findOneAndUpdate**(`filter`, `update`, `options`): `Query`\<`ModifyResult`\<`T`\>, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 Creates a `findOneAndUpdate` query: atomically find the first document that matches `filter` and apply `update`.
 
@@ -1637,7 +1637,7 @@ Creates a `findOneAndUpdate` query: atomically find the first document that matc
 
 ##### Returns
 
-`Query`\<`ModifyResult`\<`T`\>, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+`Query`\<`ModifyResult`\<`T`\>, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1649,7 +1649,7 @@ node\_modules/mongoose/types/query.d.ts:409
 
 #### Call Signature
 
-\> **findOneAndUpdate**(`filter`, `update`, `options`): `Query`\<`T`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+\> **findOneAndUpdate**(`filter`, `update`, `options`): `Query`\<`T`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 Creates a `findOneAndUpdate` query: atomically find the first document that matches `filter` and apply `update`.
 
@@ -1669,7 +1669,7 @@ Creates a `findOneAndUpdate` query: atomically find the first document that matc
 
 ##### Returns
 
-`Query`\<`T`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+`Query`\<`T`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -1681,7 +1681,7 @@ node\_modules/mongoose/types/query.d.ts:414
 
 #### Call Signature
 
-\> **findOneAndUpdate**(`filter`?, `update`?, `options`?): `Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+\> **findOneAndUpdate**(`filter`?, `update`?, `options`?): `Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 Creates a `findOneAndUpdate` query: atomically find the first document that matches `filter` and apply `update`.
 
@@ -1701,7 +1701,7 @@ Creates a `findOneAndUpdate` query: atomically find the first document that matc
 
 ##### Returns
 
-`Query`\<`null` \| `T`, `T`, `object`, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
+`Query`\<`null` \| `T`, `T`, \{\}, `T`, `"findOneAndUpdate"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -2133,7 +2133,7 @@ node\_modules/mongoose/types/query.d.ts:514
 
 ### lean()
 
-\> **lean**\<`LeanResultType`\>(`val`?): `Query`\<`LeanResultType`, `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+\> **lean**\<`LeanResultType`\>(`val`?): `Query`\<`LeanResultType`, `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 Sets the lean option.
 
@@ -2149,7 +2149,7 @@ Sets the lean option.
 
 #### Returns
 
-`Query`\<`LeanResultType`, `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<`LeanResultType`, `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -2401,7 +2401,7 @@ Merges another Query or conditions object into this one.
 
 ##### source
 
-`Query`\<`any`, `any`, `object`, `any`, `"find"`, `Record`\<`string`, `never`\>\> | `FilterQuery`\<`T`\>
+`Query`\<`any`, `any`, \{\}, `any`, `"find"`, `Record`\<`string`, `never`\>\> | `FilterQuery`\<`T`\>
 
 #### Returns
 
@@ -2738,7 +2738,7 @@ node\_modules/mongoose/types/query.d.ts:591
 
 ### orFail()
 
-\> **orFail**(`err`?): `Query`\<`object`, `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+\> **orFail**(`err`?): `Query`\<\{\}, `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 Make this query throw an error if no documents match the given `filter`.
 This is handy for integrating with async/await, because `orFail()` saves you
@@ -2752,7 +2752,7 @@ an extra `if` statement to check if no document was found.
 
 #### Returns
 
-`Query`\<`object`, `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<\{\}, `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -2908,7 +2908,7 @@ node\_modules/mongoose/types/query.d.ts:602
 
 #### Call Signature
 
-\> **populate**\<`Paths`\>(`path`, `select`?, `model`?, `match`?): `Query`\<keyof `Paths` *extends* `never` ? `unknown` : `Omit`\<`unknown`, keyof `Paths`\> & `Paths`, `T`, `object`, `UnpackedIntersection`\<`T`, `Paths`\>, `"find"`, `Record`\<`string`, `never`\>\>
+\> **populate**\<`Paths`\>(`path`, `select`?, `model`?, `match`?): `Query`\<keyof `Paths` *extends* `never` ? `unknown` : `Omit`\<`unknown`, keyof `Paths`\> & `Paths`, `T`, \{\}, `UnpackedIntersection`\<`T`, `Paths`\>, `"find"`, `Record`\<`string`, `never`\>\>
 
 Specifies paths which should be populated with other documents.
 
@@ -2928,7 +2928,7 @@ Specifies paths which should be populated with other documents.
 
 ###### model?
 
-`string` | `Model`\<`any`, `object`, `object`, `object`, `any`, `any`\>
+`string` | `Model`\<`any`, \{\}, \{\}, \{\}, `any`, `any`\>
 
 ###### match?
 
@@ -2936,7 +2936,7 @@ Specifies paths which should be populated with other documents.
 
 ##### Returns
 
-`Query`\<keyof `Paths` *extends* `never` ? `unknown` : `Omit`\<`unknown`, keyof `Paths`\> & `Paths`, `T`, `object`, `UnpackedIntersection`\<`T`, `Paths`\>, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<keyof `Paths` *extends* `never` ? `unknown` : `Omit`\<`unknown`, keyof `Paths`\> & `Paths`, `T`, \{\}, `UnpackedIntersection`\<`T`, `Paths`\>, `"find"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -2948,7 +2948,7 @@ node\_modules/mongoose/types/query.d.ts:605
 
 #### Call Signature
 
-\> **populate**\<`Paths`\>(`options`): `Query`\<keyof `Paths` *extends* `never` ? `unknown` : `Omit`\<`unknown`, keyof `Paths`\> & `Paths`, `T`, `object`, `UnpackedIntersection`\<`T`, `Paths`\>, `"find"`, `Record`\<`string`, `never`\>\>
+\> **populate**\<`Paths`\>(`options`): `Query`\<keyof `Paths` *extends* `never` ? `unknown` : `Omit`\<`unknown`, keyof `Paths`\> & `Paths`, `T`, \{\}, `UnpackedIntersection`\<`T`, `Paths`\>, `"find"`, `Record`\<`string`, `never`\>\>
 
 Specifies paths which should be populated with other documents.
 
@@ -2964,7 +2964,7 @@ Specifies paths which should be populated with other documents.
 
 ##### Returns
 
-`Query`\<keyof `Paths` *extends* `never` ? `unknown` : `Omit`\<`unknown`, keyof `Paths`\> & `Paths`, `T`, `object`, `UnpackedIntersection`\<`T`, `Paths`\>, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<keyof `Paths` *extends* `never` ? `unknown` : `Omit`\<`unknown`, keyof `Paths`\> & `Paths`, `T`, \{\}, `UnpackedIntersection`\<`T`, `Paths`\>, `"find"`, `Record`\<`string`, `never`\>\>
 
 ##### Inherited from
 
@@ -3216,7 +3216,7 @@ node\_modules/mongoose/types/query.d.ts:646
 
 ### replaceOne()
 
-\> **replaceOne**(`filter`?, `replacement`?, `options`?): `Query`\<`any`, `T`, `object`, `T`, `"replaceOne"`, `Record`\<`string`, `never`\>\>
+\> **replaceOne**(`filter`?, `replacement`?, `options`?): `Query`\<`any`, `T`, \{\}, `T`, `"replaceOne"`, `Record`\<`string`, `never`\>\>
 
 Declare and/or execute this query as a replaceOne() operation. Same as
 `update()`, except MongoDB will replace the existing document and will
@@ -3238,7 +3238,7 @@ not accept any [atomic](https://www.mongodb.com/docs/manual/tutorial/model-data-
 
 #### Returns
 
-`Query`\<`any`, `T`, `object`, `T`, `"replaceOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`any`, `T`, \{\}, `T`, `"replaceOne"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -3252,7 +3252,7 @@ node\_modules/mongoose/types/query.d.ts:653
 
 ### select()
 
-\> **select**\<`RawDocTypeOverride`\>(`arg`): `Query`\<`IfEquals`\<`RawDocTypeOverride`, `object`, `unknown`, `IfAny`\<`RawDocTypeOverride`, `any`, `Document`\<`unknown`, `object`, `RawDocTypeOverride`\> & `Require_id`\<`RawDocTypeOverride`\>\>\>, `T`, `object`, `IfEquals`\<`RawDocTypeOverride`, `object`, `T`, `RawDocTypeOverride`\>, `"find"`, `Record`\<`string`, `never`\>\>
+\> **select**\<`RawDocTypeOverride`\>(`arg`): `Query`\<`IfEquals`\<`RawDocTypeOverride`, \{\}, `unknown`, `IfAny`\<`RawDocTypeOverride`, `any`, `Document`\<`unknown`, \{\}, `RawDocTypeOverride`\> & `Require_id`\<`RawDocTypeOverride`\>\>\>, `T`, \{\}, `IfEquals`\<`RawDocTypeOverride`, \{\}, `T`, `RawDocTypeOverride`\>, `"find"`, `Record`\<`string`, `never`\>\>
 
 Specifies which document fields to include or exclude (also known as the query "projection")
 
@@ -3268,7 +3268,7 @@ Specifies which document fields to include or exclude (also known as the query "
 
 #### Returns
 
-`Query`\<`IfEquals`\<`RawDocTypeOverride`, `object`, `unknown`, `IfAny`\<`RawDocTypeOverride`, `any`, `Document`\<`unknown`, `object`, `RawDocTypeOverride`\> & `Require_id`\<`RawDocTypeOverride`\>\>\>, `T`, `object`, `IfEquals`\<`RawDocTypeOverride`, `object`, `T`, `RawDocTypeOverride`\>, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<`IfEquals`\<`RawDocTypeOverride`, \{\}, `unknown`, `IfAny`\<`RawDocTypeOverride`, `any`, `Document`\<`unknown`, \{\}, `RawDocTypeOverride`\> & `Require_id`\<`RawDocTypeOverride`\>\>\>, `T`, \{\}, `IfEquals`\<`RawDocTypeOverride`, \{\}, `T`, `RawDocTypeOverride`\>, `"find"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -3716,7 +3716,7 @@ node\_modules/mongoose/types/query.d.ts:747
 
 ### transform()
 
-\> **transform**\<`MappedType`\>(`fn`): `Query`\<`MappedType`, `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+\> **transform**\<`MappedType`\>(`fn`): `Query`\<`MappedType`, `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 Runs a function `fn` and treats the return value of `fn` as the new value
 for the query to resolve to.
@@ -3733,7 +3733,7 @@ for the query to resolve to.
 
 #### Returns
 
-`Query`\<`MappedType`, `T`, `object`, `T`, `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<`MappedType`, `T`, \{\}, `T`, `"find"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -3747,7 +3747,7 @@ node\_modules/mongoose/types/query.d.ts:546
 
 ### updateMany()
 
-\> **updateMany**(`filter`?, `update`?, `options`?): `Query`\<`UpdateWriteOpResult`, `T`, `object`, `T`, `"updateMany"`, `Record`\<`string`, `never`\>\>
+\> **updateMany**(`filter`?, `update`?, `options`?): `Query`\<`UpdateWriteOpResult`, `T`, \{\}, `T`, `"updateMany"`, `Record`\<`string`, `never`\>\>
 
 Declare and/or execute this query as an updateMany() operation. Same as
 `update()`, except MongoDB will update _all_ documents that match
@@ -3770,7 +3770,7 @@ the `multi` option.
 
 #### Returns
 
-`Query`\<`UpdateWriteOpResult`, `T`, `object`, `T`, `"updateMany"`, `Record`\<`string`, `never`\>\>
+`Query`\<`UpdateWriteOpResult`, `T`, \{\}, `T`, `"updateMany"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 
@@ -3784,7 +3784,7 @@ node\_modules/mongoose/types/query.d.ts:755
 
 ### updateOne()
 
-\> **updateOne**(`filter`?, `update`?, `options`?): `Query`\<`UpdateWriteOpResult`, `T`, `object`, `T`, `"updateOne"`, `Record`\<`string`, `never`\>\>
+\> **updateOne**(`filter`?, `update`?, `options`?): `Query`\<`UpdateWriteOpResult`, `T`, \{\}, `T`, `"updateOne"`, `Record`\<`string`, `never`\>\>
 
 Declare and/or execute this query as an updateOne() operation. Same as
 `update()`, except it does not support the `multi` or `overwrite` options.
@@ -3805,7 +3805,7 @@ Declare and/or execute this query as an updateOne() operation. Same as
 
 #### Returns
 
-`Query`\<`UpdateWriteOpResult`, `T`, `object`, `T`, `"updateOne"`, `Record`\<`string`, `never`\>\>
+`Query`\<`UpdateWriteOpResult`, `T`, \{\}, `T`, `"updateOne"`, `Record`\<`string`, `never`\>\>
 
 #### Inherited from
 

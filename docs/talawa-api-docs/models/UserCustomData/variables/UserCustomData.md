@@ -6,7 +6,7 @@
 
 # Variable: UserCustomData
 
-\> `const` **UserCustomData**: `Model`\<[`InterfaceUserCustomData`](../interfaces/InterfaceUserCustomData.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceUserCustomData`](../interfaces/InterfaceUserCustomData.md)\> & [`InterfaceUserCustomData`](../interfaces/InterfaceUserCustomData.md) & `Required`\<`object`\>, `any`\>
+\> `const` **UserCustomData**: `Model`\<[`InterfaceUserCustomData`](../interfaces/InterfaceUserCustomData.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceUserCustomData`](../interfaces/InterfaceUserCustomData.md)\> & [`InterfaceUserCustomData`](../interfaces/InterfaceUserCustomData.md) & `Required`\<\{ `_id`: `string`; \}\>, `any`\>
 
 The Mongoose model for User Custom Data.
 If the model already exists (e.g., during testing), it uses the existing model.
@@ -14,4 +14,4 @@ Otherwise, it creates a new model.
 
 ## Defined in
 
-[src/models/UserCustomData.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/UserCustomData.ts#L57)
+[src/models/UserCustomData.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/UserCustomData.ts#L57)

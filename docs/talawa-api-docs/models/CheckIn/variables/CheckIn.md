@@ -6,8 +6,8 @@
 
 # Variable: CheckIn
 
-\> `const` **CheckIn**: `Model`\<[`InterfaceCheckIn`](../interfaces/InterfaceCheckIn.md), `object`, `object`, `object`, `Document`\<`unknown`, `object`, [`InterfaceCheckIn`](../interfaces/InterfaceCheckIn.md)\> & [`InterfaceCheckIn`](../interfaces/InterfaceCheckIn.md) & `Required`\<`object`\>, `any`\>
+\> `const` **CheckIn**: `Model`\<[`InterfaceCheckIn`](../interfaces/InterfaceCheckIn.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceCheckIn`](../interfaces/InterfaceCheckIn.md)\> & [`InterfaceCheckIn`](../interfaces/InterfaceCheckIn.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
 
 ## Defined in
 
-[src/models/CheckIn.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/models/CheckIn.ts#L72)
+[src/models/CheckIn.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/CheckIn.ts#L72)

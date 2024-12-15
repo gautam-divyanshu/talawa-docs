@@ -31,4 +31,4 @@ return User.findOne(\{ _id: parent.updatedBy \}).lean();
 
 ## Defined in
 
-[src/resolvers/AgendaCategory/updatedBy.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/resolvers/AgendaCategory/updatedBy.ts#L19)
+[src/resolvers/AgendaCategory/updatedBy.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/AgendaCategory/updatedBy.ts#L19)

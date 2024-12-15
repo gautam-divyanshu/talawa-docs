@@ -24,4 +24,4 @@ The object containing translation functions.
 
 ## Defined in
 
-[src/libraries/requestContext.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/libraries/requestContext.ts#L34)
+[src/libraries/requestContext.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/libraries/requestContext.ts#L34)

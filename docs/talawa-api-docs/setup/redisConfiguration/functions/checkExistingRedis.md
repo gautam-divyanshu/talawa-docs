@@ -19,4 +19,4 @@ The function `checkExistingRedis` returns a Promise that resolves to a string or
 
 ## Defined in
 
-[src/setup/redisConfiguration.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/setup/redisConfiguration.ts#L71)
+[src/setup/redisConfiguration.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/setup/redisConfiguration.ts#L71)

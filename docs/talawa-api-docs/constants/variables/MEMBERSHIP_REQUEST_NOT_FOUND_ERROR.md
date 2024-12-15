@@ -6,26 +6,8 @@
 
 # Variable: MEMBERSHIP\_REQUEST\_NOT\_FOUND\_ERROR
 
-\> `const` **MEMBERSHIP\_REQUEST\_NOT\_FOUND\_ERROR**: `Readonly`\<`object`\>
-
-## Type declaration
-
-### CODE
-
-\> **CODE**: `"membershipRequest.notFound"` = `"membershipRequest.notFound"`
-
-### DESC
-
-\> **DESC**: `"Membership Request not found"` = `"Membership Request not found"`
-
-### MESSAGE
-
-\> **MESSAGE**: `"membershipRequest.notFound"` = `"membershipRequest.notFound"`
-
-### PARAM
-
-\> **PARAM**: `"membershipRequest"` = `"membershipRequest"`
+\> `const` **MEMBERSHIP\_REQUEST\_NOT\_FOUND\_ERROR**: `Readonly`\<\{ `CODE`: `"membershipRequest.notFound"`; `DESC`: `"Membership Request not found"`; `MESSAGE`: `"membershipRequest.notFound"`; `PARAM`: `"membershipRequest"`; \}\>
 
 ## Defined in
 
-[src/constants.ts:182](https://github.com/PalisadoesFoundation/talawa-api/blob/832d310bae30bd8cb45fb1b44f62dd776dccc52f/src/constants.ts#L182)
+[src/constants.ts:182](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L182)
