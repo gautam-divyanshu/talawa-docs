@@ -22,4 +22,4 @@ It uses the following queries and mutations:
 
 ## Defined in
 
-[src/screens/OrganizationPeople/AddMember.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/OrganizationPeople/AddMember.tsx#L61)
+[src/screens/OrganizationPeople/AddMember.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/OrganizationPeople/AddMember.tsx#L61)

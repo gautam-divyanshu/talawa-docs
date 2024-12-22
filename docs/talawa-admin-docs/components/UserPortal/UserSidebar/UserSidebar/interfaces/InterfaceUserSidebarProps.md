@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/components/UserPortal/UserSidebar/UserSidebar.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L12)
+[src/components/UserPortal/UserSidebar/UserSidebar.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L12)
 
 ***
 
@@ -24,4 +24,4 @@
 
 #### Defined in
 
-[src/components/UserPortal/UserSidebar/UserSidebar.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L13)
+[src/components/UserPortal/UserSidebar/UserSidebar.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L13)

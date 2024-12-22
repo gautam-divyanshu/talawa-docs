@@ -16,7 +16,7 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/ManageTag/EditUserTagModal.tsx#L11)
+[src/screens/ManageTag/EditUserTagModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/ManageTag/EditUserTagModal.tsx#L11)
 
 ***
 
@@ -34,7 +34,7 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/ManageTag/EditUserTagModal.tsx#L15)
+[src/screens/ManageTag/EditUserTagModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/ManageTag/EditUserTagModal.tsx#L15)
 
 ***
 
@@ -48,7 +48,7 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/ManageTag/EditUserTagModal.tsx#L12)
+[src/screens/ManageTag/EditUserTagModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/ManageTag/EditUserTagModal.tsx#L12)
 
 ***
 
@@ -58,7 +58,7 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/ManageTag/EditUserTagModal.tsx#L13)
+[src/screens/ManageTag/EditUserTagModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/ManageTag/EditUserTagModal.tsx#L13)
 
 ***
 
@@ -76,7 +76,7 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/ManageTag/EditUserTagModal.tsx#L14)
+[src/screens/ManageTag/EditUserTagModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/ManageTag/EditUserTagModal.tsx#L14)
 
 ***
 
@@ -86,7 +86,7 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/ManageTag/EditUserTagModal.tsx#L16)
+[src/screens/ManageTag/EditUserTagModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/ManageTag/EditUserTagModal.tsx#L16)
 
 ***
 
@@ -96,4 +96,4 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/ManageTag/EditUserTagModal.tsx#L17)
+[src/screens/ManageTag/EditUserTagModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/ManageTag/EditUserTagModal.tsx#L17)

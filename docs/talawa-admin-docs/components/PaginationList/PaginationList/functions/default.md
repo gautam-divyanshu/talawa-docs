@@ -21,4 +21,4 @@ It uses different pagination styles based on screen size.
 
 ## Defined in
 
-[src/components/PaginationList/PaginationList.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/components/PaginationList/PaginationList.tsx#L31)
+[src/components/PaginationList/PaginationList.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/components/PaginationList/PaginationList.tsx#L31)

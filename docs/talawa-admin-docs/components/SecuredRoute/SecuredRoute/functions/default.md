@@ -21,4 +21,4 @@ The JSX element representing the secured route.
 
 ## Defined in
 
-[src/components/SecuredRoute/SecuredRoute.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/components/SecuredRoute/SecuredRoute.tsx#L16)
+[src/components/SecuredRoute/SecuredRoute.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/components/SecuredRoute/SecuredRoute.tsx#L16)

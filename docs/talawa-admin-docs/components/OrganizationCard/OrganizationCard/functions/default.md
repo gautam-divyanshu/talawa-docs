@@ -24,4 +24,4 @@ JSX element representing the organization card.
 
 ## Defined in
 
-[src/components/OrganizationCard/OrganizationCard.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/components/OrganizationCard/OrganizationCard.tsx#L18)
+[src/components/OrganizationCard/OrganizationCard.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/components/OrganizationCard/OrganizationCard.tsx#L18)

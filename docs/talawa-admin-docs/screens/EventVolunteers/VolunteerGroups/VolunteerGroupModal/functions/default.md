@@ -49,4 +49,4 @@ Success or error messages are displayed using toast notifications based on the r
 
 ## Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/4bef0939e3fab4672bfd3599312195b8557e01a3/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L63)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L63)
