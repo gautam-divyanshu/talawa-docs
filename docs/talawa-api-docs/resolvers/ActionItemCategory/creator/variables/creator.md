@@ -27,4 +27,4 @@ A promise that resolves to the user document found in the database. This documen
 
 ## Defined in
 
-[src/resolvers/ActionItemCategory/creator.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/ActionItemCategory/creator.ts#L15)
+[src/resolvers/ActionItemCategory/creator.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/resolvers/ActionItemCategory/creator.ts#L15)

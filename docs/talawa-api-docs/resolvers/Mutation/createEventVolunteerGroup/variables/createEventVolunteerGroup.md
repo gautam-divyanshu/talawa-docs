@@ -49,4 +49,4 @@ This function first checks the cache for the current user and then queries the d
 
 ## Defined in
 
-[src/resolvers/Mutation/createEventVolunteerGroup.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Mutation/createEventVolunteerGroup.ts#L44)
+[src/resolvers/Mutation/createEventVolunteerGroup.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/resolvers/Mutation/createEventVolunteerGroup.ts#L44)

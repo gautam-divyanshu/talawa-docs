@@ -41,4 +41,4 @@ A promise that resolves to a connection object containing the advertisements of 
 
 ## Defined in
 
-[src/resolvers/Organization/advertisements.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Organization/advertisements.ts#L38)
+[src/resolvers/Organization/advertisements.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/resolvers/Organization/advertisements.ts#L38)

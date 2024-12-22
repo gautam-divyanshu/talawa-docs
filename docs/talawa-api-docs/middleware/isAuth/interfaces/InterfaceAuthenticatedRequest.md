@@ -491,7 +491,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:588
 
 #### Defined in
 
-[src/middleware/isAuth.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/middleware/isAuth.ts#L83)
+[src/middleware/isAuth.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/middleware/isAuth.ts#L83)
 
 ***
 
@@ -1055,7 +1055,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:601
 
 #### Defined in
 
-[src/middleware/isAuth.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/middleware/isAuth.ts#L85)
+[src/middleware/isAuth.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/middleware/isAuth.ts#L85)
 
 ***
 
@@ -1165,7 +1165,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:655
 
 #### Defined in
 
-[src/middleware/isAuth.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/middleware/isAuth.ts#L84)
+[src/middleware/isAuth.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/middleware/isAuth.ts#L84)
 
 ***
 
@@ -2426,7 +2426,7 @@ node\_modules/@types/node/stream.d.ts:549
 
 ##### stream
 
-`ComposeFnParam` | `T` | `Iterable`\<`T`\> | `AsyncIterable`\<`T`\>
+`ComposeFnParam` | `T` | `Iterable`\<`T`, `any`, `any`\> | `AsyncIterable`\<`T`, `any`, `any`\>
 
 ##### options?
 

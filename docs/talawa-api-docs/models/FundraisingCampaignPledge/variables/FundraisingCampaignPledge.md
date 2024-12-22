@@ -14,4 +14,4 @@ Otherwise, it creates a new model.
 
 ## Defined in
 
-[src/models/FundraisingCampaignPledge.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/FundraisingCampaignPledge.ts#L88)
+[src/models/FundraisingCampaignPledge.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/FundraisingCampaignPledge.ts#L88)

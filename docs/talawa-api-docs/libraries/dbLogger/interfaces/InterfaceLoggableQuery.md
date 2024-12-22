@@ -126,7 +126,7 @@ Information about the transaction log (optional)
 
 #### Defined in
 
-[src/libraries/dbLogger.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/libraries/dbLogger.ts#L55)
+[src/libraries/dbLogger.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/libraries/dbLogger.ts#L55)
 
 ***
 
@@ -193,7 +193,7 @@ node\_modules/mongoose/types/query.d.ts:744
 
 ### \[asyncIterator\]()
 
-\> **\[asyncIterator\]**(): `AsyncIterableIterator`\<`unknown`\>
+\> **\[asyncIterator\]**(): `AsyncIterableIterator`\<`unknown`, `any`, `any`\>
 
 Returns a wrapper around a [mongodb driver cursor](https://mongodb.github.io/node-mongodb-native/4.9/classes/FindCursor.html).
 A QueryCursor exposes a Streams3 interface, as well as a `.next()` function.
@@ -201,7 +201,7 @@ This is equivalent to calling `.cursor()` with no arguments.
 
 #### Returns
 
-`AsyncIterableIterator`\<`unknown`\>
+`AsyncIterableIterator`\<`unknown`, `any`, `any`\>
 
 #### Inherited from
 
@@ -1419,7 +1419,7 @@ Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
 ###### options
 
-`QueryOptions`\<`T`\> & `object` & `ReturnsNewDoc`
+`QueryOptions`\<`T`\> & \{ upsert: true; \} & ReturnsNewDoc
 
 ##### Returns
 
@@ -1665,7 +1665,7 @@ Creates a `findOneAndUpdate` query: atomically find the first document that matc
 
 ###### options
 
-`QueryOptions`\<`T`\> & `object` & `ReturnsNewDoc`
+`QueryOptions`\<`T`\> & \{ upsert: true; \} & ReturnsNewDoc
 
 ##### Returns
 

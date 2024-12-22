@@ -40,4 +40,4 @@ Date when the agenda section was last updated.
 
 ## Defined in
 
-[src/models/AgendaSection.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/models/AgendaSection.ts#L32)
+[src/models/AgendaSection.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/AgendaSection.ts#L32)

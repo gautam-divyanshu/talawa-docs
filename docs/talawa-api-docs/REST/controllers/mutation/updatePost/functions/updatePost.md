@@ -68,4 +68,4 @@ InputValidationError - When title/text validation fails or pinned status require
 
 ## Defined in
 
-[src/REST/controllers/mutation/updatePost.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/REST/controllers/mutation/updatePost.ts#L73)
+[src/REST/controllers/mutation/updatePost.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/REST/controllers/mutation/updatePost.ts#L73)

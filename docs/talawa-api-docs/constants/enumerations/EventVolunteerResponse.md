@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/constants.ts:855](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L855)
+[src/constants.ts:855](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/constants.ts#L855)
 
 ***
 
@@ -24,4 +24,4 @@
 
 #### Defined in
 
-[src/constants.ts:854](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/constants.ts#L854)
+[src/constants.ts:854](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/constants.ts#L854)

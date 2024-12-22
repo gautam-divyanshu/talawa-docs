@@ -24,4 +24,4 @@ An object `currentUser` for the current user. If the user not found then it thro
 
 ## Defined in
 
-[src/resolvers/Query/me.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Query/me.ts#L20)
+[src/resolvers/Query/me.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/resolvers/Query/me.ts#L20)

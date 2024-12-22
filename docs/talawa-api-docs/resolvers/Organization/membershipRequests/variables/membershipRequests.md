@@ -27,4 +27,4 @@ A promise that resolves to an array of membership request documents found in the
 
 ## Defined in
 
-[src/resolvers/Organization/membershipRequests.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Organization/membershipRequests.ts#L16)
+[src/resolvers/Organization/membershipRequests.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/resolvers/Organization/membershipRequests.ts#L16)

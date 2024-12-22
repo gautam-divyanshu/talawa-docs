@@ -24,4 +24,4 @@ An object that contains user data. If the user is not found then it throws a `No
 
 ## Defined in
 
-[src/resolvers/Query/user.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/6bd0fecc1032af2aa70d925c85724d9fec2350f9/src/resolvers/Query/user.ts#L13)
+[src/resolvers/Query/user.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/resolvers/Query/user.ts#L13)
