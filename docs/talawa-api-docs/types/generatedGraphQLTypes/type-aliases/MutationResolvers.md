@@ -56,6 +56,10 @@
 
 \> `optional` **addUserImage**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"User"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAddUserImageArgs`](MutationAddUserImageArgs.md), `"file"`\>\>
 
+### addUserToGroupChat?
+
+\> `optional` **addUserToGroupChat**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Chat"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAddUserToGroupChatArgs`](MutationAddUserToGroupChatArgs.md), `"chatId"` \| `"userId"`\>\>
+
 ### addUserToUserFamily?
 
 \> `optional` **addUserToUserFamily**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserFamily"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAddUserToUserFamilyArgs`](MutationAddUserToUserFamilyArgs.md), `"familyId"` \| `"userId"`\>\>
@@ -248,6 +252,10 @@
 
 \> `optional` **logout**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Boolean"`\], `ParentType`, `ContextType`\>
 
+### markChatMessagesAsRead?
+
+\> `optional` **markChatMessagesAsRead**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Chat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationMarkChatMessagesAsReadArgs`](MutationMarkChatMessagesAsReadArgs.md), `"chatId"` \| `"userId"`\>\>
+
 ### otp?
 
 \> `optional` **otp**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"OtpData"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationOtpArgs`](MutationOtpArgs.md), `"data"`\>\>
@@ -382,7 +390,7 @@
 
 ### sendMessageToChat?
 
-\> `optional` **sendMessageToChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"ChatMessage"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationSendMessageToChatArgs`](MutationSendMessageToChatArgs.md), `"chatId"` \| `"messageContent"`\>\>
+\> `optional` **sendMessageToChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"ChatMessage"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationSendMessageToChatArgs`](MutationSendMessageToChatArgs.md), `"chatId"`\>\>
 
 ### signUp?
 
@@ -435,6 +443,14 @@
 ### updateAgendaSection?
 
 \> `optional` **updateAgendaSection**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"AgendaSection"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationUpdateAgendaSectionArgs`](MutationUpdateAgendaSectionArgs.md), `"id"` \| `"input"`\>\>
+
+### updateChat?
+
+\> `optional` **updateChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Chat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationUpdateChatArgs`](MutationUpdateChatArgs.md), `"input"`\>\>
+
+### updateChatMessage?
+
+\> `optional` **updateChatMessage**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"ChatMessage"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationUpdateChatMessageArgs`](MutationUpdateChatMessageArgs.md), `"input"`\>\>
 
 ### updateCommunity?
 
@@ -510,4 +526,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4494](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L4494)
+[src/types/generatedGraphQLTypes.ts:4560](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L4560)

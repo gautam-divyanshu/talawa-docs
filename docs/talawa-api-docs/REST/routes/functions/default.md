@@ -12,11 +12,11 @@
 
 ### req
 
-`Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\>
+`Request`
 
 ### res
 
-`Response`\<`any`, `Record`\<`string`, `any`\>, `number`\>
+`Response`
 
 ### next
 
@@ -28,4 +28,4 @@
 
 ## Defined in
 
-[src/REST/routes/index.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/REST/routes/index.ts#L10)
+[src/REST/routes/index.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/REST/routes/index.ts#L10)

@@ -6,7 +6,7 @@
 
 # Function: createRecurringEvent()
 
-\> **createRecurringEvent**(`args`, `creatorId`, `organizationId`, `session`): `Promise`\<[`InterfaceEvent`](../../../../../models/Event/interfaces/InterfaceEvent.md)\>
+\> **createRecurringEvent**(`args`, `creatorId`, `organizationId`, `session`, `chat`): `Promise`\<[`InterfaceEvent`](../../../../../models/Event/interfaces/InterfaceEvent.md)\>
 
 Creates instances of a recurring event up to a specified end date.
 
@@ -36,6 +36,10 @@ The ID of the organization to which the event belongs.
 
 The MongoDB client session for transactional operations.
 
+### chat
+
+`null` | [`InterfaceChat`](../../../../../models/Chat/interfaces/InterfaceChat.md)
+
 ## Returns
 
 `Promise`\<[`InterfaceEvent`](../../../../../models/Event/interfaces/InterfaceEvent.md)\>
@@ -60,4 +64,4 @@ Steps performed by this function:
 
 ## Defined in
 
-[src/helpers/event/createEventHelpers/createRecurringEvent.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/helpers/event/createEventHelpers/createRecurringEvent.ts#L35)
+[src/helpers/event/createEventHelpers/createRecurringEvent.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/createEventHelpers/createRecurringEvent.ts#L35)

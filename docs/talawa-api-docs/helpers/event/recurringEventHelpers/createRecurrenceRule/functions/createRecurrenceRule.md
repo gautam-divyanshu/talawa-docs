@@ -69,4 +69,4 @@ This function performs the following steps:
 
 ## Defined in
 
-[src/helpers/event/recurringEventHelpers/createRecurrenceRule.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/helpers/event/recurringEventHelpers/createRecurrenceRule.ts#L26)
+[src/helpers/event/recurringEventHelpers/createRecurrenceRule.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/recurringEventHelpers/createRecurrenceRule.ts#L27)

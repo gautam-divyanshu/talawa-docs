@@ -54,6 +54,10 @@
 
 \> **addUserImage**: [`User`](User.md)
 
+### addUserToGroupChat?
+
+\> `optional` **addUserToGroupChat**: [`Maybe`](Maybe.md)\<[`Chat`](Chat.md)\>
+
 ### addUserToUserFamily
 
 \> **addUserToUserFamily**: [`UserFamily`](UserFamily.md)
@@ -246,6 +250,10 @@
 
 \> **logout**: [`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"output"`\]
 
+### markChatMessagesAsRead
+
+\> **markChatMessagesAsRead**: [`Chat`](Chat.md)
+
 ### otp
 
 \> **otp**: [`OtpData`](OtpData.md)
@@ -434,6 +442,14 @@
 
 \> `optional` **updateAgendaSection**: [`Maybe`](Maybe.md)\<[`AgendaSection`](AgendaSection.md)\>
 
+### updateChat
+
+\> **updateChat**: [`Chat`](Chat.md)
+
+### updateChatMessage
+
+\> **updateChatMessage**: [`ChatMessage`](ChatMessage.md)
+
 ### updateCommunity
 
 \> **updateCommunity**: [`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"output"`\]
@@ -508,4 +524,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:1213](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L1213)
+[src/types/generatedGraphQLTypes.ts:1221](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L1221)

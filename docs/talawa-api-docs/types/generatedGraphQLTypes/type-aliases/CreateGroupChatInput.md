@@ -1,4 +1,4 @@
-[**talawa-api**](../../../README.md) • **Docs**
+[**talawa-api**](../../../README.md)
 
 ***
 
@@ -24,4 +24,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3114](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L3114)
+[src/types/generatedGraphQLTypes.ts:3408](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3408)

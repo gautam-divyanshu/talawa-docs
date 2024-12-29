@@ -22,7 +22,7 @@ Express request object with authenticated user
 
 ### res
 
-`Response`\<`any`, `Record`\<`string`, `any`\>\>
+`Response`
 
 Express response object
 
@@ -68,4 +68,4 @@ InputValidationError - When title/text validation fails or pinned status require
 
 ## Defined in
 
-[src/REST/controllers/mutation/updatePost.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/REST/controllers/mutation/updatePost.ts#L73)
+[src/REST/controllers/mutation/updatePost.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/REST/controllers/mutation/updatePost.ts#L73)

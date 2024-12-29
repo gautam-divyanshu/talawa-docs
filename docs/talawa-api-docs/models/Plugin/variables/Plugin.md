@@ -6,8 +6,8 @@
 
 # Variable: Plugin
 
-\> `const` **Plugin**: `Model`\<[`InterfacePlugin`](../interfaces/InterfacePlugin.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfacePlugin`](../interfaces/InterfacePlugin.md)\> & [`InterfacePlugin`](../interfaces/InterfacePlugin.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
+\> `const` **Plugin**: `Model`\<[`InterfacePlugin`](../interfaces/InterfacePlugin.md), `Document`\<`unknown`, \{\}, [`InterfacePlugin`](../interfaces/InterfacePlugin.md)\> & [`InterfacePlugin`](../interfaces/InterfacePlugin.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>\>
 
 ## Defined in
 
-[src/models/Plugin.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/Plugin.ts#L55)
+[src/models/Plugin.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Plugin.ts#L57)

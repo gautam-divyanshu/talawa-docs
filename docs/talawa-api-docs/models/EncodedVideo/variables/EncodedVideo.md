@@ -6,8 +6,8 @@
 
 # Variable: EncodedVideo
 
-\> `const` **EncodedVideo**: `Model`\<[`InterfaceEncodedVideo`](../interfaces/InterfaceEncodedVideo.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceEncodedVideo`](../interfaces/InterfaceEncodedVideo.md)\> & [`InterfaceEncodedVideo`](../interfaces/InterfaceEncodedVideo.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>, `any`\>
+\> `const` **EncodedVideo**: `Model`\<[`InterfaceEncodedVideo`](../interfaces/InterfaceEncodedVideo.md), `Document`\<`unknown`, \{\}, [`InterfaceEncodedVideo`](../interfaces/InterfaceEncodedVideo.md)\> & [`InterfaceEncodedVideo`](../interfaces/InterfaceEncodedVideo.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>\>
 
 ## Defined in
 
-[src/models/EncodedVideo.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/EncodedVideo.ts#L47)
+[src/models/EncodedVideo.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EncodedVideo.ts#L49)

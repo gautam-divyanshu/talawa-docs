@@ -1,4 +1,4 @@
-[**talawa-api**](../../../../README.md) • **Docs**
+[**talawa-api**](../../../../README.md)
 
 ***
 
@@ -11,42 +11,25 @@
 Mutation resolver function to add a user to a group chat.
 
 This function performs the following actions:
-1. Checks if the group chat specified by `args.chatId` exists.
-2. Checks if the organization associated with the group chat exists.
-3. Verifies that the current user (identified by `context.userId`) is an admin of the organization.
-4. Confirms that the user to be added (specified by `args.userId`) exists.
-5. Ensures that the user is not already a member of the group chat.
-6. Adds the user to the list of users in the group chat and returns the updated group chat.
+1. Verifies that the current user exists.
+2. Ensures that the chat specified by `args.input.chatId` exists and is a group chat.
+3. Checks whether the current user is an admin of the chat.
+4. Verifies that the user to be added as an admin exists.
+5. Ensures that the organization specified by `args.input.organizationId` exists.
+6. Adds the user to the chat's admins list.
 
 ## Param
 
-The parent object for the mutation. This parameter is not used in this resolver.
+The parent object for the mutation.
 
 ## Param
 
-The arguments for the mutation, including:
-  - `chatId`: The ID of the group chat to which the user will be added.
-  - `userId`: The ID of the user to be added to the group chat.
+The arguments for the mutation, containing `input` with `chatId`, `userId`, and `organizationId`.
 
 ## Param
 
-The context for the mutation, including:
-  - `userId`: The ID of the current user making the request.
-
-## Returns
-
-A promise that resolves to the updated group chat document with the new user added.
-
-## See
-
- - GroupChat - The GroupChat model used to interact with the group chats collection in the database.
- - Organization - The Organization model used to interact with the organizations collection in the database.
- - User - The User model used to interact with the users collection in the database.
- - MutationResolvers - The type definition for the mutation resolvers.
- - adminCheck - Utility function to check if the current user is an admin of the organization.
- - findOrganizationsInCache - Service function to retrieve organizations from cache.
- - cacheOrganizations - Service function to cache updated organization data.
+The context object for the mutation, containing the current user's ID.
 
 ## Defined in
 
-[src/resolvers/Mutation/addUserToGroupChat.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/resolvers/Mutation/addUserToGroupChat.ts#L44)
+[src/resolvers/Mutation/addUserToGroupChat.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addUserToGroupChat.ts#L28)

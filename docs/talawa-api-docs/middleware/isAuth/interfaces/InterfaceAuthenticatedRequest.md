@@ -50,13 +50,13 @@ ordered from highest quality to lowest.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:513
+node\_modules/@types/express-serve-static-core/index.d.ts:526
 
 ***
 
 ### app
 
-\> **app**: `Application`\<`Record`\<`string`, `any`\>\>
+\> **app**: `Application`
 
 #### Inherited from
 
@@ -64,7 +64,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:513
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:659
+node\_modules/@types/express-serve-static-core/index.d.ts:672
 
 ***
 
@@ -78,7 +78,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:659
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:657
+node\_modules/@types/express-serve-static-core/index.d.ts:670
 
 ***
 
@@ -92,7 +92,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:657
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:638
+node\_modules/@types/express-serve-static-core/index.d.ts:651
 
 ***
 
@@ -189,7 +189,7 @@ node\_modules/@types/node/http.d.ts:1221
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:641
+node\_modules/@types/express-serve-static-core/index.d.ts:654
 
 ***
 
@@ -268,7 +268,7 @@ node\_modules/@types/multer/index.d.ts:46
 
 ### fresh
 
-\> **fresh**: `boolean`
+\> `readonly` **fresh**: `boolean`
 
 Check if the request is fresh, aka
 Last-Modified and/or the ETag
@@ -280,7 +280,7 @@ still match.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:623
+node\_modules/@types/express-serve-static-core/index.d.ts:636
 
 ***
 
@@ -359,7 +359,7 @@ node\_modules/@types/node/http.d.ts:1276
 
 ### ~~host~~
 
-\> **host**: `string`
+\> `readonly` **host**: `string`
 
 #### Deprecated
 
@@ -371,13 +371,13 @@ Use hostname instead.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:616
+node\_modules/@types/express-serve-static-core/index.d.ts:629
 
 ***
 
 ### hostname
 
-\> **hostname**: `string`
+\> `readonly` **hostname**: `string`
 
 Parse the "Host" header field hostname.
 
@@ -387,7 +387,7 @@ Parse the "Host" header field hostname.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:611
+node\_modules/@types/express-serve-static-core/index.d.ts:624
 
 ***
 
@@ -445,7 +445,7 @@ node\_modules/@types/node/http.d.ts:1191
 
 ### ip
 
-\> **ip**: `undefined` \| `string`
+\> `readonly` **ip**: `undefined` \| `string`
 
 Return the remote address, or when
 "trust proxy" is `true` return
@@ -460,13 +460,13 @@ Value may be undefined if the `req.socket` is destroyed
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:578
+node\_modules/@types/express-serve-static-core/index.d.ts:591
 
 ***
 
 ### ips
 
-\> **ips**: `string`[]
+\> `readonly` **ips**: `string`[]
 
 When "trust proxy" is `true`, parse
 the "X-Forwarded-For" ip address list.
@@ -481,7 +481,7 @@ where "proxy2" is the furthest down-stream.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:588
+node\_modules/@types/express-serve-static-core/index.d.ts:601
 
 ***
 
@@ -491,7 +491,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:588
 
 #### Defined in
 
-[src/middleware/isAuth.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/middleware/isAuth.ts#L83)
+[src/middleware/isAuth.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/middleware/isAuth.ts#L83)
 
 ***
 
@@ -527,7 +527,7 @@ v0.1.1
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:643
+node\_modules/@types/express-serve-static-core/index.d.ts:656
 
 ***
 
@@ -541,7 +541,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:643
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:666
+node\_modules/@types/express-serve-static-core/index.d.ts:679
 
 ***
 
@@ -555,7 +555,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:666
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:653
+node\_modules/@types/express-serve-static-core/index.d.ts:666
 
 ***
 
@@ -569,13 +569,13 @@ node\_modules/@types/express-serve-static-core/index.d.ts:653
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:645
+node\_modules/@types/express-serve-static-core/index.d.ts:658
 
 ***
 
 ### path
 
-\> **path**: `string`
+\> `readonly` **path**: `string`
 
 Short-hand for `url.parse(req.url).pathname`.
 
@@ -585,13 +585,13 @@ Short-hand for `url.parse(req.url).pathname`.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:606
+node\_modules/@types/express-serve-static-core/index.d.ts:619
 
 ***
 
 ### protocol
 
-\> **protocol**: `string`
+\> `readonly` **protocol**: `string`
 
 Return the protocol string "http" or "https"
 when requested with TLS. When the "trust proxy"
@@ -606,7 +606,7 @@ may be enabled.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:561
+node\_modules/@types/express-serve-static-core/index.d.ts:574
 
 ***
 
@@ -620,7 +620,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:561
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:647
+node\_modules/@types/express-serve-static-core/index.d.ts:660
 
 ***
 
@@ -875,7 +875,7 @@ node\_modules/@types/node/stream.d.ts:116
 
 ### res?
 
-\> `optional` **res**: `Response`\<`any`, `Record`\<`string`, `any`\>, `number`\>
+\> `optional` **res**: `Response`
 
 After middleware.init executed, Request will contain res and next properties
 See: express/lib/middleware/init.js
@@ -886,7 +886,7 @@ See: express/lib/middleware/init.js
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:665
+node\_modules/@types/express-serve-static-core/index.d.ts:678
 
 ***
 
@@ -900,13 +900,13 @@ node\_modules/@types/express-serve-static-core/index.d.ts:665
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:649
+node\_modules/@types/express-serve-static-core/index.d.ts:662
 
 ***
 
 ### secure
 
-\> **secure**: `boolean`
+\> `readonly` **secure**: `boolean`
 
 Short-hand for:
 
@@ -918,7 +918,7 @@ Short-hand for:
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:568
+node\_modules/@types/express-serve-static-core/index.d.ts:581
 
 ***
 
@@ -932,7 +932,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:568
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:651
+node\_modules/@types/express-serve-static-core/index.d.ts:664
 
 ***
 
@@ -965,7 +965,7 @@ node\_modules/@types/node/http.d.ts:1233
 
 ### stale
 
-\> **stale**: `boolean`
+\> `readonly` **stale**: `boolean`
 
 Check if the request is stale, aka
 "Last-Modified" and / or the "ETag" for the
@@ -977,7 +977,7 @@ resource has changed.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:630
+node\_modules/@types/express-serve-static-core/index.d.ts:643
 
 ***
 
@@ -1027,7 +1027,7 @@ node\_modules/@types/node/http.d.ts:1388
 
 ### subdomains
 
-\> **subdomains**: `string`[]
+\> `readonly` **subdomains**: `string`[]
 
 Return subdomains as an array.
 
@@ -1045,7 +1045,7 @@ If "subdomain offset" is 3, req.subdomains is `["tobi"]`.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:601
+node\_modules/@types/express-serve-static-core/index.d.ts:614
 
 ***
 
@@ -1055,7 +1055,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:601
 
 #### Defined in
 
-[src/middleware/isAuth.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/middleware/isAuth.ts#L85)
+[src/middleware/isAuth.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/middleware/isAuth.ts#L85)
 
 ***
 
@@ -1155,7 +1155,7 @@ v0.1.90
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:655
+node\_modules/@types/express-serve-static-core/index.d.ts:668
 
 ***
 
@@ -1165,13 +1165,13 @@ node\_modules/@types/express-serve-static-core/index.d.ts:655
 
 #### Defined in
 
-[src/middleware/isAuth.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/middleware/isAuth.ts#L84)
+[src/middleware/isAuth.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/middleware/isAuth.ts#L84)
 
 ***
 
 ### xhr
 
-\> **xhr**: `boolean`
+\> `readonly` **xhr**: `boolean`
 
 Check if the request was an _XMLHttpRequest_.
 
@@ -1181,7 +1181,7 @@ Check if the request was an _XMLHttpRequest_.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:635
+node\_modules/@types/express-serve-static-core/index.d.ts:648
 
 ## Methods
 
@@ -1639,11 +1639,11 @@ node\_modules/@types/node/stream.d.ts:659
 
 ### \[asyncIterator\]()
 
-\> **\[asyncIterator\]**(): `AsyncIterator`\<`any`, `any`, `any`\>
+\> **\[asyncIterator\]**(): `AsyncIterator`
 
 #### Returns
 
-`AsyncIterator`\<`any`, `any`, `any`\>
+`AsyncIterator`
 
 #### Inherited from
 
@@ -1743,7 +1743,7 @@ Examples:
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:454
+node\_modules/@types/express-serve-static-core/index.d.ts:467
 
 #### Call Signature
 
@@ -1765,7 +1765,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:454
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:455
+node\_modules/@types/express-serve-static-core/index.d.ts:468
 
 #### Call Signature
 
@@ -1787,7 +1787,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:455
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:456
+node\_modules/@types/express-serve-static-core/index.d.ts:469
 
 #### Call Signature
 
@@ -1809,7 +1809,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:456
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:457
+node\_modules/@types/express-serve-static-core/index.d.ts:470
 
 ***
 
@@ -1835,7 +1835,7 @@ For more information, or if you have issues or concerns, see accepts.
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:466
+node\_modules/@types/express-serve-static-core/index.d.ts:479
 
 #### Call Signature
 
@@ -1857,7 +1857,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:466
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:467
+node\_modules/@types/express-serve-static-core/index.d.ts:480
 
 #### Call Signature
 
@@ -1879,7 +1879,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:467
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:468
+node\_modules/@types/express-serve-static-core/index.d.ts:481
 
 #### Call Signature
 
@@ -1901,7 +1901,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:468
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:469
+node\_modules/@types/express-serve-static-core/index.d.ts:482
 
 ***
 
@@ -1927,7 +1927,7 @@ For more information, or if you have issues or concerns, see accepts.
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:478
+node\_modules/@types/express-serve-static-core/index.d.ts:491
 
 #### Call Signature
 
@@ -1949,7 +1949,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:478
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:479
+node\_modules/@types/express-serve-static-core/index.d.ts:492
 
 #### Call Signature
 
@@ -1971,7 +1971,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:479
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:480
+node\_modules/@types/express-serve-static-core/index.d.ts:493
 
 #### Call Signature
 
@@ -1993,7 +1993,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:480
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:481
+node\_modules/@types/express-serve-static-core/index.d.ts:494
 
 ***
 
@@ -2019,7 +2019,7 @@ For more information, or if you have issues or concerns, see accepts.
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:490
+node\_modules/@types/express-serve-static-core/index.d.ts:503
 
 #### Call Signature
 
@@ -2041,7 +2041,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:490
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:491
+node\_modules/@types/express-serve-static-core/index.d.ts:504
 
 #### Call Signature
 
@@ -2063,7 +2063,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:491
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:492
+node\_modules/@types/express-serve-static-core/index.d.ts:505
 
 #### Call Signature
 
@@ -2085,7 +2085,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:492
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:493
+node\_modules/@types/express-serve-static-core/index.d.ts:506
 
 ***
 
@@ -2426,7 +2426,7 @@ node\_modules/@types/node/stream.d.ts:549
 
 ##### stream
 
-`ComposeFnParam` | `T` | `Iterable`\<`T`, `any`, `any`\> | `AsyncIterable`\<`T`, `any`, `any`\>
+`ComposeFnParam` | `T` | `Iterable`\<`T`\> | `AsyncIterable`\<`T`\>
 
 ##### options?
 
@@ -3088,7 +3088,7 @@ Aliased as `req.header()`.
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:411
+node\_modules/@types/express-serve-static-core/index.d.ts:424
 
 #### Call Signature
 
@@ -3110,7 +3110,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:411
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:412
+node\_modules/@types/express-serve-static-core/index.d.ts:425
 
 ***
 
@@ -3235,7 +3235,7 @@ node\_modules/@types/node/events.d.ts:774
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:414
+node\_modules/@types/express-serve-static-core/index.d.ts:427
 
 #### Call Signature
 
@@ -3257,7 +3257,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:414
 
 ##### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:415
+node\_modules/@types/express-serve-static-core/index.d.ts:428
 
 ***
 
@@ -3301,7 +3301,7 @@ Examples:
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:551
+node\_modules/@types/express-serve-static-core/index.d.ts:564
 
 ***
 
@@ -3343,7 +3343,7 @@ node\_modules/@types/node/stream.d.ts:295
 
 ### iterator()
 
-\> **iterator**(`options`?): `AsyncIterator`\<`any`, `any`, `any`\>
+\> **iterator**(`options`?): `AsyncIterator`
 
 The iterator created by this method gives users the option to cancel the destruction
 of the stream if the `for await...of` loop is exited by `return`, `break`, or `throw`,
@@ -3363,7 +3363,7 @@ or exiting a `for await...of` iteration using a `break`, `return`, or `throw` wi
 
 #### Returns
 
-`AsyncIterator`\<`any`, `any`, `any`\>
+`AsyncIterator`
 
 #### Since
 
@@ -4068,7 +4068,7 @@ the `connect.bodyParser()` middleware.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:528
+node\_modules/@types/express-serve-static-core/index.d.ts:541
 
 ***
 
@@ -4670,7 +4670,7 @@ should respond with 4 users when available, not 3.
 
 #### Defined in
 
-node\_modules/@types/express-serve-static-core/index.d.ts:507
+node\_modules/@types/express-serve-static-core/index.d.ts:520
 
 ***
 

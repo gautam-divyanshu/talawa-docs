@@ -116,6 +116,10 @@ Mapping between all available schema types and the resolvers types
 
 \> **ChatMessage**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceChatMessage`](../../../models/ChatMessage/interfaces/InterfaceChatMessage.md)\>
 
+### ChatWhereInput
+
+\> **ChatWhereInput**: [`ChatWhereInput`](ChatWhereInput.md)
+
 ### CheckIn
 
 \> **CheckIn**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceCheckIn`](../../../models/CheckIn/interfaces/InterfaceCheckIn.md)\>
@@ -195,6 +199,10 @@ Mapping between all available schema types and the resolvers types
 ### CreateCommentPayload
 
 \> **CreateCommentPayload**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`Omit`](Omit.md)\<[`CreateCommentPayload`](CreateCommentPayload.md), `"comment"` \| `"userErrors"`\> & `object`\>
+
+### createGroupChatInput
+
+\> **createGroupChatInput**: [`CreateGroupChatInput`](CreateGroupChatInput.md)
 
 ### CreateMemberError
 
@@ -720,6 +728,14 @@ Mapping between all available schema types and the resolvers types
 
 \> **UpdateAgendaSectionInput**: [`UpdateAgendaSectionInput`](UpdateAgendaSectionInput.md)
 
+### UpdateChatInput
+
+\> **UpdateChatInput**: [`UpdateChatInput`](UpdateChatInput.md)
+
+### UpdateChatMessageInput
+
+\> **UpdateChatMessageInput**: [`UpdateChatMessageInput`](UpdateChatMessageInput.md)
+
 ### UpdateCommunityInput
 
 \> **UpdateCommunityInput**: [`UpdateCommunityInput`](UpdateCommunityInput.md)
@@ -930,4 +946,4 @@ Mapping between all available schema types and the resolvers types
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3442](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L3442)
+[src/types/generatedGraphQLTypes.ts:3498](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3498)

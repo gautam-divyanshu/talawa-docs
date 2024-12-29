@@ -22,4 +22,4 @@ An object that holds all Event Volunteers for the given Event
 
 ## Defined in
 
-[src/resolvers/Query/getEventVolunteers.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/resolvers/Query/getEventVolunteers.ts#L13)
+[src/resolvers/Query/getEventVolunteers.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/getEventVolunteers.ts#L13)

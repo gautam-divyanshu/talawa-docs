@@ -78,7 +78,7 @@ node\_modules/graphql/type/definition.d.ts:368
 
 #### Defined in
 
-[src/types/generatedGraphQLTypes.ts:4131](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L4131)
+[src/types/generatedGraphQLTypes.ts:4197](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L4197)
 
 ***
 

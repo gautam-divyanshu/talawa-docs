@@ -48,4 +48,4 @@ A promise that resolves to the user document representing the user added as an a
 
 ## Defined in
 
-[src/resolvers/Mutation/addEventAttendee.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/resolvers/Mutation/addEventAttendee.ts#L51)
+[src/resolvers/Mutation/addEventAttendee.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addEventAttendee.ts#L51)

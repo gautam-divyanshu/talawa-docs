@@ -30,6 +30,10 @@
 
 \> `optional` **deletedBy**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`User`](User.md)\>[]\>
 
+### media?
+
+\> `optional` **media**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"String"`\]\[`"output"`\]\>
+
 ### messageContent
 
 \> **messageContent**: [`Scalars`](Scalars.md)\[`"String"`\]\[`"output"`\]
@@ -48,4 +52,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:290](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L290)
+[src/types/generatedGraphQLTypes.ts:291](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L291)

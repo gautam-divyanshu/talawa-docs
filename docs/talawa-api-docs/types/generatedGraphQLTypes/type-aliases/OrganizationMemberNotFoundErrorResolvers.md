@@ -26,4 +26,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4679](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L4679)
+[src/types/generatedGraphQLTypes.ts:4749](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L4749)

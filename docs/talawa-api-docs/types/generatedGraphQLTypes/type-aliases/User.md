@@ -120,4 +120,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2981](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L2981)
+[src/types/generatedGraphQLTypes.ts:3031](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3031)

@@ -24,4 +24,4 @@ Path of the image to be deleted.
 
 ## Defined in
 
-[src/utilities/encodedImageStorage/deletePreviousImage.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/utilities/encodedImageStorage/deletePreviousImage.ts#L9)
+[src/utilities/encodedImageStorage/deletePreviousImage.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/encodedImageStorage/deletePreviousImage.ts#L10)

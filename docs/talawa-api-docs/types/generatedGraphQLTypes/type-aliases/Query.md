@@ -158,6 +158,10 @@
 
 \> **getFundraisingCampaigns**: [`Maybe`](Maybe.md)\<[`FundraisingCampaign`](FundraisingCampaign.md)\>[]
 
+### getGroupChatsByUserId?
+
+\> `optional` **getGroupChatsByUserId**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Chat`](Chat.md)\>[]\>
+
 ### getlanguage?
 
 \> `optional` **getlanguage**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Translation`](Translation.md)\>[]\>
@@ -177,6 +181,10 @@
 ### getRecurringEvents?
 
 \> `optional` **getRecurringEvents**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Event`](Event.md)\>[]\>
+
+### getUnreadChatsByUserId?
+
+\> `optional` **getUnreadChatsByUserId**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Chat`](Chat.md)\>[]\>
 
 ### getUserTag?
 
@@ -264,4 +272,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2305](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L2305)
+[src/types/generatedGraphQLTypes.ts:2340](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L2340)

@@ -115,7 +115,7 @@ node\_modules/mongoose/types/document.d.ts:102
 
 ### collection
 
-\> **collection**: `Collection`\<`Document`\>
+\> **collection**: `Collection`
 
 Collection the model uses.
 
@@ -135,7 +135,7 @@ node\_modules/mongoose/types/document.d.ts:105
 
 #### Defined in
 
-[src/models/SampleData.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/SampleData.ts#L10)
+[src/models/SampleData.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/SampleData.ts#L12)
 
 ***
 
@@ -161,7 +161,7 @@ node\_modules/mongoose/types/document.d.ts:108
 
 #### Defined in
 
-[src/models/SampleData.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/SampleData.ts#L9)
+[src/models/SampleData.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/SampleData.ts#L11)
 
 ***
 
@@ -215,7 +215,7 @@ node\_modules/mongoose/types/document.d.ts:191
 
 ### schema
 
-\> **schema**: `Schema`\<`any`, `Model`\<`any`, `any`, `any`, `any`, `any`, `any`\>, \{\}, \{\}, \{\}, \{\}, `DefaultSchemaOptions`, \{\}, `Document`\<`unknown`, \{\}, `FlatRecord`\<\{\}\>\> & `FlatRecord`\<\{\}\> & `Required`\<\{ `_id`: `unknown`; \}\>\>
+\> **schema**: `Schema`\<`Model`, \{\}, `Document`\<`unknown`, \{\}, `FlatRecord`\<\{\}\>\> & `FlatRecord`\<\{\}\> & `Required`\<\{ `_id`: `unknown`; \}\>\>
 
 The document's schema.
 
@@ -285,11 +285,11 @@ node\_modules/mongoose/types/document.d.ts:32
 
 ### $getAllSubdocs()
 
-\> **$getAllSubdocs**(): `Document`\<`any`, `any`, `any`\>[]
+\> **$getAllSubdocs**(): `Document`[]
 
 #### Returns
 
-`Document`\<`any`, `any`, `any`\>[]
+`Document`[]
 
 #### Inherited from
 
@@ -303,13 +303,13 @@ node\_modules/mongoose/types/document.d.ts:35
 
 ### $getPopulatedDocs()
 
-\> **$getPopulatedDocs**(): `Document`\<`any`, `any`, `any`\>[]
+\> **$getPopulatedDocs**(): `Document`[]
 
 Returns an array of all populated documents associated with the query
 
 #### Returns
 
-`Document`\<`any`, `any`, `any`\>[]
+`Document`[]
 
 #### Inherited from
 
@@ -521,7 +521,7 @@ Returns the model with the given name on this document's associated connection.
 
 ##### Type Parameters
 
-• **ModelType** = `Model`\<`unknown`, \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, `unknown`\> & `object`, `any`\>
+• **ModelType** = `Model`\<`unknown`, `Document`\<`unknown`, \{\}, `unknown`\> & `object`\>
 
 ##### Parameters
 
@@ -549,7 +549,7 @@ Returns the model with the given name on this document's associated connection.
 
 ##### Type Parameters
 
-• **ModelType** = `Model`\<`any`, \{\}, \{\}, \{\}, `any`, `any`\>
+• **ModelType** = `Model`
 
 ##### Returns
 
@@ -567,14 +567,14 @@ node\_modules/mongoose/types/document.d.ts:78
 
 ### $parent()
 
-\> **$parent**(): `undefined` \| `Document`\<`any`, `any`, `any`\>
+\> **$parent**(): `undefined` \| `Document`
 
 If this document is a subdocument or populated document, returns the
 document's parent. Returns undefined otherwise.
 
 #### Returns
 
-`undefined` \| `Document`\<`any`, `any`, `any`\>
+`undefined` \| `Document`
 
 #### Inherited from
 
@@ -720,7 +720,7 @@ Removes this document from the db.
 
 ##### options?
 
-`QueryOptions`\<`unknown`\>
+`QueryOptions`
 
 #### Returns
 
@@ -799,7 +799,7 @@ document has an `_id`, in which case this function falls back to using
 
 ##### doc
 
-`Document`\<`any`, `any`, `any`\>
+`Document`
 
 #### Returns
 
@@ -1404,7 +1404,7 @@ Returns the model with the given name on this document's associated connection.
 
 ##### Type Parameters
 
-• **ModelType** = `Model`\<`unknown`, \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, `unknown`\> & `object`, `any`\>
+• **ModelType** = `Model`\<`unknown`, `Document`\<`unknown`, \{\}, `unknown`\> & `object`\>
 
 ##### Parameters
 
@@ -1432,7 +1432,7 @@ Returns the model with the given name on this document's associated connection.
 
 ##### Type Parameters
 
-• **ModelType** = `Model`\<`any`, \{\}, \{\}, \{\}, `any`, `any`\>
+• **ModelType** = `Model`
 
 ##### Returns
 
@@ -1556,7 +1556,7 @@ Populates document references.
 
 ###### model?
 
-`Model`\<`any`, \{\}, \{\}, \{\}, `any`, `any`\>
+`Model`
 
 ###### match?
 
@@ -1608,7 +1608,7 @@ node\_modules/mongoose/types/document.d.ts:226
 
 ### replaceOne()
 
-\> **replaceOne**(`replacement`?, `options`?): `Query`\<`any`, [`InterfaceSampleData`](InterfaceSampleData.md), \{\}, [`InterfaceSampleData`](InterfaceSampleData.md), `"find"`, `Record`\<`string`, `never`\>\>
+\> **replaceOne**(`replacement`?, `options`?): `Query`\<`any`, [`InterfaceSampleData`](InterfaceSampleData.md), [`InterfaceSampleData`](InterfaceSampleData.md)\>
 
 Sends a replaceOne command with this document `_id` as the query selector.
 
@@ -1620,11 +1620,11 @@ Sends a replaceOne command with this document `_id` as the query selector.
 
 ##### options?
 
-`null` | `QueryOptions`\<`unknown`\>
+`null` | `QueryOptions`
 
 #### Returns
 
-`Query`\<`any`, [`InterfaceSampleData`](InterfaceSampleData.md), \{\}, [`InterfaceSampleData`](InterfaceSampleData.md), `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<`any`, [`InterfaceSampleData`](InterfaceSampleData.md), [`InterfaceSampleData`](InterfaceSampleData.md)\>
 
 #### Inherited from
 
@@ -1814,7 +1814,7 @@ The return value of this method is used in calls to JSON.stringify(doc).
 
 ###### options?
 
-`ToObjectOptions`\<`Document`\<`unknown`, \{\}, `unknown`\> & `object`\> & `object`
+`ToObjectOptions` & `object`
 
 ##### Returns
 
@@ -1842,7 +1842,7 @@ The return value of this method is used in calls to JSON.stringify(doc).
 
 ###### options
 
-`ToObjectOptions`\<`Document`\<`unknown`, \{\}, `unknown`\> & `object`\> & `object`
+`ToObjectOptions` & `object`
 
 ##### Returns
 
@@ -1872,7 +1872,7 @@ Converts this document into a plain-old JavaScript object ([POJO](https://master
 
 ##### options?
 
-`ToObjectOptions`\<`Document`\<`unknown`, \{\}, `unknown`\> & `object`\>
+`ToObjectOptions`
 
 #### Returns
 
@@ -1946,7 +1946,7 @@ node\_modules/mongoose/types/document.d.ts:252
 
 ### updateOne()
 
-\> **updateOne**(`update`?, `options`?): `Query`\<`any`, [`InterfaceSampleData`](InterfaceSampleData.md), \{\}, [`InterfaceSampleData`](InterfaceSampleData.md), `"find"`, `Record`\<`string`, `never`\>\>
+\> **updateOne**(`update`?, `options`?): `Query`\<`any`, [`InterfaceSampleData`](InterfaceSampleData.md), [`InterfaceSampleData`](InterfaceSampleData.md)\>
 
 Sends an updateOne command with this document `_id` as the query selector.
 
@@ -1958,11 +1958,11 @@ Sends an updateOne command with this document `_id` as the query selector.
 
 ##### options?
 
-`null` | `QueryOptions`\<`unknown`\>
+`null` | `QueryOptions`
 
 #### Returns
 
-`Query`\<`any`, [`InterfaceSampleData`](InterfaceSampleData.md), \{\}, [`InterfaceSampleData`](InterfaceSampleData.md), `"find"`, `Record`\<`string`, `never`\>\>
+`Query`\<`any`, [`InterfaceSampleData`](InterfaceSampleData.md), [`InterfaceSampleData`](InterfaceSampleData.md)\>
 
 #### Inherited from
 

@@ -35,4 +35,4 @@ A promise that resolves to a connection object containing the users assigned to 
 
 ## Defined in
 
-[src/resolvers/UserTag/usersToAssignTo.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/resolvers/UserTag/usersToAssignTo.ts#L41)
+[src/resolvers/UserTag/usersToAssignTo.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/UserTag/usersToAssignTo.ts#L41)

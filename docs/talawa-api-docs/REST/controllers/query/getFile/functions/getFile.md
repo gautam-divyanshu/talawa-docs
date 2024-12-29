@@ -18,13 +18,13 @@ If an error occurs during the retrieval, it logs the error and sends a 500 statu
 
 ### req
 
-`Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\>
+`Request`
 
 The Express request object, containing the key for the file in the parameters.
 
 ### res
 
-`Response`\<`any`, `Record`\<`string`, `any`\>\>
+`Response`
 
 The Express response object used to send the file back to the client.
 
@@ -42,4 +42,4 @@ app.get("/file/:key*", getFile);
 
 ## Defined in
 
-[src/REST/controllers/query/getFile.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/REST/controllers/query/getFile.ts#L23)
+[src/REST/controllers/query/getFile.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/REST/controllers/query/getFile.ts#L23)

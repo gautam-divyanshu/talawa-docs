@@ -16,7 +16,7 @@ Interface representing a Language document in the database (MongoDB).
 
 #### Defined in
 
-[src/models/Language.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/Language.ts#L51)
+[src/models/Language.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Language.ts#L53)
 
 ***
 
@@ -26,7 +26,7 @@ Interface representing a Language document in the database (MongoDB).
 
 #### Defined in
 
-[src/models/Language.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/Language.ts#L54)
+[src/models/Language.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Language.ts#L56)
 
 ***
 
@@ -36,7 +36,7 @@ Interface representing a Language document in the database (MongoDB).
 
 #### Defined in
 
-[src/models/Language.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/Language.ts#L52)
+[src/models/Language.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Language.ts#L54)
 
 ***
 
@@ -46,4 +46,4 @@ Interface representing a Language document in the database (MongoDB).
 
 #### Defined in
 
-[src/models/Language.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/Language.ts#L53)
+[src/models/Language.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Language.ts#L55)

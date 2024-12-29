@@ -60,6 +60,10 @@
 
 \> `optional` **organization**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Organization"`\]\>, `ParentType`, `ContextType`\>
 
+### unseenMessagesByUsers?
+
+\> `optional` **unseenMessagesByUsers**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"JSON"`\]\>, `ParentType`, `ContextType`\>
+
 ### updatedAt?
 
 \> `optional` **updatedAt**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"DateTime"`\], `ParentType`, `ContextType`\>
@@ -70,4 +74,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4041](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L4041)
+[src/types/generatedGraphQLTypes.ts:4105](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L4105)

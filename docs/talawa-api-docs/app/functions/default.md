@@ -17,11 +17,11 @@ third argument.
 
 #### req
 
-`IncomingMessage` | `Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\>
+`IncomingMessage` | `Request`
 
 #### res
 
-`ServerResponse`\<`IncomingMessage`\> | `Response`\<`any`, `Record`\<`string`, `any`\>, `number`\>
+`ServerResponse` | `Response`
 
 ### Returns
 
@@ -29,7 +29,7 @@ third argument.
 
 ### Defined in
 
-[src/app.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/app.ts#L19)
+[src/app.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/app.ts#L21)
 
 ## Call Signature
 
@@ -39,11 +39,11 @@ third argument.
 
 #### req
 
-`Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\>
+`Request`
 
 #### res
 
-`Response`\<`any`, `Record`\<`string`, `any`\>, `number`\>
+`Response`
 
 #### next
 
@@ -55,4 +55,4 @@ third argument.
 
 ### Defined in
 
-[src/app.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/app.ts#L19)
+[src/app.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/app.ts#L21)

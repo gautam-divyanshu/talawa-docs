@@ -67,7 +67,7 @@ export const bestFriend = async (parent) =\> \{
 
 #### Defined in
 
-[src/utilities/TalawaGraphQLError.ts:189](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/utilities/TalawaGraphQLError.ts#L189)
+[src/utilities/TalawaGraphQLError.ts:189](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/TalawaGraphQLError.ts#L189)
 
 ## Properties
 
@@ -83,7 +83,7 @@ Extension fields to add to the formatted error.
 
 #### Defined in
 
-node\_modules/graphql/error/GraphQLError.d.ts:77
+node\_modules/graphql/error/GraphQLError.d.ts:89
 
 ***
 
@@ -106,7 +106,7 @@ Enumerable, and appears in the result of JSON.stringify().
 
 #### Defined in
 
-node\_modules/graphql/error/GraphQLError.d.ts:46
+node\_modules/graphql/error/GraphQLError.d.ts:58
 
 ***
 
@@ -150,7 +150,7 @@ An array of GraphQL AST Nodes corresponding to this error.
 
 #### Defined in
 
-node\_modules/graphql/error/GraphQLError.d.ts:57
+node\_modules/graphql/error/GraphQLError.d.ts:69
 
 ***
 
@@ -166,7 +166,7 @@ The original error thrown from a field resolver during execution.
 
 #### Defined in
 
-node\_modules/graphql/error/GraphQLError.d.ts:73
+node\_modules/graphql/error/GraphQLError.d.ts:85
 
 ***
 
@@ -185,7 +185,7 @@ Enumerable, and appears in the result of JSON.stringify().
 
 #### Defined in
 
-node\_modules/graphql/error/GraphQLError.d.ts:53
+node\_modules/graphql/error/GraphQLError.d.ts:65
 
 ***
 
@@ -202,7 +202,7 @@ which correspond to this error.
 
 #### Defined in
 
-node\_modules/graphql/error/GraphQLError.d.ts:69
+node\_modules/graphql/error/GraphQLError.d.ts:81
 
 ***
 
@@ -221,7 +221,7 @@ represent nodes after the first node.
 
 #### Defined in
 
-node\_modules/graphql/error/GraphQLError.d.ts:64
+node\_modules/graphql/error/GraphQLError.d.ts:76
 
 ***
 
@@ -303,7 +303,7 @@ node\_modules/@types/node/globals.d.ts:145
 
 #### Defined in
 
-node\_modules/graphql/error/GraphQLError.d.ts:95
+node\_modules/graphql/error/GraphQLError.d.ts:107
 
 ## Methods
 
@@ -321,7 +321,7 @@ node\_modules/graphql/error/GraphQLError.d.ts:95
 
 #### Defined in
 
-node\_modules/graphql/error/GraphQLError.d.ts:97
+node\_modules/graphql/error/GraphQLError.d.ts:109
 
 ***
 
@@ -341,7 +341,7 @@ Returns a string representation of an object.
 
 #### Defined in
 
-node\_modules/graphql/error/GraphQLError.d.ts:96
+node\_modules/graphql/error/GraphQLError.d.ts:108
 
 ***
 

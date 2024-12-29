@@ -14,9 +14,13 @@
 
 \> **chatId**: [`Scalars`](Scalars.md)\[`"ID"`\]\[`"input"`\]
 
-### messageContent
+### media?
 
-\> **messageContent**: [`Scalars`](Scalars.md)\[`"String"`\]\[`"input"`\]
+\> `optional` **media**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"String"`\]\[`"input"`\]\>
+
+### messageContent?
+
+\> `optional` **messageContent**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"String"`\]\[`"input"`\]\>
 
 ### replyTo?
 
@@ -24,4 +28,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:1793](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L1793)
+[src/types/generatedGraphQLTypes.ts:1817](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L1817)

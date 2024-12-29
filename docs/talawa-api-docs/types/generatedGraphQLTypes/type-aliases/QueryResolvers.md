@@ -160,6 +160,10 @@
 
 \> `optional` **getFundraisingCampaigns**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"FundraisingCampaign"`\]\>[], `ParentType`, `ContextType`, `Partial`\<[`QueryGetFundraisingCampaignsArgs`](QueryGetFundraisingCampaignsArgs.md)\>\>
 
+### getGroupChatsByUserId?
+
+\> `optional` **getGroupChatsByUserId**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Chat"`\]\>[]\>, `ParentType`, `ContextType`\>
+
 ### getlanguage?
 
 \> `optional` **getlanguage**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Translation"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetlanguageArgs`](QueryGetlanguageArgs.md), `"lang_code"`\>\>
@@ -179,6 +183,10 @@
 ### getRecurringEvents?
 
 \> `optional` **getRecurringEvents**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Event"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetRecurringEventsArgs`](QueryGetRecurringEventsArgs.md), `"baseRecurringEventId"`\>\>
+
+### getUnreadChatsByUserId?
+
+\> `optional` **getUnreadChatsByUserId**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Chat"`\]\>[]\>, `ParentType`, `ContextType`\>
 
 ### getUserTag?
 
@@ -266,4 +274,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4764](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L4764)
+[src/types/generatedGraphQLTypes.ts:4834](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L4834)

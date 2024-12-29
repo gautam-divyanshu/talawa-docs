@@ -43,4 +43,4 @@ This is a utility method.
 
 ## Defined in
 
-[src/utilities/adminCheck.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/utilities/adminCheck.ts#L18)
+[src/utilities/adminCheck.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/adminCheck.ts#L18)

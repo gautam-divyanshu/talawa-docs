@@ -6,8 +6,8 @@
 
 # Variable: Post
 
-\> `const` **Post**: `PaginateModel`\<[`InterfacePost`](../interfaces/InterfacePost.md), \{\}, \{\}\>
+\> `const` **Post**: `PaginateModel`\<[`InterfacePost`](../interfaces/InterfacePost.md)\>
 
 ## Defined in
 
-[src/models/Post.ts:109](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/models/Post.ts#L109)
+[src/models/Post.ts:111](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L111)

@@ -58,4 +58,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3991](https://github.com/PalisadoesFoundation/talawa-api/blob/039b0f127fb8caa46d57186ab4b3bb27fe150903/src/types/generatedGraphQLTypes.ts#L3991)
+[src/types/generatedGraphQLTypes.ts:4055](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L4055)
