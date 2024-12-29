@@ -43,4 +43,4 @@ The `deletePledge` mutation is used to perform the deletion operation.
 
 ## Defined in
 
-[src/screens/FundCampaignPledge/PledgeDeleteModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/FundCampaignPledge/PledgeDeleteModal.tsx#L42)
+[src/screens/FundCampaignPledge/PledgeDeleteModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/FundCampaignPledge/PledgeDeleteModal.tsx#L42)

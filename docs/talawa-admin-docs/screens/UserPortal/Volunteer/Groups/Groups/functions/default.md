@@ -19,4 +19,4 @@ The rendered component.
 
 ## Defined in
 
-[src/screens/UserPortal/Volunteer/Groups/Groups.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/UserPortal/Volunteer/Groups/Groups.tsx#L56)
+[src/screens/UserPortal/Volunteer/Groups/Groups.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/UserPortal/Volunteer/Groups/Groups.tsx#L56)

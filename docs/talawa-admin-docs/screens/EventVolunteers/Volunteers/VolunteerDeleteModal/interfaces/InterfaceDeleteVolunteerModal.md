@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L12)
+[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L12)
 
 ***
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L11)
+[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L11)
 
 ***
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L14)
+[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L14)
 
 ***
 
@@ -52,4 +52,4 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/ec91a82db6f7a7a061fbb4ea9639f2bff335faa5/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L13)
+[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L13)
