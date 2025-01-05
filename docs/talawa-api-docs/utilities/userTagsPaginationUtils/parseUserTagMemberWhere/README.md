@@ -6,12 +6,10 @@
 
 # utilities/userTagsPaginationUtils/parseUserTagMemberWhere
 
-## Index
-
-### Type Aliases
+## Type Aliases
 
 - [ParseUserTagMemberWhereResult](type-aliases/ParseUserTagMemberWhereResult.md)
 
-### Functions
+## Functions
 
 - [parseUserTagMemberWhere](functions/parseUserTagMemberWhere.md)

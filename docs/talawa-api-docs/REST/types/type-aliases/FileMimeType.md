@@ -8,8 +8,6 @@
 
 \> **FileMimeType**: `"image/jpeg"` \| `"image/png"` \| `"image/gif"` \| `"image/webp"` \| `"video/mp4"`
 
+Defined in: [src/REST/types/index.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/types/index.ts#L4)
+
 Allowed MIME types for files.
-
-## Defined in
-
-[src/REST/types/index.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/REST/types/index.ts#L4)

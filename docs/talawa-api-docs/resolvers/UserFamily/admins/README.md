@@ -6,8 +6,6 @@
 
 # resolvers/UserFamily/admins
 
-## Index
-
-### Variables
+## Variables
 
 - [admins](variables/admins.md)

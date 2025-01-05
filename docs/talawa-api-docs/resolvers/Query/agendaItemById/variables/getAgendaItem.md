@@ -8,6 +8,8 @@
 
 \> `const` **getAgendaItem**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"getAgendaItem"`\]
 
+Defined in: [src/resolvers/Query/agendaItemById.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/agendaItemById.ts#L17)
+
 Retrieves an agenda item by its ID.
 
 This function fetches a specific agenda item from the database using its ID. If the agenda item
@@ -24,7 +26,3 @@ The arguments provided by the GraphQL query, including the ID of the agenda item
 ## Returns
 
 The agenda item with the specified ID.
-
-## Defined in
-
-[src/resolvers/Query/agendaItemById.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/agendaItemById.ts#L17)

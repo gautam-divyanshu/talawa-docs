@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/addLanguageTranslation
 
-## Index
-
-### Variables
+## Variables
 
 - [addLanguageTranslation](variables/addLanguageTranslation.md)

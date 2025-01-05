@@ -6,8 +6,6 @@
 
 # REST/types
 
-## Index
-
-### Type Aliases
+## Type Aliases
 
 - [FileMimeType](type-aliases/FileMimeType.md)

@@ -6,8 +6,6 @@
 
 # resolvers/MembershipRequest
 
-## Index
-
-### Variables
+## Variables
 
 - [MembershipRequest](variables/MembershipRequest.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/blockUser
 
-## Index
-
-### Variables
+## Variables
 
 - [blockUser](variables/blockUser.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Organization/blockedUsers
 
-## Index
-
-### Variables
+## Variables
 
 - [blockedUsers](variables/blockedUsers.md)

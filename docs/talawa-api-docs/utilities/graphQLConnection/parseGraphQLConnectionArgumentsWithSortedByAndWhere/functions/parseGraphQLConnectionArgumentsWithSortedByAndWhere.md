@@ -8,6 +8,8 @@
 
 \> **parseGraphQLConnectionArgumentsWithSortedByAndWhere**\<`T0`, `T1`, `T2`\>(`__namedParameters`): [`ParseGraphQLConnectionArgumentsWithSortedByAndWhereResult`](../type-aliases/ParseGraphQLConnectionArgumentsWithSortedByAndWhereResult.md)\<`T0`, `T1`, `T2`\>
 
+Defined in: [src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedByAndWhere.ts:68](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedByAndWhere.ts#L68)
+
 This function is used for validating and transforming arguments for a custom graphQL
 connection that also provides filtering and sorting capabilities.
 
@@ -70,7 +72,3 @@ if (result.isSuccessful === false) \{
 \}
 const \{ parsedArgs: \{ cursor, direction, filter, limit, sort \} \} = result;
 ```
-
-## Defined in
-
-[src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedByAndWhere.ts:68](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedByAndWhere.ts#L68)

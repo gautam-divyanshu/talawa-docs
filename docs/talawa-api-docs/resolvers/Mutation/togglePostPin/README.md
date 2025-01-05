@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/togglePostPin
 
-## Index
-
-### Variables
+## Variables
 
 - [togglePostPin](variables/togglePostPin.md)

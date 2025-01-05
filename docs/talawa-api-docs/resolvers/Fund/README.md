@@ -6,8 +6,6 @@
 
 # resolvers/Fund
 
-## Index
-
-### Variables
+## Variables
 
 - [Fund](variables/Fund.md)

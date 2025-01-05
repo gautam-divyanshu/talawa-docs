@@ -6,6 +6,8 @@
 
 # Interface: InterfaceEncodedVideo
 
+Defined in: [src/models/EncodedVideo.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EncodedVideo.ts#L10)
+
 Interface representing a document for an encoded video in MongoDB.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for an encoded video in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/EncodedVideo.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EncodedVideo.ts#L11)
+Defined in: [src/models/EncodedVideo.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EncodedVideo.ts#L11)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for an encoded video in MongoDB.
 
 \> **content**: `string`
 
-#### Defined in
-
-[src/models/EncodedVideo.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EncodedVideo.ts#L13)
+Defined in: [src/models/EncodedVideo.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EncodedVideo.ts#L13)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a document for an encoded video in MongoDB.
 
 \> **fileName**: `string`
 
-#### Defined in
-
-[src/models/EncodedVideo.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EncodedVideo.ts#L12)
+Defined in: [src/models/EncodedVideo.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EncodedVideo.ts#L12)
 
 ***
 
@@ -44,6 +40,4 @@ Interface representing a document for an encoded video in MongoDB.
 
 \> **numberOfUses**: `number`
 
-#### Defined in
-
-[src/models/EncodedVideo.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EncodedVideo.ts#L14)
+Defined in: [src/models/EncodedVideo.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EncodedVideo.ts#L14)

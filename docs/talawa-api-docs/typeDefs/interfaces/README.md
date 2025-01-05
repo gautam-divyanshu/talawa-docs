@@ -6,8 +6,6 @@
 
 # typeDefs/interfaces
 
-## Index
-
-### Variables
+## Variables
 
 - [interfaces](variables/interfaces.md)

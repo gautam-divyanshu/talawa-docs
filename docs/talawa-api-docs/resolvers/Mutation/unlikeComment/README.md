@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/unlikeComment
 
-## Index
-
-### Variables
+## Variables
 
 - [unlikeComment](variables/unlikeComment.md)

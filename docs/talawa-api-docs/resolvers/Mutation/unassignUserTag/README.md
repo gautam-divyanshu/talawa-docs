@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/unassignUserTag
 
-## Index
-
-### Variables
+## Variables
 
 - [unassignUserTag](variables/unassignUserTag.md)

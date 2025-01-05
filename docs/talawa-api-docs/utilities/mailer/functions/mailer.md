@@ -8,6 +8,8 @@
 
 \> **mailer**(`mailFields`): `Promise`\<`string` \| `SentMessageInfo`\>
 
+Defined in: [src/utilities/mailer.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/mailer.ts#L27)
+
 Sends an email using Nodemailer.
 
 ## Parameters
@@ -27,7 +29,3 @@ A promise resolving to `SMTPTransport.SentMessageInfo` on success, or an error s
 ## Remarks
 
 This is a utility method for sending emails.
-
-## Defined in
-
-[src/utilities/mailer.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/mailer.ts#L27)

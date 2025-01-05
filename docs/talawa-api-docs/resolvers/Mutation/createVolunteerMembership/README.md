@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createVolunteerMembership
 
-## Index
-
-### Variables
+## Variables
 
 - [createVolunteerMembership](variables/createVolunteerMembership.md)

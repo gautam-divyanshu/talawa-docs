@@ -6,8 +6,6 @@
 
 # resolvers/Query/customFieldsByOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [customFieldsByOrganization](variables/customFieldsByOrganization.md)

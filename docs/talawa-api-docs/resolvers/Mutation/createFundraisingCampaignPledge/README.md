@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createFundraisingCampaignPledge
 
-## Index
-
-### Variables
+## Variables
 
 - [createFundraisingCampaignPledge](variables/createFundraisingCampaignPledge.md)

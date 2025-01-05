@@ -8,6 +8,8 @@
 
 \> `const` **addUserToGroupChat**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addUserToGroupChat"`\]
 
+Defined in: [src/resolvers/Mutation/addUserToGroupChat.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/addUserToGroupChat.ts#L28)
+
 Mutation resolver function to add a user to a group chat.
 
 This function performs the following actions:
@@ -29,7 +31,3 @@ The arguments for the mutation, containing `input` with `chatId`, `userId`, and 
 ## Param
 
 The context object for the mutation, containing the current user's ID.
-
-## Defined in
-
-[src/resolvers/Mutation/addUserToGroupChat.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addUserToGroupChat.ts#L28)

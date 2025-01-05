@@ -8,6 +8,8 @@
 
 \> `const` **AgendaSectionSchema**: `Schema`\<`Model`, \{ `createdAt`: `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `string`; `items`: `ObjectId`[]; `relatedEvent`: `null` \| `ObjectId`; `sequence`: `number`; `updatedAt`: `Date`; \}, `Document`\<`unknown`, \{\}, `FlatRecord`\<\{ `createdAt`: `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `string`; `items`: `ObjectId`[]; `relatedEvent`: `null` \| `ObjectId`; `sequence`: `number`; `updatedAt`: `Date`; \}\>\> & `FlatRecord`\<\{ `createdAt`: `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `string`; `items`: `ObjectId`[]; `relatedEvent`: `null` \| `ObjectId`; `sequence`: `number`; `updatedAt`: `Date`; \}\> & `object`\>
 
+Defined in: [src/models/AgendaSection.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L34)
+
 This is the Mongoose schema for an agenda section.
 
 ## Param
@@ -37,7 +39,3 @@ Date when the agenda section was created.
 ## Param
 
 Date when the agenda section was last updated.
-
-## Defined in
-
-[src/models/AgendaSection.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaSection.ts#L34)

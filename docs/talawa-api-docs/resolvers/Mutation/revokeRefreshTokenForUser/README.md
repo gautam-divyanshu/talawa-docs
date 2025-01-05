@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/revokeRefreshTokenForUser
 
-## Index
-
-### Variables
+## Variables
 
 - [revokeRefreshTokenForUser](variables/revokeRefreshTokenForUser.md)

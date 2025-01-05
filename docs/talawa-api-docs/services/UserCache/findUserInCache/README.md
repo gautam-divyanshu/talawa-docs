@@ -6,8 +6,6 @@
 
 # services/UserCache/findUserInCache
 
-## Index
-
-### Functions
+## Functions
 
 - [findUserInCache](functions/findUserInCache.md)

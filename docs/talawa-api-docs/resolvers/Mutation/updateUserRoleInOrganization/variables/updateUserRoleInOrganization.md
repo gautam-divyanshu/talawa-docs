@@ -8,6 +8,8 @@
 
 \> `const` **updateUserRoleInOrganization**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"updateUserRoleInOrganization"`\]
 
+Defined in: [src/resolvers/Mutation/updateUserRoleInOrganization.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/updateUserRoleInOrganization.ts#L24)
+
 This function enables a SUPERADMIN to change the role of a user in an organization.
 
 ## Param
@@ -26,7 +28,3 @@ context of entire application
 
 Updated organization.
 Only SUPERADMIN & ADMIN of a organization can update the role of a user in an organization.
-
-## Defined in
-
-[src/resolvers/Mutation/updateUserRoleInOrganization.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/updateUserRoleInOrganization.ts#L24)

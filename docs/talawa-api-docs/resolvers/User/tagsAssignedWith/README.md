@@ -6,12 +6,10 @@
 
 # resolvers/User/tagsAssignedWith
 
-## Index
-
-### Variables
+## Variables
 
 - [tagsAssignedWith](variables/tagsAssignedWith.md)
 
-### Functions
+## Functions
 
 - [parseCursor](functions/parseCursor.md)

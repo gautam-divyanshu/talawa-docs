@@ -6,8 +6,6 @@
 
 # typeDefs/errors/common
 
-## Index
-
-### Variables
+## Variables
 
 - [commonErrors](variables/commonErrors.md)

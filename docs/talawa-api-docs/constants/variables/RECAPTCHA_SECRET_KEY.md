@@ -8,6 +8,4 @@
 
 \> `const` **RECAPTCHA\_SECRET\_KEY**: `undefined` \| `string` = `ENV.RECAPTCHA_SECRET_KEY`
 
-## Defined in
-
-[src/constants.ts:781](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/constants.ts#L781)
+Defined in: [src/constants.ts:781](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/constants.ts#L781)

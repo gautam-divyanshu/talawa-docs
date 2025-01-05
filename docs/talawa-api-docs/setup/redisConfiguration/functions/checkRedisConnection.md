@@ -8,6 +8,8 @@
 
 \> **checkRedisConnection**(`url`): `Promise`\<`boolean`\>
 
+Defined in: [src/setup/redisConfiguration.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/redisConfiguration.ts#L12)
+
 The function `checkRedisConnection` checks if a connection to Redis can be established using the
 provided URL.
 
@@ -25,7 +27,3 @@ It is used to establish a connection to the Redis server.
 `Promise`\<`boolean`\>
 
 a Promise that resolves to a boolean value.
-
-## Defined in
-
-[src/setup/redisConfiguration.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/redisConfiguration.ts#L12)

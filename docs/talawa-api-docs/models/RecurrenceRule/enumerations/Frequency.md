@@ -6,6 +6,8 @@
 
 # Enumeration: Frequency
 
+Defined in: [src/models/RecurrenceRule.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L12)
+
 Enumeration for recurrence frequencies.
 
 ## Enumeration Members
@@ -14,9 +16,7 @@ Enumeration for recurrence frequencies.
 
 \> **DAILY**: `"DAILY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L16)
+Defined in: [src/models/RecurrenceRule.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L16)
 
 ***
 
@@ -24,9 +24,7 @@ Enumeration for recurrence frequencies.
 
 \> **MONTHLY**: `"MONTHLY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L14)
+Defined in: [src/models/RecurrenceRule.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L14)
 
 ***
 
@@ -34,9 +32,7 @@ Enumeration for recurrence frequencies.
 
 \> **WEEKLY**: `"WEEKLY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L15)
+Defined in: [src/models/RecurrenceRule.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L15)
 
 ***
 
@@ -44,6 +40,4 @@ Enumeration for recurrence frequencies.
 
 \> **YEARLY**: `"YEARLY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L13)
+Defined in: [src/models/RecurrenceRule.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L13)

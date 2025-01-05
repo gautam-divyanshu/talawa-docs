@@ -6,12 +6,10 @@
 
 # models/ChatMessage
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceChatMessage](interfaces/InterfaceChatMessage.md)
 
-### Variables
+## Variables
 
 - [ChatMessage](variables/ChatMessage.md)

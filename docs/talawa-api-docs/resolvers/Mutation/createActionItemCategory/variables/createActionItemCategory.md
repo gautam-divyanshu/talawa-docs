@@ -8,6 +8,8 @@
 
 \> `const` **createActionItemCategory**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createActionItemCategory"`\]
 
+Defined in: [src/resolvers/Mutation/createActionItemCategory.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createActionItemCategory.ts#L46)
+
 Mutation resolver function to create a new ActionItemCategory.
 
 This function performs the following actions:
@@ -47,7 +49,3 @@ A promise that resolves to the created ActionItemCategory.
  - findUserInCache - Service function to retrieve users from cache.
  - cacheUsers - Service function to cache updated user data.
  - adminCheck - Utility function to check if a user is an admin of an organization.
-
-## Defined in
-
-[src/resolvers/Mutation/createActionItemCategory.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createActionItemCategory.ts#L46)

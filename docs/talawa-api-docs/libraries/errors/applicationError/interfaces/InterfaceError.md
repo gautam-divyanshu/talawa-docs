@@ -6,6 +6,8 @@
 
 # Interface: InterfaceError
 
+Defined in: [src/libraries/errors/applicationError.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L4)
+
 Interface representing the structure of an error.
 
 ## Properties
@@ -14,11 +16,9 @@ Interface representing the structure of an error.
 
 \> **code**: `null` \| `string`
 
+Defined in: [src/libraries/errors/applicationError.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L8)
+
 The error code, can be null
-
-#### Defined in
-
-[src/libraries/errors/applicationError.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/errors/applicationError.ts#L8)
 
 ***
 
@@ -26,11 +26,9 @@ The error code, can be null
 
 \> **message**: `string`
 
+Defined in: [src/libraries/errors/applicationError.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L6)
+
 The error message
-
-#### Defined in
-
-[src/libraries/errors/applicationError.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/errors/applicationError.ts#L6)
 
 ***
 
@@ -38,11 +36,9 @@ The error message
 
 \> `optional` **metadata**: `Record`\<`string`, `string`\>
 
+Defined in: [src/libraries/errors/applicationError.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L12)
+
 Optional additional metadata associated with the error
-
-#### Defined in
-
-[src/libraries/errors/applicationError.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/errors/applicationError.ts#L12)
 
 ***
 
@@ -50,8 +46,6 @@ Optional additional metadata associated with the error
 
 \> **param**: `null` \| `string`
 
+Defined in: [src/libraries/errors/applicationError.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L10)
+
 The parameter associated with the error, can be null
-
-#### Defined in
-
-[src/libraries/errors/applicationError.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/errors/applicationError.ts#L10)

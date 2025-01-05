@@ -8,6 +8,4 @@
 
 \> **WeekDays**: `"FRIDAY"` \| `"MONDAY"` \| `"SATURDAY"` \| `"SUNDAY"` \| `"THURSDAY"` \| `"TUESDAY"` \| `"WEDNESDAY"`
 
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3391](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3391)
+Defined in: [src/types/generatedGraphQLTypes.ts:3396](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3396)

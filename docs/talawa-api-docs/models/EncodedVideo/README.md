@@ -6,12 +6,10 @@
 
 # models/EncodedVideo
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceEncodedVideo](interfaces/InterfaceEncodedVideo.md)
 
-### Variables
+## Variables
 
 - [EncodedVideo](variables/EncodedVideo.md)

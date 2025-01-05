@@ -8,6 +8,8 @@
 
 \> `const` **removeOrganizationImage**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeOrganizationImage"`\]
 
+Defined in: [src/resolvers/Mutation/removeOrganizationImage.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeOrganizationImage.ts#L23)
+
 This function enables to remove an organization's image.
 
 ## Param
@@ -32,7 +34,3 @@ The following checks are done:
 ## Returns
 
 Updated Organization.
-
-## Defined in
-
-[src/resolvers/Mutation/removeOrganizationImage.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeOrganizationImage.ts#L23)

@@ -8,6 +8,8 @@
 
 \> `const` **removeEventVolunteerGroup**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeEventVolunteerGroup"`\]
 
+Defined in: [src/resolvers/Mutation/removeEventVolunteerGroup.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeEventVolunteerGroup.ts#L31)
+
 This function enables to remove an Event Volunteer Group.
 
 ## Param
@@ -32,7 +34,3 @@ The following checks are done:
 ## Returns
 
 Event Volunteer group.
-
-## Defined in
-
-[src/resolvers/Mutation/removeEventVolunteerGroup.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeEventVolunteerGroup.ts#L31)

@@ -8,6 +8,8 @@
 
 \> `const` **deleteNote**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"deleteNote"`\]
 
+Defined in: [src/resolvers/Mutation/deleteNote.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/deleteNote.ts#L25)
+
 This function deletes a note.
 
 ## Param
@@ -33,7 +35,3 @@ NotFoundError if the user or note is not found
 ## Throws
 
 UnauthorizedError if the user is not the creator of the note.
-
-## Defined in
-
-[src/resolvers/Mutation/deleteNote.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/deleteNote.ts#L25)

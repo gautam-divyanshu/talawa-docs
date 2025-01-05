@@ -6,9 +6,7 @@
 
 # resolvers/Mutation/updateChat
 
-## Index
-
-### Variables
+## Variables
 
 - [updateChat](variables/updateChat.md)
 

@@ -6,12 +6,10 @@
 
 # resolvers/Query/advertisementsConnection
 
-## Index
-
-### Variables
+## Variables
 
 - [advertisementsConnection](variables/advertisementsConnection.md)
 
-### Functions
+## Functions
 
 - [parseCursor](functions/parseCursor.md)

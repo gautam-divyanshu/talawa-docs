@@ -6,6 +6,8 @@
 
 # Interface: InterfaceUser
 
+Defined in: [src/models/User.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L17)
+
 Represents a MongoDB document for User in the database.
 
 ## Properties
@@ -14,15 +16,15 @@ Represents a MongoDB document for User in the database.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/User.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L18)
+Defined in: [src/models/User.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L18)
 
 ***
 
 ### address
 
 \> **address**: `object`
+
+Defined in: [src/models/User.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L21)
 
 #### city
 
@@ -56,19 +58,13 @@ Represents a MongoDB document for User in the database.
 
 \> **state**: `string`
 
-#### Defined in
-
-[src/models/User.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L21)
-
 ***
 
 ### appUserProfileId
 
 \> **appUserProfileId**: `any`
 
-#### Defined in
-
-[src/models/User.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L20)
+Defined in: [src/models/User.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L20)
 
 ***
 
@@ -76,9 +72,7 @@ Represents a MongoDB document for User in the database.
 
 \> **birthDate**: `Date`
 
-#### Defined in
-
-[src/models/User.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L32)
+Defined in: [src/models/User.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L32)
 
 ***
 
@@ -86,9 +80,7 @@ Represents a MongoDB document for User in the database.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/User.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L33)
+Defined in: [src/models/User.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L33)
 
 ***
 
@@ -96,9 +88,7 @@ Represents a MongoDB document for User in the database.
 
 \> **educationGrade**: `string`
 
-#### Defined in
-
-[src/models/User.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L35)
+Defined in: [src/models/User.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L35)
 
 ***
 
@@ -106,9 +96,7 @@ Represents a MongoDB document for User in the database.
 
 \> **email**: `string`
 
-#### Defined in
-
-[src/models/User.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L36)
+Defined in: [src/models/User.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L36)
 
 ***
 
@@ -116,9 +104,7 @@ Represents a MongoDB document for User in the database.
 
 \> **employmentStatus**: `string`
 
-#### Defined in
-
-[src/models/User.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L37)
+Defined in: [src/models/User.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L37)
 
 ***
 
@@ -126,9 +112,7 @@ Represents a MongoDB document for User in the database.
 
 \> **eventsAttended**: `any`[]
 
-#### Defined in
-
-[src/models/User.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L53)
+Defined in: [src/models/User.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L53)
 
 ***
 
@@ -136,9 +120,7 @@ Represents a MongoDB document for User in the database.
 
 \> **firstName**: `string`
 
-#### Defined in
-
-[src/models/User.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L39)
+Defined in: [src/models/User.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L39)
 
 ***
 
@@ -146,9 +128,7 @@ Represents a MongoDB document for User in the database.
 
 \> **gender**: `string`
 
-#### Defined in
-
-[src/models/User.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L40)
+Defined in: [src/models/User.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L40)
 
 ***
 
@@ -156,9 +136,7 @@ Represents a MongoDB document for User in the database.
 
 \> **identifier**: `number`
 
-#### Defined in
-
-[src/models/User.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L19)
+Defined in: [src/models/User.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L19)
 
 ***
 
@@ -166,9 +144,7 @@ Represents a MongoDB document for User in the database.
 
 \> **image**: `undefined` \| `null` \| `string`
 
-#### Defined in
-
-[src/models/User.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L41)
+Defined in: [src/models/User.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L41)
 
 ***
 
@@ -176,9 +152,7 @@ Represents a MongoDB document for User in the database.
 
 \> **joinedOrganizations**: `any`[]
 
-#### Defined in
-
-[src/models/User.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L42)
+Defined in: [src/models/User.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L42)
 
 ***
 
@@ -186,9 +160,7 @@ Represents a MongoDB document for User in the database.
 
 \> **lastName**: `string`
 
-#### Defined in
-
-[src/models/User.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L43)
+Defined in: [src/models/User.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L43)
 
 ***
 
@@ -196,9 +168,7 @@ Represents a MongoDB document for User in the database.
 
 \> **maritalStatus**: `string`
 
-#### Defined in
-
-[src/models/User.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L44)
+Defined in: [src/models/User.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L44)
 
 ***
 
@@ -206,9 +176,7 @@ Represents a MongoDB document for User in the database.
 
 \> **membershipRequests**: `any`[]
 
-#### Defined in
-
-[src/models/User.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L45)
+Defined in: [src/models/User.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L45)
 
 ***
 
@@ -216,9 +184,7 @@ Represents a MongoDB document for User in the database.
 
 \> **organizationsBlockedBy**: `any`[]
 
-#### Defined in
-
-[src/models/User.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L46)
+Defined in: [src/models/User.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L46)
 
 ***
 
@@ -226,15 +192,15 @@ Represents a MongoDB document for User in the database.
 
 \> `optional` **password**: `null` \| `string`
 
-#### Defined in
-
-[src/models/User.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L47)
+Defined in: [src/models/User.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L47)
 
 ***
 
 ### phone
 
 \> **phone**: `object`
+
+Defined in: [src/models/User.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L48)
 
 #### home
 
@@ -248,19 +214,13 @@ Represents a MongoDB document for User in the database.
 
 \> **work**: `string`
 
-#### Defined in
-
-[src/models/User.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L48)
-
 ***
 
 ### registeredEvents
 
 \> **registeredEvents**: `any`[]
 
-#### Defined in
-
-[src/models/User.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L55)
+Defined in: [src/models/User.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L55)
 
 ***
 
@@ -268,9 +228,7 @@ Represents a MongoDB document for User in the database.
 
 \> **status**: `string`
 
-#### Defined in
-
-[src/models/User.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L56)
+Defined in: [src/models/User.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L56)
 
 ***
 
@@ -278,6 +236,4 @@ Represents a MongoDB document for User in the database.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/User.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/User.ts#L58)
+Defined in: [src/models/User.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/User.ts#L58)

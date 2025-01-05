@@ -8,6 +8,8 @@
 
 \> `const` **checkAuth**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"checkAuth"`\]
 
+Defined in: [src/resolvers/Query/checkAuth.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/checkAuth.ts#L13)
+
 This query determines whether or not the user exists in the database (MongoDB).
 
 ## Param
@@ -29,7 +31,3 @@ An `object` that contains user data.
 ## Remarks
 
 You can learn about GraphQL `Resolvers` [here](https://www.apollographql.com/docs/apollo-server/data/resolvers/).
-
-## Defined in
-
-[src/resolvers/Query/checkAuth.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/checkAuth.ts#L13)

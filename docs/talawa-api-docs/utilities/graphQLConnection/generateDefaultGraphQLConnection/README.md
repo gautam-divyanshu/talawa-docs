@@ -6,13 +6,11 @@
 
 # utilities/graphQLConnection/generateDefaultGraphQLConnection
 
-## Index
-
-### Type Aliases
+## Type Aliases
 
 - [DefaultGraphQLConnection](type-aliases/DefaultGraphQLConnection.md)
 - [DefaultGraphQLConnectionEdge](type-aliases/DefaultGraphQLConnectionEdge.md)
 
-### Functions
+## Functions
 
 - [generateDefaultGraphQLConnection](functions/generateDefaultGraphQLConnection.md)

@@ -6,8 +6,6 @@
 
 # utilities/encodedVideoStorage/uploadEncodedVideo
 
-## Index
-
-### Functions
+## Functions
 
 - [uploadEncodedVideo](functions/uploadEncodedVideo.md)

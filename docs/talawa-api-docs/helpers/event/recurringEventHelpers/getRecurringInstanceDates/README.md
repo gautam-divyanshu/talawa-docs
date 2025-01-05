@@ -6,8 +6,6 @@
 
 # helpers/event/recurringEventHelpers/getRecurringInstanceDates
 
-## Index
-
-### Functions
+## Functions
 
 - [getRecurringInstanceDates](functions/getRecurringInstanceDates.md)

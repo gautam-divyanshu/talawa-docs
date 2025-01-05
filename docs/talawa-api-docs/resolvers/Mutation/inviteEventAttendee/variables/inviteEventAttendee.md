@@ -8,6 +8,8 @@
 
 \> `const` **inviteEventAttendee**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"inviteEventAttendee"`\]
 
+Defined in: [src/resolvers/Mutation/inviteEventAttendee.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/inviteEventAttendee.ts#L40)
+
 Invites an attendee to an event.
 
 This resolver function facilitates the invitation process for an attendee to participate in an event.
@@ -41,7 +43,3 @@ UnauthorizedError if the current user lacks authorization to invite attendees.
 ## Throws
 
 ConflictError if the user is already invited to the event.
-
-## Defined in
-
-[src/resolvers/Mutation/inviteEventAttendee.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/inviteEventAttendee.ts#L40)

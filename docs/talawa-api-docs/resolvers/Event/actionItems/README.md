@@ -6,8 +6,6 @@
 
 # resolvers/Event/actionItems
 
-## Index
-
-### Variables
+## Variables
 
 - [actionItems](variables/actionItems.md)

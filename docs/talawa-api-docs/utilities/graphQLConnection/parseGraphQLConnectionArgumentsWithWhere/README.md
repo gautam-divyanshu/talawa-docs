@@ -6,14 +6,12 @@
 
 # utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithWhere
 
-## Index
-
-### Type Aliases
+## Type Aliases
 
 - [ParsedGraphQLConnectionArgumentsWithWhere](type-aliases/ParsedGraphQLConnectionArgumentsWithWhere.md)
 - [ParseGraphQLConnectionArgumentsWithWhereResult](type-aliases/ParseGraphQLConnectionArgumentsWithWhereResult.md)
 - [ParseGraphQLConnectionWhereResult](type-aliases/ParseGraphQLConnectionWhereResult.md)
 
-### Functions
+## Functions
 
 - [parseGraphQLConnectionArgumentsWithWhere](functions/parseGraphQLConnectionArgumentsWithWhere.md)

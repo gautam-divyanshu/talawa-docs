@@ -6,12 +6,10 @@
 
 # models/CheckOut
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceCheckOut](interfaces/InterfaceCheckOut.md)
 
-### Variables
+## Variables
 
 - [CheckOut](variables/CheckOut.md)

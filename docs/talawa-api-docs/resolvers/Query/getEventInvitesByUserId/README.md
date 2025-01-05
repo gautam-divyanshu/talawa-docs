@@ -6,8 +6,6 @@
 
 # resolvers/Query/getEventInvitesByUserId
 
-## Index
-
-### Variables
+## Variables
 
 - [getEventInvitesByUserId](variables/getEventInvitesByUserId.md)

@@ -8,6 +8,8 @@
 
 \> **validateRecaptcha**(`string`): `boolean`
 
+Defined in: [src/setup/reCaptcha.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/reCaptcha.ts#L7)
+
 The function validates whether a given string matches the pattern of a reCAPTCHA token.
 
 ## Parameters
@@ -24,7 +26,3 @@ validated. In this case, it is expected to be a string containing a Recaptcha re
 `boolean`
 
 a boolean value.
-
-## Defined in
-
-[src/setup/reCaptcha.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/reCaptcha.ts#L7)

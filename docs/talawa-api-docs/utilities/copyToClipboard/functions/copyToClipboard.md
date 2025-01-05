@@ -8,6 +8,8 @@
 
 \> **copyToClipboard**(`text`): `void`
 
+Defined in: [src/utilities/copyToClipboard.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/copyToClipboard.ts#L10)
+
 Copies the given text to the clipboard.
 
 ## Parameters
@@ -25,7 +27,3 @@ The content that needs to be copied to the clipboard.
 ## Remarks
 
 This is a utility method and works only in development or test mode.
-
-## Defined in
-
-[src/utilities/copyToClipboard.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/copyToClipboard.ts#L10)

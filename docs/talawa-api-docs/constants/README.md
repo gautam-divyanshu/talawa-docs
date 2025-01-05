@@ -6,14 +6,12 @@
 
 # constants
 
-## Index
-
-### Enumerations
+## Enumerations
 
 - [EventVolunteerResponse](enumerations/EventVolunteerResponse.md)
 - [TransactionLogTypes](enumerations/TransactionLogTypes.md)
 
-### Variables
+## Variables
 
 - [ACCESS\_TOKEN\_SECRET](variables/ACCESS_TOKEN_SECRET.md)
 - [ACTION\_ITEM\_CATEGORY\_ALREADY\_EXISTS](variables/ACTION_ITEM_CATEGORY_ALREADY_EXISTS.md)

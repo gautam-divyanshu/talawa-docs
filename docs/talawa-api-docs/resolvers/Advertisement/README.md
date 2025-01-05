@@ -6,8 +6,6 @@
 
 # resolvers/Advertisement
 
-## Index
-
-### Variables
+## Variables
 
 - [Advertisement](variables/Advertisement.md)

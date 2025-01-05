@@ -8,6 +8,8 @@
 
 \> **parseCursor**(`__namedParameters`): [`ParseGraphQLConnectionCursorResult`](../../../../utilities/graphQLConnection/parseGraphQLConnectionArguments/type-aliases/ParseGraphQLConnectionCursorResult.md)\<`string`\>
 
+Defined in: [src/resolvers/Query/advertisementsConnection.ts:105](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/advertisementsConnection.ts#L105)
+
 Validates and transforms the cursor passed to the connection resolver.
 
 This function checks if the provided cursor value corresponds to a valid advertisement in the database. If the cursor is valid, it is returned as-is. Otherwise, an error is recorded.
@@ -23,7 +25,3 @@ This function checks if the provided cursor value corresponds to a valid adverti
 [`ParseGraphQLConnectionCursorResult`](../../../../utilities/graphQLConnection/parseGraphQLConnectionArguments/type-aliases/ParseGraphQLConnectionCursorResult.md)\<`string`\>
 
 An object containing a flag indicating success or failure, the parsed cursor, and any errors encountered during validation.
-
-## Defined in
-
-[src/resolvers/Query/advertisementsConnection.ts:105](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/advertisementsConnection.ts#L105)

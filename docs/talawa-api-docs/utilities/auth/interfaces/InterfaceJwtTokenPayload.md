@@ -6,6 +6,8 @@
 
 # Interface: InterfaceJwtTokenPayload
 
+Defined in: [src/utilities/auth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/auth.ts#L9)
+
 Interface representing the payload of a JWT token.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing the payload of a JWT token.
 
 \> **email**: `string`
 
-#### Defined in
-
-[src/utilities/auth.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/auth.ts#L14)
+Defined in: [src/utilities/auth.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/auth.ts#L14)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing the payload of a JWT token.
 
 \> **firstName**: `string`
 
-#### Defined in
-
-[src/utilities/auth.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/auth.ts#L12)
+Defined in: [src/utilities/auth.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/auth.ts#L12)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing the payload of a JWT token.
 
 \> **lastName**: `string`
 
-#### Defined in
-
-[src/utilities/auth.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/auth.ts#L13)
+Defined in: [src/utilities/auth.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/auth.ts#L13)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing the payload of a JWT token.
 
 \> **tokenVersion**: `number`
 
-#### Defined in
-
-[src/utilities/auth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/auth.ts#L10)
+Defined in: [src/utilities/auth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/auth.ts#L10)
 
 ***
 
@@ -54,6 +48,4 @@ Interface representing the payload of a JWT token.
 
 \> **userId**: `string`
 
-#### Defined in
-
-[src/utilities/auth.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/auth.ts#L11)
+Defined in: [src/utilities/auth.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/auth.ts#L11)

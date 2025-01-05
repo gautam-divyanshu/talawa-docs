@@ -8,6 +8,8 @@
 
 \> `const` **organization**: [`AdvertisementResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/AdvertisementResolvers.md)\[`"organization"`\]
 
+Defined in: [src/resolvers/Advertisement/organization.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Advertisement/organization.ts#L15)
+
 Resolver function for the `organization` field of an `Advertisement`.
 
 This function fetches the organization associated with a given advertisement.
@@ -21,7 +23,3 @@ The parent `Advertisement` object. This contains the `organizationId` field, whi
 ## Returns
 
 A promise that resolves to the organization object found in the database, or `null` if no organization is found.
-
-## Defined in
-
-[src/resolvers/Advertisement/organization.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Advertisement/organization.ts#L15)

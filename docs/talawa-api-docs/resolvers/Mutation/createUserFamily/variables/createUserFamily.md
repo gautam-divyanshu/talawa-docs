@@ -8,6 +8,8 @@
 
 \> `const` **createUserFamily**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createUserFamily"`\]
 
+Defined in: [src/resolvers/Mutation/createUserFamily.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createUserFamily.ts#L45)
+
 Creates a new user family and associates users with it.
 
 This function performs the following actions:
@@ -42,7 +44,3 @@ The created user family object.
  - AppUserProfile - The AppUserProfile model used to interact with user profile data in the database.
  - UserFamily - The UserFamily model used to interact with user family data in the database.
  - superAdminCheck - A utility function to check if the user is a super admin.
-
-## Defined in
-
-[src/resolvers/Mutation/createUserFamily.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createUserFamily.ts#L45)

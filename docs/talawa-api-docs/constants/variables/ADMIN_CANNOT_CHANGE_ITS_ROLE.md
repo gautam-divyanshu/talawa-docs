@@ -8,6 +8,4 @@
 
 \> `const` **ADMIN\_CANNOT\_CHANGE\_ITS\_ROLE**: `Readonly`\<\{ `CODE`: `"admin.changeOwnRole"`; `MESSAGE`: `"Error: Current admin cannot change its own role"`; `PARAM`: `"admin.changeOwnRole"`; \}\>
 
-## Defined in
-
-[src/constants.ts:415](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/constants.ts#L415)
+Defined in: [src/constants.ts:415](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/constants.ts#L415)

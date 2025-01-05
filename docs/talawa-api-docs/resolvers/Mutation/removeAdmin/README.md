@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeAdmin
 
-## Index
-
-### Variables
+## Variables
 
 - [removeAdmin](variables/removeAdmin.md)

@@ -8,6 +8,8 @@
 
 \> `const` **organization**: [`RecurrenceRuleResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/RecurrenceRuleResolvers.md)\[`"organization"`\]
 
+Defined in: [src/resolvers/RecurrenceRule/organization.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/RecurrenceRule/organization.ts#L17)
+
 Resolver function for the `organization` field of a `RecurrenceRule`.
 
 This function retrieves the organization associated with a specific recurrence rule.
@@ -24,7 +26,3 @@ A promise that resolves to the organization document found in the database. This
 
  - Organization - The Organization model used to interact with the organizations collection in the database.
  - RecurrenceRuleResolvers - The type definition for the resolvers of the RecurrenceRule fields.
-
-## Defined in
-
-[src/resolvers/RecurrenceRule/organization.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/RecurrenceRule/organization.ts#L17)

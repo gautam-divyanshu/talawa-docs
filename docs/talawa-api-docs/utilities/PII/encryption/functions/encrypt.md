@@ -8,6 +8,8 @@
 
 \> **encrypt**(`text`, `key`, `iv`): `string`
 
+Defined in: [src/utilities/PII/encryption.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/PII/encryption.ts#L10)
+
 Encrypts plaintext using AES-256-CBC encryption.
 
 ## Parameters
@@ -35,7 +37,3 @@ The initialization vector (IV) as a string in hexadecimal format.
 `string`
 
 The encrypted ciphertext as a hexadecimal string.
-
-## Defined in
-
-[src/utilities/PII/encryption.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/PII/encryption.ts#L10)

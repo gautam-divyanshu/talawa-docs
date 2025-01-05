@@ -6,6 +6,8 @@
 
 # Interface: InterfaceOrganizationCustomField
 
+Defined in: [src/models/OrganizationCustomField.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationCustomField.ts#L8)
+
 Represents the structure of an organization custom field in the database.
 
 ## Properties
@@ -14,9 +16,7 @@ Represents the structure of an organization custom field in the database.
 
 \> **\_id**: `string`
 
-#### Defined in
-
-[src/models/OrganizationCustomField.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/OrganizationCustomField.ts#L9)
+Defined in: [src/models/OrganizationCustomField.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationCustomField.ts#L9)
 
 ***
 
@@ -24,9 +24,7 @@ Represents the structure of an organization custom field in the database.
 
 \> **name**: `string`
 
-#### Defined in
-
-[src/models/OrganizationCustomField.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/OrganizationCustomField.ts#L12)
+Defined in: [src/models/OrganizationCustomField.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationCustomField.ts#L12)
 
 ***
 
@@ -34,9 +32,7 @@ Represents the structure of an organization custom field in the database.
 
 \> **organizationId**: `string`
 
-#### Defined in
-
-[src/models/OrganizationCustomField.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/OrganizationCustomField.ts#L10)
+Defined in: [src/models/OrganizationCustomField.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationCustomField.ts#L10)
 
 ***
 
@@ -44,6 +40,4 @@ Represents the structure of an organization custom field in the database.
 
 \> **type**: `string`
 
-#### Defined in
-
-[src/models/OrganizationCustomField.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/OrganizationCustomField.ts#L11)
+Defined in: [src/models/OrganizationCustomField.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationCustomField.ts#L11)

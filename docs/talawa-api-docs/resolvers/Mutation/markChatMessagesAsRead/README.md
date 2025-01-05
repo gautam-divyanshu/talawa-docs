@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/markChatMessagesAsRead
 
-## Index
-
-### Variables
+## Variables
 
 - [markChatMessagesAsRead](variables/markChatMessagesAsRead.md)

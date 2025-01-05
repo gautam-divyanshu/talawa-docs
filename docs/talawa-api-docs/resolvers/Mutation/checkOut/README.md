@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/checkOut
 
-## Index
-
-### Variables
+## Variables
 
 - [checkOut](variables/checkOut.md)

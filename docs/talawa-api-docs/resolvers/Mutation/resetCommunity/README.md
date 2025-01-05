@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/resetCommunity
 
-## Index
-
-### Variables
+## Variables
 
 - [resetCommunity](variables/resetCommunity.md)

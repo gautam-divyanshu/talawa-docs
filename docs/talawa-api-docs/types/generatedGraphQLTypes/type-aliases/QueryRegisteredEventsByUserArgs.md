@@ -8,6 +8,8 @@
 
 \> **QueryRegisteredEventsByUserArgs**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:2708](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L2708)
+
 ## Type declaration
 
 ### id?
@@ -17,7 +19,3 @@
 ### orderBy?
 
 \> `optional` **orderBy**: [`InputMaybe`](InputMaybe.md)\<[`EventOrderByInput`](EventOrderByInput.md)\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:2703](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L2703)

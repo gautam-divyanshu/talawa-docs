@@ -8,6 +8,8 @@
 
 \> `const` **removeOrganizationCustomField**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeOrganizationCustomField"`\]
 
+Defined in: [src/resolvers/Mutation/removeOrganizationCustomField.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeOrganizationCustomField.ts#L36)
+
 This function enables an admin to remove an organization colleciton field.
 
 ## Param
@@ -34,7 +36,3 @@ The following checks are done:
 ## Returns
 
 Deleted Organization Custom Field.
-
-## Defined in
-
-[src/resolvers/Mutation/removeOrganizationCustomField.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeOrganizationCustomField.ts#L36)

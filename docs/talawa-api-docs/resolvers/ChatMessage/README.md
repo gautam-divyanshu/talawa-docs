@@ -6,8 +6,6 @@
 
 # resolvers/ChatMessage
 
-## Index
-
-### Variables
+## Variables
 
 - [ChatMessage](variables/ChatMessage.md)

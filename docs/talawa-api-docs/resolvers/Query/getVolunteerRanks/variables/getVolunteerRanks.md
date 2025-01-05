@@ -8,6 +8,8 @@
 
 \> `const` **getVolunteerRanks**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"getVolunteerRanks"`\]
 
+Defined in: [src/resolvers/Query/getVolunteerRanks.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/getVolunteerRanks.ts#L14)
+
 This query will fetch volunteer ranks based on the provided time frame (allTime, weekly, monthly, yearly),
 and it will filter the results based on an array of volunteer IDs.
 
@@ -22,7 +24,3 @@ An object that contains where object for volunteer ranks.
 ## Returns
 
 An array of `VolunteerRank` object.
-
-## Defined in
-
-[src/resolvers/Query/getVolunteerRanks.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/getVolunteerRanks.ts#L14)

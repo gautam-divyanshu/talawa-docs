@@ -8,6 +8,8 @@
 
 \> **encodedVideoExtentionCheck**(`encodedUrl`): `boolean`
 
+Defined in: [src/utilities/encodedVideoStorage/encodedVideoExtensionCheck.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/encodedVideoStorage/encodedVideoExtensionCheck.ts#L6)
+
 Checks if the provided base64 encoded URL represents a video with the "mp4" extension.
 
 ## Parameters
@@ -23,7 +25,3 @@ The base64 encoded URL of the video.
 `boolean`
 
 `true` if the encoded URL is a valid mp4 video, `false` otherwise.
-
-## Defined in
-
-[src/utilities/encodedVideoStorage/encodedVideoExtensionCheck.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/encodedVideoStorage/encodedVideoExtensionCheck.ts#L6)

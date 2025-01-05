@@ -8,6 +8,8 @@
 
 \> **translatePlural**(...`args`): `any`
 
+Defined in: [src/libraries/requestContext.ts:113](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/requestContext.ts#L113)
+
 Translates a plural string using the current context's translation function.
 
 ## Parameters
@@ -23,7 +25,3 @@ The arguments to pass to the translation function.
 `any`
 
 The translated string.
-
-## Defined in
-
-[src/libraries/requestContext.ts:113](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/requestContext.ts#L113)

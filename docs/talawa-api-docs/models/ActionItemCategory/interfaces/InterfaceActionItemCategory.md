@@ -6,6 +6,8 @@
 
 # Interface: InterfaceActionItemCategory
 
+Defined in: [src/models/ActionItemCategory.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItemCategory.ts#L11)
+
 Represents a database document for ActionItemCategory in MongoDB.
 
 ## Properties
@@ -14,9 +16,7 @@ Represents a database document for ActionItemCategory in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/ActionItemCategory.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItemCategory.ts#L12)
+Defined in: [src/models/ActionItemCategory.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItemCategory.ts#L12)
 
 ***
 
@@ -24,9 +24,7 @@ Represents a database document for ActionItemCategory in MongoDB.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/ActionItemCategory.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItemCategory.ts#L17)
+Defined in: [src/models/ActionItemCategory.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItemCategory.ts#L17)
 
 ***
 
@@ -34,9 +32,7 @@ Represents a database document for ActionItemCategory in MongoDB.
 
 \> **creatorId**: `any`
 
-#### Defined in
-
-[src/models/ActionItemCategory.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItemCategory.ts#L16)
+Defined in: [src/models/ActionItemCategory.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItemCategory.ts#L16)
 
 ***
 
@@ -44,9 +40,7 @@ Represents a database document for ActionItemCategory in MongoDB.
 
 \> **isDisabled**: `boolean`
 
-#### Defined in
-
-[src/models/ActionItemCategory.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItemCategory.ts#L15)
+Defined in: [src/models/ActionItemCategory.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItemCategory.ts#L15)
 
 ***
 
@@ -54,9 +48,7 @@ Represents a database document for ActionItemCategory in MongoDB.
 
 \> **name**: `string`
 
-#### Defined in
-
-[src/models/ActionItemCategory.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItemCategory.ts#L13)
+Defined in: [src/models/ActionItemCategory.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItemCategory.ts#L13)
 
 ***
 
@@ -64,9 +56,7 @@ Represents a database document for ActionItemCategory in MongoDB.
 
 \> **organizationId**: `any`
 
-#### Defined in
-
-[src/models/ActionItemCategory.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItemCategory.ts#L14)
+Defined in: [src/models/ActionItemCategory.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItemCategory.ts#L14)
 
 ***
 
@@ -74,6 +64,4 @@ Represents a database document for ActionItemCategory in MongoDB.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/ActionItemCategory.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItemCategory.ts#L18)
+Defined in: [src/models/ActionItemCategory.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItemCategory.ts#L18)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateActionItem
 
-## Index
-
-### Variables
+## Variables
 
 - [updateActionItem](variables/updateActionItem.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createDonation
 
-## Index
-
-### Variables
+## Variables
 
 - [createDonation](variables/createDonation.md)

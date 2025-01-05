@@ -8,6 +8,8 @@
 
 \> `const` **items**: [`AgendaSectionResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/AgendaSectionResolvers.md)\[`"items"`\]
 
+Defined in: [src/resolvers/AgendaSection/items.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/AgendaSection/items.ts#L17)
+
 Resolver function for the `items` field of an `AgendaSection`.
 
 This function retrieves the agenda items associated with a specific agenda section.
@@ -24,7 +26,3 @@ A promise that resolves to the agenda item documents found in the database. Thes
 
  - AgendaItemModel - The AgendaItem model used to interact with the agenda items collection in the database.
  - AgendaSectionResolvers - The type definition for the resolvers of the AgendaSection fields.
-
-## Defined in
-
-[src/resolvers/AgendaSection/items.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/AgendaSection/items.ts#L17)

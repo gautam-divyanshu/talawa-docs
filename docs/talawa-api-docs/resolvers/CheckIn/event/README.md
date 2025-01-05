@@ -6,8 +6,6 @@
 
 # resolvers/CheckIn/event
 
-## Index
-
-### Variables
+## Variables
 
 - [event](variables/event.md)

@@ -6,12 +6,10 @@
 
 # models/Chat
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceChat](interfaces/InterfaceChat.md)
 
-### Variables
+## Variables
 
 - [Chat](variables/Chat.md)

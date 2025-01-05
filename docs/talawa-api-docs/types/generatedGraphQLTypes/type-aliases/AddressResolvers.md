@@ -8,6 +8,8 @@
 
 \> **AddressResolvers**\<`ContextType`, `ParentType`\>: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3992](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3992)
+
 ## Type Parameters
 
 • **ContextType** = `any`
@@ -51,7 +53,3 @@
 ### state?
 
 \> `optional` **state**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"String"`\]\>, `ParentType`, `ContextType`\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3985](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3985)

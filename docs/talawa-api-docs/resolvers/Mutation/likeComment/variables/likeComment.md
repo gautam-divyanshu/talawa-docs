@@ -8,6 +8,8 @@
 
 \> `const` **likeComment**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"likeComment"`\]
 
+Defined in: [src/resolvers/Mutation/likeComment.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/likeComment.ts#L18)
+
 This function enables to like a post.
 
 ## Param
@@ -32,7 +34,3 @@ The following checks are done:
 ## Returns
 
 Post without the like
-
-## Defined in
-
-[src/resolvers/Mutation/likeComment.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/likeComment.ts#L18)

@@ -6,8 +6,6 @@
 
 # services/PostCache/deletePostFromCache
 
-## Index
-
-### Functions
+## Functions
 
 - [deletePostFromCache](functions/deletePostFromCache.md)

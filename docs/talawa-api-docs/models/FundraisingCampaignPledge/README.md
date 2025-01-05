@@ -6,12 +6,10 @@
 
 # models/FundraisingCampaignPledge
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceFundraisingCampaignPledges](interfaces/InterfaceFundraisingCampaignPledges.md)
 
-### Variables
+## Variables
 
 - [FundraisingCampaignPledge](variables/FundraisingCampaignPledge.md)

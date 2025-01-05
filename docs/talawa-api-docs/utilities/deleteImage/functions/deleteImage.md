@@ -8,6 +8,8 @@
 
 \> **deleteImage**(`imageToBeDeleted`, `imageBelongingToItem`?): `Promise`\<`void`\>
 
+Defined in: [src/utilities/deleteImage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/deleteImage.ts#L13)
+
 Deletes an image file if it meets deletion criteria based on usage and duplicate checks.
 
 ## Parameters
@@ -29,7 +31,3 @@ Optional. Indicates if the image belongs to a specific item for duplicate check
 `Promise`\<`void`\>
 
 A promise that resolves once the image is successfully deleted
-
-## Defined in
-
-[src/utilities/deleteImage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/deleteImage.ts#L13)

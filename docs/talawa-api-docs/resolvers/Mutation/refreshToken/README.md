@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/refreshToken
 
-## Index
-
-### Variables
+## Variables
 
 - [refreshToken](variables/refreshToken.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/addUserImage
 
-## Index
-
-### Variables
+## Variables
 
 - [addUserImage](variables/addUserImage.md)

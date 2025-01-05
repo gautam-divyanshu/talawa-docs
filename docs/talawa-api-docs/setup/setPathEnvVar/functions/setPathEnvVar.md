@@ -8,6 +8,8 @@
 
 \> **setPathEnvVar**(`installDir`): `void`
 
+Defined in: [src/setup/setPathEnvVar.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/setPathEnvVar.ts#L24)
+
 Sets the PATH environment variable to include the directory where MinIO is installed.
 
 This function modifies the PATH environment variable to include the specified installation directory.
@@ -36,7 +38,3 @@ The directory where MinIO is installed.
 ## Throws
 
 Error If updating the PATH environment variable fails.
-
-## Defined in
-
-[src/setup/setPathEnvVar.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/setPathEnvVar.ts#L24)

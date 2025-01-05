@@ -6,12 +6,10 @@
 
 # models/Fund
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceFund](interfaces/InterfaceFund.md)
 
-### Variables
+## Variables
 
 - [Fund](variables/Fund.md)

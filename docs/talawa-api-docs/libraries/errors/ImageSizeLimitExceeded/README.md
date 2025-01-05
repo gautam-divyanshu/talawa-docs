@@ -6,8 +6,6 @@
 
 # libraries/errors/ImageSizeLimitExceeded
 
-## Index
-
-### Classes
+## Classes
 
 - [ImageSizeLimitExceeded](classes/ImageSizeLimitExceeded.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Query/post
 
-## Index
-
-### Variables
+## Variables
 
 - [post](variables/post.md)

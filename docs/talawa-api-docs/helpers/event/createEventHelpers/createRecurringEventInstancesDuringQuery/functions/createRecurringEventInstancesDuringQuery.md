@@ -8,6 +8,8 @@
 
 \> **createRecurringEventInstancesDuringQuery**(`organizationId`): `Promise`\<`void`\>
 
+Defined in: [src/helpers/event/createEventHelpers/createRecurringEventInstancesDuringQuery.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/createEventHelpers/createRecurringEventInstancesDuringQuery.ts#L32)
+
 Creates instances of recurring events up to a specified date during queries.
 
 ## Parameters
@@ -38,7 +40,3 @@ This function follows these steps:
   - Determines how many existing instances exist and calculates how many new instances to generate.
   - Generates new instances starting from the latest instance date recorded.
   - Updates the latest instance date for the recurrence rule.
-
-## Defined in
-
-[src/helpers/event/createEventHelpers/createRecurringEventInstancesDuringQuery.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/createEventHelpers/createRecurringEventInstancesDuringQuery.ts#L32)

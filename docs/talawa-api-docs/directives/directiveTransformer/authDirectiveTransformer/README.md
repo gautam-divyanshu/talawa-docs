@@ -6,8 +6,6 @@
 
 # directives/directiveTransformer/authDirectiveTransformer
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

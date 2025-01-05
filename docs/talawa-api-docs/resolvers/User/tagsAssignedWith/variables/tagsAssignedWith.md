@@ -8,6 +8,8 @@
 
 \> `const` **tagsAssignedWith**: [`UserResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/UserResolvers.md)\[`"tagsAssignedWith"`\]
 
+Defined in: [src/resolvers/User/tagsAssignedWith.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/User/tagsAssignedWith.ts#L39)
+
 Resolver function for the `tagsAssignedWith` field of a `User`.
 
 This resolver is used to resolve the `tagsAssignedWith` field of a `User` type.
@@ -34,7 +36,3 @@ A promise that resolves to a connection object containing the tags assigned to t
  - MAXIMUM_FETCH_LIMIT - The maximum number of users that can be fetched in a single request.
  - GraphQLError - The error class used to throw GraphQL errors.
  - UserTagResolvers - The type definition for the resolvers of the User fields.
-
-## Defined in
-
-[src/resolvers/User/tagsAssignedWith.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/User/tagsAssignedWith.ts#L39)

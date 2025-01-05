@@ -8,6 +8,8 @@
 
 \> **createRecurrenceRule**(`recurrenceRuleString`, `recurrenceStartDate`, `recurrenceEndDate`, `organizationId`, `baseRecurringEventId`, `latestInstanceDate`, `session`): `Promise`\<[`InterfaceRecurrenceRule`](../../../../../models/RecurrenceRule/interfaces/InterfaceRecurrenceRule.md)\>
 
+Defined in: [src/helpers/event/recurringEventHelpers/createRecurrenceRule.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/createRecurrenceRule.ts#L27)
+
 Creates a recurrence rule document based on the provided parameters.
 
 ## Parameters
@@ -66,7 +68,3 @@ This function performs the following steps:
 1. Parses the recurrenceRuleString into an rrule object using rrule string.
 2. Extracts relevant fields from the rrule object such as frequency, weekdays, interval, etc.
 3. Creates a new RecurrenceRule document in the database with the extracted fields.
-
-## Defined in
-
-[src/helpers/event/recurringEventHelpers/createRecurrenceRule.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/recurringEventHelpers/createRecurrenceRule.ts#L27)

@@ -6,8 +6,6 @@
 
 # utilities/loadDefaultOrg
 
-## Index
-
-### Functions
+## Functions
 
 - [loadDefaultOrganiation](functions/loadDefaultOrganiation.md)

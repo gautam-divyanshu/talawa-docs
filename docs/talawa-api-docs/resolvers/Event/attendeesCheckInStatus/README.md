@@ -6,8 +6,6 @@
 
 # resolvers/Event/attendeesCheckInStatus
 
-## Index
-
-### Variables
+## Variables
 
 - [attendeesCheckInStatus](variables/attendeesCheckInStatus.md)

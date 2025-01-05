@@ -6,8 +6,6 @@
 
 # resolvers/Query/getVolunteerMembership
 
-## Index
-
-### Variables
+## Variables
 
 - [getVolunteerMembership](variables/getVolunteerMembership.md)

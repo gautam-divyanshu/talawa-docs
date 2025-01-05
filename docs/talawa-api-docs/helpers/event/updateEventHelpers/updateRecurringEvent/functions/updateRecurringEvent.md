@@ -8,6 +8,8 @@
 
 \> **updateRecurringEvent**(`args`, `event`, `session`): `Promise`\<[`InterfaceEvent`](../../../../../models/Event/interfaces/InterfaceEvent.md)\>
 
+Defined in: [src/helpers/event/updateEventHelpers/updateRecurringEvent.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/updateEventHelpers/updateRecurringEvent.ts#L20)
+
 This function updates a recurring event based on the provided arguments.
 
 ## Parameters
@@ -35,7 +37,3 @@ The Mongoose client session for database transactions.
 `Promise`\<[`InterfaceEvent`](../../../../../models/Event/interfaces/InterfaceEvent.md)\>
 
 The updated event object.
-
-## Defined in
-
-[src/helpers/event/updateEventHelpers/updateRecurringEvent.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/updateEventHelpers/updateRecurringEvent.ts#L20)

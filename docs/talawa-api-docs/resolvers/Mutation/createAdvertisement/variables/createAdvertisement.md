@@ -8,6 +8,8 @@
 
 \> `const` **createAdvertisement**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createAdvertisement"`\]
 
+Defined in: [src/resolvers/Mutation/createAdvertisement.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createAdvertisement.ts#L37)
+
 Mutation resolver function to create a new advertisement.
 
 This function performs the following actions:
@@ -38,7 +40,3 @@ The context for the mutation, including:
 
 An object containing the created advertisement, including:
   - `advertisement`: The created advertisement details with the media URL.
-
-## Defined in
-
-[src/resolvers/Mutation/createAdvertisement.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createAdvertisement.ts#L37)

@@ -8,6 +8,8 @@
 
 \> `const` **removeUserFamily**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeUserFamily"`\]
 
+Defined in: [src/resolvers/Mutation/removeUserFamily.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeUserFamily.ts#L26)
+
 This function enables to remove a user family.
 
 ## Param
@@ -31,7 +33,3 @@ context of entire application.
 ## Returns
 
 Deleted user family.
-
-## Defined in
-
-[src/resolvers/Mutation/removeUserFamily.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeUserFamily.ts#L26)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeUserFamily
 
-## Index
-
-### Variables
+## Variables
 
 - [removeUserFamily](variables/removeUserFamily.md)

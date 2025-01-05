@@ -6,8 +6,6 @@
 
 # setup/updateIgnoreFile
 
-## Index
-
-### Functions
+## Functions
 
 - [updateIgnoreFile](functions/updateIgnoreFile.md)

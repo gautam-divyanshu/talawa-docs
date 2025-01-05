@@ -6,8 +6,6 @@
 
 # utilities/graphQLConnection/getCommonGraphQLConnectionFilter
 
-## Index
-
-### Functions
+## Functions
 
 - [getCommonGraphQLConnectionFilter](functions/getCommonGraphQLConnectionFilter.md)

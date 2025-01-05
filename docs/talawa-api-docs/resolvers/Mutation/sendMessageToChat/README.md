@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/sendMessageToChat
 
-## Index
-
-### Variables
+## Variables
 
 - [sendMessageToChat](variables/sendMessageToChat.md)

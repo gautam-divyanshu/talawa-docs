@@ -8,6 +8,4 @@
 
 \> `const` **ORGANIZATION\_MEMBER\_NOT\_FOUND\_ERROR**: `Readonly`\<\{ `CODE`: `"organization.member.notFound"`; `DESC`: `"Organization's user is not a member"`; `MESSAGE`: `"organization.member.notFound"`; `PARAM`: `"organizationMember"`; \}\>
 
-## Defined in
-
-[src/constants.ts:196](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/constants.ts#L196)
+Defined in: [src/constants.ts:196](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/constants.ts#L196)

@@ -8,6 +8,8 @@
 
 \> `const` **forgotPassword**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"forgotPassword"`\]
 
+Defined in: [src/resolvers/Mutation/forgotPassword.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/forgotPassword.ts#L23)
+
 This function enables a user to restore password.
 
 ## Param
@@ -29,7 +31,3 @@ The following tasks are done:
 ## Returns
 
 True if the operation is successful.
-
-## Defined in
-
-[src/resolvers/Mutation/forgotPassword.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/forgotPassword.ts#L23)

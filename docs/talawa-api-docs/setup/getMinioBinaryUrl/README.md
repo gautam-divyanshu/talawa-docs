@@ -6,8 +6,6 @@
 
 # setup/getMinioBinaryUrl
 
-## Index
-
-### Functions
+## Functions
 
 - [getMinioBinaryUrl](functions/getMinioBinaryUrl.md)

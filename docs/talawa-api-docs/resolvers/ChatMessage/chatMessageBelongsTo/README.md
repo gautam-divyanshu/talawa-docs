@@ -6,8 +6,6 @@
 
 # resolvers/ChatMessage/chatMessageBelongsTo
 
-## Index
-
-### Variables
+## Variables
 
 - [chatMessageBelongsTo](variables/chatMessageBelongsTo.md)

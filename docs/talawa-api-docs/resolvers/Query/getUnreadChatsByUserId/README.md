@@ -6,8 +6,6 @@
 
 # resolvers/Query/getUnreadChatsByUserId
 
-## Index
-
-### Variables
+## Variables
 
 - [getUnreadChatsByUserId](variables/getUnreadChatsByUserId.md)

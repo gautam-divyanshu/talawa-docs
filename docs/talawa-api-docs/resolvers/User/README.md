@@ -6,8 +6,6 @@
 
 # resolvers/User
 
-## Index
-
-### Variables
+## Variables
 
 - [User](variables/User.md)

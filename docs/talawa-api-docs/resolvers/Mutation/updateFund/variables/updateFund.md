@@ -8,6 +8,8 @@
 
 \> `const` **updateFund**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"updateFund"`\]
 
+Defined in: [src/resolvers/Mutation/updateFund.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/updateFund.ts#L33)
+
 This function enables to update an organization specific fund.
 
 ## Param
@@ -34,7 +36,3 @@ The following checks are done:
 ## Returns
 
 Updated Fund.
-
-## Defined in
-
-[src/resolvers/Mutation/updateFund.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/updateFund.ts#L33)

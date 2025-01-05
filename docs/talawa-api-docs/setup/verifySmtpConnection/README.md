@@ -6,8 +6,6 @@
 
 # setup/verifySmtpConnection
 
-## Index
-
-### Functions
+## Functions
 
 - [verifySmtpConnection](functions/verifySmtpConnection.md)

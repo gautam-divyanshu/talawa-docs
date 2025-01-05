@@ -6,9 +6,7 @@
 
 # setup/redisConfiguration
 
-## Index
-
-### Functions
+## Functions
 
 - [askForRedisUrl](functions/askForRedisUrl.md)
 - [checkExistingRedis](functions/checkExistingRedis.md)

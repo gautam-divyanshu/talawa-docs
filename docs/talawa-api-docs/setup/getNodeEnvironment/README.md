@@ -6,8 +6,6 @@
 
 # setup/getNodeEnvironment
 
-## Index
-
-### Functions
+## Functions
 
 - [getNodeEnvironment](functions/getNodeEnvironment.md)

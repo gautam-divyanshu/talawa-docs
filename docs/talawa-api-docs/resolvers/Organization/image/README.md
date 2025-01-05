@@ -6,8 +6,6 @@
 
 # resolvers/Organization/image
 
-## Index
-
-### Variables
+## Variables
 
 - [image](variables/image.md)

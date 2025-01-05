@@ -8,6 +8,8 @@
 
 \> **generateDefaultGraphQLConnection**\<`T0`\>(): [`DefaultGraphQLConnection`](../type-aliases/DefaultGraphQLConnection.md)\<`T0`\>
 
+Defined in: [src/utilities/graphQLConnection/generateDefaultGraphQLConnection.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/generateDefaultGraphQLConnection.ts#L30)
+
 This is a factory function to create a base graphql connection object with default fields
 that correspond to a connection with no data and no traversal properties in any direction.
 
@@ -24,7 +26,3 @@ that correspond to a connection with no data and no traversal properties in any 
 ```ts
 const connection = generateDefaultGraphQLConnection();
 ```
-
-## Defined in
-
-[src/utilities/graphQLConnection/generateDefaultGraphQLConnection.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/graphQLConnection/generateDefaultGraphQLConnection.ts#L30)

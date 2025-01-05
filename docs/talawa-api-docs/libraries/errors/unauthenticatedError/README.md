@@ -6,8 +6,6 @@
 
 # libraries/errors/unauthenticatedError
 
-## Index
-
-### Classes
+## Classes
 
 - [UnauthenticatedError](classes/UnauthenticatedError.md)

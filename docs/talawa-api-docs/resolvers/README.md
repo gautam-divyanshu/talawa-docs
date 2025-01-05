@@ -6,8 +6,6 @@
 
 # resolvers
 
-## Index
-
-### Variables
+## Variables
 
 - [composedResolvers](variables/composedResolvers.md)

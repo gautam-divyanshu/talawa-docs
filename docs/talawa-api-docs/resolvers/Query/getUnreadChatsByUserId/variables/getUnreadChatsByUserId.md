@@ -8,6 +8,8 @@
 
 \> `const` **getUnreadChatsByUserId**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"getUnreadChatsByUserId"`\]
 
+Defined in: [src/resolvers/Query/getUnreadChatsByUserId.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/getUnreadChatsByUserId.ts#L13)
+
 This query will fetch all the Chats for the current user from the database.
 
 ## Param
@@ -25,7 +27,3 @@ If the `directChats` object is null then it throws `NotFoundError` error.
 
 You can learn about GraphQL `Resolvers`
 [here](https://www.apollographql.com/docs/apollo-server/data/resolvers/).
-
-## Defined in
-
-[src/resolvers/Query/getUnreadChatsByUserId.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/getUnreadChatsByUserId.ts#L13)

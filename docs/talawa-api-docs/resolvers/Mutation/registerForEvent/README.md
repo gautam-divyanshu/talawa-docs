@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/registerForEvent
 
-## Index
-
-### Variables
+## Variables
 
 - [registerForEvent](variables/registerForEvent.md)

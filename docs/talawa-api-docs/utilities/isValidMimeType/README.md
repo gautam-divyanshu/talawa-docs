@@ -6,8 +6,6 @@
 
 # utilities/isValidMimeType
 
-## Index
-
-### Functions
+## Functions
 
 - [isValidMimeType](functions/isValidMimeType.md)

@@ -8,6 +8,8 @@
 
 \> **isNotNullish**\<`T0`\>(`value`): `value is T0`
 
+Defined in: [src/utilities/graphQLConnection/index.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/index.ts#L15)
+
 This function is used to check nullish state of a value passed to it. Nullish means the
 value being either `null` or `undefined`. If the value is found to be nullish, the function
 returns the boolean `false`, else it returns the boolean `true`.
@@ -38,7 +40,3 @@ function print(str: string | null) \{
   \}
 \}
 ```
-
-## Defined in
-
-[src/utilities/graphQLConnection/index.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/graphQLConnection/index.ts#L15)

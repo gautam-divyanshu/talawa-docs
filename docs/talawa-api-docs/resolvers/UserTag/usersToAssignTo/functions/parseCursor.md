@@ -8,6 +8,8 @@
 
 \> **parseCursor**(`__namedParameters`): [`ParseGraphQLConnectionCursorResult`](../../../../utilities/graphQLConnection/parseGraphQLConnectionArguments/type-aliases/ParseGraphQLConnectionCursorResult.md)\<`string`\>
 
+Defined in: [src/resolvers/UserTag/usersToAssignTo.ts:171](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/UserTag/usersToAssignTo.ts#L171)
+
 Parses the cursor value for the `usersToAssignTo` connection resolver.
 
 This function is used to parse the cursor value provided to the `usersToAssignTo` connection resolver.
@@ -30,7 +32,3 @@ An object containing the parsed cursor value or an array of errors if the cursor
  - DefaultGraphQLArgumentError - The type definition for the default GraphQL argument error.
  - ParseGraphQLConnectionCursorArguments - The type definition for the arguments provided to the parseCursor function.
  - ParseGraphQLConnectionCursorResult - The type definition for the result of the parseCursor function.
-
-## Defined in
-
-[src/resolvers/UserTag/usersToAssignTo.ts:171](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/UserTag/usersToAssignTo.ts#L171)

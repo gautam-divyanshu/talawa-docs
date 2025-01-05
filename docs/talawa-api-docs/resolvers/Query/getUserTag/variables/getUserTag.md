@@ -8,6 +8,8 @@
 
 \> `const` **getUserTag**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"getUserTag"`\]
 
+Defined in: [src/resolvers/Query/getUserTag.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/getUserTag.ts#L18)
+
 Retrieves a user tag by its ID.
 
 This function fetches a specific user tag from the database using its ID. If the user tag
@@ -24,7 +26,3 @@ The arguments provided by the GraphQL query, including the ID of the user tag to
 ## Returns
 
 The user tag with the specified ID.
-
-## Defined in
-
-[src/resolvers/Query/getUserTag.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/getUserTag.ts#L18)

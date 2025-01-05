@@ -6,8 +6,6 @@
 
 # helpers/event/recurringEventHelpers/generateRecurrenceRuleString
 
-## Index
-
-### Functions
+## Functions
 
 - [generateRecurrenceRuleString](functions/generateRecurrenceRuleString.md)

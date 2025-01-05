@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createAdmin
 
-## Index
-
-### Variables
+## Variables
 
 - [createAdmin](variables/createAdmin.md)

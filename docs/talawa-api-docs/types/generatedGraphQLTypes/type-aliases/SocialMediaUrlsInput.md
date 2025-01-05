@@ -8,6 +8,8 @@
 
 \> **SocialMediaUrlsInput**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:2795](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L2795)
+
 ## Type declaration
 
 ### facebook?
@@ -41,7 +43,3 @@
 ### youTube?
 
 \> `optional` **youTube**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"String"`\]\[`"input"`\]\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:2790](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L2790)

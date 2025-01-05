@@ -8,6 +8,8 @@
 
 \> `const` **blockPluginCreationBySuperadmin**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"blockPluginCreationBySuperadmin"`\]
 
+Defined in: [src/resolvers/Mutation/blockPluginCreationBySuperadmin.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/blockPluginCreationBySuperadmin.ts#L34)
+
 Allows a superadmin to enable or disable plugin creation for a specific user.
 
 This function performs several checks:
@@ -34,7 +36,3 @@ The context of the entire application, including user information and other cont
 ## Returns
 
 A promise that resolves to the updated user app profile object with the new `pluginCreationAllowed` value.
-
-## Defined in
-
-[src/resolvers/Mutation/blockPluginCreationBySuperadmin.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/blockPluginCreationBySuperadmin.ts#L34)

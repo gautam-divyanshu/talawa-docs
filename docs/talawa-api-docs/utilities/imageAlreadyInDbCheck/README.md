@@ -6,8 +6,6 @@
 
 # utilities/imageAlreadyInDbCheck
 
-## Index
-
-### Functions
+## Functions
 
 - [imageAlreadyInDbCheck](functions/imageAlreadyInDbCheck.md)

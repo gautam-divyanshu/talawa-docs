@@ -6,12 +6,10 @@
 
 # models/TagUser
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceTagUser](interfaces/InterfaceTagUser.md)
 
-### Variables
+## Variables
 
 - [TagUser](variables/TagUser.md)

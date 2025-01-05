@@ -6,8 +6,6 @@
 
 # resolvers/UserTag/parentTag
 
-## Index
-
-### Variables
+## Variables
 
 - [parentTag](variables/parentTag.md)

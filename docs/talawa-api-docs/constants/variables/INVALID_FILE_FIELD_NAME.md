@@ -8,6 +8,4 @@
 
 \> `const` **INVALID\_FILE\_FIELD\_NAME**: `Readonly`\<\{ `CODE`: `"invalid.fieldFileName"`; `DESC`: `"Invalid file input field name received."`; `MESSAGE`: `"invalid.fieldFileName"`; \}\>
 
-## Defined in
-
-[src/constants.ts:740](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/constants.ts#L740)
+Defined in: [src/constants.ts:740](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/constants.ts#L740)

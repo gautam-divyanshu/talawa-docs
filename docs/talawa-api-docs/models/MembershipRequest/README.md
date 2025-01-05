@@ -6,12 +6,10 @@
 
 # models/MembershipRequest
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceMembershipRequest](interfaces/InterfaceMembershipRequest.md)
 
-### Variables
+## Variables
 
 - [MembershipRequest](variables/MembershipRequest.md)

@@ -6,8 +6,6 @@
 
 # checks
 
-## Index
-
-### Functions
+## Functions
 
 - [logIssues](functions/logIssues.md)

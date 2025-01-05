@@ -8,6 +8,8 @@
 
 \> `const` **createFund**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createFund"`\]
 
+Defined in: [src/resolvers/Mutation/createFund.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createFund.ts#L43)
+
 Creates a new fundraising fund for a specified organization.
 
 This function performs the following actions:
@@ -41,7 +43,3 @@ The context for the mutation, including:
 ## Returns
 
 The created fund record.
-
-## Defined in
-
-[src/resolvers/Mutation/createFund.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createFund.ts#L43)

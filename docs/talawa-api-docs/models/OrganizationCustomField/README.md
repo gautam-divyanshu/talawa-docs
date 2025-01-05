@@ -6,12 +6,10 @@
 
 # models/OrganizationCustomField
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceOrganizationCustomField](interfaces/InterfaceOrganizationCustomField.md)
 
-### Variables
+## Variables
 
 - [OrganizationCustomField](variables/OrganizationCustomField.md)

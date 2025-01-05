@@ -8,6 +8,8 @@
 
 \> **UserPhoneResolvers**\<`ContextType`, `ParentType`\>: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:5050](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L5050)
+
 ## Type Parameters
 
 • **ContextType** = `any`
@@ -31,7 +33,3 @@
 ### work?
 
 \> `optional` **work**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"PhoneNumber"`\]\>, `ParentType`, `ContextType`\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:5043](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L5043)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/saveFcmToken
 
-## Index
-
-### Variables
+## Variables
 
 - [saveFcmToken](variables/saveFcmToken.md)

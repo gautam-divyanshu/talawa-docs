@@ -6,8 +6,6 @@
 
 # resolvers/Mutation
 
-## Index
-
-### Variables
+## Variables
 
 - [Mutation](variables/Mutation.md)

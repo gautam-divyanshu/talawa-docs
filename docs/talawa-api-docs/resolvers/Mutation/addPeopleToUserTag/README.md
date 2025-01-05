@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/addPeopleToUserTag
 
-## Index
-
-### Variables
+## Variables
 
 - [addPeopleToUserTag](variables/addPeopleToUserTag.md)

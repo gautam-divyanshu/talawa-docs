@@ -6,8 +6,6 @@
 
 # typeDefs/subscriptions
 
-## Index
-
-### Variables
+## Variables
 
 - [subscriptions](variables/subscriptions.md)

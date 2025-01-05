@@ -6,12 +6,10 @@
 
 # models/Event
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceEvent](interfaces/InterfaceEvent.md)
 
-### Variables
+## Variables
 
 - [Event](variables/Event.md)

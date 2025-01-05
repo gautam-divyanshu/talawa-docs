@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/otp
 
-## Index
-
-### Variables
+## Variables
 
 - [otp](variables/otp.md)

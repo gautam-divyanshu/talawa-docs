@@ -8,6 +8,8 @@
 
 \> **createSampleOrganization**(): `Promise`\<`void`\>
 
+Defined in: [src/utilities/createSampleOrganizationUtil.ts:266](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/createSampleOrganizationUtil.ts#L266)
+
 Creates a sample organization with associated users, events, posts, and plugins.
 
 ## Returns
@@ -15,7 +17,3 @@ Creates a sample organization with associated users, events, posts, and plugins.
 `Promise`\<`void`\>
 
 A promise that resolves when the sample organization and its related data have been created
-
-## Defined in
-
-[src/utilities/createSampleOrganizationUtil.ts:266](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/createSampleOrganizationUtil.ts#L266)

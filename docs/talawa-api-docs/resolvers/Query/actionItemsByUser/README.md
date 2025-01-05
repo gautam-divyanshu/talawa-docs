@@ -6,8 +6,6 @@
 
 # resolvers/Query/actionItemsByUser
 
-## Index
-
-### Variables
+## Variables
 
 - [actionItemsByUser](variables/actionItemsByUser.md)

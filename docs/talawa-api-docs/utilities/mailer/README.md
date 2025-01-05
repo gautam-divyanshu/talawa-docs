@@ -6,12 +6,10 @@
 
 # utilities/mailer
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceMailFields](interfaces/InterfaceMailFields.md)
 
-### Functions
+## Functions
 
 - [mailer](functions/mailer.md)

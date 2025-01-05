@@ -8,6 +8,8 @@
 
 \> `const` **registerForEvent**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"registerForEvent"`\]
 
+Defined in: [src/resolvers/Mutation/registerForEvent.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/registerForEvent.ts#L35)
+
 Enables a user to register for an event.
 
 This resolver function allows a user to register for a specific event.
@@ -44,7 +46,3 @@ The function performs the following checks:
 1. Checks if the event exists.
 2. Checks if the current user has already registered for the event.
 If the user is invited, their registration status is updated. Otherwise, a new entry is created in the EventAttendee collection.
-
-## Defined in
-
-[src/resolvers/Mutation/registerForEvent.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/registerForEvent.ts#L35)

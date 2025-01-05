@@ -6,6 +6,8 @@
 
 # Interface: InterfaceLoggableDocument
 
+Defined in: [src/libraries/dbLogger.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/dbLogger.ts#L53)
+
 Interface for a document that includes logging information.
 
 ## Extends
@@ -18,15 +20,13 @@ Interface for a document that includes logging information.
 
 \> `optional` **\_\_v**: `any`
 
+Defined in: node\_modules/mongoose/types/document.d.ts:26
+
 This documents __v.
 
 #### Inherited from
 
 `Document.__v`
-
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:26
 
 ***
 
@@ -34,21 +34,21 @@ node\_modules/mongoose/types/document.d.ts:26
 
 \> `optional` **\_id**: `any`
 
+Defined in: node\_modules/mongoose/types/document.d.ts:23
+
 This documents _id.
 
 #### Inherited from
 
 `Document._id`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:23
-
 ***
 
 ### $locals
 
 \> **$locals**: `Record`\<`string`, `unknown`\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:71
 
 Empty object that you can use for storing properties on the document. This
 is handy for passing data to middleware without conflicting with Mongoose
@@ -58,15 +58,13 @@ internals.
 
 `Document.$locals`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:71
-
 ***
 
 ### $op
 
 \> **$op**: `null` \| `"validate"` \| `"save"` \| `"remove"`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:84
 
 A string containing the current operation that Mongoose is executing
 on this document. Can be `null`, `'save'`, `'validate'`, or `'remove'`.
@@ -75,15 +73,13 @@ on this document. Can be `null`, `'save'`, `'validate'`, or `'remove'`.
 
 `Document.$op`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:84
-
 ***
 
 ### $where
 
 \> **$where**: `Record`\<`string`, `unknown`\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:99
 
 Set this property to add additional query filters when Mongoose saves this document and `isNew` is false.
 
@@ -91,15 +87,13 @@ Set this property to add additional query filters when Mongoose saves this docum
 
 `Document.$where`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:99
-
 ***
 
 ### baseModelName?
 
 \> `optional` **baseModelName**: `string`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:102
 
 If this is a discriminator model, `baseModelName` is the name of the base model.
 
@@ -107,15 +101,13 @@ If this is a discriminator model, `baseModelName` is the name of the base model.
 
 `Document.baseModelName`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:102
-
 ***
 
 ### collection
 
 \> **collection**: `Collection`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:105
 
 Collection the model uses.
 
@@ -123,15 +115,13 @@ Collection the model uses.
 
 `Document.collection`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:105
-
 ***
 
 ### db
 
 \> **db**: `Connection`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:108
 
 Connection the model uses.
 
@@ -139,15 +129,13 @@ Connection the model uses.
 
 `Document.db`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:108
-
 ***
 
 ### errors?
 
 \> `optional` **errors**: `ValidationError`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:142
 
 Returns the current validation errors.
 
@@ -155,15 +143,13 @@ Returns the current validation errors.
 
 `Document.errors`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:142
-
 ***
 
 ### id?
 
 \> `optional` **id**: `any`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:155
 
 The string version of this documents _id.
 
@@ -171,15 +157,13 @@ The string version of this documents _id.
 
 `Document.id`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:155
-
 ***
 
 ### isNew
 
 \> **isNew**: `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:191
 
 Boolean flag specifying if the document is new.
 
@@ -187,21 +171,15 @@ Boolean flag specifying if the document is new.
 
 `Document.isNew`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:191
-
 ***
 
 ### logInfo
 
 \> **logInfo**: [`TransactionLogInfo`](../type-aliases/TransactionLogInfo.md)
 
+Defined in: [src/libraries/dbLogger.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/dbLogger.ts#L55)
+
 Information about the transaction log
-
-#### Defined in
-
-[src/libraries/dbLogger.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/dbLogger.ts#L55)
 
 ***
 
@@ -209,21 +187,21 @@ Information about the transaction log
 
 \> **schema**: `Schema`\<`Model`, \{\}, `Document`\<`unknown`, \{\}, `FlatRecord`\<\{\}\>\> & `FlatRecord`\<\{\}\> & `Required`\<\{ `_id`: `unknown`; \}\>\>
 
+Defined in: node\_modules/mongoose/types/document.d.ts:235
+
 The document's schema.
 
 #### Inherited from
 
 `Document.schema`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:235
-
 ## Methods
 
 ### $assertPopulated()
 
 \> **$assertPopulated**\<`Paths`\>(`path`, `values`?): `Omit`\<[`InterfaceLoggableDocument`](InterfaceLoggableDocument.md), keyof `Paths`\> & `Paths`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:29
 
 Assert that a given path or paths is populated. Throws an error if not populated.
 
@@ -249,15 +227,13 @@ Assert that a given path or paths is populated. Throws an error if not populated
 
 `Document.$assertPopulated`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:29
-
 ***
 
 ### $clone()
 
 \> **$clone**(): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:32
 
 Returns a deep clone of this document
 
@@ -269,15 +245,13 @@ Returns a deep clone of this document
 
 `Document.$clone`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:32
-
 ***
 
 ### $getAllSubdocs()
 
 \> **$getAllSubdocs**(): `Document`[]
+
+Defined in: node\_modules/mongoose/types/document.d.ts:35
 
 #### Returns
 
@@ -287,15 +261,13 @@ node\_modules/mongoose/types/document.d.ts:32
 
 `Document.$getAllSubdocs`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:35
-
 ***
 
 ### $getPopulatedDocs()
 
 \> **$getPopulatedDocs**(): `Document`[]
+
+Defined in: node\_modules/mongoose/types/document.d.ts:47
 
 Returns an array of all populated documents associated with the query
 
@@ -307,15 +279,13 @@ Returns an array of all populated documents associated with the query
 
 `Document.$getPopulatedDocs`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:47
-
 ***
 
 ### $ignore()
 
 \> **$ignore**(`path`): `void`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:38
 
 Don't run validation on this path or persist changes to this path.
 
@@ -333,15 +303,13 @@ Don't run validation on this path or persist changes to this path.
 
 `Document.$ignore`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:38
-
 ***
 
 ### $inc()
 
 \> **$inc**(`path`, `val`?): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:54
 
 Increments the numeric value at `path` by the given `val`.
 When you call `save()` on this document, Mongoose will send a
@@ -365,15 +333,13 @@ When you call `save()` on this document, Mongoose will send a
 
 `Document.$inc`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:54
-
 ***
 
 ### $isDefault()
 
 \> **$isDefault**(`path`): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:41
 
 Checks if a path is set to its default.
 
@@ -391,15 +357,13 @@ Checks if a path is set to its default.
 
 `Document.$isDefault`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:41
-
 ***
 
 ### $isDeleted()
 
 \> **$isDeleted**(`val`?): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:44
 
 Getter/setter, determines whether the document was removed or not.
 
@@ -417,15 +381,13 @@ Getter/setter, determines whether the document was removed or not.
 
 `Document.$isDeleted`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:44
-
 ***
 
 ### $isEmpty()
 
 \> **$isEmpty**(`path`): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:61
 
 Returns true if the given path is nullish or only contains empty objects.
 Useful for determining whether this subdoc will get stripped out by the
@@ -445,15 +407,13 @@ Useful for determining whether this subdoc will get stripped out by the
 
 `Document.$isEmpty`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:61
-
 ***
 
 ### $isValid()
 
 \> **$isValid**(`path`): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:64
 
 Checks if a path is invalid
 
@@ -471,15 +431,13 @@ Checks if a path is invalid
 
 `Document.$isValid`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:64
-
 ***
 
 ### $markValid()
 
 \> **$markValid**(`path`): `void`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:74
 
 Marks a path as valid, removing existing validation errors.
 
@@ -497,10 +455,6 @@ Marks a path as valid, removing existing validation errors.
 
 `Document.$markValid`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:74
-
 ***
 
 ### $model()
@@ -508,6 +462,8 @@ node\_modules/mongoose/types/document.d.ts:74
 #### Call Signature
 
 \> **$model**\<`ModelType`\>(`name`): `ModelType`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:77
 
 Returns the model with the given name on this document's associated connection.
 
@@ -529,13 +485,11 @@ Returns the model with the given name on this document's associated connection.
 
 `Document.$model`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:77
-
 #### Call Signature
 
 \> **$model**\<`ModelType`\>(): `ModelType`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:78
 
 Returns the model with the given name on this document's associated connection.
 
@@ -551,15 +505,13 @@ Returns the model with the given name on this document's associated connection.
 
 `Document.$model`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:78
-
 ***
 
 ### $parent()
 
 \> **$parent**(): `undefined` \| `Document`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:219
 
 If this document is a subdocument or populated document, returns the
 document's parent. Returns undefined otherwise.
@@ -572,15 +524,13 @@ document's parent. Returns undefined otherwise.
 
 `Document.$parent`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:219
-
 ***
 
 ### $session()
 
 \> **$session**(`session`?): `null` \| `ClientSession`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:91
 
 Getter/setter around the session associated with this document. Used to
 automatically set `session` if you `save()` a doc that you got from a
@@ -600,10 +550,6 @@ query with an associated session.
 
 `Document.$session`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:91
-
 ***
 
 ### $set()
@@ -611,6 +557,8 @@ node\_modules/mongoose/types/document.d.ts:91
 #### Call Signature
 
 \> **$set**(`path`, `val`, `type`, `options`?): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:94
 
 Alias for `set()`, used internally to avoid conflicts
 
@@ -640,13 +588,11 @@ Alias for `set()`, used internally to avoid conflicts
 
 `Document.$set`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:94
-
 #### Call Signature
 
 \> **$set**(`path`, `val`, `options`?): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:95
 
 Alias for `set()`, used internally to avoid conflicts
 
@@ -672,13 +618,11 @@ Alias for `set()`, used internally to avoid conflicts
 
 `Document.$set`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:95
-
 #### Call Signature
 
 \> **$set**(`value`): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:96
 
 Alias for `set()`, used internally to avoid conflicts
 
@@ -696,15 +640,13 @@ Alias for `set()`, used internally to avoid conflicts
 
 `Document.$set`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:96
-
 ***
 
 ### deleteOne()
 
 \> **deleteOne**(`options`?): `any`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:111
 
 Removes this document from the db.
 
@@ -722,15 +664,13 @@ Removes this document from the db.
 
 `Document.deleteOne`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:111
-
 ***
 
 ### depopulate()
 
 \> **depopulate**(`path`?): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:123
 
 Takes a populated field and returns it to its unpopulated state. If called with
 no arguments, then all populated fields are returned to their unpopulated state.
@@ -749,15 +689,13 @@ no arguments, then all populated fields are returned to their unpopulated state.
 
 `Document.depopulate`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:123
-
 ***
 
 ### directModifiedPaths()
 
 \> **directModifiedPaths**(): `string`[]
+
+Defined in: node\_modules/mongoose/types/document.d.ts:130
 
 Returns the list of paths that have been directly modified. A direct
 modified path is a path that you explicitly set, whether via `doc.foo = 'bar'`,
@@ -771,15 +709,13 @@ modified path is a path that you explicitly set, whether via `doc.foo = 'bar'`,
 
 `Document.directModifiedPaths`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:130
-
 ***
 
 ### equals()
 
 \> **equals**(`doc`): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:139
 
 Returns true if this document is equal to another document.
 
@@ -801,10 +737,6 @@ document has an `_id`, in which case this function falls back to using
 
 `Document.equals`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:139
-
 ***
 
 ### get()
@@ -812,6 +744,8 @@ node\_modules/mongoose/types/document.d.ts:139
 #### Call Signature
 
 \> **get**\<`T`\>(`path`, `type`?, `options`?): `any`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:145
 
 Returns the value of a path.
 
@@ -841,13 +775,11 @@ Returns the value of a path.
 
 `Document.get`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:145
-
 #### Call Signature
 
 \> **get**(`path`, `type`?, `options`?): `any`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:146
 
 Returns the value of a path.
 
@@ -873,15 +805,13 @@ Returns the value of a path.
 
 `Document.get`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:146
-
 ***
 
 ### getChanges()
 
 \> **getChanges**(): `UpdateQuery`\<[`InterfaceLoggableDocument`](InterfaceLoggableDocument.md)\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:152
 
 Returns the changes that happened to the document
 in the format that will be sent to MongoDB.
@@ -894,15 +824,13 @@ in the format that will be sent to MongoDB.
 
 `Document.getChanges`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:152
-
 ***
 
 ### increment()
 
 \> **increment**(): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:158
 
 Signal that we desire an increment of this documents version.
 
@@ -914,15 +842,13 @@ Signal that we desire an increment of this documents version.
 
 `Document.increment`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:158
-
 ***
 
 ### init()
 
 \> **init**(`obj`, `opts`?): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:165
 
 Initializes the document without setters or marking anything modified.
 Called internally after a document is returned from mongodb. Normally,
@@ -946,10 +872,6 @@ you do **not** need to call this function on your own.
 
 `Document.init`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:165
-
 ***
 
 ### invalidate()
@@ -957,6 +879,8 @@ node\_modules/mongoose/types/document.d.ts:165
 #### Call Signature
 
 \> **invalidate**\<`T`\>(`path`, `errorMsg`, `value`?, `kind`?): `null` \| `NativeError`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:168
 
 Marks a path as invalid, causing validation to fail.
 
@@ -990,13 +914,11 @@ Marks a path as invalid, causing validation to fail.
 
 `Document.invalidate`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:168
-
 #### Call Signature
 
 \> **invalidate**(`path`, `errorMsg`, `value`?, `kind`?): `null` \| `NativeError`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:169
 
 Marks a path as invalid, causing validation to fail.
 
@@ -1025,10 +947,6 @@ Marks a path as invalid, causing validation to fail.
 ##### Inherited from
 
 `Document.invalidate`
-
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:169
 
 ***
 
@@ -1038,6 +956,8 @@ node\_modules/mongoose/types/document.d.ts:169
 
 \> **isDirectModified**\<`T`\>(`path`): `boolean`
 
+Defined in: node\_modules/mongoose/types/document.d.ts:172
+
 Returns true if `path` was directly set and modified, else false.
 
 ##### Type Parameters
@@ -1058,13 +978,11 @@ Returns true if `path` was directly set and modified, else false.
 
 `Document.isDirectModified`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:172
-
 #### Call Signature
 
 \> **isDirectModified**(`path`): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:173
 
 Returns true if `path` was directly set and modified, else false.
 
@@ -1081,10 +999,6 @@ Returns true if `path` was directly set and modified, else false.
 ##### Inherited from
 
 `Document.isDirectModified`
-
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:173
 
 ***
 
@@ -1094,6 +1008,8 @@ node\_modules/mongoose/types/document.d.ts:173
 
 \> **isDirectSelected**\<`T`\>(`path`): `boolean`
 
+Defined in: node\_modules/mongoose/types/document.d.ts:176
+
 Checks if `path` was explicitly selected. If no projection, always returns true.
 
 ##### Type Parameters
@@ -1114,13 +1030,11 @@ Checks if `path` was explicitly selected. If no projection, always returns true.
 
 `Document.isDirectSelected`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:176
-
 #### Call Signature
 
 \> **isDirectSelected**(`path`): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:177
 
 Checks if `path` was explicitly selected. If no projection, always returns true.
 
@@ -1137,10 +1051,6 @@ Checks if `path` was explicitly selected. If no projection, always returns true.
 ##### Inherited from
 
 `Document.isDirectSelected`
-
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:177
 
 ***
 
@@ -1150,6 +1060,8 @@ node\_modules/mongoose/types/document.d.ts:177
 
 \> **isInit**\<`T`\>(`path`): `boolean`
 
+Defined in: node\_modules/mongoose/types/document.d.ts:180
+
 Checks if `path` is in the `init` state, that is, it was set by `Document#init()` and not modified since.
 
 ##### Type Parameters
@@ -1170,13 +1082,11 @@ Checks if `path` is in the `init` state, that is, it was set by `Document#init()
 
 `Document.isInit`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:180
-
 #### Call Signature
 
 \> **isInit**(`path`): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:181
 
 Checks if `path` is in the `init` state, that is, it was set by `Document#init()` and not modified since.
 
@@ -1194,10 +1104,6 @@ Checks if `path` is in the `init` state, that is, it was set by `Document#init()
 
 `Document.isInit`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:181
-
 ***
 
 ### isModified()
@@ -1205,6 +1111,8 @@ node\_modules/mongoose/types/document.d.ts:181
 #### Call Signature
 
 \> **isModified**\<`T`\>(`path`?, `options`?): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:187
 
 Returns true if any of the given paths are modified, else false. If no arguments, returns `true` if any path
 in this document is modified.
@@ -1231,13 +1139,11 @@ in this document is modified.
 
 `Document.isModified`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:187
-
 #### Call Signature
 
 \> **isModified**(`path`?, `options`?): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:188
 
 Returns true if any of the given paths are modified, else false. If no arguments, returns `true` if any path
 in this document is modified.
@@ -1260,10 +1166,6 @@ in this document is modified.
 
 `Document.isModified`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:188
-
 ***
 
 ### isSelected()
@@ -1271,6 +1173,8 @@ node\_modules/mongoose/types/document.d.ts:188
 #### Call Signature
 
 \> **isSelected**\<`T`\>(`path`): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:194
 
 Checks if `path` was selected in the source query which initialized this document.
 
@@ -1292,13 +1196,11 @@ Checks if `path` was selected in the source query which initialized this documen
 
 `Document.isSelected`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:194
-
 #### Call Signature
 
 \> **isSelected**(`path`): `boolean`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:195
 
 Checks if `path` was selected in the source query which initialized this document.
 
@@ -1315,10 +1217,6 @@ Checks if `path` was selected in the source query which initialized this documen
 ##### Inherited from
 
 `Document.isSelected`
-
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:195
 
 ***
 
@@ -1328,6 +1226,8 @@ node\_modules/mongoose/types/document.d.ts:195
 
 \> **markModified**\<`T`\>(`path`, `scope`?): `void`
 
+Defined in: node\_modules/mongoose/types/document.d.ts:198
+
 Marks the path as having pending changes to write to the db.
 
 ##### Type Parameters
@@ -1352,13 +1252,11 @@ Marks the path as having pending changes to write to the db.
 
 `Document.markModified`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:198
-
 #### Call Signature
 
 \> **markModified**(`path`, `scope`?): `void`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:199
 
 Marks the path as having pending changes to write to the db.
 
@@ -1380,10 +1278,6 @@ Marks the path as having pending changes to write to the db.
 
 `Document.markModified`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:199
-
 ***
 
 ### model()
@@ -1391,6 +1285,8 @@ node\_modules/mongoose/types/document.d.ts:199
 #### Call Signature
 
 \> **model**\<`ModelType`\>(`name`): `ModelType`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:202
 
 Returns the model with the given name on this document's associated connection.
 
@@ -1412,13 +1308,11 @@ Returns the model with the given name on this document's associated connection.
 
 `Document.model`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:202
-
 #### Call Signature
 
 \> **model**\<`ModelType`\>(): `ModelType`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:203
 
 Returns the model with the given name on this document's associated connection.
 
@@ -1434,15 +1328,13 @@ Returns the model with the given name on this document's associated connection.
 
 `Document.model`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:203
-
 ***
 
 ### modifiedPaths()
 
 \> **modifiedPaths**(`options`?): `string`[]
+
+Defined in: node\_modules/mongoose/types/document.d.ts:206
 
 Returns the list of paths that have been modified.
 
@@ -1462,15 +1354,13 @@ Returns the list of paths that have been modified.
 
 `Document.modifiedPaths`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:206
-
 ***
 
 ### overwrite()
 
 \> **overwrite**(`obj`): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:213
 
 Overwrite all values in this document with the values of `obj`, except
 for immutable properties. Behaves similarly to `set()`, except for it
@@ -1490,10 +1380,6 @@ unsets all properties that aren't in `obj`.
 
 `Document.overwrite`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:213
-
 ***
 
 ### populate()
@@ -1501,6 +1387,8 @@ node\_modules/mongoose/types/document.d.ts:213
 #### Call Signature
 
 \> **populate**\<`Paths`\>(`path`): `Promise`\<`MergeType`\<[`InterfaceLoggableDocument`](InterfaceLoggableDocument.md), `Paths`\>\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:222
 
 Populates document references.
 
@@ -1522,13 +1410,11 @@ Populates document references.
 
 `Document.populate`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:222
-
 #### Call Signature
 
 \> **populate**\<`Paths`\>(`path`, `select`?, `model`?, `match`?, `options`?): `Promise`\<`MergeType`\<[`InterfaceLoggableDocument`](InterfaceLoggableDocument.md), `Paths`\>\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:223
 
 Populates document references.
 
@@ -1566,15 +1452,13 @@ Populates document references.
 
 `Document.populate`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:223
-
 ***
 
 ### populated()
 
 \> **populated**(`path`): `any`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:226
 
 Gets _id(s) used during population of the given `path`. If the path was not populated, returns `undefined`.
 
@@ -1592,15 +1476,13 @@ Gets _id(s) used during population of the given `path`. If the path was not popu
 
 `Document.populated`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:226
-
 ***
 
 ### replaceOne()
 
 \> **replaceOne**(`replacement`?, `options`?): `Query`\<`any`, [`InterfaceLoggableDocument`](InterfaceLoggableDocument.md), [`InterfaceLoggableDocument`](InterfaceLoggableDocument.md)\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:229
 
 Sends a replaceOne command with this document `_id` as the query selector.
 
@@ -1622,15 +1504,13 @@ Sends a replaceOne command with this document `_id` as the query selector.
 
 `Document.replaceOne`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:229
-
 ***
 
 ### save()
 
 \> **save**(`options`?): `Promise`\<[`InterfaceLoggableDocument`](InterfaceLoggableDocument.md)\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:232
 
 Saves this document by inserting a new document into the database if [document.isNew](/docs/api/document.html#document_Document-isNew) is `true`, or sends an [updateOne](/docs/api/document.html#document_Document-updateOne) operation with just the modified paths if `isNew` is `false`.
 
@@ -1648,10 +1528,6 @@ Saves this document by inserting a new document into the database if [document.i
 
 `Document.save`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:232
-
 ***
 
 ### set()
@@ -1659,6 +1535,8 @@ node\_modules/mongoose/types/document.d.ts:232
 #### Call Signature
 
 \> **set**\<`T`\>(`path`, `val`, `type`, `options`?): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:238
 
 Sets the value of a path, or many paths.
 
@@ -1692,13 +1570,11 @@ Sets the value of a path, or many paths.
 
 `Document.set`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:238
-
 #### Call Signature
 
 \> **set**(`path`, `val`, `type`, `options`?): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:239
 
 Sets the value of a path, or many paths.
 
@@ -1728,13 +1604,11 @@ Sets the value of a path, or many paths.
 
 `Document.set`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:239
-
 #### Call Signature
 
 \> **set**(`path`, `val`, `options`?): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:240
 
 Sets the value of a path, or many paths.
 
@@ -1760,13 +1634,11 @@ Sets the value of a path, or many paths.
 
 `Document.set`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:240
-
 #### Call Signature
 
 \> **set**(`value`): `this`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:241
 
 Sets the value of a path, or many paths.
 
@@ -1784,10 +1656,6 @@ Sets the value of a path, or many paths.
 
 `Document.set`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:241
-
 ***
 
 ### toJSON()
@@ -1795,6 +1663,8 @@ node\_modules/mongoose/types/document.d.ts:241
 #### Call Signature
 
 \> **toJSON**\<`T`\>(`options`?): `FlattenMaps`\<`T`\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:244
 
 The return value of this method is used in calls to JSON.stringify(doc).
 
@@ -1816,13 +1686,11 @@ The return value of this method is used in calls to JSON.stringify(doc).
 
 `Document.toJSON`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:244
-
 #### Call Signature
 
 \> **toJSON**\<`T`\>(`options`): `T`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:245
 
 The return value of this method is used in calls to JSON.stringify(doc).
 
@@ -1844,15 +1712,13 @@ The return value of this method is used in calls to JSON.stringify(doc).
 
 `Document.toJSON`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:245
-
 ***
 
 ### toObject()
 
 \> **toObject**\<`T`\>(`options`?): `Require_id`\<`T`\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:248
 
 Converts this document into a plain-old JavaScript object ([POJO](https://masteringjs.io/tutorials/fundamentals/pojo)).
 
@@ -1874,10 +1740,6 @@ Converts this document into a plain-old JavaScript object ([POJO](https://master
 
 `Document.toObject`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:248
-
 ***
 
 ### unmarkModified()
@@ -1885,6 +1747,8 @@ node\_modules/mongoose/types/document.d.ts:248
 #### Call Signature
 
 \> **unmarkModified**\<`T`\>(`path`): `void`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:251
 
 Clears the modified state on the specified path.
 
@@ -1906,13 +1770,11 @@ Clears the modified state on the specified path.
 
 `Document.unmarkModified`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:251
-
 #### Call Signature
 
 \> **unmarkModified**(`path`): `void`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:252
 
 Clears the modified state on the specified path.
 
@@ -1930,15 +1792,13 @@ Clears the modified state on the specified path.
 
 `Document.unmarkModified`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:252
-
 ***
 
 ### updateOne()
 
 \> **updateOne**(`update`?, `options`?): `Query`\<`any`, [`InterfaceLoggableDocument`](InterfaceLoggableDocument.md), [`InterfaceLoggableDocument`](InterfaceLoggableDocument.md)\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:255
 
 Sends an updateOne command with this document `_id` as the query selector.
 
@@ -1960,10 +1820,6 @@ Sends an updateOne command with this document `_id` as the query selector.
 
 `Document.updateOne`
 
-#### Defined in
-
-node\_modules/mongoose/types/document.d.ts:255
-
 ***
 
 ### validate()
@@ -1971,6 +1827,8 @@ node\_modules/mongoose/types/document.d.ts:255
 #### Call Signature
 
 \> **validate**\<`T`\>(`pathsToValidate`?, `options`?): `Promise`\<`void`\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:258
 
 Executes registered validation rules for this document.
 
@@ -1996,13 +1854,11 @@ Executes registered validation rules for this document.
 
 `Document.validate`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:258
-
 #### Call Signature
 
 \> **validate**(`pathsToValidate`?, `options`?): `Promise`\<`void`\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:259
 
 Executes registered validation rules for this document.
 
@@ -2024,13 +1880,11 @@ Executes registered validation rules for this document.
 
 `Document.validate`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:259
-
 #### Call Signature
 
 \> **validate**(`options`): `Promise`\<`void`\>
+
+Defined in: node\_modules/mongoose/types/document.d.ts:260
 
 Executes registered validation rules for this document.
 
@@ -2049,10 +1903,6 @@ Executes registered validation rules for this document.
 ##### Inherited from
 
 `Document.validate`
-
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:260
 
 ***
 
@@ -2062,6 +1912,8 @@ node\_modules/mongoose/types/document.d.ts:260
 
 \> **validateSync**(`options`): `null` \| `ValidationError`
 
+Defined in: node\_modules/mongoose/types/document.d.ts:263
+
 Executes registered validation rules (skipping asynchronous validators) for this document.
 
 ##### Parameters
@@ -2080,13 +1932,11 @@ Executes registered validation rules (skipping asynchronous validators) for this
 
 `Document.validateSync`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:263
-
 #### Call Signature
 
 \> **validateSync**\<`T`\>(`pathsToValidate`?, `options`?): `null` \| `ValidationError`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:264
 
 Executes registered validation rules (skipping asynchronous validators) for this document.
 
@@ -2112,13 +1962,11 @@ Executes registered validation rules (skipping asynchronous validators) for this
 
 `Document.validateSync`
 
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:264
-
 #### Call Signature
 
 \> **validateSync**(`pathsToValidate`?, `options`?): `null` \| `ValidationError`
+
+Defined in: node\_modules/mongoose/types/document.d.ts:265
 
 Executes registered validation rules (skipping asynchronous validators) for this document.
 
@@ -2139,7 +1987,3 @@ Executes registered validation rules (skipping asynchronous validators) for this
 ##### Inherited from
 
 `Document.validateSync`
-
-##### Defined in
-
-node\_modules/mongoose/types/document.d.ts:265

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/deleteNote
 
-## Index
-
-### Variables
+## Variables
 
 - [deleteNote](variables/deleteNote.md)

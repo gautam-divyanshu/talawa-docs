@@ -6,8 +6,6 @@
 
 # utilities/TalawaGraphQLError
 
-## Index
-
-### Classes
+## Classes
 
 - [TalawaGraphQLError](classes/TalawaGraphQLError.md)

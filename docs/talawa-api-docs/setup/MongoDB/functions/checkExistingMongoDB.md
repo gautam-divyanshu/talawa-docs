@@ -8,6 +8,8 @@
 
 \> **checkExistingMongoDB**(): `Promise`\<`string` \| `null`\>
 
+Defined in: [src/setup/MongoDB.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/MongoDB.ts#L17)
+
 The `checkExistingMongoDB` function checks for an existing MongoDB URL in the environment variables and attempts to establish a connection.
 
 It performs the following steps:
@@ -24,7 +26,3 @@ This function is used during the initial setup process to check if a valid Mongo
 `Promise`\<`string` \| `null`\>
 
 A promise that resolves to a string (if a connection could be made to the existing URL) or null (if no existing URL or connection could not be made).
-
-## Defined in
-
-[src/setup/MongoDB.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/MongoDB.ts#L17)

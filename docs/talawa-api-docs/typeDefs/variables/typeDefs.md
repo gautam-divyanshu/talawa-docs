@@ -8,6 +8,4 @@
 
 \> `const` **typeDefs**: `DocumentNode`[]
 
-## Defined in
-
-[src/typeDefs/index.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/typeDefs/index.ts#L19)
+Defined in: [src/typeDefs/index.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/typeDefs/index.ts#L19)

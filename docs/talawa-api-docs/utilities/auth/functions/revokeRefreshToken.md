@@ -8,6 +8,8 @@
 
 \> **revokeRefreshToken**(`userId`): `Promise`\<`void`\>
 
+Defined in: [src/utilities/auth.ts:86](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/auth.ts#L86)
+
 Revokes the refresh token for a user by removing the token from the user's profile.
 This function searches for the user by their ID and unsets the token field in the user's document.
 
@@ -24,7 +26,3 @@ The ID of the user whose refresh token is to be revoked
 `Promise`\<`void`\>
 
 A promise that resolves when the token has been revoked
-
-## Defined in
-
-[src/utilities/auth.ts:86](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/auth.ts#L86)

@@ -6,8 +6,6 @@
 
 # services/OrganizationCache/cacheOrganizations
 
-## Index
-
-### Functions
+## Functions
 
 - [cacheOrganizations](functions/cacheOrganizations.md)

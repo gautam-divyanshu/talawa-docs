@@ -6,12 +6,10 @@
 
 # models/Message
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceMessage](interfaces/InterfaceMessage.md)
 
-### Variables
+## Variables
 
 - [Message](variables/Message.md)

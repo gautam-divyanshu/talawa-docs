@@ -8,6 +8,8 @@
 
 \> `const` **removeMember**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeMember"`\]
 
+Defined in: [src/resolvers/Mutation/removeMember.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeMember.ts#L27)
+
 This function enables to remove a member.
 
 ## Param
@@ -33,7 +35,3 @@ The following checks are done:
 ## Returns
 
 Organization.
-
-## Defined in
-
-[src/resolvers/Mutation/removeMember.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeMember.ts#L27)

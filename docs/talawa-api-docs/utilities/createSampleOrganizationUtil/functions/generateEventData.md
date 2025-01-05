@@ -8,6 +8,8 @@
 
 \> **generateEventData**(`users`, `organizationId`): `Promise`\<[`InterfaceEvent`](../../../models/Event/interfaces/InterfaceEvent.md)\>
 
+Defined in: [src/utilities/createSampleOrganizationUtil.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/createSampleOrganizationUtil.ts#L88)
+
 Generates event data for a given list of users and organization.
 
 ## Parameters
@@ -29,7 +31,3 @@ The ID of the organization the event belongs to
 `Promise`\<[`InterfaceEvent`](../../../models/Event/interfaces/InterfaceEvent.md)\>
 
 A promise that resolves to the created event
-
-## Defined in
-
-[src/utilities/createSampleOrganizationUtil.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/createSampleOrganizationUtil.ts#L88)

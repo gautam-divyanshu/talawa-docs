@@ -8,6 +8,8 @@
 
 \> `const` **addOrganizationImage**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addOrganizationImage"`\]
 
+Defined in: [src/resolvers/Mutation/addOrganizationImage.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/addOrganizationImage.ts#L44)
+
 Mutation resolver function to add or update an organization's image.
 
 This function performs the following actions:
@@ -51,7 +53,3 @@ A promise that resolves to the updated organization document with the new image.
 The function uses the `findOrganizationsInCache` method to first attempt to retrieve the organization from the cache.
 If the organization is not found in the cache, it queries the database.
 It then verifies the user's admin status and performs the image upload before updating the organization's image field.
-
-## Defined in
-
-[src/resolvers/Mutation/addOrganizationImage.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addOrganizationImage.ts#L44)

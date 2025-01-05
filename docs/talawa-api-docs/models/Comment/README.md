@@ -6,12 +6,10 @@
 
 # models/Comment
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceComment](interfaces/InterfaceComment.md)
 
-### Variables
+## Variables
 
 - [Comment](variables/Comment.md)

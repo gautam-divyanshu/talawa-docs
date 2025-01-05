@@ -6,8 +6,6 @@
 
 # resolvers/Query/getVenueByOrgId
 
-## Index
-
-### Variables
+## Variables
 
 - [getVenueByOrgId](variables/getVenueByOrgId.md)

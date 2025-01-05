@@ -6,6 +6,8 @@
 
 # Interface: LongitudeScalarConfig
 
+Defined in: [src/types/generatedGraphQLTypes.ts:4514](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L4514)
+
 ## Extends
 
 - `GraphQLScalarTypeConfig`\<[`ResolversTypes`](../type-aliases/ResolversTypes.md)\[`"Longitude"`\], `any`\>
@@ -16,13 +18,11 @@
 
 \> `optional` **astNode**: `Maybe`\<`ScalarTypeDefinitionNode`\>
 
+Defined in: node\_modules/graphql/type/definition.d.ts:369
+
 #### Inherited from
 
 `GraphQLScalarTypeConfig.astNode`
-
-#### Defined in
-
-node\_modules/graphql/type/definition.d.ts:369
 
 ***
 
@@ -30,13 +30,11 @@ node\_modules/graphql/type/definition.d.ts:369
 
 \> `optional` **description**: `Maybe`\<`string`\>
 
+Defined in: node\_modules/graphql/type/definition.d.ts:360
+
 #### Inherited from
 
 `GraphQLScalarTypeConfig.description`
-
-#### Defined in
-
-node\_modules/graphql/type/definition.d.ts:360
 
 ***
 
@@ -44,13 +42,11 @@ node\_modules/graphql/type/definition.d.ts:360
 
 \> `optional` **extensionASTNodes**: `Maybe`\<readonly `ScalarTypeExtensionNode`[]\>
 
+Defined in: node\_modules/graphql/type/definition.d.ts:370
+
 #### Inherited from
 
 `GraphQLScalarTypeConfig.extensionASTNodes`
-
-#### Defined in
-
-node\_modules/graphql/type/definition.d.ts:370
 
 ***
 
@@ -58,13 +54,11 @@ node\_modules/graphql/type/definition.d.ts:370
 
 \> `optional` **extensions**: `Maybe`\<`Readonly`\<`GraphQLScalarTypeExtensions`\>\>
 
+Defined in: node\_modules/graphql/type/definition.d.ts:368
+
 #### Inherited from
 
 `GraphQLScalarTypeConfig.extensions`
-
-#### Defined in
-
-node\_modules/graphql/type/definition.d.ts:368
 
 ***
 
@@ -72,13 +66,11 @@ node\_modules/graphql/type/definition.d.ts:368
 
 \> **name**: `"Longitude"`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:4515](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L4515)
+
 #### Overrides
 
 `GraphQLScalarTypeConfig.name`
-
-#### Defined in
-
-[src/types/generatedGraphQLTypes.ts:4508](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L4508)
 
 ***
 
@@ -86,15 +78,13 @@ node\_modules/graphql/type/definition.d.ts:368
 
 \> `optional` **parseLiteral**: `GraphQLScalarLiteralParser`\<`any`\>
 
+Defined in: node\_modules/graphql/type/definition.d.ts:367
+
 Parses an externally provided literal value to use as an input.
 
 #### Inherited from
 
 `GraphQLScalarTypeConfig.parseLiteral`
-
-#### Defined in
-
-node\_modules/graphql/type/definition.d.ts:367
 
 ***
 
@@ -102,15 +92,13 @@ node\_modules/graphql/type/definition.d.ts:367
 
 \> `optional` **parseValue**: `GraphQLScalarValueParser`\<`any`\>
 
+Defined in: node\_modules/graphql/type/definition.d.ts:365
+
 Parses an externally provided value to use as an input.
 
 #### Inherited from
 
 `GraphQLScalarTypeConfig.parseValue`
-
-#### Defined in
-
-node\_modules/graphql/type/definition.d.ts:365
 
 ***
 
@@ -118,15 +106,13 @@ node\_modules/graphql/type/definition.d.ts:365
 
 \> `optional` **serialize**: `GraphQLScalarSerializer`\<`any`\>
 
+Defined in: node\_modules/graphql/type/definition.d.ts:363
+
 Serializes an internal value to include in a response.
 
 #### Inherited from
 
 `GraphQLScalarTypeConfig.serialize`
-
-#### Defined in
-
-node\_modules/graphql/type/definition.d.ts:363
 
 ***
 
@@ -134,10 +120,8 @@ node\_modules/graphql/type/definition.d.ts:363
 
 \> `optional` **specifiedByURL**: `Maybe`\<`string`\>
 
+Defined in: node\_modules/graphql/type/definition.d.ts:361
+
 #### Inherited from
 
 `GraphQLScalarTypeConfig.specifiedByURL`
-
-#### Defined in
-
-node\_modules/graphql/type/definition.d.ts:361

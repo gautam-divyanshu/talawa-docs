@@ -6,8 +6,6 @@
 
 # resolvers/Organization/funds
 
-## Index
-
-### Variables
+## Variables
 
 - [funds](variables/funds.md)

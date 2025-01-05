@@ -6,8 +6,6 @@
 
 # utilities/removeSampleOrganizationUtil
 
-## Index
-
-### Functions
+## Functions
 
 - [removeSampleOrganization](functions/removeSampleOrganization.md)

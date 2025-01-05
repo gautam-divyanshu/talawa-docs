@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createUserFamily
 
-## Index
-
-### Variables
+## Variables
 
 - [createUserFamily](variables/createUserFamily.md)

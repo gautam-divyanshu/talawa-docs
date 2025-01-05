@@ -6,8 +6,6 @@
 
 # resolvers/Query/getGroupChatsByUserId
 
-## Index
-
-### Variables
+## Variables
 
 - [getGroupChatsByUserId](variables/getGroupChatsByUserId.md)

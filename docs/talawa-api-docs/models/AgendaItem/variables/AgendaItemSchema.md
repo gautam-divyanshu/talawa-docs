@@ -8,6 +8,8 @@
 
 \> `const` **AgendaItemSchema**: `Schema`\<`Model`, \{ `attachments`: `string`[]; `categories`: `ObjectId`[]; `createdAt`: `null` \| `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `null` \| `string`; `duration`: `string`; `itemType`: `null` \| [`Regular`](../enumerations/ItemType.md#regular) \| [`Note`](../enumerations/ItemType.md#note); `notes`: `ObjectId`[]; `organizationId`: `null` \| `ObjectId`; `relatedEventId`: `null` \| `ObjectId`; `sequence`: `null` \| `number`; `title`: `string`; `updatedAt`: `null` \| `Date`; `updatedBy`: `null` \| `ObjectId`; `urls`: `string`[]; `users`: `ObjectId`[]; \}, `Document`\<`unknown`, \{\}, `FlatRecord`\<\{ `attachments`: `string`[]; `categories`: `ObjectId`[]; `createdAt`: `null` \| `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `null` \| `string`; `duration`: `string`; `itemType`: `null` \| [`Regular`](../enumerations/ItemType.md#regular) \| [`Note`](../enumerations/ItemType.md#note); `notes`: `ObjectId`[]; `organizationId`: `null` \| `ObjectId`; `relatedEventId`: `null` \| `ObjectId`; `sequence`: `null` \| `number`; `title`: `string`; `updatedAt`: `null` \| `Date`; `updatedBy`: `null` \| `ObjectId`; `urls`: `string`[]; `users`: `ObjectId`[]; \}\>\> & `FlatRecord`\<\{ `attachments`: `string`[]; `categories`: `ObjectId`[]; `createdAt`: `null` \| `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `null` \| `string`; `duration`: `string`; `itemType`: `null` \| [`Regular`](../enumerations/ItemType.md#regular) \| [`Note`](../enumerations/ItemType.md#note); `notes`: `ObjectId`[]; `organizationId`: `null` \| `ObjectId`; `relatedEventId`: `null` \| `ObjectId`; `sequence`: `null` \| `number`; `title`: `string`; `updatedAt`: `null` \| `Date`; `updatedBy`: `null` \| `ObjectId`; `urls`: `string`[]; `users`: `ObjectId`[]; \}\> & `object`\>
 
+Defined in: [src/models/AgendaItem.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaItem.ts#L61)
+
 Mongoose schema definition for an agenda item document.
 
 ## Param
@@ -73,7 +75,3 @@ Reference to the organization associated with the agenda item.
 ## Param
 
 Array of notes associated with the agenda item.
-
-## Defined in
-
-[src/models/AgendaItem.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaItem.ts#L61)

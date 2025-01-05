@@ -6,13 +6,11 @@
 
 # resolvers/Subscription/onPluginUpdate
 
-## Index
-
-### Variables
+## Variables
 
 - [onPluginUpdate](variables/onPluginUpdate.md)
 
-### Functions
+## Functions
 
 - [createPluginUpdateResponse](functions/createPluginUpdateResponse.md)
 - [filterFunction](functions/filterFunction.md)

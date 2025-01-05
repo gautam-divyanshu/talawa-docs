@@ -6,8 +6,6 @@
 
 # typeDefs/types
 
-## Index
-
-### Variables
+## Variables
 
 - [types](variables/types.md)

@@ -5,3 +5,7 @@
 [talawa-api](../../modules.md) / utilities/loadSampleData
 
 # utilities/loadSampleData
+
+## Functions
+
+- [listSampleData](functions/listSampleData.md)

@@ -8,6 +8,8 @@
 
 \> **deleteRecurringEventInstances**(`event`, `recurrenceRule`, `baseRecurringEvent`, `session`): `Promise`\<`void`\>
 
+Defined in: [src/helpers/event/deleteEventHelpers/deleteRecurringEventInstances.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/deleteEventHelpers/deleteRecurringEventInstances.ts#L32)
+
 Deletes all instances or thisAndFollowingInstances of a recurring event.
 
 ## Parameters
@@ -48,7 +50,3 @@ This function performs the following steps:
 3. Deletes the instances themselves.
 4. Updates the recurrence rule and base recurring event as needed.
 5. Removes any dangling documents related to the recurrence rule and base recurring event.
-
-## Defined in
-
-[src/helpers/event/deleteEventHelpers/deleteRecurringEventInstances.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/deleteEventHelpers/deleteRecurringEventInstances.ts#L32)

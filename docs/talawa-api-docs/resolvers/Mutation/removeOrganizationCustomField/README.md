@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeOrganizationCustomField
 
-## Index
-
-### Variables
+## Variables
 
 - [removeOrganizationCustomField](variables/removeOrganizationCustomField.md)

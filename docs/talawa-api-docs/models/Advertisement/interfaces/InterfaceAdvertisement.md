@@ -6,6 +6,8 @@
 
 # Interface: InterfaceAdvertisement
 
+Defined in: [src/models/Advertisement.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L12)
+
 Interface representing a database document for Advertisement in MongoDB.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a database document for Advertisement in MongoDB.
 
 \> **\_id**: `string`
 
-#### Defined in
-
-[src/models/Advertisement.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Advertisement.ts#L13)
+Defined in: [src/models/Advertisement.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L13)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a database document for Advertisement in MongoDB.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/Advertisement.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Advertisement.ts#L21)
+Defined in: [src/models/Advertisement.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L21)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a database document for Advertisement in MongoDB.
 
 \> **creatorId**: `any`
 
-#### Defined in
-
-[src/models/Advertisement.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Advertisement.ts#L17)
+Defined in: [src/models/Advertisement.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L17)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a database document for Advertisement in MongoDB.
 
 \> **endDate**: `string`
 
-#### Defined in
-
-[src/models/Advertisement.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Advertisement.ts#L20)
+Defined in: [src/models/Advertisement.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L20)
 
 ***
 
@@ -54,9 +48,7 @@ Interface representing a database document for Advertisement in MongoDB.
 
 \> **mediaUrl**: `string`
 
-#### Defined in
-
-[src/models/Advertisement.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Advertisement.ts#L16)
+Defined in: [src/models/Advertisement.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L16)
 
 ***
 
@@ -64,9 +56,7 @@ Interface representing a database document for Advertisement in MongoDB.
 
 \> **name**: `string`
 
-#### Defined in
-
-[src/models/Advertisement.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Advertisement.ts#L15)
+Defined in: [src/models/Advertisement.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L15)
 
 ***
 
@@ -74,9 +64,7 @@ Interface representing a database document for Advertisement in MongoDB.
 
 \> **organizationId**: `any`
 
-#### Defined in
-
-[src/models/Advertisement.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Advertisement.ts#L14)
+Defined in: [src/models/Advertisement.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L14)
 
 ***
 
@@ -84,9 +72,7 @@ Interface representing a database document for Advertisement in MongoDB.
 
 \> **startDate**: `string`
 
-#### Defined in
-
-[src/models/Advertisement.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Advertisement.ts#L19)
+Defined in: [src/models/Advertisement.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L19)
 
 ***
 
@@ -94,9 +80,7 @@ Interface representing a database document for Advertisement in MongoDB.
 
 \> **type**: `"POPUP"` \| `"MENU"` \| `"BANNER"`
 
-#### Defined in
-
-[src/models/Advertisement.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Advertisement.ts#L18)
+Defined in: [src/models/Advertisement.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L18)
 
 ***
 
@@ -104,6 +88,4 @@ Interface representing a database document for Advertisement in MongoDB.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/Advertisement.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Advertisement.ts#L22)
+Defined in: [src/models/Advertisement.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Advertisement.ts#L22)

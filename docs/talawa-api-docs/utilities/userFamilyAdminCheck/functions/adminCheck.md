@@ -8,6 +8,8 @@
 
 \> **adminCheck**(`userId`, `userFamily`): `Promise`\<`void`\>
 
+Defined in: [src/utilities/userFamilyAdminCheck.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/userFamilyAdminCheck.ts#L19)
+
 Checks if the current user is an admin of the organization or a super admin.
 Throws an UnauthorizedError if the user is neither an admin nor a super admin.
 
@@ -33,7 +35,3 @@ The user family data of type `InterfaceUserFamily`.
 
 This function queries the `userFamily` to check if the `userId` is listed as an admin.
 Additionally, it queries the `AppUserProfile` to check if the `userId` is a super admin.
-
-## Defined in
-
-[src/utilities/userFamilyAdminCheck.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/userFamilyAdminCheck.ts#L19)

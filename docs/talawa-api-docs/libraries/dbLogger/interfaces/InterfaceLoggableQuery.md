@@ -6,6 +6,8 @@
 
 # Interface: InterfaceLoggableQuery\<T\>
 
+Defined in: [src/libraries/dbLogger.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/dbLogger.ts#L61)
+
 Interface for a query that can include logging information.
 
 ## Extends
@@ -22,13 +24,11 @@ Interface for a query that can include logging information.
 
 \> **\_mongooseOptions**: `MongooseQueryOptions`\<`T`, `"timestamps"` \| `MongooseBaseQueryOptionKeys` \| `"lean"`\>
 
+Defined in: node\_modules/mongoose/types/query.d.ts:209
+
 #### Inherited from
 
 `Query._mongooseOptions`
-
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:209
 
 ***
 
@@ -36,19 +36,19 @@ node\_modules/mongoose/types/query.d.ts:209
 
 \> **\[toStringTag\]**: `string`
 
+Defined in: node\_modules/mongoose/types/query.d.ts:269
+
 #### Inherited from
 
 `Query.[toStringTag]`
-
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:269
 
 ***
 
 ### catch()
 
 \> **catch**: \<`TResult`\>(`onrejected`?) =\> `Promise`\<`unknown`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:260
 
 Executes the query returning a `Promise` which will be
 resolved with either the doc(s) or rejected with the error.
@@ -78,15 +78,13 @@ A Promise for the completion of the callback.
 
 `Query.catch`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:260
-
 ***
 
 ### finally()
 
 \> **finally**: (`onfinally`?) =\> `Promise`\<`unknown`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:266
 
 Executes the query returning a `Promise` which will be
 resolved with `.finally()` chained.
@@ -112,21 +110,15 @@ A Promise for the completion of the callback.
 
 `Query.finally`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:266
-
 ***
 
 ### logInfo?
 
 \> `optional` **logInfo**: [`TransactionLogInfo`](../type-aliases/TransactionLogInfo.md)
 
+Defined in: [src/libraries/dbLogger.ts:63](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/dbLogger.ts#L63)
+
 Information about the transaction log (optional)
-
-#### Defined in
-
-[src/libraries/dbLogger.ts:63](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/dbLogger.ts#L63)
 
 ***
 
@@ -134,21 +126,21 @@ Information about the transaction log (optional)
 
 \> **model**: `Model`
 
+Defined in: node\_modules/mongoose/types/query.d.ts:567
+
 The model this query was created from
 
 #### Inherited from
 
 `Query.model`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:567
-
 ***
 
 ### then()
 
 \> **then**: \<`TResult1`, `TResult2`\>(`onfulfilled`?, `onrejected`?) =\> `Promise`\<`TResult1` \| `TResult2`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:744
 
 Executes the query returning a `Promise` which will be
 resolved with either the doc(s) or rejected with the error.
@@ -185,15 +177,13 @@ A Promise for the completion of which ever callback is executed.
 
 `Query.then`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:744
-
 ## Methods
 
 ### \[asyncIterator\]()
 
 \> **\[asyncIterator\]**(): `AsyncIterableIterator`\<`unknown`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:216
 
 Returns a wrapper around a [mongodb driver cursor](https://mongodb.github.io/node-mongodb-native/4.9/classes/FindCursor.html).
 A QueryCursor exposes a Streams3 interface, as well as a `.next()` function.
@@ -207,15 +197,13 @@ This is equivalent to calling `.cursor()` with no arguments.
 
 `Query.[asyncIterator]`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:216
-
 ***
 
 ### $where()
 
 \> **$where**(`argument`): `Query`\<`T`[], `T`, `T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:221
 
 #### Parameters
 
@@ -231,10 +219,6 @@ node\_modules/mongoose/types/query.d.ts:216
 
 `Query.$where`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:221
-
 ***
 
 ### all()
@@ -242,6 +226,8 @@ node\_modules/mongoose/types/query.d.ts:221
 #### Call Signature
 
 \> **all**(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:230
 
 Specifies an `$all` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -263,13 +249,11 @@ Specifies an `$all` query condition. When called with one argument, the most rec
 
 `Query.all`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:230
-
 #### Call Signature
 
 \> **all**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:231
 
 Specifies an `$all` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -287,15 +271,13 @@ Specifies an `$all` query condition. When called with one argument, the most rec
 
 `Query.all`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:231
-
 ***
 
 ### allowDiskUse()
 
 \> **allowDiskUse**(`value`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:234
 
 Sets the allowDiskUse option for the query (ignored for \< 4.4.0)
 
@@ -313,15 +295,13 @@ Sets the allowDiskUse option for the query (ignored for \< 4.4.0)
 
 `Query.allowDiskUse`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:234
-
 ***
 
 ### and()
 
 \> **and**(`array`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:237
 
 Specifies arguments for an `$and` condition.
 
@@ -339,15 +319,13 @@ Specifies arguments for an `$and` condition.
 
 `Query.and`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:237
-
 ***
 
 ### batchSize()
 
 \> **batchSize**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:240
 
 Specifies the batchSize option.
 
@@ -365,10 +343,6 @@ Specifies the batchSize option.
 
 `Query.batchSize`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:240
-
 ***
 
 ### box()
@@ -376,6 +350,8 @@ node\_modules/mongoose/types/query.d.ts:240
 #### Call Signature
 
 \> **box**(`lower`, `upper`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:243
 
 Specifies a `$box` condition
 
@@ -397,13 +373,11 @@ Specifies a `$box` condition
 
 `Query.box`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:243
-
 #### Call Signature
 
 \> **box**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:244
 
 Specifies a `$box` condition
 
@@ -421,15 +395,13 @@ Specifies a `$box` condition
 
 `Query.box`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:244
-
 ***
 
 ### cast()
 
 \> **cast**(`model`?, `obj`?): `any`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:253
 
 Casts this query to the schema of `model`.
 
@@ -457,10 +429,6 @@ the casted `obj`
 
 `Query.cast`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:253
-
 ***
 
 ### circle()
@@ -468,6 +436,8 @@ node\_modules/mongoose/types/query.d.ts:253
 #### Call Signature
 
 \> **circle**(`path`, `area`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:272
 
 Specifies a `$center` or `$centerSphere` condition.
 
@@ -489,13 +459,11 @@ Specifies a `$center` or `$centerSphere` condition.
 
 `Query.circle`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:272
-
 #### Call Signature
 
 \> **circle**(`area`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:273
 
 Specifies a `$center` or `$centerSphere` condition.
 
@@ -513,15 +481,13 @@ Specifies a `$center` or `$centerSphere` condition.
 
 `Query.circle`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:273
-
 ***
 
 ### clone()
 
 \> **clone**(): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:276
 
 Make a copy of this query so you can re-execute it.
 
@@ -533,15 +499,13 @@ Make a copy of this query so you can re-execute it.
 
 `Query.clone`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:276
-
 ***
 
 ### collation()
 
 \> **collation**(`value`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:279
 
 Adds a collation to this op (MongoDB 3.4 and up)
 
@@ -559,15 +523,13 @@ Adds a collation to this op (MongoDB 3.4 and up)
 
 `Query.collation`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:279
-
 ***
 
 ### comment()
 
 \> **comment**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:282
 
 Specifies the `comment` option.
 
@@ -585,15 +547,13 @@ Specifies the `comment` option.
 
 `Query.comment`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:282
-
 ***
 
 ### countDocuments()
 
 \> **countDocuments**(`criteria`?, `options`?): `Query`\<`number`, `T`, `T`, `"countDocuments"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:285
 
 Specifies this query as a `countDocuments` query.
 
@@ -615,15 +575,13 @@ Specifies this query as a `countDocuments` query.
 
 `Query.countDocuments`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:285
-
 ***
 
 ### cursor()
 
 \> **cursor**(`options`?): `Cursor`\<`unknown`, `QueryOptions`\<`T`\>\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:294
 
 Returns a wrapper around a [mongodb driver cursor](https://mongodb.github.io/node-mongodb-native/4.9/classes/FindCursor.html).
 A QueryCursor exposes a Streams3 interface, as well as a `.next()` function.
@@ -642,10 +600,6 @@ A QueryCursor exposes a Streams3 interface, as well as a `.next()` function.
 
 `Query.cursor`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:294
-
 ***
 
 ### deleteMany()
@@ -653,6 +607,8 @@ node\_modules/mongoose/types/query.d.ts:294
 #### Call Signature
 
 \> **deleteMany**(`filter`?, `options`?): `Query`\<`any`, `T`, `T`, `"deleteMany"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:301
 
 Declare and/or execute this query as a `deleteMany()` operation. Works like
 remove, except it deletes _every_ document that matches `filter` in the
@@ -676,13 +632,11 @@ collection, regardless of the value of `single`.
 
 `Query.deleteMany`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:301
-
 #### Call Signature
 
 \> **deleteMany**(`filter`): `Query`\<`any`, `T`, `T`, `"deleteMany"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:305
 
 Declare and/or execute this query as a `deleteMany()` operation. Works like
 remove, except it deletes _every_ document that matches `filter` in the
@@ -702,13 +656,11 @@ collection, regardless of the value of `single`.
 
 `Query.deleteMany`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:305
-
 #### Call Signature
 
 \> **deleteMany**(): `Query`\<`any`, `T`, `T`, `"deleteMany"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:312
 
 Declare and/or execute this query as a `deleteMany()` operation. Works like
 remove, except it deletes _every_ document that matches `filter` in the
@@ -721,10 +673,6 @@ collection, regardless of the value of `single`.
 ##### Inherited from
 
 `Query.deleteMany`
-
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:312
 
 ***
 
@@ -734,6 +682,8 @@ node\_modules/mongoose/types/query.d.ts:312
 
 \> **deleteOne**(`filter`?, `options`?): `Query`\<`any`, `T`, `T`, `"deleteOne"`\>
 
+Defined in: node\_modules/mongoose/types/query.d.ts:319
+
 Declare and/or execute this query as a `deleteOne()` operation. Works like
 remove, except it deletes at most one document regardless of the `single`
 option.
@@ -756,13 +706,11 @@ option.
 
 `Query.deleteOne`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:319
-
 #### Call Signature
 
 \> **deleteOne**(`filter`): `Query`\<`any`, `T`, `T`, `"deleteOne"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:323
 
 Declare and/or execute this query as a `deleteOne()` operation. Works like
 remove, except it deletes at most one document regardless of the `single`
@@ -782,13 +730,11 @@ option.
 
 `Query.deleteOne`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:323
-
 #### Call Signature
 
 \> **deleteOne**(): `Query`\<`any`, `T`, `T`, `"deleteOne"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:330
 
 Declare and/or execute this query as a `deleteOne()` operation. Works like
 remove, except it deletes at most one document regardless of the `single`
@@ -802,15 +748,13 @@ option.
 
 `Query.deleteOne`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:330
-
 ***
 
 ### distinct()
 
 \> **distinct**\<`DocKey`, `ResultType`\>(`field`, `filter`?): `Query`\<`DocKey` *extends* keyof `T` ? `Unpacked`\<`T`\[`DocKey`\<`DocKey`\>\]\> : `ResultType`[], `T`, `T`, `"distinct"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:333
 
 Creates a `distinct` query: returns the distinct values of the given `field` that match `filter`.
 
@@ -838,10 +782,6 @@ Creates a `distinct` query: returns the distinct values of the given `field` tha
 
 `Query.distinct`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:333
-
 ***
 
 ### elemMatch()
@@ -849,6 +789,8 @@ node\_modules/mongoose/types/query.d.ts:333
 #### Call Signature
 
 \> **elemMatch**\<`K`\>(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:339
 
 Specifies a `$elemMatch` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -874,13 +816,11 @@ Specifies a `$elemMatch` query condition. When called with one argument, the mos
 
 `Query.elemMatch`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:339
-
 #### Call Signature
 
 \> **elemMatch**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:340
 
 Specifies a `$elemMatch` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -898,15 +838,13 @@ Specifies a `$elemMatch` query condition. When called with one argument, the mos
 
 `Query.elemMatch`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:340
-
 ***
 
 ### equals()
 
 \> **equals**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:350
 
 Specifies the complementary comparison value for paths specified with `where()`
 
@@ -924,10 +862,6 @@ Specifies the complementary comparison value for paths specified with `where()`
 
 `Query.equals`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:350
-
 ***
 
 ### error()
@@ -935,6 +869,8 @@ node\_modules/mongoose/types/query.d.ts:350
 #### Call Signature
 
 \> **error**(): `null` \| `NativeError`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:346
 
 Gets/sets the error flag on this query. If this flag is not null or
 undefined, the `exec()` promise will reject without executing.
@@ -947,13 +883,11 @@ undefined, the `exec()` promise will reject without executing.
 
 `Query.error`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:346
-
 #### Call Signature
 
 \> **error**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:347
 
 Gets/sets the error flag on this query. If this flag is not null or
 undefined, the `exec()` promise will reject without executing.
@@ -972,15 +906,13 @@ undefined, the `exec()` promise will reject without executing.
 
 `Query.error`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:347
-
 ***
 
 ### estimatedDocumentCount()
 
 \> **estimatedDocumentCount**(`options`?): `Query`\<`number`, `T`, `T`, `"estimatedDocumentCount"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:353
 
 Creates a `estimatedDocumentCount` query: counts the number of documents in the collection.
 
@@ -998,15 +930,13 @@ Creates a `estimatedDocumentCount` query: counts the number of documents in the 
 
 `Query.estimatedDocumentCount`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:353
-
 ***
 
 ### exec()
 
 \> **exec**(): `Promise`\<`unknown`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:219
 
 Executes the query
 
@@ -1018,10 +948,6 @@ Executes the query
 
 `Query.exec`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:219
-
 ***
 
 ### exists()
@@ -1029,6 +955,8 @@ node\_modules/mongoose/types/query.d.ts:219
 #### Call Signature
 
 \> **exists**\<`K`\>(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:362
 
 Specifies a `$exists` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -1054,13 +982,11 @@ Specifies a `$exists` query condition. When called with one argument, the most r
 
 `Query.exists`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:362
-
 #### Call Signature
 
 \> **exists**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:363
 
 Specifies a `$exists` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -1078,15 +1004,13 @@ Specifies a `$exists` query condition. When called with one argument, the most r
 
 `Query.exists`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:363
-
 ***
 
 ### explain()
 
 \> **explain**(`verbose`?): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:371
 
 Sets the [`explain` option](https://www.mongodb.com/docs/manual/reference/method/cursor.explain/),
 which makes this query return detailed execution stats instead of the actual
@@ -1107,10 +1031,6 @@ use.
 
 `Query.explain`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:371
-
 ***
 
 ### find()
@@ -1118,6 +1038,8 @@ node\_modules/mongoose/types/query.d.ts:371
 #### Call Signature
 
 \> **find**(`filter`, `projection`?, `options`?): `Query`\<`T`[], `T`, `T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:374
 
 Creates a `find` query: gets a list of documents that match `filter`.
 
@@ -1143,13 +1065,11 @@ Creates a `find` query: gets a list of documents that match `filter`.
 
 `Query.find`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:374
-
 #### Call Signature
 
 \> **find**(`filter`, `projection`?): `Query`\<`T`[], `T`, `T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:379
 
 Creates a `find` query: gets a list of documents that match `filter`.
 
@@ -1171,13 +1091,11 @@ Creates a `find` query: gets a list of documents that match `filter`.
 
 `Query.find`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:379
-
 #### Call Signature
 
 \> **find**(`filter`): `Query`\<`T`[], `T`, `T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:383
 
 Creates a `find` query: gets a list of documents that match `filter`.
 
@@ -1195,13 +1113,11 @@ Creates a `find` query: gets a list of documents that match `filter`.
 
 `Query.find`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:383
-
 #### Call Signature
 
 \> **find**(): `Query`\<`T`[], `T`, `T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:386
 
 Creates a `find` query: gets a list of documents that match `filter`.
 
@@ -1212,10 +1128,6 @@ Creates a `find` query: gets a list of documents that match `filter`.
 ##### Inherited from
 
 `Query.find`
-
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:386
 
 ***
 
@@ -1225,6 +1137,8 @@ node\_modules/mongoose/types/query.d.ts:386
 
 \> **findById**(`id`, `projection`?, `options`?): `Query`\<`null` \| `T`, `T`, `T`, `"findOne"`\>
 
+Defined in: node\_modules/mongoose/types/query.d.ts:426
+
 Declares the query a findById operation. When executed, returns the document with the given `_id`.
 
 ##### Parameters
@@ -1249,13 +1163,11 @@ Declares the query a findById operation. When executed, returns the document wit
 
 `Query.findById`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:426
-
 #### Call Signature
 
 \> **findById**(`id`, `projection`?): `Query`\<`null` \| `T`, `T`, `T`, `"findOne"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:431
 
 Declares the query a findById operation. When executed, returns the document with the given `_id`.
 
@@ -1277,13 +1189,11 @@ Declares the query a findById operation. When executed, returns the document wit
 
 `Query.findById`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:431
-
 #### Call Signature
 
 \> **findById**(`id`): `Query`\<`null` \| `T`, `T`, `T`, `"findOne"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:435
 
 Declares the query a findById operation. When executed, returns the document with the given `_id`.
 
@@ -1301,10 +1211,6 @@ Declares the query a findById operation. When executed, returns the document wit
 
 `Query.findById`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:435
-
 ***
 
 ### findByIdAndDelete()
@@ -1312,6 +1218,8 @@ node\_modules/mongoose/types/query.d.ts:435
 #### Call Signature
 
 \> **findByIdAndDelete**(`id`, `options`): `Query`\<`ModifyResult`\<`T`\>, `T`, `T`, `"findOneAndDelete"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:440
 
 Creates a `findByIdAndDelete` query, filtering by the given `_id`.
 
@@ -1333,13 +1241,11 @@ Creates a `findByIdAndDelete` query, filtering by the given `_id`.
 
 `Query.findByIdAndDelete`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:440
-
 #### Call Signature
 
 \> **findByIdAndDelete**(`id`?, `options`?): `Query`\<`null` \| `T`, `T`, `T`, `"findOneAndDelete"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:444
 
 Creates a `findByIdAndDelete` query, filtering by the given `_id`.
 
@@ -1361,10 +1267,6 @@ Creates a `findByIdAndDelete` query, filtering by the given `_id`.
 
 `Query.findByIdAndDelete`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:444
-
 ***
 
 ### findByIdAndUpdate()
@@ -1372,6 +1274,8 @@ node\_modules/mongoose/types/query.d.ts:444
 #### Call Signature
 
 \> **findByIdAndUpdate**(`id`, `update`, `options`): `Query`\<`any`, `T`, `T`, `"findOneAndUpdate"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:450
 
 Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
@@ -1397,13 +1301,11 @@ Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
 `Query.findByIdAndUpdate`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:450
-
 #### Call Signature
 
 \> **findByIdAndUpdate**(`id`, `update`, `options`): `Query`\<`T`, `T`, `T`, `"findOneAndUpdate"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:455
 
 Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
@@ -1429,13 +1331,11 @@ Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
 `Query.findByIdAndUpdate`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:455
-
 #### Call Signature
 
 \> **findByIdAndUpdate**(`id`?, `update`?, `options`?): `Query`\<`null` \| `T`, `T`, `T`, `"findOneAndUpdate"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:460
 
 Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
@@ -1461,13 +1361,11 @@ Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
 `Query.findByIdAndUpdate`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:460
-
 #### Call Signature
 
 \> **findByIdAndUpdate**(`id`, `update`): `Query`\<`null` \| `T`, `T`, `T`, `"findOneAndUpdate"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:465
 
 Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
@@ -1489,10 +1387,6 @@ Creates a `findOneAndUpdate` query, filtering by the given `_id`.
 
 `Query.findByIdAndUpdate`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:465
-
 ***
 
 ### findOne()
@@ -1500,6 +1394,8 @@ node\_modules/mongoose/types/query.d.ts:465
 #### Call Signature
 
 \> **findOne**(`filter`?, `projection`?, `options`?): `Query`\<`null` \| `T`, `T`, `T`, `"findOne"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:389
 
 Declares the query a findOne operation. When executed, returns the first found document.
 
@@ -1525,13 +1421,11 @@ Declares the query a findOne operation. When executed, returns the first found d
 
 `Query.findOne`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:389
-
 #### Call Signature
 
 \> **findOne**(`filter`?, `projection`?): `Query`\<`null` \| `T`, `T`, `T`, `"findOne"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:394
 
 Declares the query a findOne operation. When executed, returns the first found document.
 
@@ -1553,13 +1447,11 @@ Declares the query a findOne operation. When executed, returns the first found d
 
 `Query.findOne`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:394
-
 #### Call Signature
 
 \> **findOne**(`filter`?): `Query`\<`null` \| `T`, `T`, `T`, `"findOne"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:398
 
 Declares the query a findOne operation. When executed, returns the first found document.
 
@@ -1577,15 +1469,13 @@ Declares the query a findOne operation. When executed, returns the first found d
 
 `Query.findOne`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:398
-
 ***
 
 ### findOneAndDelete()
 
 \> **findOneAndDelete**(`filter`?, `options`?): `Query`\<`null` \| `T`, `T`, `T`, `"findOneAndDelete"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:403
 
 Creates a `findOneAndDelete` query: atomically finds the given document, deletes it, and returns the document as it was before deletion.
 
@@ -1607,10 +1497,6 @@ Creates a `findOneAndDelete` query: atomically finds the given document, deletes
 
 `Query.findOneAndDelete`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:403
-
 ***
 
 ### findOneAndUpdate()
@@ -1618,6 +1504,8 @@ node\_modules/mongoose/types/query.d.ts:403
 #### Call Signature
 
 \> **findOneAndUpdate**(`filter`, `update`, `options`): `Query`\<`ModifyResult`\<`T`\>, `T`, `T`, `"findOneAndUpdate"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:409
 
 Creates a `findOneAndUpdate` query: atomically find the first document that matches `filter` and apply `update`.
 
@@ -1643,13 +1531,11 @@ Creates a `findOneAndUpdate` query: atomically find the first document that matc
 
 `Query.findOneAndUpdate`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:409
-
 #### Call Signature
 
 \> **findOneAndUpdate**(`filter`, `update`, `options`): `Query`\<`T`, `T`, `T`, `"findOneAndUpdate"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:414
 
 Creates a `findOneAndUpdate` query: atomically find the first document that matches `filter` and apply `update`.
 
@@ -1675,13 +1561,11 @@ Creates a `findOneAndUpdate` query: atomically find the first document that matc
 
 `Query.findOneAndUpdate`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:414
-
 #### Call Signature
 
 \> **findOneAndUpdate**(`filter`?, `update`?, `options`?): `Query`\<`null` \| `T`, `T`, `T`, `"findOneAndUpdate"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:419
 
 Creates a `findOneAndUpdate` query: atomically find the first document that matches `filter` and apply `update`.
 
@@ -1707,15 +1591,13 @@ Creates a `findOneAndUpdate` query: atomically find the first document that matc
 
 `Query.findOneAndUpdate`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:419
-
 ***
 
 ### geometry()
 
 \> **geometry**(`object`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:471
 
 Specifies a `$geometry` condition
 
@@ -1739,15 +1621,13 @@ Specifies a `$geometry` condition
 
 `Query.geometry`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:471
-
 ***
 
 ### get()
 
 \> **get**(`path`): `any`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:478
 
 For update operations, returns the value of a path in the update's `$set`.
 Useful for writing getters/setters that can work with both update operations
@@ -1767,15 +1647,13 @@ and `save()`.
 
 `Query.get`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:478
-
 ***
 
 ### getFilter()
 
 \> **getFilter**(): `FilterQuery`\<`T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:481
 
 Returns the current query filter (also known as conditions) as a POJO.
 
@@ -1787,15 +1665,13 @@ Returns the current query filter (also known as conditions) as a POJO.
 
 `Query.getFilter`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:481
-
 ***
 
 ### getOptions()
 
 \> **getOptions**(): `QueryOptions`\<`T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:484
 
 Gets query options.
 
@@ -1807,15 +1683,13 @@ Gets query options.
 
 `Query.getOptions`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:484
-
 ***
 
 ### getPopulatedPaths()
 
 \> **getPopulatedPaths**(): `string`[]
+
+Defined in: node\_modules/mongoose/types/query.d.ts:487
 
 Gets a list of paths to be populated by this query
 
@@ -1827,15 +1701,13 @@ Gets a list of paths to be populated by this query
 
 `Query.getPopulatedPaths`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:487
-
 ***
 
 ### getQuery()
 
 \> **getQuery**(): `FilterQuery`\<`T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:490
 
 Returns the current query filter. Equivalent to `getFilter()`.
 
@@ -1847,15 +1719,13 @@ Returns the current query filter. Equivalent to `getFilter()`.
 
 `Query.getQuery`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:490
-
 ***
 
 ### getUpdate()
 
 \> **getUpdate**(): `null` \| `UpdateWithAggregationPipeline` \| `UpdateQuery`\<`T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:493
 
 Returns the current update operations as a JSON object.
 
@@ -1867,10 +1737,6 @@ Returns the current update operations as a JSON object.
 
 `Query.getUpdate`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:493
-
 ***
 
 ### gt()
@@ -1878,6 +1744,8 @@ node\_modules/mongoose/types/query.d.ts:493
 #### Call Signature
 
 \> **gt**\<`K`\>(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:496
 
 Specifies a `$gt` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -1903,13 +1771,11 @@ Specifies a `$gt` query condition. When called with one argument, the most recen
 
 `Query.gt`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:496
-
 #### Call Signature
 
 \> **gt**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:497
 
 Specifies a `$gt` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -1926,10 +1792,6 @@ Specifies a `$gt` query condition. When called with one argument, the most recen
 ##### Inherited from
 
 `Query.gt`
-
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:497
 
 ***
 
@@ -1939,6 +1801,8 @@ node\_modules/mongoose/types/query.d.ts:497
 
 \> **gte**\<`K`\>(`path`, `val`): `this`
 
+Defined in: node\_modules/mongoose/types/query.d.ts:500
+
 Specifies a `$gte` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
 ##### Type Parameters
@@ -1963,13 +1827,11 @@ Specifies a `$gte` query condition. When called with one argument, the most rece
 
 `Query.gte`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:500
-
 #### Call Signature
 
 \> **gte**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:501
 
 Specifies a `$gte` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -1987,15 +1849,13 @@ Specifies a `$gte` query condition. When called with one argument, the most rece
 
 `Query.gte`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:501
-
 ***
 
 ### hint()
 
 \> **hint**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:504
 
 Sets query hints.
 
@@ -2013,10 +1873,6 @@ Sets query hints.
 
 `Query.hint`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:504
-
 ***
 
 ### in()
@@ -2024,6 +1880,8 @@ node\_modules/mongoose/types/query.d.ts:504
 #### Call Signature
 
 \> **in**\<`K`\>(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:507
 
 Specifies an `$in` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -2049,13 +1907,11 @@ Specifies an `$in` query condition. When called with one argument, the most rece
 
 `Query.in`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:507
-
 #### Call Signature
 
 \> **in**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:508
 
 Specifies an `$in` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -2073,15 +1929,13 @@ Specifies an `$in` query condition. When called with one argument, the most rece
 
 `Query.in`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:508
-
 ***
 
 ### intersects()
 
 \> **intersects**(`arg`?): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:511
 
 Declares an intersects query for `geometry()`.
 
@@ -2099,15 +1953,13 @@ Declares an intersects query for `geometry()`.
 
 `Query.intersects`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:511
-
 ***
 
 ### j()
 
 \> **j**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:514
 
 Requests acknowledgement that this operation has been persisted to MongoDB's on-disk journal.
 
@@ -2125,15 +1977,13 @@ Requests acknowledgement that this operation has been persisted to MongoDB's on-
 
 `Query.j`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:514
-
 ***
 
 ### lean()
 
 \> **lean**\<`LeanResultType`\>(`val`?): `Query`\<`LeanResultType`, `T`, `T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:517
 
 Sets the lean option.
 
@@ -2155,15 +2005,13 @@ Sets the lean option.
 
 `Query.lean`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:517
-
 ***
 
 ### limit()
 
 \> **limit**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:532
 
 Specifies the maximum number of documents the query will return.
 
@@ -2181,10 +2029,6 @@ Specifies the maximum number of documents the query will return.
 
 `Query.limit`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:532
-
 ***
 
 ### lt()
@@ -2192,6 +2036,8 @@ node\_modules/mongoose/types/query.d.ts:532
 #### Call Signature
 
 \> **lt**\<`K`\>(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:535
 
 Specifies a `$lt` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -2217,13 +2063,11 @@ Specifies a `$lt` query condition. When called with one argument, the most recen
 
 `Query.lt`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:535
-
 #### Call Signature
 
 \> **lt**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:536
 
 Specifies a `$lt` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -2240,10 +2084,6 @@ Specifies a `$lt` query condition. When called with one argument, the most recen
 ##### Inherited from
 
 `Query.lt`
-
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:536
 
 ***
 
@@ -2253,6 +2093,8 @@ node\_modules/mongoose/types/query.d.ts:536
 
 \> **lte**\<`K`\>(`path`, `val`): `this`
 
+Defined in: node\_modules/mongoose/types/query.d.ts:539
+
 Specifies a `$lte` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
 ##### Type Parameters
@@ -2277,13 +2119,11 @@ Specifies a `$lte` query condition. When called with one argument, the most rece
 
 `Query.lte`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:539
-
 #### Call Signature
 
 \> **lte**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:540
 
 Specifies a `$lte` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -2301,10 +2141,6 @@ Specifies a `$lte` query condition. When called with one argument, the most rece
 
 `Query.lte`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:540
-
 ***
 
 ### maxDistance()
@@ -2312,6 +2148,8 @@ node\_modules/mongoose/types/query.d.ts:540
 #### Call Signature
 
 \> **maxDistance**(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:549
 
 Specifies an `$maxDistance` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -2333,13 +2171,11 @@ Specifies an `$maxDistance` query condition. When called with one argument, the 
 
 `Query.maxDistance`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:549
-
 #### Call Signature
 
 \> **maxDistance**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:550
 
 Specifies an `$maxDistance` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -2357,15 +2193,13 @@ Specifies an `$maxDistance` query condition. When called with one argument, the 
 
 `Query.maxDistance`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:550
-
 ***
 
 ### maxTimeMS()
 
 \> **maxTimeMS**(`ms`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:557
 
 Sets the [maxTimeMS](https://www.mongodb.com/docs/manual/reference/method/cursor.maxTimeMS/)
 option. This will tell the MongoDB server to abort if the query or write op
@@ -2385,15 +2219,13 @@ has been running for more than `ms` milliseconds.
 
 `Query.maxTimeMS`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:557
-
 ***
 
 ### merge()
 
 \> **merge**(`source`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:560
 
 Merges another Query or conditions object into this one.
 
@@ -2411,10 +2243,6 @@ Merges another Query or conditions object into this one.
 
 `Query.merge`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:560
-
 ***
 
 ### mod()
@@ -2422,6 +2250,8 @@ node\_modules/mongoose/types/query.d.ts:560
 #### Call Signature
 
 \> **mod**\<`K`\>(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:563
 
 Specifies a `$mod` condition, filters documents for documents whose `path` property is a number that is equal to `remainder` modulo `divisor`.
 
@@ -2447,13 +2277,11 @@ Specifies a `$mod` condition, filters documents for documents whose `path` prope
 
 `Query.mod`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:563
-
 #### Call Signature
 
 \> **mod**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:564
 
 Specifies a `$mod` condition, filters documents for documents whose `path` property is a number that is equal to `remainder` modulo `divisor`.
 
@@ -2471,15 +2299,13 @@ Specifies a `$mod` condition, filters documents for documents whose `path` prope
 
 `Query.mod`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:564
-
 ***
 
 ### mongooseOptions()
 
 \> **mongooseOptions**(`val`?): `MongooseQueryOptions`\<`unknown`, `"timestamps"` \| `MongooseBaseQueryOptionKeys` \| `"lean"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:573
 
 Getter/setter around the current mongoose-specific options for this query
 Below are the current Mongoose-specific options.
@@ -2498,10 +2324,6 @@ Below are the current Mongoose-specific options.
 
 `Query.mongooseOptions`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:573
-
 ***
 
 ### ne()
@@ -2509,6 +2331,8 @@ node\_modules/mongoose/types/query.d.ts:573
 #### Call Signature
 
 \> **ne**\<`K`\>(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:576
 
 Specifies a `$ne` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -2534,13 +2358,11 @@ Specifies a `$ne` query condition. When called with one argument, the most recen
 
 `Query.ne`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:576
-
 #### Call Signature
 
 \> **ne**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:577
 
 Specifies a `$ne` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -2557,10 +2379,6 @@ Specifies a `$ne` query condition. When called with one argument, the most recen
 ##### Inherited from
 
 `Query.ne`
-
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:577
 
 ***
 
@@ -2570,6 +2388,8 @@ node\_modules/mongoose/types/query.d.ts:577
 
 \> **near**\<`K`\>(`path`, `val`): `this`
 
+Defined in: node\_modules/mongoose/types/query.d.ts:580
+
 Specifies a `$near` or `$nearSphere` condition
 
 ##### Type Parameters
@@ -2594,13 +2414,11 @@ Specifies a `$near` or `$nearSphere` condition
 
 `Query.near`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:580
-
 #### Call Signature
 
 \> **near**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:581
 
 Specifies a `$near` or `$nearSphere` condition
 
@@ -2617,10 +2435,6 @@ Specifies a `$near` or `$nearSphere` condition
 ##### Inherited from
 
 `Query.near`
-
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:581
 
 ***
 
@@ -2630,6 +2444,8 @@ node\_modules/mongoose/types/query.d.ts:581
 
 \> **nin**\<`K`\>(`path`, `val`): `this`
 
+Defined in: node\_modules/mongoose/types/query.d.ts:584
+
 Specifies an `$nin` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
 ##### Type Parameters
@@ -2654,13 +2470,11 @@ Specifies an `$nin` query condition. When called with one argument, the most rec
 
 `Query.nin`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:584
-
 #### Call Signature
 
 \> **nin**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:585
 
 Specifies an `$nin` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -2678,15 +2492,13 @@ Specifies an `$nin` query condition. When called with one argument, the most rec
 
 `Query.nin`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:585
-
 ***
 
 ### nor()
 
 \> **nor**(`array`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:588
 
 Specifies arguments for an `$nor` condition.
 
@@ -2704,15 +2516,13 @@ Specifies arguments for an `$nor` condition.
 
 `Query.nor`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:588
-
 ***
 
 ### or()
 
 \> **or**(`array`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:591
 
 Specifies arguments for an `$or` condition.
 
@@ -2730,15 +2540,13 @@ Specifies arguments for an `$or` condition.
 
 `Query.or`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:591
-
 ***
 
 ### orFail()
 
 \> **orFail**(`err`?): `Query`\<`T`, `T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:598
 
 Make this query throw an error if no documents match the given `filter`.
 This is handy for integrating with async/await, because `orFail()` saves you
@@ -2758,10 +2566,6 @@ an extra `if` statement to check if no document was found.
 
 `Query.orFail`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:598
-
 ***
 
 ### paginate()
@@ -2769,6 +2573,8 @@ node\_modules/mongoose/types/query.d.ts:598
 #### Call Signature
 
 \> **paginate**\<`O`\>(`options`?): `Promise`\<`PaginateResult`\<`PaginateDocument`\<`T`, `Record`\<`string`, `never`\>, \{\}, `O`\>\>\>
+
+Defined in: node\_modules/mongoose-paginate-v2/index.d.ts:140
 
 ##### Type Parameters
 
@@ -2788,13 +2594,11 @@ node\_modules/mongoose/types/query.d.ts:598
 
 `Query.paginate`
 
-##### Defined in
-
-node\_modules/mongoose-paginate-v2/index.d.ts:140
-
 #### Call Signature
 
 \> **paginate**\<`UserType`, `O`\>(`options`?): `Promise`\<`PaginateResult`\<`PaginateDocument`\<`UserType`, `Record`\<`string`, `never`\>, \{\}, `O`\>\>\>
+
+Defined in: node\_modules/mongoose-paginate-v2/index.d.ts:143
 
 ##### Type Parameters
 
@@ -2816,13 +2620,11 @@ node\_modules/mongoose-paginate-v2/index.d.ts:140
 
 `Query.paginate`
 
-##### Defined in
-
-node\_modules/mongoose-paginate-v2/index.d.ts:143
-
 #### Call Signature
 
 \> **paginate**\<`UserType`\>(`options`?): `Promise`\<`PaginateResult`\<`IfAny`\<`UserType`, `any`, `Document`\<`unknown`, \{\}, `UserType`\> & `Require_id`\<`UserType`\>\>\>\>
+
+Defined in: node\_modules/mongoose-paginate-v2/index.d.ts:146
 
 ##### Type Parameters
 
@@ -2842,10 +2644,6 @@ node\_modules/mongoose-paginate-v2/index.d.ts:143
 
 `Query.paginate`
 
-##### Defined in
-
-node\_modules/mongoose-paginate-v2/index.d.ts:146
-
 ***
 
 ### polygon()
@@ -2853,6 +2651,8 @@ node\_modules/mongoose-paginate-v2/index.d.ts:146
 #### Call Signature
 
 \> **polygon**(`path`, ...`coordinatePairs`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:601
 
 Specifies a `$polygon` condition
 
@@ -2874,13 +2674,11 @@ Specifies a `$polygon` condition
 
 `Query.polygon`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:601
-
 #### Call Signature
 
 \> **polygon**(...`coordinatePairs`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:602
 
 Specifies a `$polygon` condition
 
@@ -2898,10 +2696,6 @@ Specifies a `$polygon` condition
 
 `Query.polygon`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:602
-
 ***
 
 ### populate()
@@ -2909,6 +2703,8 @@ node\_modules/mongoose/types/query.d.ts:602
 #### Call Signature
 
 \> **populate**\<`Paths`\>(`path`, `select`?, `model`?, `match`?): `Query`\<keyof `Paths` *extends* `never` ? `unknown` : `Omit`\<`unknown`, keyof `Paths`\> & `Paths`, `T`, `UnpackedIntersection`\<`T`, `Paths`\>\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:605
 
 Specifies paths which should be populated with other documents.
 
@@ -2942,13 +2738,11 @@ Specifies paths which should be populated with other documents.
 
 `Query.populate`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:605
-
 #### Call Signature
 
 \> **populate**\<`Paths`\>(`options`): `Query`\<keyof `Paths` *extends* `never` ? `unknown` : `Omit`\<`unknown`, keyof `Paths`\> & `Paths`, `T`, `UnpackedIntersection`\<`T`, `Paths`\>\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:617
 
 Specifies paths which should be populated with other documents.
 
@@ -2970,15 +2764,13 @@ Specifies paths which should be populated with other documents.
 
 `Query.populate`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:617
-
 ***
 
 ### post()
 
 \> **post**(`fn`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:631
 
 Add post middleware to this query instance. Doesn't affect other queries.
 
@@ -2996,15 +2788,13 @@ Add post middleware to this query instance. Doesn't affect other queries.
 
 `Query.post`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:631
-
 ***
 
 ### pre()
 
 \> **pre**(`fn`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:628
 
 Add pre middleware to this query instance. Doesn't affect other queries.
 
@@ -3022,10 +2812,6 @@ Add pre middleware to this query instance. Doesn't affect other queries.
 
 `Query.pre`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:628
-
 ***
 
 ### projection()
@@ -3033,6 +2819,8 @@ node\_modules/mongoose/types/query.d.ts:628
 #### Call Signature
 
 \> **projection**(`fields`?): `ProjectionFields`\<`T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:634
 
 Get/set the current projection (AKA fields). Pass `null` to remove the current projection.
 
@@ -3050,13 +2838,11 @@ Get/set the current projection (AKA fields). Pass `null` to remove the current p
 
 `Query.projection`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:634
-
 #### Call Signature
 
 \> **projection**(`fields`): `null`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:635
 
 Get/set the current projection (AKA fields). Pass `null` to remove the current projection.
 
@@ -3074,13 +2860,11 @@ Get/set the current projection (AKA fields). Pass `null` to remove the current p
 
 `Query.projection`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:635
-
 #### Call Signature
 
 \> **projection**(): `null` \| `ProjectionFields`\<`T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:636
 
 Get/set the current projection (AKA fields). Pass `null` to remove the current projection.
 
@@ -3092,15 +2876,13 @@ Get/set the current projection (AKA fields). Pass `null` to remove the current p
 
 `Query.projection`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:636
-
 ***
 
 ### read()
 
 \> **read**(`mode`, `tags`?): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:639
 
 Determines the MongoDB nodes from which to read.
 
@@ -3122,15 +2904,13 @@ Determines the MongoDB nodes from which to read.
 
 `Query.read`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:639
-
 ***
 
 ### readConcern()
 
 \> **readConcern**(`level`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:642
 
 Sets the readConcern option for the query.
 
@@ -3148,10 +2928,6 @@ Sets the readConcern option for the query.
 
 `Query.readConcern`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:642
-
 ***
 
 ### regex()
@@ -3159,6 +2935,8 @@ node\_modules/mongoose/types/query.d.ts:642
 #### Call Signature
 
 \> **regex**\<`K`\>(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:645
 
 Specifies a `$regex` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -3184,13 +2962,11 @@ Specifies a `$regex` query condition. When called with one argument, the most re
 
 `Query.regex`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:645
-
 #### Call Signature
 
 \> **regex**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:646
 
 Specifies a `$regex` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -3208,15 +2984,13 @@ Specifies a `$regex` query condition. When called with one argument, the most re
 
 `Query.regex`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:646
-
 ***
 
 ### replaceOne()
 
 \> **replaceOne**(`filter`?, `replacement`?, `options`?): `Query`\<`any`, `T`, `T`, `"replaceOne"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:653
 
 Declare and/or execute this query as a replaceOne() operation. Same as
 `update()`, except MongoDB will replace the existing document and will
@@ -3244,15 +3018,13 @@ not accept any [atomic](https://www.mongodb.com/docs/manual/tutorial/model-data-
 
 `Query.replaceOne`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:653
-
 ***
 
 ### select()
 
 \> **select**\<`RawDocTypeOverride`\>(`arg`): `Query`\<`IfEquals`\<`RawDocTypeOverride`, \{\}, `unknown`, `IfAny`\<`RawDocTypeOverride`, `any`, `Document`\<`unknown`, \{\}, `RawDocTypeOverride`\> & `Require_id`\<`RawDocTypeOverride`\>\>\>, `T`, `IfEquals`\<`RawDocTypeOverride`, \{\}, `T`, `RawDocTypeOverride`\>\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:660
 
 Specifies which document fields to include or exclude (also known as the query "projection")
 
@@ -3274,15 +3046,13 @@ Specifies which document fields to include or exclude (also known as the query "
 
 `Query.select`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:660
-
 ***
 
 ### selected()
 
 \> **selected**(): `boolean`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:687
 
 Determines if field selection has been made.
 
@@ -3294,15 +3064,13 @@ Determines if field selection has been made.
 
 `Query.selected`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:687
-
 ***
 
 ### selectedExclusively()
 
 \> **selectedExclusively**(): `boolean`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:690
 
 Determines if exclusive field selection has been made.
 
@@ -3314,15 +3082,13 @@ Determines if exclusive field selection has been made.
 
 `Query.selectedExclusively`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:690
-
 ***
 
 ### selectedInclusively()
 
 \> **selectedInclusively**(): `boolean`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:693
 
 Determines if inclusive field selection has been made.
 
@@ -3334,15 +3100,13 @@ Determines if inclusive field selection has been made.
 
 `Query.selectedInclusively`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:693
-
 ***
 
 ### session()
 
 \> **session**(`session`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:700
 
 Sets the [MongoDB session](https://www.mongodb.com/docs/manual/reference/server-sessions/)
 associated with this query. Sessions are how you mark a query as part of a
@@ -3362,15 +3126,13 @@ associated with this query. Sessions are how you mark a query as part of a
 
 `Query.session`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:700
-
 ***
 
 ### set()
 
 \> **set**(`path`, `value`?): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:707
 
 Adds a `$set` to this query's update without changing the operation.
 This is useful for query middleware so you can add an update regardless
@@ -3394,15 +3156,13 @@ of whether you use `updateOne()`, `updateMany()`, `findOneAndUpdate()`, etc.
 
 `Query.set`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:707
-
 ***
 
 ### setOptions()
 
 \> **setOptions**(`options`, `overwrite`?): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:710
 
 Sets query options. Some options only make sense for certain operations.
 
@@ -3424,15 +3184,13 @@ Sets query options. Some options only make sense for certain operations.
 
 `Query.setOptions`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:710
-
 ***
 
 ### setQuery()
 
 \> **setQuery**(`val`): `void`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:713
 
 Sets the query conditions to the provided JSON object.
 
@@ -3450,15 +3208,13 @@ Sets the query conditions to the provided JSON object.
 
 `Query.setQuery`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:713
-
 ***
 
 ### setUpdate()
 
 \> **setUpdate**(`update`): `void`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:715
 
 #### Parameters
 
@@ -3474,10 +3230,6 @@ node\_modules/mongoose/types/query.d.ts:713
 
 `Query.setUpdate`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:715
-
 ***
 
 ### size()
@@ -3485,6 +3237,8 @@ node\_modules/mongoose/types/query.d.ts:715
 #### Call Signature
 
 \> **size**\<`K`\>(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:718
 
 Specifies an `$size` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -3510,13 +3264,11 @@ Specifies an `$size` query condition. When called with one argument, the most re
 
 `Query.size`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:718
-
 #### Call Signature
 
 \> **size**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:719
 
 Specifies an `$size` query condition. When called with one argument, the most recent path passed to `where()` is used.
 
@@ -3534,15 +3286,13 @@ Specifies an `$size` query condition. When called with one argument, the most re
 
 `Query.size`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:719
-
 ***
 
 ### skip()
 
 \> **skip**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:722
 
 Specifies the number of documents to skip.
 
@@ -3560,10 +3310,6 @@ Specifies the number of documents to skip.
 
 `Query.skip`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:722
-
 ***
 
 ### slice()
@@ -3571,6 +3317,8 @@ node\_modules/mongoose/types/query.d.ts:722
 #### Call Signature
 
 \> **slice**(`path`, `val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:725
 
 Specifies a `$slice` projection for an array.
 
@@ -3592,13 +3340,11 @@ Specifies a `$slice` projection for an array.
 
 `Query.slice`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:725
-
 #### Call Signature
 
 \> **slice**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:726
 
 Specifies a `$slice` projection for an array.
 
@@ -3616,15 +3362,13 @@ Specifies a `$slice` projection for an array.
 
 `Query.slice`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:726
-
 ***
 
 ### sort()
 
 \> **sort**(`arg`?, `options`?): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:729
 
 Sets the sort order. If an object is passed, values allowed are `asc`, `desc`, `ascending`, `descending`, `1`, and `-1`.
 
@@ -3632,7 +3376,7 @@ Sets the sort order. If an object is passed, values allowed are `asc`, `desc`, `
 
 ##### arg?
 
-`null` | `string` | [`string`, `SortOrder`][] | \{\}
+`null` | `string` | \[`string`, `SortOrder`\][] | \{\}
 
 ##### options?
 
@@ -3648,15 +3392,13 @@ Sets the sort order. If an object is passed, values allowed are `asc`, `desc`, `
 
 `Query.sort`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:729
-
 ***
 
 ### tailable()
 
 \> **tailable**(`bool`?, `opts`?): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:735
 
 Sets the tailable option (for use with capped collections).
 
@@ -3684,15 +3426,13 @@ Sets the tailable option (for use with capped collections).
 
 `Query.tailable`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:735
-
 ***
 
 ### toConstructor()
 
 \> **toConstructor**\<`RetType`\>(): `RetType`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:747
 
 Converts this query to a customized, reusable query constructor with all arguments and options retained.
 
@@ -3708,15 +3448,13 @@ Converts this query to a customized, reusable query constructor with all argumen
 
 `Query.toConstructor`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:747
-
 ***
 
 ### transform()
 
 \> **transform**\<`MappedType`\>(`fn`): `Query`\<`MappedType`, `T`, `T`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:546
 
 Runs a function `fn` and treats the return value of `fn` as the new value
 for the query to resolve to.
@@ -3739,15 +3477,13 @@ for the query to resolve to.
 
 `Query.transform`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:546
-
 ***
 
 ### updateMany()
 
 \> **updateMany**(`filter`?, `update`?, `options`?): `Query`\<`UpdateWriteOpResult`, `T`, `T`, `"updateMany"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:755
 
 Declare and/or execute this query as an updateMany() operation. Same as
 `update()`, except MongoDB will update _all_ documents that match
@@ -3776,15 +3512,13 @@ the `multi` option.
 
 `Query.updateMany`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:755
-
 ***
 
 ### updateOne()
 
 \> **updateOne**(`filter`?, `update`?, `options`?): `Query`\<`UpdateWriteOpResult`, `T`, `T`, `"updateOne"`\>
+
+Defined in: node\_modules/mongoose/types/query.d.ts:765
 
 Declare and/or execute this query as an updateOne() operation. Same as
 `update()`, except it does not support the `multi` or `overwrite` options.
@@ -3811,15 +3545,13 @@ Declare and/or execute this query as an updateOne() operation. Same as
 
 `Query.updateOne`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:765
-
 ***
 
 ### w()
 
 \> **w**(`val`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:775
 
 Sets the specified number of `mongod` servers, or tag set of `mongod` servers,
 that must acknowledge this write before this write is considered successful.
@@ -3838,10 +3570,6 @@ that must acknowledge this write before this write is considered successful.
 
 `Query.w`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:775
-
 ***
 
 ### where()
@@ -3849,6 +3577,8 @@ node\_modules/mongoose/types/query.d.ts:775
 #### Call Signature
 
 \> **where**(`path`, `val`?): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:778
 
 Specifies a path for use with chaining.
 
@@ -3870,13 +3600,11 @@ Specifies a path for use with chaining.
 
 `Query.where`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:778
-
 #### Call Signature
 
 \> **where**(`obj`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:779
 
 Specifies a path for use with chaining.
 
@@ -3894,13 +3622,11 @@ Specifies a path for use with chaining.
 
 `Query.where`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:779
-
 #### Call Signature
 
 \> **where**(): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:780
 
 Specifies a path for use with chaining.
 
@@ -3912,15 +3638,13 @@ Specifies a path for use with chaining.
 
 `Query.where`
 
-##### Defined in
-
-node\_modules/mongoose/types/query.d.ts:780
-
 ***
 
 ### within()
 
 \> **within**(`val`?): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:783
 
 Defines a `$within` or `$geoWithin` argument for geo-spatial queries.
 
@@ -3938,15 +3662,13 @@ Defines a `$within` or `$geoWithin` argument for geo-spatial queries.
 
 `Query.within`
 
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:783
-
 ***
 
 ### wtimeout()
 
 \> **wtimeout**(`ms`): `this`
+
+Defined in: node\_modules/mongoose/types/query.d.ts:790
 
 If [`w \> 1`](/docs/api/query.html#query_Query-w), the maximum amount of time to
 wait for this write to propagate through the replica set before this
@@ -3965,7 +3687,3 @@ operation fails. The default is `0`, which means no timeout.
 #### Inherited from
 
 `Query.wtimeout`
-
-#### Defined in
-
-node\_modules/mongoose/types/query.d.ts:790

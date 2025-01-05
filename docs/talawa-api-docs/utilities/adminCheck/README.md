@@ -6,8 +6,6 @@
 
 # utilities/adminCheck
 
-## Index
-
-### Functions
+## Functions
 
 - [adminCheck](functions/adminCheck.md)

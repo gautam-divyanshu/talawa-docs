@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createActionItemCategory
 
-## Index
-
-### Variables
+## Variables
 
 - [createActionItemCategory](variables/createActionItemCategory.md)

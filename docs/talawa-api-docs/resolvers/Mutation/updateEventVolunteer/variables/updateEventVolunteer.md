@@ -8,6 +8,8 @@
 
 \> `const` **updateEventVolunteer**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"updateEventVolunteer"`\]
 
+Defined in: [src/resolvers/Mutation/updateEventVolunteer.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/updateEventVolunteer.ts#L21)
+
 This function enables to update an Event Volunteer
 
 ## Param
@@ -29,7 +31,3 @@ The following checks are done:
 2. Whether the EventVolunteer exists
 3. Whether the current user is the user of EventVolunteer
 4. Update the EventVolunteer
-
-## Defined in
-
-[src/resolvers/Mutation/updateEventVolunteer.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/updateEventVolunteer.ts#L21)

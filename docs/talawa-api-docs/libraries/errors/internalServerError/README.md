@@ -6,8 +6,6 @@
 
 # libraries/errors/internalServerError
 
-## Index
-
-### Classes
+## Classes
 
 - [InternalServerError](classes/InternalServerError.md)

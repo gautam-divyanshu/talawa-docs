@@ -6,8 +6,6 @@
 
 # libraries/errors/inputValidationError
 
-## Index
-
-### Classes
+## Classes
 
 - [InputValidationError](classes/InputValidationError.md)

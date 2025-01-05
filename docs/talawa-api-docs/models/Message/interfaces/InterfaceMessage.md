@@ -6,6 +6,8 @@
 
 # Interface: InterfaceMessage
 
+Defined in: [src/models/Message.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Message.ts#L12)
+
 Interface representing a document for a message in the database (MongoDB).
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for a message in the database (MongoDB).
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/Message.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Message.ts#L13)
+Defined in: [src/models/Message.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Message.ts#L13)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for a message in the database (MongoDB).
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/Message.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Message.ts#L17)
+Defined in: [src/models/Message.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Message.ts#L17)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a document for a message in the database (MongoDB).
 
 \> **creatorId**: `any`
 
-#### Defined in
-
-[src/models/Message.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Message.ts#L19)
+Defined in: [src/models/Message.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Message.ts#L19)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a document for a message in the database (MongoDB).
 
 \> **group**: `any`
 
-#### Defined in
-
-[src/models/Message.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Message.ts#L20)
+Defined in: [src/models/Message.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Message.ts#L20)
 
 ***
 
@@ -54,9 +48,7 @@ Interface representing a document for a message in the database (MongoDB).
 
 \> **imageUrl**: `undefined` \| `string`
 
-#### Defined in
-
-[src/models/Message.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Message.ts#L15)
+Defined in: [src/models/Message.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Message.ts#L15)
 
 ***
 
@@ -64,9 +56,7 @@ Interface representing a document for a message in the database (MongoDB).
 
 \> **status**: `string`
 
-#### Defined in
-
-[src/models/Message.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Message.ts#L21)
+Defined in: [src/models/Message.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Message.ts#L21)
 
 ***
 
@@ -74,9 +64,7 @@ Interface representing a document for a message in the database (MongoDB).
 
 \> **text**: `string`
 
-#### Defined in
-
-[src/models/Message.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Message.ts#L14)
+Defined in: [src/models/Message.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Message.ts#L14)
 
 ***
 
@@ -84,9 +72,7 @@ Interface representing a document for a message in the database (MongoDB).
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/Message.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Message.ts#L18)
+Defined in: [src/models/Message.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Message.ts#L18)
 
 ***
 
@@ -94,6 +80,4 @@ Interface representing a document for a message in the database (MongoDB).
 
 \> **videoUrl**: `undefined` \| `string`
 
-#### Defined in
-
-[src/models/Message.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Message.ts#L16)
+Defined in: [src/models/Message.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Message.ts#L16)

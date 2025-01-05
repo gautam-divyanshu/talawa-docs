@@ -6,8 +6,6 @@
 
 # setup/askToKeepValues
 
-## Index
-
-### Functions
+## Functions
 
 - [askToKeepValues](functions/askToKeepValues.md)

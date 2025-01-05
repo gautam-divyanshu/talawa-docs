@@ -6,6 +6,8 @@
 
 # Interface: InterfaceMembershipRequest
 
+Defined in: [src/models/MembershipRequest.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/MembershipRequest.ts#L11)
+
 Represents a database document for Membership Request.
 
 ## Properties
@@ -14,9 +16,7 @@ Represents a database document for Membership Request.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/MembershipRequest.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/MembershipRequest.ts#L12)
+Defined in: [src/models/MembershipRequest.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/MembershipRequest.ts#L12)
 
 ***
 
@@ -24,9 +24,7 @@ Represents a database document for Membership Request.
 
 \> **organization**: `any`
 
-#### Defined in
-
-[src/models/MembershipRequest.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/MembershipRequest.ts#L13)
+Defined in: [src/models/MembershipRequest.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/MembershipRequest.ts#L13)
 
 ***
 
@@ -34,9 +32,7 @@ Represents a database document for Membership Request.
 
 \> **status**: `string`
 
-#### Defined in
-
-[src/models/MembershipRequest.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/MembershipRequest.ts#L15)
+Defined in: [src/models/MembershipRequest.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/MembershipRequest.ts#L15)
 
 ***
 
@@ -44,6 +40,4 @@ Represents a database document for Membership Request.
 
 \> **user**: `any`
 
-#### Defined in
-
-[src/models/MembershipRequest.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/MembershipRequest.ts#L14)
+Defined in: [src/models/MembershipRequest.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/MembershipRequest.ts#L14)

@@ -8,6 +8,8 @@
 
 \> `const` **image**: [`OrganizationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/OrganizationResolvers.md)\[`"image"`\]
 
+Defined in: [src/resolvers/Organization/image.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Organization/image.ts#L15)
+
 Resolver function for the `image` field of an `Organization`.
 
 This function retrieves the image URL of a specific organization.
@@ -23,7 +25,3 @@ The URL of the image of the organization.
 ## See
 
 OrganizationResolvers - The type definition for the resolvers of the Organization fields.
-
-## Defined in
-
-[src/resolvers/Organization/image.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Organization/image.ts#L15)

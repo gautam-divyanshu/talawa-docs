@@ -6,13 +6,11 @@
 
 # models/Note
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceNote](interfaces/InterfaceNote.md)
 
-### Variables
+## Variables
 
 - [NoteModel](variables/NoteModel.md)
 - [NoteSchema](variables/NoteSchema.md)

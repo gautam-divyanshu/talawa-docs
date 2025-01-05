@@ -6,8 +6,6 @@
 
 # resolvers/UserFamily
 
-## Index
-
-### Variables
+## Variables
 
 - [UserFamily](variables/UserFamily.md)

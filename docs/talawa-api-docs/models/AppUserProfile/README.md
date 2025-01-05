@@ -6,12 +6,10 @@
 
 # models/AppUserProfile
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceAppUserProfile](interfaces/InterfaceAppUserProfile.md)
 
-### Variables
+## Variables
 
 - [AppUserProfile](variables/AppUserProfile.md)

@@ -6,12 +6,10 @@
 
 # models/EventAttendee
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceEventAttendee](interfaces/InterfaceEventAttendee.md)
 
-### Variables
+## Variables
 
 - [EventAttendee](variables/EventAttendee.md)

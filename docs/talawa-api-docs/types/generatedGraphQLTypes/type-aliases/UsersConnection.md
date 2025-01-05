@@ -8,6 +8,8 @@
 
 \> **UsersConnection**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3305](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3305)
+
 A default connection on the User type.
 
 ## Type declaration
@@ -27,7 +29,3 @@ A default connection on the User type.
 ### totalCount?
 
 \> `optional` **totalCount**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"Int"`\]\[`"output"`\]\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3300](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3300)

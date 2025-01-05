@@ -6,12 +6,10 @@
 
 # models/Organization
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceOrganization](interfaces/InterfaceOrganization.md)
 
-### Variables
+## Variables
 
 - [Organization](variables/Organization.md)

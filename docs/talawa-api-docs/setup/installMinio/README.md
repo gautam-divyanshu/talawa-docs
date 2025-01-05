@@ -6,8 +6,6 @@
 
 # setup/installMinio
 
-## Index
-
-### Functions
+## Functions
 
 - [installMinio](functions/installMinio.md)

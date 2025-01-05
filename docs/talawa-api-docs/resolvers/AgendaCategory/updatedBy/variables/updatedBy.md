@@ -8,6 +8,8 @@
 
 \> `const` **updatedBy**: [`AgendaCategoryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/AgendaCategoryResolvers.md)\[`"updatedBy"`\]
 
+Defined in: [src/resolvers/AgendaCategory/updatedBy.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/AgendaCategory/updatedBy.ts#L19)
+
 Resolver function for the `updatedBy` field of an `AgendaCategory`.
 
 This function retrieves the user who last updated a specific agenda category.
@@ -28,7 +30,3 @@ A promise that resolves to the user document found in the database. This documen
 ```typescript
 return User.findOne(\{ _id: parent.updatedBy \}).lean();
 ```
-
-## Defined in
-
-[src/resolvers/AgendaCategory/updatedBy.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/AgendaCategory/updatedBy.ts#L19)

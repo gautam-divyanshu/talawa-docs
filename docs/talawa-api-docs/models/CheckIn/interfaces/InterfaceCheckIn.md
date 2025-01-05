@@ -6,6 +6,8 @@
 
 # Interface: InterfaceCheckIn
 
+Defined in: [src/models/CheckIn.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L16)
+
 Represents a document for a check-in entry in the MongoDB database.
 
 ## Properties
@@ -14,9 +16,7 @@ Represents a document for a check-in entry in the MongoDB database.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/CheckIn.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckIn.ts#L17)
+Defined in: [src/models/CheckIn.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L17)
 
 ***
 
@@ -24,9 +24,7 @@ Represents a document for a check-in entry in the MongoDB database.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/CheckIn.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckIn.ts#L21)
+Defined in: [src/models/CheckIn.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L21)
 
 ***
 
@@ -34,9 +32,7 @@ Represents a document for a check-in entry in the MongoDB database.
 
 \> **eventAttendeeId**: `any`
 
-#### Defined in
-
-[src/models/CheckIn.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckIn.ts#L18)
+Defined in: [src/models/CheckIn.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L18)
 
 ***
 
@@ -44,9 +40,7 @@ Represents a document for a check-in entry in the MongoDB database.
 
 \> **feedbackSubmitted**: `boolean`
 
-#### Defined in
-
-[src/models/CheckIn.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckIn.ts#L20)
+Defined in: [src/models/CheckIn.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L20)
 
 ***
 
@@ -54,9 +48,7 @@ Represents a document for a check-in entry in the MongoDB database.
 
 \> **time**: `Date`
 
-#### Defined in
-
-[src/models/CheckIn.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckIn.ts#L19)
+Defined in: [src/models/CheckIn.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L19)
 
 ***
 
@@ -64,6 +56,4 @@ Represents a document for a check-in entry in the MongoDB database.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/CheckIn.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckIn.ts#L22)
+Defined in: [src/models/CheckIn.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L22)

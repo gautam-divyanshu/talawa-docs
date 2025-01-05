@@ -8,6 +8,8 @@
 
 \> `const` **updateSessionTimeout**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"updateSessionTimeout"`\]
 
+Defined in: [src/resolvers/Mutation/updateSessionTimeout.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/updateSessionTimeout.ts#L28)
+
 This function updates the session timeout and can only be performed by superadmin users.
 
 ## Param
@@ -37,7 +39,3 @@ context of the entire application, containing user information
 ## Throws
 
 - InternalServerError: If there is an error updating the organization timeout
-
-## Defined in
-
-[src/resolvers/Mutation/updateSessionTimeout.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/updateSessionTimeout.ts#L28)

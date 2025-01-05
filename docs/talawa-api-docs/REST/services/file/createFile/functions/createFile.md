@@ -8,6 +8,8 @@
 
 \> **createFile**(`uploadResult`, `originalname`, `mimetype`, `size`): `Promise`\<[`InterfaceFile`](../../../../../models/File/interfaces/InterfaceFile.md)\>
 
+Defined in: [src/REST/services/file/createFile.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/services/file/createFile.ts#L25)
+
 Creates or updates a file document in the database based on the upload result.
 
 This function checks if a file with the same hash already exists. If it does, the reference count of the file is incremented.
@@ -51,7 +53,3 @@ A promise that resolves to the created or updated file document.
 const file = await createFile(uploadResult, "image.png", "image/png", 2048);
 console.log(file);
 ```
-
-## Defined in
-
-[src/REST/services/file/createFile.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/REST/services/file/createFile.ts#L25)

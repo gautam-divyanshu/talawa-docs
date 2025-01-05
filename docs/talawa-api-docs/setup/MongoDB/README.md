@@ -6,9 +6,7 @@
 
 # setup/MongoDB
 
-## Index
-
-### Functions
+## Functions
 
 - [askForMongoDBUrl](functions/askForMongoDBUrl.md)
 - [checkConnection](functions/checkConnection.md)

@@ -8,6 +8,8 @@
 
 \> `const` **baseRecurringEvent**: [`RecurrenceRuleResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/RecurrenceRuleResolvers.md)\[`"baseRecurringEvent"`\]
 
+Defined in: [src/resolvers/RecurrenceRule/baseRecurringEvent.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/RecurrenceRule/baseRecurringEvent.ts#L16)
+
 Resolver function for the `baseRecurringEvent` field of a `RecurrenceRule`.
 
 This function retrieves the base recurring event associated with a specific recurrence rule.
@@ -24,7 +26,3 @@ A promise that resolves to the event document found in the database. This docume
 
  - Event - The Event model used to interact with the events collection in the database.
  - RecurrenceRuleResolvers - The type definition for the resolvers of the RecurrenceRule fields.
-
-## Defined in
-
-[src/resolvers/RecurrenceRule/baseRecurringEvent.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/RecurrenceRule/baseRecurringEvent.ts#L16)

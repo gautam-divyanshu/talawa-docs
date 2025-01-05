@@ -6,6 +6,8 @@
 
 # Interface: InterfacePost
 
+Defined in: [src/models/Post.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L14)
+
 Represents a MongoDB document for Post in the database.
 
 ## Properties
@@ -14,9 +16,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/Post.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L15)
+Defined in: [src/models/Post.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L15)
 
 ***
 
@@ -24,9 +24,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **commentCount**: `number`
 
-#### Defined in
-
-[src/models/Post.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L16)
+Defined in: [src/models/Post.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L16)
 
 ***
 
@@ -34,9 +32,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/Post.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L17)
+Defined in: [src/models/Post.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L17)
 
 ***
 
@@ -44,9 +40,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **creatorId**: `any`
 
-#### Defined in
-
-[src/models/Post.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L18)
+Defined in: [src/models/Post.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L18)
 
 ***
 
@@ -54,9 +48,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **file**: `any`
 
-#### Defined in
-
-[src/models/Post.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L19)
+Defined in: [src/models/Post.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L19)
 
 ***
 
@@ -64,9 +56,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **likeCount**: `number`
 
-#### Defined in
-
-[src/models/Post.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L20)
+Defined in: [src/models/Post.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L20)
 
 ***
 
@@ -74,9 +64,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **likedBy**: `any`[]
 
-#### Defined in
-
-[src/models/Post.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L21)
+Defined in: [src/models/Post.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L21)
 
 ***
 
@@ -84,9 +72,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **organization**: `any`
 
-#### Defined in
-
-[src/models/Post.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L22)
+Defined in: [src/models/Post.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L22)
 
 ***
 
@@ -94,9 +80,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **pinned**: `boolean`
 
-#### Defined in
-
-[src/models/Post.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L23)
+Defined in: [src/models/Post.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L23)
 
 ***
 
@@ -104,9 +88,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **status**: `string`
 
-#### Defined in
-
-[src/models/Post.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L24)
+Defined in: [src/models/Post.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L24)
 
 ***
 
@@ -114,9 +96,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **text**: `string`
 
-#### Defined in
-
-[src/models/Post.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L25)
+Defined in: [src/models/Post.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L25)
 
 ***
 
@@ -124,9 +104,7 @@ Represents a MongoDB document for Post in the database.
 
 \> **title**: `undefined` \| `string`
 
-#### Defined in
-
-[src/models/Post.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L26)
+Defined in: [src/models/Post.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L26)
 
 ***
 
@@ -134,6 +112,4 @@ Represents a MongoDB document for Post in the database.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/Post.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Post.ts#L27)
+Defined in: [src/models/Post.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Post.ts#L27)

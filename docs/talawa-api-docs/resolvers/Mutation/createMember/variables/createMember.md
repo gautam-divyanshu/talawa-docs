@@ -8,6 +8,8 @@
 
 \> `const` **createMember**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createMember"`\]
 
+Defined in: [src/resolvers/Mutation/createMember.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createMember.ts#L47)
+
 Adds a user as a member to an organization.
 
 This resolver performs the following actions:
@@ -41,7 +43,3 @@ An object containing:
 ## Remarks
 
 This function returns the updated organization and any errors encountered. It ensures that the user is not already a member before adding them and handles caching of the organization.
-
-## Defined in
-
-[src/resolvers/Mutation/createMember.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createMember.ts#L47)

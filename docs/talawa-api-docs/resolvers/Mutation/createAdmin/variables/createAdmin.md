@@ -8,6 +8,8 @@
 
 \> `const` **createAdmin**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createAdmin"`\]
 
+Defined in: [src/resolvers/Mutation/createAdmin.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createAdmin.ts#L47)
+
 Creates an admin for an organization by adding the specified user to the organization's admin list.
 
 This function performs several checks:
@@ -46,7 +48,3 @@ The function handles the following:
 - Verifies the existence and profile of the current user.
 - Ensures the user to be added is a member of the organization and is not already an admin.
 - Updates the organization's admin list and the app user profile of the newly added admin.
-
-## Defined in
-
-[src/resolvers/Mutation/createAdmin.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createAdmin.ts#L47)

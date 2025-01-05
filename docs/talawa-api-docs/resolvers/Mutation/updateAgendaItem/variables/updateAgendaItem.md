@@ -8,6 +8,8 @@
 
 \> `const` **updateAgendaItem**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"updateAgendaItem"`\]
 
+Defined in: [src/resolvers/Mutation/updateAgendaItem.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/updateAgendaItem.ts#L30)
+
 This function allows the user who created an agenda item to update it.
 
 ## Param
@@ -25,7 +27,3 @@ The context of the entire application.
 ## Returns
 
 The updated agenda item.
-
-## Defined in
-
-[src/resolvers/Mutation/updateAgendaItem.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/updateAgendaItem.ts#L30)

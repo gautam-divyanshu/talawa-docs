@@ -6,8 +6,6 @@
 
 # resolvers/Organization/pinnedPosts
 
-## Index
-
-### Variables
+## Variables
 
 - [pinnedPosts](variables/pinnedPosts.md)

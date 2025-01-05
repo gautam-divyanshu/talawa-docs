@@ -6,8 +6,6 @@
 
 # utilities/deleteDuplicatedImage
 
-## Index
-
-### Functions
+## Functions
 
 - [deleteDuplicatedImage](functions/deleteDuplicatedImage.md)

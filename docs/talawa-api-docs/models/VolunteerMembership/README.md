@@ -6,12 +6,10 @@
 
 # models/VolunteerMembership
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceVolunteerMembership](interfaces/InterfaceVolunteerMembership.md)
 
-### Variables
+## Variables
 
 - [VolunteerMembership](variables/VolunteerMembership.md)

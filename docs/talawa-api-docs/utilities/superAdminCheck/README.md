@@ -6,8 +6,6 @@
 
 # utilities/superAdminCheck
 
-## Index
-
-### Functions
+## Functions
 
 - [superAdminCheck](functions/superAdminCheck.md)

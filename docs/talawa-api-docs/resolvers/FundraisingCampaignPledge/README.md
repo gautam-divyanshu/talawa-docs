@@ -6,8 +6,6 @@
 
 # resolvers/FundraisingCampaignPledge
 
-## Index
-
-### Variables
+## Variables
 
 - [FundraisingCampaignPledge](variables/FundraisingCampaignPledge.md)

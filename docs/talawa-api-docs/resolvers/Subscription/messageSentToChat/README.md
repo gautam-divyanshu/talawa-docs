@@ -6,12 +6,10 @@
 
 # resolvers/Subscription/messageSentToChat
 
-## Index
-
-### Variables
+## Variables
 
 - [messageSentToChat](variables/messageSentToChat.md)
 
-### Functions
+## Functions
 
 - [filterFunction](functions/filterFunction.md)

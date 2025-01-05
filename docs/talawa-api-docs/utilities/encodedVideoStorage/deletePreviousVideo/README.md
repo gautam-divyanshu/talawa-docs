@@ -6,8 +6,6 @@
 
 # utilities/encodedVideoStorage/deletePreviousVideo
 
-## Index
-
-### Functions
+## Functions
 
 - [deletePreviousVideo](functions/deletePreviousVideo.md)

@@ -6,12 +6,10 @@
 
 # utilities/reuploadDuplicateCheck
 
-## Index
-
-### Type Aliases
+## Type Aliases
 
 - [TypeImagePath](type-aliases/TypeImagePath.md)
 
-### Functions
+## Functions
 
 - [reuploadDuplicateCheck](functions/reuploadDuplicateCheck.md)

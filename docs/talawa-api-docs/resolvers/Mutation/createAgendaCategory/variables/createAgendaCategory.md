@@ -8,6 +8,8 @@
 
 \> `const` **createAgendaCategory**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createAgendaCategory"`\]
 
+Defined in: [src/resolvers/Mutation/createAgendaCategory.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createAgendaCategory.ts#L49)
+
 Creates a new agenda category and associates it with a specified organization.
 
 This resolver function performs the following steps:
@@ -44,7 +46,3 @@ A promise that resolves to the created agenda category object.
 
 The function performs caching and retrieval operations to ensure the latest data is used,
 and it updates the organization document to include the new agenda category.
-
-## Defined in
-
-[src/resolvers/Mutation/createAgendaCategory.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createAgendaCategory.ts#L49)

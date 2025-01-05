@@ -8,6 +8,8 @@
 
 \> `const` **organization**: [`UserTagResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/UserTagResolvers.md)\[`"organization"`\]
 
+Defined in: [src/resolvers/UserTag/organization.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/UserTag/organization.ts#L16)
+
 Resolver function for the `organization` field of a `UserTag`.
 
 This function retrieves the organization associated with a specific user tag.
@@ -24,7 +26,3 @@ A promise that resolves to the organization document found in the database. This
 
  - Organization - The Organization model used to interact with the organizations collection in the database.
  - UserTagResolvers - The type definition for the resolvers of the UserTag fields.
-
-## Defined in
-
-[src/resolvers/UserTag/organization.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/UserTag/organization.ts#L16)

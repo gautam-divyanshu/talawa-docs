@@ -8,6 +8,8 @@
 
 \> **parseUserTagMemberWhere**(`where`): [`ParseGraphQLConnectionWhereResult`](../../../graphQLConnection/parseGraphQLConnectionArgumentsWithWhere/type-aliases/ParseGraphQLConnectionWhereResult.md)\<[`ParseUserTagMemberWhereResult`](../type-aliases/ParseUserTagMemberWhereResult.md)\>
 
+Defined in: [src/utilities/userTagsPaginationUtils/parseUserTagMemberWhere.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/userTagsPaginationUtils/parseUserTagMemberWhere.ts#L18)
+
 Function to parse the args.where for UserTag member assignment queries
 
 ## Parameters
@@ -19,7 +21,3 @@ Function to parse the args.where for UserTag member assignment queries
 ## Returns
 
 [`ParseGraphQLConnectionWhereResult`](../../../graphQLConnection/parseGraphQLConnectionArgumentsWithWhere/type-aliases/ParseGraphQLConnectionWhereResult.md)\<[`ParseUserTagMemberWhereResult`](../type-aliases/ParseUserTagMemberWhereResult.md)\>
-
-## Defined in
-
-[src/utilities/userTagsPaginationUtils/parseUserTagMemberWhere.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/userTagsPaginationUtils/parseUserTagMemberWhere.ts#L18)

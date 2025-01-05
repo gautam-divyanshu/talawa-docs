@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/deleteDonationById
 
-## Index
-
-### Variables
+## Variables
 
 - [deleteDonationById](variables/deleteDonationById.md)

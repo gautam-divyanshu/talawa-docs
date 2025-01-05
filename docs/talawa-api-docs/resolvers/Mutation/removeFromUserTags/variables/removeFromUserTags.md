@@ -8,6 +8,8 @@
 
 \> `const` **removeFromUserTags**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeFromUserTags"`\]
 
+Defined in: [src/resolvers/Mutation/removeFromUserTags.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeFromUserTags.ts#L33)
+
 This function enables an admin to remove multiple tags from users with a specified tag.
 
 ## Param
@@ -33,7 +35,3 @@ The following checks are done:
 ## Returns
 
 Array of tags that were removed from users.
-
-## Defined in
-
-[src/resolvers/Mutation/removeFromUserTags.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeFromUserTags.ts#L33)

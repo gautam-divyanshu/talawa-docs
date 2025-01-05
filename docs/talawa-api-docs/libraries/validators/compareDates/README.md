@@ -6,8 +6,6 @@
 
 # libraries/validators/compareDates
 
-## Index
-
-### Functions
+## Functions
 
 - [compareDates](functions/compareDates.md)

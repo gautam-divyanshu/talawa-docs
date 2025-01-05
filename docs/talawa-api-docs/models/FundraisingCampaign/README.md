@@ -6,16 +6,14 @@
 
 # models/FundraisingCampaign
 
-## Index
-
-### Enumerations
+## Enumerations
 
 - [CurrencyType](enumerations/CurrencyType.md)
 
-### Interfaces
+## Interfaces
 
 - [InterfaceFundraisingCampaign](interfaces/InterfaceFundraisingCampaign.md)
 
-### Variables
+## Variables
 
 - [FundraisingCampaign](variables/FundraisingCampaign.md)

@@ -6,8 +6,6 @@
 
 # REST/controllers/query/getFile
 
-## Index
-
-### Functions
+## Functions
 
 - [getFile](functions/getFile.md)

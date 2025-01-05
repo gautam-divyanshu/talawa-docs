@@ -6,12 +6,10 @@
 
 # models/File
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceFile](interfaces/InterfaceFile.md)
 
-### Variables
+## Variables
 
 - [File](variables/File.md)

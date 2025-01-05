@@ -8,6 +8,8 @@
 
 \> **checkVolunteerMembershipExists**(`membershipId`): `Promise`\<[`InterfaceVolunteerMembership`](../../../models/VolunteerMembership/interfaces/InterfaceVolunteerMembership.md)\>
 
+Defined in: [src/utilities/checks.ts:136](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/checks.ts#L136)
+
 This function checks if the volunteerMembership exists.
 
 ## Parameters
@@ -23,7 +25,3 @@ id
 `Promise`\<[`InterfaceVolunteerMembership`](../../../models/VolunteerMembership/interfaces/InterfaceVolunteerMembership.md)\>
 
 VolunteerMembership
-
-## Defined in
-
-[src/utilities/checks.ts:136](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/checks.ts#L136)

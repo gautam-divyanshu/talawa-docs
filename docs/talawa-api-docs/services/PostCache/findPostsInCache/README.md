@@ -6,8 +6,6 @@
 
 # services/PostCache/findPostsInCache
 
-## Index
-
-### Functions
+## Functions
 
 - [findPostsInCache](functions/findPostsInCache.md)

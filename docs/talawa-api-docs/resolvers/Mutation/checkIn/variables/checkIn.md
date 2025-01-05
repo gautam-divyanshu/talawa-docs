@@ -8,6 +8,8 @@
 
 \> `const` **checkIn**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"checkIn"`\]
 
+Defined in: [src/resolvers/Mutation/checkIn.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/checkIn.ts#L50)
+
 Handles the check-in process for event attendees.
 
 This resolver function allows event admins or superadmins to check-in attendees for a specific event.
@@ -49,7 +51,3 @@ The function performs the following checks and operations:
 2. Checks if the current user is authorized to perform the check-in operation.
 3. Checks if the attendee is already registered for the event. If so, updates the check-in status and isCheckedIn.
 4. Checks if the attendee is not already checked in for the event then creates a new check-in entry and create new eventAttendee with chechInId and isCheckedIn.
-
-## Defined in
-
-[src/resolvers/Mutation/checkIn.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/checkIn.ts#L50)

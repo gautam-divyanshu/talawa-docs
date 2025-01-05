@@ -8,6 +8,8 @@
 
 \> `const` **removeAgendaSection**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeAgendaSection"`\]
 
+Defined in: [src/resolvers/Mutation/removeAgendaSection.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeAgendaSection.ts#L25)
+
 Resolver function for the GraphQL mutation 'removeAgendaSection'.
 
 This resolver removes an agenda section and performs necessary authorization checks.
@@ -27,7 +29,3 @@ The context object containing user information.
 ## Returns
 
 A promise that resolves to the ID of the removed agenda section.
-
-## Defined in
-
-[src/resolvers/Mutation/removeAgendaSection.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeAgendaSection.ts#L25)

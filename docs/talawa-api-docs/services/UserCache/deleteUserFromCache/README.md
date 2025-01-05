@@ -6,8 +6,6 @@
 
 # services/UserCache/deleteUserFromCache
 
-## Index
-
-### Functions
+## Functions
 
 - [deleteUserFromCache](functions/deleteUserFromCache.md)

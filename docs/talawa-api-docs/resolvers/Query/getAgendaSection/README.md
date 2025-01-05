@@ -6,8 +6,6 @@
 
 # resolvers/Query/getAgendaSection
 
-## Index
-
-### Variables
+## Variables
 
 - [getAgendaSection](variables/getAgendaSection.md)

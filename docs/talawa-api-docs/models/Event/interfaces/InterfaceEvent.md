@@ -6,6 +6,8 @@
 
 # Interface: InterfaceEvent
 
+Defined in: [src/models/Event.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L17)
+
 Represents a document for an event in the MongoDB database.
 
 ## Properties
@@ -14,9 +16,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/Event.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L18)
+Defined in: [src/models/Event.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L18)
 
 ***
 
@@ -24,9 +24,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **admins**: `any`[]
 
-#### Defined in
-
-[src/models/Event.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L19)
+Defined in: [src/models/Event.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L19)
 
 ***
 
@@ -34,9 +32,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **agendaItems**: `any`[]
 
-#### Defined in
-
-[src/models/Event.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L46)
+Defined in: [src/models/Event.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L46)
 
 ***
 
@@ -44,9 +40,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **allDay**: `boolean`
 
-#### Defined in
-
-[src/models/Event.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L20)
+Defined in: [src/models/Event.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L20)
 
 ***
 
@@ -54,9 +48,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **attendees**: `undefined` \| `string`
 
-#### Defined in
-
-[src/models/Event.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L21)
+Defined in: [src/models/Event.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L21)
 
 ***
 
@@ -64,9 +56,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **baseRecurringEventId**: `any`
 
-#### Defined in
-
-[src/models/Event.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L22)
+Defined in: [src/models/Event.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L22)
 
 ***
 
@@ -74,9 +64,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **chat**: `any`
 
-#### Defined in
-
-[src/models/Event.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L47)
+Defined in: [src/models/Event.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L47)
 
 ***
 
@@ -84,9 +72,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/Event.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L23)
+Defined in: [src/models/Event.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L23)
 
 ***
 
@@ -94,9 +80,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **creatorId**: `any`
 
-#### Defined in
-
-[src/models/Event.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L24)
+Defined in: [src/models/Event.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L24)
 
 ***
 
@@ -104,9 +88,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **description**: `string`
 
-#### Defined in
-
-[src/models/Event.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L25)
+Defined in: [src/models/Event.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L25)
 
 ***
 
@@ -114,9 +96,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **endDate**: `undefined` \| `string`
 
-#### Defined in
-
-[src/models/Event.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L26)
+Defined in: [src/models/Event.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L26)
 
 ***
 
@@ -124,9 +104,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **endTime**: `undefined` \| `string`
 
-#### Defined in
-
-[src/models/Event.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L27)
+Defined in: [src/models/Event.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L27)
 
 ***
 
@@ -134,9 +112,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **images**: `string`[]
 
-#### Defined in
-
-[src/models/Event.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L28)
+Defined in: [src/models/Event.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L28)
 
 ***
 
@@ -144,9 +120,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **isBaseRecurringEvent**: `boolean`
 
-#### Defined in
-
-[src/models/Event.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L29)
+Defined in: [src/models/Event.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L29)
 
 ***
 
@@ -154,9 +128,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **isPublic**: `boolean`
 
-#### Defined in
-
-[src/models/Event.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L30)
+Defined in: [src/models/Event.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L30)
 
 ***
 
@@ -164,9 +136,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **isRecurringEventException**: `boolean`
 
-#### Defined in
-
-[src/models/Event.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L31)
+Defined in: [src/models/Event.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L31)
 
 ***
 
@@ -174,9 +144,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **isRegisterable**: `boolean`
 
-#### Defined in
-
-[src/models/Event.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L32)
+Defined in: [src/models/Event.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L32)
 
 ***
 
@@ -184,9 +152,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **latitude**: `undefined` \| `number`
 
-#### Defined in
-
-[src/models/Event.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L33)
+Defined in: [src/models/Event.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L33)
 
 ***
 
@@ -194,9 +160,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **location**: `undefined` \| `string`
 
-#### Defined in
-
-[src/models/Event.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L34)
+Defined in: [src/models/Event.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L34)
 
 ***
 
@@ -204,9 +168,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **longitude**: `number`
 
-#### Defined in
-
-[src/models/Event.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L35)
+Defined in: [src/models/Event.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L35)
 
 ***
 
@@ -214,9 +176,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **organization**: `any`
 
-#### Defined in
-
-[src/models/Event.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L36)
+Defined in: [src/models/Event.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L36)
 
 ***
 
@@ -224,9 +184,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **recurrance**: `string`
 
-#### Defined in
-
-[src/models/Event.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L37)
+Defined in: [src/models/Event.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L37)
 
 ***
 
@@ -234,9 +192,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **recurrenceRuleId**: `any`
 
-#### Defined in
-
-[src/models/Event.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L38)
+Defined in: [src/models/Event.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L38)
 
 ***
 
@@ -244,9 +200,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **recurring**: `boolean`
 
-#### Defined in
-
-[src/models/Event.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L39)
+Defined in: [src/models/Event.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L39)
 
 ***
 
@@ -254,9 +208,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **startDate**: `string`
 
-#### Defined in
-
-[src/models/Event.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L40)
+Defined in: [src/models/Event.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L40)
 
 ***
 
@@ -264,9 +216,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **startTime**: `undefined` \| `string`
 
-#### Defined in
-
-[src/models/Event.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L41)
+Defined in: [src/models/Event.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L41)
 
 ***
 
@@ -274,9 +224,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **title**: `string`
 
-#### Defined in
-
-[src/models/Event.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L42)
+Defined in: [src/models/Event.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L42)
 
 ***
 
@@ -284,9 +232,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/Event.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L43)
+Defined in: [src/models/Event.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L43)
 
 ***
 
@@ -294,9 +240,7 @@ Represents a document for an event in the MongoDB database.
 
 \> **volunteerGroups**: `any`[]
 
-#### Defined in
-
-[src/models/Event.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L45)
+Defined in: [src/models/Event.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L45)
 
 ***
 
@@ -304,6 +248,4 @@ Represents a document for an event in the MongoDB database.
 
 \> **volunteers**: `any`[]
 
-#### Defined in
-
-[src/models/Event.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Event.ts#L44)
+Defined in: [src/models/Event.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Event.ts#L44)

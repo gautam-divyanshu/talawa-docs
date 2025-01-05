@@ -8,6 +8,8 @@
 
 \> **createRecurringEvent**(`args`, `creatorId`, `organizationId`, `session`, `chat`): `Promise`\<[`InterfaceEvent`](../../../../../models/Event/interfaces/InterfaceEvent.md)\>
 
+Defined in: [src/helpers/event/createEventHelpers/createRecurringEvent.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/createEventHelpers/createRecurringEvent.ts#L35)
+
 Creates instances of a recurring event up to a specified end date.
 
 ## Parameters
@@ -61,7 +63,3 @@ Steps performed by this function:
 4. Retrieves dates for all recurring instances based on the recurrence rule.
 5. Saves the recurrence rule in the database for future reference.
 6. Generates and saves instances of recurring events based on the recurrence rule.
-
-## Defined in
-
-[src/helpers/event/createEventHelpers/createRecurringEvent.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/createEventHelpers/createRecurringEvent.ts#L35)

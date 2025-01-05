@@ -6,13 +6,11 @@
 
 # models/Language
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceLanguage](interfaces/InterfaceLanguage.md)
 - [InterfaceLanguageModel](interfaces/InterfaceLanguageModel.md)
 
-### Variables
+## Variables
 
 - [Language](variables/Language.md)

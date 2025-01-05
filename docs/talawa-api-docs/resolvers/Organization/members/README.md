@@ -6,8 +6,6 @@
 
 # resolvers/Organization/members
 
-## Index
-
-### Variables
+## Variables
 
 - [members](variables/members.md)

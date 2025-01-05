@@ -8,6 +8,8 @@
 
 \> `const` **removeEventVolunteer**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeEventVolunteer"`\]
 
+Defined in: [src/resolvers/Mutation/removeEventVolunteer.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeEventVolunteer.ts#L25)
+
 This function enables to remove an Event Volunteer.
 
 ## Param
@@ -33,7 +35,3 @@ The following checks are done:
 ## Returns
 
 Event Volunteer.
-
-## Defined in
-
-[src/resolvers/Mutation/removeEventVolunteer.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeEventVolunteer.ts#L25)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateUserRoleInOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [updateUserRoleInOrganization](variables/updateUserRoleInOrganization.md)

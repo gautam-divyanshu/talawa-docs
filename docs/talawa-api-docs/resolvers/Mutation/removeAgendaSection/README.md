@@ -6,9 +6,7 @@
 
 # resolvers/Mutation/removeAgendaSection
 
-## Index
-
-### Variables
+## Variables
 
 - [removeAgendaSection](variables/removeAgendaSection.md)
 

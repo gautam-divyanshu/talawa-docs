@@ -8,6 +8,8 @@
 
 \> **UsersConnectionEdge**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3313](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3313)
+
 A default connection edge on the User type for UsersConnection.
 
 ## Type declaration
@@ -23,7 +25,3 @@ A default connection edge on the User type for UsersConnection.
 ### node
 
 \> **node**: [`User`](User.md)
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3308](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3308)

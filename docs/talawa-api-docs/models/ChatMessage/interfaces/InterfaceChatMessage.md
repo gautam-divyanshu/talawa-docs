@@ -6,6 +6,8 @@
 
 # Interface: InterfaceChatMessage
 
+Defined in: [src/models/ChatMessage.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L12)
+
 Represents a document for a chat message in the MongoDB database.
 
 ## Properties
@@ -14,9 +16,7 @@ Represents a document for a chat message in the MongoDB database.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/ChatMessage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ChatMessage.ts#L13)
+Defined in: [src/models/ChatMessage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L13)
 
 ***
 
@@ -24,9 +24,7 @@ Represents a document for a chat message in the MongoDB database.
 
 \> **chatMessageBelongsTo**: `any`
 
-#### Defined in
-
-[src/models/ChatMessage.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ChatMessage.ts#L14)
+Defined in: [src/models/ChatMessage.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L14)
 
 ***
 
@@ -34,9 +32,7 @@ Represents a document for a chat message in the MongoDB database.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/ChatMessage.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ChatMessage.ts#L21)
+Defined in: [src/models/ChatMessage.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L21)
 
 ***
 
@@ -44,9 +40,7 @@ Represents a document for a chat message in the MongoDB database.
 
 \> **deletedBy**: `any`[]
 
-#### Defined in
-
-[src/models/ChatMessage.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ChatMessage.ts#L20)
+Defined in: [src/models/ChatMessage.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L20)
 
 ***
 
@@ -54,9 +48,7 @@ Represents a document for a chat message in the MongoDB database.
 
 \> **media**: `string`
 
-#### Defined in
-
-[src/models/ChatMessage.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ChatMessage.ts#L18)
+Defined in: [src/models/ChatMessage.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L18)
 
 ***
 
@@ -64,9 +56,7 @@ Represents a document for a chat message in the MongoDB database.
 
 \> **messageContent**: `string`
 
-#### Defined in
-
-[src/models/ChatMessage.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ChatMessage.ts#L17)
+Defined in: [src/models/ChatMessage.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L17)
 
 ***
 
@@ -74,9 +64,7 @@ Represents a document for a chat message in the MongoDB database.
 
 \> **replyTo**: `any`
 
-#### Defined in
-
-[src/models/ChatMessage.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ChatMessage.ts#L16)
+Defined in: [src/models/ChatMessage.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L16)
 
 ***
 
@@ -84,9 +72,7 @@ Represents a document for a chat message in the MongoDB database.
 
 \> **sender**: `any`
 
-#### Defined in
-
-[src/models/ChatMessage.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ChatMessage.ts#L15)
+Defined in: [src/models/ChatMessage.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L15)
 
 ***
 
@@ -94,9 +80,7 @@ Represents a document for a chat message in the MongoDB database.
 
 \> **status**: `string`
 
-#### Defined in
-
-[src/models/ChatMessage.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ChatMessage.ts#L19)
+Defined in: [src/models/ChatMessage.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L19)
 
 ***
 
@@ -104,6 +88,4 @@ Represents a document for a chat message in the MongoDB database.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/ChatMessage.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ChatMessage.ts#L22)
+Defined in: [src/models/ChatMessage.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ChatMessage.ts#L22)

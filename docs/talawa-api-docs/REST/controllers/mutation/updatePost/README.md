@@ -6,8 +6,6 @@
 
 # REST/controllers/mutation/updatePost
 
-## Index
-
-### Functions
+## Functions
 
 - [updatePost](functions/updatePost.md)

@@ -8,6 +8,8 @@
 
 \> **CreateNode**\<`T0`, `T1`\>: (`object`) =\> `T1`
 
+Defined in: [src/utilities/graphQLConnection/transformToDefaultGraphQLConnection.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/transformToDefaultGraphQLConnection.ts#L16)
+
 This is typescript type of the callback function `createNode`.
 
 ## Type Parameters
@@ -25,7 +27,3 @@ This is typescript type of the callback function `createNode`.
 ## Returns
 
 `T1`
-
-## Defined in
-
-[src/utilities/graphQLConnection/transformToDefaultGraphQLConnection.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/graphQLConnection/transformToDefaultGraphQLConnection.ts#L16)

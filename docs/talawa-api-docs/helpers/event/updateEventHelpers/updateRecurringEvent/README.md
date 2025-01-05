@@ -6,8 +6,6 @@
 
 # helpers/event/updateEventHelpers/updateRecurringEvent
 
-## Index
-
-### Functions
+## Functions
 
 - [updateRecurringEvent](functions/updateRecurringEvent.md)

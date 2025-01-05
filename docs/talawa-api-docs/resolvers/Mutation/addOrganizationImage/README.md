@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/addOrganizationImage
 
-## Index
-
-### Variables
+## Variables
 
 - [addOrganizationImage](variables/addOrganizationImage.md)

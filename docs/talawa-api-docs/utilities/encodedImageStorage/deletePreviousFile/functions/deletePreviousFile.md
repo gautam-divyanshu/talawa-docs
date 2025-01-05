@@ -8,6 +8,8 @@
 
 \> **deletePreviousFile**(`fileId`, `objectKey`): `Promise`\<`void`\>
 
+Defined in: [src/utilities/encodedImageStorage/deletePreviousFile.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/encodedImageStorage/deletePreviousFile.ts#L13)
+
 Deletes a file from the storage and database if its reference count is 1.
 Otherwise, decrements the reference count in the database by 1.
 
@@ -30,7 +32,3 @@ The object key in the storage bucket associated with the file.
 `Promise`\<`void`\>
 
 A promise that resolves when the file is either deleted or its reference count is updated.
-
-## Defined in
-
-[src/utilities/encodedImageStorage/deletePreviousFile.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/encodedImageStorage/deletePreviousFile.ts#L13)

@@ -8,6 +8,8 @@
 
 \> `const` **deleteAdvertisement**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"deleteAdvertisement"`\]
 
+Defined in: [src/resolvers/Mutation/deleteAdvertisement.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/deleteAdvertisement.ts#L32)
+
 Deletes an advertisement based on the provided advertisement ID.
 
 This function handles the deletion of an advertisement by first verifying
@@ -32,7 +34,3 @@ Provides contextual information such as the current user's ID and API root URL. 
 ## Returns
 
 The deleted advertisement's details, including the advertisement ID and media URL, if the deletion was successful.
-
-## Defined in
-
-[src/resolvers/Mutation/deleteAdvertisement.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/deleteAdvertisement.ts#L32)

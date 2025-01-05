@@ -6,8 +6,6 @@
 
 # utilities/encodedVideoStorage/encodedVideoExtensionCheck
 
-## Index
-
-### Functions
+## Functions
 
 - [encodedVideoExtentionCheck](functions/encodedVideoExtentionCheck.md)

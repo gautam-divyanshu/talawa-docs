@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/deleteAdvertisement
 
-## Index
-
-### Variables
+## Variables
 
 - [deleteAdvertisement](variables/deleteAdvertisement.md)

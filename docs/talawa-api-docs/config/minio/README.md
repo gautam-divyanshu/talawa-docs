@@ -6,9 +6,7 @@
 
 # config/minio
 
-## Index
-
-### Variables
+## Variables
 
 - [BUCKET\_NAME](variables/BUCKET_NAME.md)
 - [s3Client](variables/s3Client.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateSessionTimeout
 
-## Index
-
-### Variables
+## Variables
 
 - [updateSessionTimeout](variables/updateSessionTimeout.md)

@@ -6,8 +6,6 @@
 
 # directives/directiveTransformer/roleDirectiveTransformer
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

@@ -6,8 +6,6 @@
 
 # setup/isMinioInstalled
 
-## Index
-
-### Functions
+## Functions
 
 - [isMinioInstalled](functions/isMinioInstalled.md)

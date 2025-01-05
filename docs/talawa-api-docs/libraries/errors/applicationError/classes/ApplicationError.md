@@ -6,6 +6,8 @@
 
 # Class: ApplicationError
 
+Defined in: [src/libraries/errors/applicationError.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L19)
+
 This class is responsible for handling application errors.
 It extends the built-in Error class to include additional properties and methods.
 
@@ -30,6 +32,8 @@ It extends the built-in Error class to include additional properties and methods
 ### new ApplicationError()
 
 \> **new ApplicationError**(`errors`, `httpCode`, `message`): [`ApplicationError`](ApplicationError.md)
+
+Defined in: [src/libraries/errors/applicationError.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L32)
 
 Creates an instance of ApplicationError.
 
@@ -61,21 +65,15 @@ The error message (default is "Error").
 
 `Error.constructor`
 
-#### Defined in
-
-[src/libraries/errors/applicationError.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/errors/applicationError.ts#L32)
-
 ## Properties
 
 ### errors
 
 \> **errors**: [`InterfaceError`](../interfaces/InterfaceError.md)[]
 
+Defined in: [src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L21)
+
 An array of errors conforming to the InterfaceError interface
-
-#### Defined in
-
-[src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/errors/applicationError.ts#L21)
 
 ***
 
@@ -83,11 +81,9 @@ An array of errors conforming to the InterfaceError interface
 
 \> **httpCode**: `number`
 
+Defined in: [src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L23)
+
 The HTTP status code associated with the error
-
-#### Defined in
-
-[src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/errors/applicationError.ts#L23)
 
 ***
 
@@ -95,13 +91,11 @@ The HTTP status code associated with the error
 
 \> **message**: `string`
 
+Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1077
+
 #### Inherited from
 
 `Error.message`
-
-#### Defined in
-
-node\_modules/typescript/lib/lib.es5.d.ts:1077
 
 ***
 
@@ -109,13 +103,11 @@ node\_modules/typescript/lib/lib.es5.d.ts:1077
 
 \> **name**: `string`
 
+Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1076
+
 #### Inherited from
 
 `Error.name`
-
-#### Defined in
-
-node\_modules/typescript/lib/lib.es5.d.ts:1076
 
 ***
 
@@ -123,19 +115,19 @@ node\_modules/typescript/lib/lib.es5.d.ts:1076
 
 \> `optional` **stack**: `string`
 
+Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1078
+
 #### Inherited from
 
 `Error.stack`
-
-#### Defined in
-
-node\_modules/typescript/lib/lib.es5.d.ts:1078
 
 ***
 
 ### prepareStackTrace()?
 
 \> `static` `optional` **prepareStackTrace**: (`err`, `stackTraces`) =\> `any`
+
+Defined in: node\_modules/@types/node/globals.d.ts:143
 
 Optional override for formatting stack traces
 
@@ -161,29 +153,25 @@ https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 `Error.prepareStackTrace`
 
-#### Defined in
-
-node\_modules/@types/node/globals.d.ts:143
-
 ***
 
 ### stackTraceLimit
 
 \> `static` **stackTraceLimit**: `number`
 
+Defined in: node\_modules/@types/node/globals.d.ts:145
+
 #### Inherited from
 
 `Error.stackTraceLimit`
-
-#### Defined in
-
-node\_modules/@types/node/globals.d.ts:145
 
 ## Methods
 
 ### captureStackTrace()
 
 \> `static` **captureStackTrace**(`targetObject`, `constructorOpt`?): `void`
+
+Defined in: node\_modules/@types/node/globals.d.ts:136
 
 Create .stack property on a target object
 
@@ -204,7 +192,3 @@ Create .stack property on a target object
 #### Inherited from
 
 `Error.captureStackTrace`
-
-#### Defined in
-
-node\_modules/@types/node/globals.d.ts:136

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeUserCustomData
 
-## Index
-
-### Variables
+## Variables
 
 - [removeUserCustomData](variables/removeUserCustomData.md)

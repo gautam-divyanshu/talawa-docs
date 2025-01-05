@@ -8,6 +8,8 @@
 
 \> `const` **addUserToUserFamily**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addUserToUserFamily"`\]
 
+Defined in: [src/resolvers/Mutation/addUserToUserFamily.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/addUserToUserFamily.ts#L36)
+
 Adds a user to a user family.
 
 This function allows an admin to add a user to a specific user family. It performs several checks:
@@ -34,7 +36,3 @@ The context of the entire application, including user information and other cont
 ## Returns
 
 A promise that resolves to the updated user family object.
-
-## Defined in
-
-[src/resolvers/Mutation/addUserToUserFamily.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addUserToUserFamily.ts#L36)

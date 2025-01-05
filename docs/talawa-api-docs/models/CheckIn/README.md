@@ -6,12 +6,10 @@
 
 # models/CheckIn
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceCheckIn](interfaces/InterfaceCheckIn.md)
 
-### Variables
+## Variables
 
 - [CheckIn](variables/CheckIn.md)

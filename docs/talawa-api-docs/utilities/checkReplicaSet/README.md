@@ -6,8 +6,6 @@
 
 # utilities/checkReplicaSet
 
-## Index
-
-### Functions
+## Functions
 
 - [checkReplicaSet](functions/checkReplicaSet.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Organization/creator
 
-## Index
-
-### Variables
+## Variables
 
 - [creator](variables/creator.md)

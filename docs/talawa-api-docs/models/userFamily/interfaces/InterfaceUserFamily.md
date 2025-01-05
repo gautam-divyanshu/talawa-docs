@@ -6,6 +6,8 @@
 
 # Interface: InterfaceUserFamily
 
+Defined in: [src/models/userFamily.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/userFamily.ts#L10)
+
 Interface representing a MongoDB document for User Family.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a MongoDB document for User Family.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/userFamily.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/userFamily.ts#L11)
+Defined in: [src/models/userFamily.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/userFamily.ts#L11)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a MongoDB document for User Family.
 
 \> **admins**: `any`[]
 
-#### Defined in
-
-[src/models/userFamily.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/userFamily.ts#L14)
+Defined in: [src/models/userFamily.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/userFamily.ts#L14)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a MongoDB document for User Family.
 
 \> **creator**: `any`[]
 
-#### Defined in
-
-[src/models/userFamily.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/userFamily.ts#L15)
+Defined in: [src/models/userFamily.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/userFamily.ts#L15)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a MongoDB document for User Family.
 
 \> **title**: `string`
 
-#### Defined in
-
-[src/models/userFamily.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/userFamily.ts#L12)
+Defined in: [src/models/userFamily.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/userFamily.ts#L12)
 
 ***
 
@@ -54,6 +48,4 @@ Interface representing a MongoDB document for User Family.
 
 \> **users**: `any`[]
 
-#### Defined in
-
-[src/models/userFamily.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/userFamily.ts#L13)
+Defined in: [src/models/userFamily.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/userFamily.ts#L13)

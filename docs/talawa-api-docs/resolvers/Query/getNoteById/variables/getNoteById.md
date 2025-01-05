@@ -8,6 +8,8 @@
 
 \> `const` **getNoteById**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"getNoteById"`\]
 
+Defined in: [src/resolvers/Query/getNoteById.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/getNoteById.ts#L22)
+
 Retrieves a note by its ID from the database.
 
 This function performs the following steps:
@@ -27,7 +29,3 @@ The arguments provided by the GraphQL query, including:
 ## Returns
 
 The note record corresponding to the provided ID.
-
-## Defined in
-
-[src/resolvers/Query/getNoteById.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/getNoteById.ts#L22)

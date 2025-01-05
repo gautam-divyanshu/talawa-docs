@@ -6,6 +6,8 @@
 
 # Interface: InterfaceAuthenticatedRequest
 
+Defined in: [src/middleware/isAuth.ts:82](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/middleware/isAuth.ts#L82)
+
 ## Extends
 
 - `Request`
@@ -15,6 +17,8 @@
 ### ~~aborted~~
 
 \> **aborted**: `boolean`
+
+Defined in: node\_modules/@types/node/http.d.ts:1180
 
 The `message.aborted` property will be `true` if the request has
 been aborted.
@@ -31,15 +35,13 @@ Since v17.0.0,v16.12.0 - Check `message.destroyed` from \<a href="stream.html#cl
 
 `Request.aborted`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1180
-
 ***
 
 ### accepted
 
 \> **accepted**: `MediaType`[]
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:526
 
 Return an array of Accepted media types
 ordered from highest quality to lowest.
@@ -48,23 +50,17 @@ ordered from highest quality to lowest.
 
 `Request.accepted`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:526
-
 ***
 
 ### app
 
 \> **app**: `Application`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:672
+
 #### Inherited from
 
 `Request.app`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:672
 
 ***
 
@@ -72,13 +68,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:672
 
 \> **baseUrl**: `string`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:670
+
 #### Inherited from
 
 `Request.baseUrl`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:670
 
 ***
 
@@ -86,19 +80,19 @@ node\_modules/@types/express-serve-static-core/index.d.ts:670
 
 \> **body**: `any`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:651
+
 #### Inherited from
 
 `Request.body`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:651
 
 ***
 
 ### closed
 
 \> `readonly` **closed**: `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:126
 
 Is `true` after `'close'` has been emitted.
 
@@ -110,15 +104,13 @@ v18.0.0
 
 `Request.closed`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:126
-
 ***
 
 ### complete
 
 \> **complete**: `boolean`
+
+Defined in: node\_modules/@types/node/http.d.ts:1215
 
 The `message.complete` property will be `true` if a complete HTTP message has
 been received and successfully parsed.
@@ -149,15 +141,13 @@ v0.3.0
 
 `Request.complete`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1215
-
 ***
 
 ### ~~connection~~
 
 \> **connection**: `Socket`
+
+Defined in: node\_modules/@types/node/http.d.ts:1221
 
 Alias for `message.socket`.
 
@@ -173,29 +163,25 @@ Since v16.0.0 - Use `socket`.
 
 `Request.connection`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1221
-
 ***
 
 ### cookies
 
 \> **cookies**: `any`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:654
+
 #### Inherited from
 
 `Request.cookies`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:654
 
 ***
 
 ### destroyed
 
 \> **destroyed**: `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:121
 
 Is `true` after `readable.destroy()` has been called.
 
@@ -207,15 +193,13 @@ v8.0.0
 
 `Request.destroyed`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:121
-
 ***
 
 ### errored
 
 \> `readonly` **errored**: `null` \| `Error`
+
+Defined in: node\_modules/@types/node/stream.d.ts:131
 
 Returns error if the stream has been destroyed with an error.
 
@@ -227,15 +211,13 @@ v18.0.0
 
 `Request.errored`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:131
-
 ***
 
 ### file?
 
 \> `optional` **file**: `File`
+
+Defined in: node\_modules/@types/multer/index.d.ts:41
 
 `Multer.File` object populated by `single()` middleware.
 
@@ -243,15 +225,13 @@ node\_modules/@types/node/stream.d.ts:131
 
 `Request.file`
 
-#### Defined in
-
-node\_modules/@types/multer/index.d.ts:41
-
 ***
 
 ### files?
 
 \> `optional` **files**: \{\} \| `File`[]
+
+Defined in: node\_modules/@types/multer/index.d.ts:46
 
 Array or dictionary of `Multer.File` object populated by `array()`,
 `fields()`, and `any()` middleware.
@@ -260,15 +240,13 @@ Array or dictionary of `Multer.File` object populated by `array()`,
 
 `Request.files`
 
-#### Defined in
-
-node\_modules/@types/multer/index.d.ts:46
-
 ***
 
 ### fresh
 
 \> `readonly` **fresh**: `boolean`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:636
 
 Check if the request is fresh, aka
 Last-Modified and/or the ETag
@@ -278,15 +256,13 @@ still match.
 
 `Request.fresh`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:636
-
 ***
 
 ### headers
 
 \> **headers**: `IncomingHttpHeaders`
+
+Defined in: node\_modules/@types/node/http.d.ts:1261
 
 The request/response headers object.
 
@@ -321,15 +297,13 @@ v0.1.5
 
 `Request.headers`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1261
-
 ***
 
 ### headersDistinct
 
 \> **headersDistinct**: `Dict`\<`string`[]\>
+
+Defined in: node\_modules/@types/node/http.d.ts:1276
 
 Similar to `message.headers`, but there is no join logic and the values are
 always arrays of strings, even for headers received just once.
@@ -351,15 +325,13 @@ v18.3.0, v16.17.0
 
 `Request.headersDistinct`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1276
-
 ***
 
 ### ~~host~~
 
 \> `readonly` **host**: `string`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:629
 
 #### Deprecated
 
@@ -369,15 +341,13 @@ Use hostname instead.
 
 `Request.host`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:629
-
 ***
 
 ### hostname
 
 \> `readonly` **hostname**: `string`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:624
 
 Parse the "Host" header field hostname.
 
@@ -385,15 +355,13 @@ Parse the "Host" header field hostname.
 
 `Request.hostname`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:624
-
 ***
 
 ### httpVersion
 
 \> **httpVersion**: `string`
+
+Defined in: node\_modules/@types/node/http.d.ts:1189
 
 In case of server request, the HTTP version sent by the client. In the case of
 client response, the HTTP version of the connected-to server.
@@ -409,23 +377,17 @@ v0.1.1
 
 `Request.httpVersion`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1189
-
 ***
 
 ### httpVersionMajor
 
 \> **httpVersionMajor**: `number`
 
+Defined in: node\_modules/@types/node/http.d.ts:1190
+
 #### Inherited from
 
 `Request.httpVersionMajor`
-
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1190
 
 ***
 
@@ -433,19 +395,19 @@ node\_modules/@types/node/http.d.ts:1190
 
 \> **httpVersionMinor**: `number`
 
+Defined in: node\_modules/@types/node/http.d.ts:1191
+
 #### Inherited from
 
 `Request.httpVersionMinor`
-
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1191
 
 ***
 
 ### ip
 
 \> `readonly` **ip**: `undefined` \| `string`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:591
 
 Return the remote address, or when
 "trust proxy" is `true` return
@@ -458,15 +420,13 @@ Value may be undefined if the `req.socket` is destroyed
 
 `Request.ip`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:591
-
 ***
 
 ### ips
 
 \> `readonly` **ips**: `string`[]
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:601
 
 When "trust proxy" is `true`, parse
 the "X-Forwarded-For" ip address list.
@@ -479,19 +439,13 @@ where "proxy2" is the furthest down-stream.
 
 `Request.ips`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:601
-
 ***
 
 ### isAuth?
 
 \> `optional` **isAuth**: `boolean`
 
-#### Defined in
-
-[src/middleware/isAuth.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/middleware/isAuth.ts#L83)
+Defined in: [src/middleware/isAuth.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/middleware/isAuth.ts#L83)
 
 ***
 
@@ -499,19 +453,19 @@ node\_modules/@types/express-serve-static-core/index.d.ts:601
 
 \> **locale**: `string`
 
+Defined in: node\_modules/@types/i18n/index.d.ts:456
+
 #### Inherited from
 
 `Request.locale`
-
-#### Defined in
-
-node\_modules/@types/i18n/index.d.ts:456
 
 ***
 
 ### method
 
 \> **method**: `string`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:656
 
 **Only valid for request obtained from Server.**
 
@@ -525,23 +479,17 @@ v0.1.1
 
 `Request.method`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:656
-
 ***
 
 ### next?
 
 \> `optional` **next**: `NextFunction`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:679
+
 #### Inherited from
 
 `Request.next`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:679
 
 ***
 
@@ -549,13 +497,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:679
 
 \> **originalUrl**: `string`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:666
+
 #### Inherited from
 
 `Request.originalUrl`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:666
 
 ***
 
@@ -563,13 +509,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:666
 
 \> **params**: `ParamsDictionary`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:658
+
 #### Inherited from
 
 `Request.params`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:658
 
 ***
 
@@ -577,21 +521,21 @@ node\_modules/@types/express-serve-static-core/index.d.ts:658
 
 \> `readonly` **path**: `string`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:619
+
 Short-hand for `url.parse(req.url).pathname`.
 
 #### Inherited from
 
 `Request.path`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:619
-
 ***
 
 ### protocol
 
 \> `readonly` **protocol**: `string`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:574
 
 Return the protocol string "http" or "https"
 when requested with TLS. When the "trust proxy"
@@ -604,29 +548,25 @@ may be enabled.
 
 `Request.protocol`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:574
-
 ***
 
 ### query
 
 \> **query**: `ParsedQs`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:660
+
 #### Inherited from
 
 `Request.query`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:660
 
 ***
 
 ### rawHeaders
 
 \> **rawHeaders**: `string`[]
+
+Defined in: node\_modules/@types/node/http.d.ts:1301
 
 The raw request/response headers list exactly as they were received.
 
@@ -658,15 +598,13 @@ v0.11.6
 
 `Request.rawHeaders`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1301
-
 ***
 
 ### rawTrailers
 
 \> **rawTrailers**: `string`[]
+
+Defined in: node\_modules/@types/node/http.d.ts:1319
 
 The raw request/response trailer keys and values exactly as they were
 received. Only populated at the `'end'` event.
@@ -679,15 +617,13 @@ v0.11.6
 
 `Request.rawTrailers`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1319
-
 ***
 
 ### readable
 
 \> **readable**: `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:77
 
 Is `true` if it is safe to call [read](InterfaceAuthenticatedRequest.md#read), which means
 the stream has not been destroyed or emitted `'error'` or `'end'`.
@@ -700,15 +636,13 @@ v11.4.0
 
 `Request.readable`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:77
-
 ***
 
 ### readableAborted
 
 \> `readonly` **readableAborted**: `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:71
 
 **`Experimental`**
 
@@ -722,15 +656,13 @@ v16.8.0
 
 `Request.readableAborted`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:71
-
 ***
 
 ### readableDidRead
 
 \> `readonly` **readableDidRead**: `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:83
 
 **`Experimental`**
 
@@ -744,15 +676,13 @@ v16.7.0, v14.18.0
 
 `Request.readableDidRead`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:83
-
 ***
 
 ### readableEncoding
 
 \> `readonly` **readableEncoding**: `null` \| `BufferEncoding`
+
+Defined in: node\_modules/@types/node/stream.d.ts:88
 
 Getter for the property `encoding` of a given `Readable` stream. The `encoding` property can be set using the [setEncoding](InterfaceAuthenticatedRequest.md#setencoding) method.
 
@@ -764,15 +694,13 @@ v12.7.0
 
 `Request.readableEncoding`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:88
-
 ***
 
 ### readableEnded
 
 \> `readonly` **readableEnded**: `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:93
 
 Becomes `true` when [`'end'`](https://nodejs.org/docs/latest-v22.x/api/stream.html#event-end) event is emitted.
 
@@ -784,15 +712,13 @@ v12.9.0
 
 `Request.readableEnded`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:93
-
 ***
 
 ### readableFlowing
 
 \> `readonly` **readableFlowing**: `null` \| `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:99
 
 This property reflects the current state of a `Readable` stream as described
 in the [Three states](https://nodejs.org/docs/latest-v22.x/api/stream.html#three-states) section.
@@ -805,15 +731,13 @@ v9.4.0
 
 `Request.readableFlowing`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:99
-
 ***
 
 ### readableHighWaterMark
 
 \> `readonly` **readableHighWaterMark**: `number`
+
+Defined in: node\_modules/@types/node/stream.d.ts:104
 
 Returns the value of `highWaterMark` passed when creating this `Readable`.
 
@@ -825,15 +749,13 @@ v9.3.0
 
 `Request.readableHighWaterMark`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:104
-
 ***
 
 ### readableLength
 
 \> `readonly` **readableLength**: `number`
+
+Defined in: node\_modules/@types/node/stream.d.ts:111
 
 This property contains the number of bytes (or objects) in the queue
 ready to be read. The value provides introspection data regarding
@@ -847,15 +769,13 @@ v9.4.0
 
 `Request.readableLength`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:111
-
 ***
 
 ### readableObjectMode
 
 \> `readonly` **readableObjectMode**: `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:116
 
 Getter for the property `objectMode` of a given `Readable` stream.
 
@@ -867,15 +787,13 @@ v12.3.0
 
 `Request.readableObjectMode`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:116
-
 ***
 
 ### res?
 
 \> `optional` **res**: `Response`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:678
 
 After middleware.init executed, Request will contain res and next properties
 See: express/lib/middleware/init.js
@@ -884,29 +802,25 @@ See: express/lib/middleware/init.js
 
 `Request.res`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:678
-
 ***
 
 ### route
 
 \> **route**: `any`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:662
+
 #### Inherited from
 
 `Request.route`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:662
 
 ***
 
 ### secure
 
 \> `readonly` **secure**: `boolean`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:581
 
 Short-hand for:
 
@@ -916,29 +830,25 @@ Short-hand for:
 
 `Request.secure`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:581
-
 ***
 
 ### signedCookies
 
 \> **signedCookies**: `any`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:664
+
 #### Inherited from
 
 `Request.signedCookies`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:664
 
 ***
 
 ### socket
 
 \> **socket**: `Socket`
+
+Defined in: node\_modules/@types/node/http.d.ts:1233
 
 The `net.Socket` object associated with the connection.
 
@@ -957,15 +867,13 @@ v0.3.0
 
 `Request.socket`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1233
-
 ***
 
 ### stale
 
 \> `readonly` **stale**: `boolean`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:643
 
 Check if the request is stale, aka
 "Last-Modified" and / or the "ETag" for the
@@ -975,15 +883,13 @@ resource has changed.
 
 `Request.stale`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:643
-
 ***
 
 ### statusCode?
 
 \> `optional` **statusCode**: `number`
+
+Defined in: node\_modules/@types/node/http.d.ts:1381
 
 **Only valid for response obtained from ClientRequest.**
 
@@ -997,15 +903,13 @@ v0.1.1
 
 `Request.statusCode`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1381
-
 ***
 
 ### statusMessage?
 
 \> `optional` **statusMessage**: `string`
+
+Defined in: node\_modules/@types/node/http.d.ts:1388
 
 **Only valid for response obtained from ClientRequest.**
 
@@ -1019,15 +923,13 @@ v0.11.10
 
 `Request.statusMessage`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1388
-
 ***
 
 ### subdomains
 
 \> `readonly` **subdomains**: `string`[]
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:614
 
 Return subdomains as an array.
 
@@ -1043,25 +945,21 @@ If "subdomain offset" is 3, req.subdomains is `["tobi"]`.
 
 `Request.subdomains`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:614
-
 ***
 
 ### tokenExpired?
 
 \> `optional` **tokenExpired**: `boolean`
 
-#### Defined in
-
-[src/middleware/isAuth.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/middleware/isAuth.ts#L85)
+Defined in: [src/middleware/isAuth.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/middleware/isAuth.ts#L85)
 
 ***
 
 ### trailers
 
 \> **trailers**: `Dict`\<`string`\>
+
+Defined in: node\_modules/@types/node/http.d.ts:1306
 
 The request/response trailers object. Only populated at the `'end'` event.
 
@@ -1073,15 +971,13 @@ v0.3.0
 
 `Request.trailers`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1306
-
 ***
 
 ### trailersDistinct
 
 \> **trailersDistinct**: `Dict`\<`string`[]\>
+
+Defined in: node\_modules/@types/node/http.d.ts:1313
 
 Similar to `message.trailers`, but there is no join logic and the values are
 always arrays of strings, even for headers received just once.
@@ -1095,15 +991,13 @@ v18.3.0, v16.17.0
 
 `Request.trailersDistinct`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1313
-
 ***
 
 ### url
 
 \> **url**: `string`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:668
 
 **Only valid for request obtained from Server.**
 
@@ -1153,19 +1047,13 @@ v0.1.90
 
 `Request.url`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:668
-
 ***
 
 ### userId?
 
 \> `optional` **userId**: `string`
 
-#### Defined in
-
-[src/middleware/isAuth.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/middleware/isAuth.ts#L84)
+Defined in: [src/middleware/isAuth.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/middleware/isAuth.ts#L84)
 
 ***
 
@@ -1173,15 +1061,13 @@ node\_modules/@types/express-serve-static-core/index.d.ts:668
 
 \> `readonly` **xhr**: `boolean`
 
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:648
+
 Check if the request was an _XMLHttpRequest_.
 
 #### Inherited from
 
 `Request.xhr`
-
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:648
 
 ## Methods
 
@@ -1190,6 +1076,8 @@ node\_modules/@types/express-serve-static-core/index.d.ts:648
 #### Call Signature
 
 \> **\_\_**(`phraseOrOptions`, ...`replace`): `string`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:465
 
 Translate the given phrase using locale configuration
 
@@ -1215,13 +1103,11 @@ The translated phrase
 
 `Request.__`
 
-##### Defined in
-
-node\_modules/@types/i18n/index.d.ts:465
-
 #### Call Signature
 
 \> **\_\_**(`phraseOrOptions`, `replacements`): `string`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:472
 
 Translate the given phrase using locale configuration
 
@@ -1249,15 +1135,13 @@ The translated phrase
 
 `Request.__`
 
-##### Defined in
-
-node\_modules/@types/i18n/index.d.ts:472
-
 ***
 
 ### \_\_h()
 
 \> **\_\_h**(`phrase`): `HashedList`[]
+
+Defined in: node\_modules/@types/i18n/index.d.ts:548
 
 Returns a hashed list of translations for a given phrase in each language.
 
@@ -1279,15 +1163,13 @@ The phrase in each language
 
 `Request.__h`
 
-#### Defined in
-
-node\_modules/@types/i18n/index.d.ts:548
-
 ***
 
 ### \_\_l()
 
 \> **\_\_l**(`phrase`): `string`[]
+
+Defined in: node\_modules/@types/i18n/index.d.ts:537
 
 Returns a list of translations for a given phrase in each language.
 
@@ -1309,10 +1191,6 @@ The phrase in each language
 
 `Request.__l`
 
-#### Defined in
-
-node\_modules/@types/i18n/index.d.ts:537
-
 ***
 
 ### \_\_mf()
@@ -1320,6 +1198,8 @@ node\_modules/@types/i18n/index.d.ts:537
 #### Call Signature
 
 \> **\_\_mf**(`phraseOrOptions`, ...`replace`): `string`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:519
 
 Translate the given phrase using locale configuration and MessageFormat
 
@@ -1345,13 +1225,11 @@ The translated phrase
 
 `Request.__mf`
 
-##### Defined in
-
-node\_modules/@types/i18n/index.d.ts:519
-
 #### Call Signature
 
 \> **\_\_mf**(`phraseOrOptions`, `replacements`): `string`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:526
 
 Translate the given phrase using locale configuration and MessageFormat
 
@@ -1379,10 +1257,6 @@ The translated phrase
 
 `Request.__mf`
 
-##### Defined in
-
-node\_modules/@types/i18n/index.d.ts:526
-
 ***
 
 ### \_\_n()
@@ -1390,6 +1264,8 @@ node\_modules/@types/i18n/index.d.ts:526
 #### Call Signature
 
 \> **\_\_n**(`phrase`, `count`): `string`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:484
 
 Translate with plural condition the given phrase and count using locale configuration
 
@@ -1417,13 +1293,11 @@ The translated phrase
 
 `Request.__n`
 
-##### Defined in
-
-node\_modules/@types/i18n/index.d.ts:484
-
 #### Call Signature
 
 \> **\_\_n**(`options`, `count`?): `string`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:492
 
 Translate with plural condition the given phrase and count using locale configuration
 
@@ -1451,13 +1325,11 @@ The translated phrase
 
 `Request.__n`
 
-##### Defined in
-
-node\_modules/@types/i18n/index.d.ts:492
-
 #### Call Signature
 
 \> **\_\_n**(`singular`, `plural`, `count`): `string`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:500
 
 Translate with plural condition the given phrase and count using locale configuration
 
@@ -1491,13 +1363,11 @@ The translated phrase
 
 `Request.__n`
 
-##### Defined in
-
-node\_modules/@types/i18n/index.d.ts:500
-
 #### Call Signature
 
 \> **\_\_n**(`phrase`, `count`, `replacements`): `string`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:508
 
 Translate with plural condition the given phrase and count using locale configuration
 
@@ -1531,15 +1401,13 @@ The translated phrase
 
 `Request.__n`
 
-##### Defined in
-
-node\_modules/@types/i18n/index.d.ts:508
-
 ***
 
 ### \_construct()?
 
 \> `optional` **\_construct**(`callback`): `void`
+
+Defined in: node\_modules/@types/node/stream.d.ts:133
 
 #### Parameters
 
@@ -1555,15 +1423,13 @@ node\_modules/@types/i18n/index.d.ts:508
 
 `Request._construct`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:133
-
 ***
 
 ### \_destroy()
 
 \> **\_destroy**(`error`, `callback`): `void`
+
+Defined in: node\_modules/@types/node/stream.d.ts:574
 
 #### Parameters
 
@@ -1583,15 +1449,13 @@ node\_modules/@types/node/stream.d.ts:133
 
 `Request._destroy`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:574
-
 ***
 
 ### \_read()
 
 \> **\_read**(`size`): `void`
+
+Defined in: node\_modules/@types/node/stream.d.ts:134
 
 #### Parameters
 
@@ -1607,15 +1471,13 @@ node\_modules/@types/node/stream.d.ts:574
 
 `Request._read`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:134
-
 ***
 
 ### \[asyncDispose\]()
 
 \> **\[asyncDispose\]**(): `Promise`\<`void`\>
+
+Defined in: node\_modules/@types/node/stream.d.ts:659
 
 Calls `readable.destroy()` with an `AbortError` and returns a promise that fulfills when the stream is finished.
 
@@ -1631,15 +1493,13 @@ v20.4.0
 
 `Request.[asyncDispose]`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:659
-
 ***
 
 ### \[asyncIterator\]()
 
 \> **\[asyncIterator\]**(): `AsyncIterator`
+
+Defined in: node\_modules/@types/node/stream.d.ts:654
 
 #### Returns
 
@@ -1649,15 +1509,13 @@ node\_modules/@types/node/stream.d.ts:659
 
 `Request.[asyncIterator]`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:654
-
 ***
 
 ### \[captureRejectionSymbol\]()?
 
 \> `optional` **\[captureRejectionSymbol\]**\<`K`\>(`error`, `event`, ...`args`): `void`
+
+Defined in: node\_modules/@types/node/events.d.ts:136
 
 #### Type Parameters
 
@@ -1685,10 +1543,6 @@ node\_modules/@types/node/stream.d.ts:654
 
 `Request.[captureRejectionSymbol]`
 
-#### Defined in
-
-node\_modules/@types/node/events.d.ts:136
-
 ***
 
 ### accepts()
@@ -1696,6 +1550,8 @@ node\_modules/@types/node/events.d.ts:136
 #### Call Signature
 
 \> **accepts**(): `string`[]
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:467
 
 Check if the given `type(s)` is acceptable, returning
 the best match when true, otherwise `undefined`, in which
@@ -1741,13 +1597,11 @@ Examples:
 
 `Request.accepts`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:467
-
 #### Call Signature
 
 \> **accepts**(`type`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:468
 
 ##### Parameters
 
@@ -1763,13 +1617,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:467
 
 `Request.accepts`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:468
-
 #### Call Signature
 
 \> **accepts**(`type`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:469
 
 ##### Parameters
 
@@ -1785,13 +1637,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:468
 
 `Request.accepts`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:469
-
 #### Call Signature
 
 \> **accepts**(...`type`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:470
 
 ##### Parameters
 
@@ -1807,10 +1657,6 @@ node\_modules/@types/express-serve-static-core/index.d.ts:469
 
 `Request.accepts`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:470
-
 ***
 
 ### acceptsCharsets()
@@ -1818,6 +1664,8 @@ node\_modules/@types/express-serve-static-core/index.d.ts:470
 #### Call Signature
 
 \> **acceptsCharsets**(): `string`[]
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:479
 
 Returns the first accepted charset of the specified character sets,
 based on the request's Accept-Charset HTTP header field.
@@ -1833,13 +1681,11 @@ For more information, or if you have issues or concerns, see accepts.
 
 `Request.acceptsCharsets`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:479
-
 #### Call Signature
 
 \> **acceptsCharsets**(`charset`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:480
 
 ##### Parameters
 
@@ -1855,13 +1701,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:479
 
 `Request.acceptsCharsets`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:480
-
 #### Call Signature
 
 \> **acceptsCharsets**(`charset`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:481
 
 ##### Parameters
 
@@ -1877,13 +1721,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:480
 
 `Request.acceptsCharsets`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:481
-
 #### Call Signature
 
 \> **acceptsCharsets**(...`charset`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:482
 
 ##### Parameters
 
@@ -1899,10 +1741,6 @@ node\_modules/@types/express-serve-static-core/index.d.ts:481
 
 `Request.acceptsCharsets`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:482
-
 ***
 
 ### acceptsEncodings()
@@ -1910,6 +1748,8 @@ node\_modules/@types/express-serve-static-core/index.d.ts:482
 #### Call Signature
 
 \> **acceptsEncodings**(): `string`[]
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:491
 
 Returns the first accepted encoding of the specified encodings,
 based on the request's Accept-Encoding HTTP header field.
@@ -1925,13 +1765,11 @@ For more information, or if you have issues or concerns, see accepts.
 
 `Request.acceptsEncodings`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:491
-
 #### Call Signature
 
 \> **acceptsEncodings**(`encoding`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:492
 
 ##### Parameters
 
@@ -1947,13 +1785,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:491
 
 `Request.acceptsEncodings`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:492
-
 #### Call Signature
 
 \> **acceptsEncodings**(`encoding`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:493
 
 ##### Parameters
 
@@ -1969,13 +1805,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:492
 
 `Request.acceptsEncodings`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:493
-
 #### Call Signature
 
 \> **acceptsEncodings**(...`encoding`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:494
 
 ##### Parameters
 
@@ -1991,10 +1825,6 @@ node\_modules/@types/express-serve-static-core/index.d.ts:493
 
 `Request.acceptsEncodings`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:494
-
 ***
 
 ### acceptsLanguages()
@@ -2002,6 +1832,8 @@ node\_modules/@types/express-serve-static-core/index.d.ts:494
 #### Call Signature
 
 \> **acceptsLanguages**(): `string`[]
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:503
 
 Returns the first accepted language of the specified languages,
 based on the request's Accept-Language HTTP header field.
@@ -2017,13 +1849,11 @@ For more information, or if you have issues or concerns, see accepts.
 
 `Request.acceptsLanguages`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:503
-
 #### Call Signature
 
 \> **acceptsLanguages**(`lang`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:504
 
 ##### Parameters
 
@@ -2039,13 +1869,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:503
 
 `Request.acceptsLanguages`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:504
-
 #### Call Signature
 
 \> **acceptsLanguages**(`lang`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:505
 
 ##### Parameters
 
@@ -2061,13 +1889,11 @@ node\_modules/@types/express-serve-static-core/index.d.ts:504
 
 `Request.acceptsLanguages`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:505
-
 #### Call Signature
 
 \> **acceptsLanguages**(...`lang`): `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:506
 
 ##### Parameters
 
@@ -2083,10 +1909,6 @@ node\_modules/@types/express-serve-static-core/index.d.ts:505
 
 `Request.acceptsLanguages`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:506
-
 ***
 
 ### addListener()
@@ -2094,6 +1916,8 @@ node\_modules/@types/express-serve-static-core/index.d.ts:506
 #### Call Signature
 
 \> **addListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:598
 
 Event emitter
 The defined events on documents including:
@@ -2123,13 +1947,11 @@ The defined events on documents including:
 
 `Request.addListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:598
-
 #### Call Signature
 
 \> **addListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:599
 
 Event emitter
 The defined events on documents including:
@@ -2159,13 +1981,11 @@ The defined events on documents including:
 
 `Request.addListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:599
-
 #### Call Signature
 
 \> **addListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:600
 
 Event emitter
 The defined events on documents including:
@@ -2195,13 +2015,11 @@ The defined events on documents including:
 
 `Request.addListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:600
-
 #### Call Signature
 
 \> **addListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:601
 
 Event emitter
 The defined events on documents including:
@@ -2231,13 +2049,11 @@ The defined events on documents including:
 
 `Request.addListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:601
-
 #### Call Signature
 
 \> **addListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:602
 
 Event emitter
 The defined events on documents including:
@@ -2267,13 +2083,11 @@ The defined events on documents including:
 
 `Request.addListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:602
-
 #### Call Signature
 
 \> **addListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:603
 
 Event emitter
 The defined events on documents including:
@@ -2303,13 +2117,11 @@ The defined events on documents including:
 
 `Request.addListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:603
-
 #### Call Signature
 
 \> **addListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:604
 
 Event emitter
 The defined events on documents including:
@@ -2339,13 +2151,11 @@ The defined events on documents including:
 
 `Request.addListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:604
-
 #### Call Signature
 
 \> **addListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:605
 
 Event emitter
 The defined events on documents including:
@@ -2375,15 +2185,13 @@ The defined events on documents including:
 
 `Request.addListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:605
-
 ***
 
 ### asIndexedPairs()
 
 \> **asIndexedPairs**(`options`?): `Readable`
+
+Defined in: node\_modules/@types/node/stream.d.ts:549
 
 This method returns a new stream with chunks of the underlying stream paired with a counter
 in the form `[index, chunk]`. The first index value is `0` and it increases by 1 for each chunk produced.
@@ -2408,15 +2216,13 @@ v17.5.0
 
 `Request.asIndexedPairs`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:549
-
 ***
 
 ### compose()
 
 \> **compose**\<`T`\>(`stream`, `options`?): `T`
+
+Defined in: node\_modules/@types/node/stream.d.ts:36
 
 #### Type Parameters
 
@@ -2442,15 +2248,13 @@ node\_modules/@types/node/stream.d.ts:549
 
 `Request.compose`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:36
-
 ***
 
 ### destroy()
 
 \> **destroy**(`error`?): `this`
+
+Defined in: node\_modules/@types/node/http.d.ts:1394
 
 Calls `destroy()` on the socket that received the `IncomingMessage`. If `error` is provided, an `'error'` event is emitted on the socket and `error` is passed
 as an argument to any listeners on the event.
@@ -2473,15 +2277,13 @@ v0.3.0
 
 `Request.destroy`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1394
-
 ***
 
 ### drop()
 
 \> **drop**(`limit`, `options`?): `Readable`
+
+Defined in: node\_modules/@types/node/stream.d.ts:535
 
 This method returns a new stream with the first *limit* chunks dropped from the start.
 
@@ -2511,10 +2313,6 @@ v17.5.0
 
 `Request.drop`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:535
-
 ***
 
 ### emit()
@@ -2522,6 +2320,8 @@ node\_modules/@types/node/stream.d.ts:535
 #### Call Signature
 
 \> **emit**(`event`): `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:606
 
 Synchronously calls each of the listeners registered for the event named `eventName`, in the order they were registered, passing the supplied arguments
 to each.
@@ -2579,13 +2379,11 @@ v0.1.26
 
 `Request.emit`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:606
-
 #### Call Signature
 
 \> **emit**(`event`, `chunk`): `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:607
 
 ##### Parameters
 
@@ -2605,13 +2403,11 @@ node\_modules/@types/node/stream.d.ts:606
 
 `Request.emit`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:607
-
 #### Call Signature
 
 \> **emit**(`event`): `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:608
 
 ##### Parameters
 
@@ -2627,13 +2423,11 @@ node\_modules/@types/node/stream.d.ts:607
 
 `Request.emit`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:608
-
 #### Call Signature
 
 \> **emit**(`event`, `err`): `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:609
 
 ##### Parameters
 
@@ -2653,13 +2447,11 @@ node\_modules/@types/node/stream.d.ts:608
 
 `Request.emit`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:609
-
 #### Call Signature
 
 \> **emit**(`event`): `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:610
 
 ##### Parameters
 
@@ -2675,13 +2467,11 @@ node\_modules/@types/node/stream.d.ts:609
 
 `Request.emit`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:610
-
 #### Call Signature
 
 \> **emit**(`event`): `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:611
 
 ##### Parameters
 
@@ -2697,13 +2487,11 @@ node\_modules/@types/node/stream.d.ts:610
 
 `Request.emit`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:611
-
 #### Call Signature
 
 \> **emit**(`event`): `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:612
 
 ##### Parameters
 
@@ -2719,13 +2507,11 @@ node\_modules/@types/node/stream.d.ts:611
 
 `Request.emit`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:612
-
 #### Call Signature
 
 \> **emit**(`event`, ...`args`): `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:613
 
 ##### Parameters
 
@@ -2745,15 +2531,13 @@ node\_modules/@types/node/stream.d.ts:612
 
 `Request.emit`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:613
-
 ***
 
 ### eventNames()
 
 \> **eventNames**(): (`string` \| `symbol`)[]
+
+Defined in: node\_modules/@types/node/events.d.ts:922
 
 Returns an array listing the events for which the emitter has registered
 listeners. The values in the array are strings or `Symbol`s.
@@ -2784,15 +2568,13 @@ v6.0.0
 
 `Request.eventNames`
 
-#### Defined in
-
-node\_modules/@types/node/events.d.ts:922
-
 ***
 
 ### every()
 
 \> **every**(`fn`, `options`?): `Promise`\<`boolean`\>
+
+Defined in: node\_modules/@types/node/stream.d.ts:514
 
 This method is similar to `Array.prototype.every` and calls *fn* on each chunk in the stream
 to check if all awaited return values are truthy value for *fn*. Once an *fn* call on a chunk
@@ -2825,15 +2607,13 @@ v17.5.0
 
 `Request.every`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:514
-
 ***
 
 ### filter()
 
 \> **filter**(`fn`, `options`?): `Readable`
+
+Defined in: node\_modules/@types/node/stream.d.ts:442
 
 This method allows filtering the stream. For each chunk in the stream the *fn* function will be called
 and if it returns a truthy value, the chunk will be passed to the result stream.
@@ -2865,10 +2645,6 @@ v17.4.0, v16.14.0
 
 `Request.filter`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:442
-
 ***
 
 ### find()
@@ -2876,6 +2652,8 @@ node\_modules/@types/node/stream.d.ts:442
 #### Call Signature
 
 \> **find**\<`T`\>(`fn`, `options`?): `Promise`\<`undefined` \| `T`\>
+
+Defined in: node\_modules/@types/node/stream.d.ts:497
 
 This method is similar to `Array.prototype.find` and calls *fn* on each chunk in the stream
 to find a chunk with a truthy value for *fn*. Once an *fn* call's awaited return value is truthy,
@@ -2913,13 +2691,11 @@ v17.5.0
 
 `Request.find`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:497
-
 #### Call Signature
 
 \> **find**(`fn`, `options`?): `Promise`\<`any`\>
+
+Defined in: node\_modules/@types/node/stream.d.ts:501
 
 This method is similar to `Array.prototype.find` and calls *fn* on each chunk in the stream
 to find a chunk with a truthy value for *fn*. Once an *fn* call's awaited return value is truthy,
@@ -2953,15 +2729,13 @@ v17.5.0
 
 `Request.find`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:501
-
 ***
 
 ### flatMap()
 
 \> **flatMap**(`fn`, `options`?): `Readable`
+
+Defined in: node\_modules/@types/node/stream.d.ts:528
 
 This method returns a new stream by applying the given callback to each chunk of the stream
 and then flattening the result.
@@ -2995,15 +2769,13 @@ v17.5.0
 
 `Request.flatMap`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:528
-
 ***
 
 ### forEach()
 
 \> **forEach**(`fn`, `options`?): `Promise`\<`void`\>
+
+Defined in: node\_modules/@types/node/stream.d.ts:461
 
 This method allows iterating a stream. For each chunk in the stream the *fn* function will be called.
 If the *fn* function returns a promise - that promise will be `await`ed.
@@ -3042,10 +2814,6 @@ v17.5.0
 
 `Request.forEach`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:461
-
 ***
 
 ### get()
@@ -3053,6 +2821,8 @@ node\_modules/@types/node/stream.d.ts:461
 #### Call Signature
 
 \> **get**(`name`): `undefined` \| `string`[]
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:424
 
 Return request header.
 
@@ -3086,13 +2856,11 @@ Aliased as `req.header()`.
 
 `Request.get`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:424
-
 #### Call Signature
 
 \> **get**(`name`): `undefined` \| `string`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:425
 
 ##### Parameters
 
@@ -3108,10 +2876,6 @@ node\_modules/@types/express-serve-static-core/index.d.ts:424
 
 `Request.get`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:425
-
 ***
 
 ### getCatalog()
@@ -3119,6 +2883,8 @@ node\_modules/@types/express-serve-static-core/index.d.ts:425
 #### Call Signature
 
 \> **getCatalog**(): `GlobalCatalog`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:568
 
 Get the current global catalog
 
@@ -3132,13 +2898,11 @@ The current global catalog
 
 `Request.getCatalog`
 
-##### Defined in
-
-node\_modules/@types/i18n/index.d.ts:568
-
 #### Call Signature
 
 \> **getCatalog**(`locale`?): `LocaleCatalog`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:574
 
 Get the catalog for the given locale
 
@@ -3160,15 +2924,13 @@ The specified locale catalog
 
 `Request.getCatalog`
 
-##### Defined in
-
-node\_modules/@types/i18n/index.d.ts:574
-
 ***
 
 ### getLocale()
 
 \> **getLocale**(): `string`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:556
 
 Get the current active locale
 
@@ -3182,18 +2944,16 @@ The current locale in request
 
 `Request.getLocale`
 
-#### Defined in
-
-node\_modules/@types/i18n/index.d.ts:556
-
 ***
 
 ### getMaxListeners()
 
 \> **getMaxListeners**(): `number`
 
+Defined in: node\_modules/@types/node/events.d.ts:774
+
 Returns the current max listener value for the `EventEmitter` which is either
-set by `emitter.setMaxListeners(n)` or defaults to defaultMaxListeners.
+set by `emitter.setMaxListeners(n)` or defaults to EventEmitter.defaultMaxListeners.
 
 #### Returns
 
@@ -3207,10 +2967,6 @@ v1.0.0
 
 `Request.getMaxListeners`
 
-#### Defined in
-
-node\_modules/@types/node/events.d.ts:774
-
 ***
 
 ### header()
@@ -3218,6 +2974,8 @@ node\_modules/@types/node/events.d.ts:774
 #### Call Signature
 
 \> **header**(`name`): `undefined` \| `string`[]
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:427
 
 ##### Parameters
 
@@ -3233,13 +2991,11 @@ node\_modules/@types/node/events.d.ts:774
 
 `Request.header`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:427
-
 #### Call Signature
 
 \> **header**(`name`): `undefined` \| `string`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:428
 
 ##### Parameters
 
@@ -3255,15 +3011,13 @@ node\_modules/@types/express-serve-static-core/index.d.ts:427
 
 `Request.header`
 
-##### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:428
-
 ***
 
 ### is()
 
 \> **is**(`type`): `null` \| `string` \| `false`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:564
 
 Check if the incoming request contains the "Content-Type"
 header field, and it contains the give mime `type`.
@@ -3299,15 +3053,13 @@ Examples:
 
 `Request.is`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:564
-
 ***
 
 ### isPaused()
 
 \> **isPaused**(): `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:295
 
 The `readable.isPaused()` method returns the current operating state of the `Readable`.
 This is used primarily by the mechanism that underlies the `readable.pipe()` method.
@@ -3335,15 +3087,13 @@ v0.11.14
 
 `Request.isPaused`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:295
-
 ***
 
 ### iterator()
 
 \> **iterator**(`options`?): `AsyncIterator`
+
+Defined in: node\_modules/@types/node/stream.d.ts:425
 
 The iterator created by this method gives users the option to cancel the destruction
 of the stream if the `for await...of` loop is exited by `return`, `break`, or `throw`,
@@ -3373,15 +3123,13 @@ v16.3.0
 
 `Request.iterator`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:425
-
 ***
 
 ### listenerCount()
 
 \> **listenerCount**\<`K`\>(`eventName`, `listener`?): `number`
+
+Defined in: node\_modules/@types/node/events.d.ts:868
 
 Returns the number of listeners listening for the event named `eventName`.
 If `listener` is provided, it will return how many times the listener is found
@@ -3417,15 +3165,13 @@ v3.2.0
 
 `Request.listenerCount`
 
-#### Defined in
-
-node\_modules/@types/node/events.d.ts:868
-
 ***
 
 ### listeners()
 
 \> **listeners**\<`K`\>(`eventName`): `Function`[]
+
+Defined in: node\_modules/@types/node/events.d.ts:787
 
 Returns a copy of the array of listeners for the event named `eventName`.
 
@@ -3459,15 +3205,13 @@ v0.1.26
 
 `Request.listeners`
 
-#### Defined in
-
-node\_modules/@types/node/events.d.ts:787
-
 ***
 
 ### map()
 
 \> **map**(`fn`, `options`?): `Readable`
+
+Defined in: node\_modules/@types/node/stream.d.ts:433
 
 This method allows mapping over the stream. The *fn* function will be called for every chunk in the stream.
 If the *fn* function returns a promise - that promise will be `await`ed before being passed to the result stream.
@@ -3498,15 +3242,13 @@ v17.4.0, v16.14.0
 
 `Request.map`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:433
-
 ***
 
 ### off()
 
 \> **off**\<`K`\>(`eventName`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/events.d.ts:747
 
 Alias for `emitter.removeListener()`.
 
@@ -3536,10 +3278,6 @@ v10.0.0
 
 `Request.off`
 
-#### Defined in
-
-node\_modules/@types/node/events.d.ts:747
-
 ***
 
 ### on()
@@ -3547,6 +3285,8 @@ node\_modules/@types/node/events.d.ts:747
 #### Call Signature
 
 \> **on**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:614
 
 Adds the `listener` function to the end of the listeners array for the event
 named `eventName`. No checks are made to see if the `listener` has already
@@ -3599,13 +3339,11 @@ v0.1.101
 
 `Request.on`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:614
-
 #### Call Signature
 
 \> **on**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:615
 
 ##### Parameters
 
@@ -3625,13 +3363,11 @@ node\_modules/@types/node/stream.d.ts:614
 
 `Request.on`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:615
-
 #### Call Signature
 
 \> **on**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:616
 
 ##### Parameters
 
@@ -3651,13 +3387,11 @@ node\_modules/@types/node/stream.d.ts:615
 
 `Request.on`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:616
-
 #### Call Signature
 
 \> **on**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:617
 
 ##### Parameters
 
@@ -3677,13 +3411,11 @@ node\_modules/@types/node/stream.d.ts:616
 
 `Request.on`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:617
-
 #### Call Signature
 
 \> **on**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:618
 
 ##### Parameters
 
@@ -3703,13 +3435,11 @@ node\_modules/@types/node/stream.d.ts:617
 
 `Request.on`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:618
-
 #### Call Signature
 
 \> **on**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:619
 
 ##### Parameters
 
@@ -3729,13 +3459,11 @@ node\_modules/@types/node/stream.d.ts:618
 
 `Request.on`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:619
-
 #### Call Signature
 
 \> **on**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:620
 
 ##### Parameters
 
@@ -3755,13 +3483,11 @@ node\_modules/@types/node/stream.d.ts:619
 
 `Request.on`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:620
-
 #### Call Signature
 
 \> **on**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:621
 
 ##### Parameters
 
@@ -3781,10 +3507,6 @@ node\_modules/@types/node/stream.d.ts:620
 
 `Request.on`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:621
-
 ***
 
 ### once()
@@ -3792,6 +3514,8 @@ node\_modules/@types/node/stream.d.ts:621
 #### Call Signature
 
 \> **once**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:622
 
 Adds a **one-time** `listener` function for the event named `eventName`. The
 next time `eventName` is triggered, this listener is removed and then invoked.
@@ -3842,13 +3566,11 @@ v0.3.0
 
 `Request.once`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:622
-
 #### Call Signature
 
 \> **once**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:623
 
 ##### Parameters
 
@@ -3868,13 +3590,11 @@ node\_modules/@types/node/stream.d.ts:622
 
 `Request.once`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:623
-
 #### Call Signature
 
 \> **once**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:624
 
 ##### Parameters
 
@@ -3894,13 +3614,11 @@ node\_modules/@types/node/stream.d.ts:623
 
 `Request.once`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:624
-
 #### Call Signature
 
 \> **once**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:625
 
 ##### Parameters
 
@@ -3920,13 +3638,11 @@ node\_modules/@types/node/stream.d.ts:624
 
 `Request.once`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:625
-
 #### Call Signature
 
 \> **once**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:626
 
 ##### Parameters
 
@@ -3946,13 +3662,11 @@ node\_modules/@types/node/stream.d.ts:625
 
 `Request.once`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:626
-
 #### Call Signature
 
 \> **once**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:627
 
 ##### Parameters
 
@@ -3972,13 +3686,11 @@ node\_modules/@types/node/stream.d.ts:626
 
 `Request.once`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:627
-
 #### Call Signature
 
 \> **once**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:628
 
 ##### Parameters
 
@@ -3998,13 +3710,11 @@ node\_modules/@types/node/stream.d.ts:627
 
 `Request.once`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:628
-
 #### Call Signature
 
 \> **once**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:629
 
 ##### Parameters
 
@@ -4024,15 +3734,13 @@ node\_modules/@types/node/stream.d.ts:628
 
 `Request.once`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:629
-
 ***
 
 ### ~~param()~~
 
 \> **param**(`name`, `defaultValue`?): `string`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:541
 
 #### Parameters
 
@@ -4066,15 +3774,13 @@ the `connect.bodyParser()` middleware.
 
 `Request.param`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:541
-
 ***
 
 ### pause()
 
 \> **pause**(): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:259
 
 The `readable.pause()` method will cause a stream in flowing mode to stop
 emitting `'data'` events, switching out of flowing mode. Any data that
@@ -4107,15 +3813,13 @@ v0.9.4
 
 `Request.pause`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:259
-
 ***
 
 ### pipe()
 
 \> **pipe**\<`T`\>(`destination`, `options`?): `T`
+
+Defined in: node\_modules/@types/node/stream.d.ts:30
 
 #### Type Parameters
 
@@ -4141,10 +3845,6 @@ node\_modules/@types/node/stream.d.ts:259
 
 `Request.pipe`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:30
-
 ***
 
 ### prependListener()
@@ -4152,6 +3852,8 @@ node\_modules/@types/node/stream.d.ts:30
 #### Call Signature
 
 \> **prependListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:630
 
 Adds the `listener` function to the _beginning_ of the listeners array for the
 event named `eventName`. No checks are made to see if the `listener` has
@@ -4190,13 +3892,11 @@ v6.0.0
 
 `Request.prependListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:630
-
 #### Call Signature
 
 \> **prependListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:631
 
 ##### Parameters
 
@@ -4216,13 +3916,11 @@ node\_modules/@types/node/stream.d.ts:630
 
 `Request.prependListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:631
-
 #### Call Signature
 
 \> **prependListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:632
 
 ##### Parameters
 
@@ -4242,13 +3940,11 @@ node\_modules/@types/node/stream.d.ts:631
 
 `Request.prependListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:632
-
 #### Call Signature
 
 \> **prependListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:633
 
 ##### Parameters
 
@@ -4268,13 +3964,11 @@ node\_modules/@types/node/stream.d.ts:632
 
 `Request.prependListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:633
-
 #### Call Signature
 
 \> **prependListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:634
 
 ##### Parameters
 
@@ -4294,13 +3988,11 @@ node\_modules/@types/node/stream.d.ts:633
 
 `Request.prependListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:634
-
 #### Call Signature
 
 \> **prependListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:635
 
 ##### Parameters
 
@@ -4320,13 +4012,11 @@ node\_modules/@types/node/stream.d.ts:634
 
 `Request.prependListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:635
-
 #### Call Signature
 
 \> **prependListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:636
 
 ##### Parameters
 
@@ -4346,13 +4036,11 @@ node\_modules/@types/node/stream.d.ts:635
 
 `Request.prependListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:636
-
 #### Call Signature
 
 \> **prependListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:637
 
 ##### Parameters
 
@@ -4372,10 +4060,6 @@ node\_modules/@types/node/stream.d.ts:636
 
 `Request.prependListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:637
-
 ***
 
 ### prependOnceListener()
@@ -4383,6 +4067,8 @@ node\_modules/@types/node/stream.d.ts:637
 #### Call Signature
 
 \> **prependOnceListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:638
 
 Adds a **one-time**`listener` function for the event named `eventName` to the _beginning_ of the listeners array. The next time `eventName` is triggered, this
 listener is removed, and then invoked.
@@ -4419,13 +4105,11 @@ v6.0.0
 
 `Request.prependOnceListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:638
-
 #### Call Signature
 
 \> **prependOnceListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:639
 
 ##### Parameters
 
@@ -4445,13 +4129,11 @@ node\_modules/@types/node/stream.d.ts:638
 
 `Request.prependOnceListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:639
-
 #### Call Signature
 
 \> **prependOnceListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:640
 
 ##### Parameters
 
@@ -4471,13 +4153,11 @@ node\_modules/@types/node/stream.d.ts:639
 
 `Request.prependOnceListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:640
-
 #### Call Signature
 
 \> **prependOnceListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:641
 
 ##### Parameters
 
@@ -4497,13 +4177,11 @@ node\_modules/@types/node/stream.d.ts:640
 
 `Request.prependOnceListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:641
-
 #### Call Signature
 
 \> **prependOnceListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:642
 
 ##### Parameters
 
@@ -4523,13 +4201,11 @@ node\_modules/@types/node/stream.d.ts:641
 
 `Request.prependOnceListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:642
-
 #### Call Signature
 
 \> **prependOnceListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:643
 
 ##### Parameters
 
@@ -4549,13 +4225,11 @@ node\_modules/@types/node/stream.d.ts:642
 
 `Request.prependOnceListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:643
-
 #### Call Signature
 
 \> **prependOnceListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:644
 
 ##### Parameters
 
@@ -4575,13 +4249,11 @@ node\_modules/@types/node/stream.d.ts:643
 
 `Request.prependOnceListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:644
-
 #### Call Signature
 
 \> **prependOnceListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:645
 
 ##### Parameters
 
@@ -4601,15 +4273,13 @@ node\_modules/@types/node/stream.d.ts:644
 
 `Request.prependOnceListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:645
-
 ***
 
 ### push()
 
 \> **push**(`chunk`, `encoding`?): `boolean`
+
+Defined in: node\_modules/@types/node/stream.d.ts:415
 
 #### Parameters
 
@@ -4629,15 +4299,13 @@ node\_modules/@types/node/stream.d.ts:645
 
 `Request.push`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:415
-
 ***
 
 ### range()
 
 \> **range**(`size`, `options`?): `undefined` \| `Ranges` \| `Result`
+
+Defined in: node\_modules/@types/express-serve-static-core/index.d.ts:520
 
 Parse Range header field, capping to the given `size`.
 
@@ -4668,15 +4336,13 @@ should respond with 4 users when available, not 3.
 
 `Request.range`
 
-#### Defined in
-
-node\_modules/@types/express-serve-static-core/index.d.ts:520
-
 ***
 
 ### rawListeners()
 
 \> **rawListeners**\<`K`\>(`eventName`): `Function`[]
+
+Defined in: node\_modules/@types/node/events.d.ts:818
 
 Returns a copy of the array of listeners for the event named `eventName`,
 including any wrappers (such as those created by `.once()`).
@@ -4728,15 +4394,13 @@ v9.4.0
 
 `Request.rawListeners`
 
-#### Defined in
-
-node\_modules/@types/node/events.d.ts:818
-
 ***
 
 ### read()
 
 \> **read**(`size`?): `any`
+
+Defined in: node\_modules/@types/node/stream.d.ts:212
 
 The `readable.read()` method reads data out of the internal buffer and
 returns it. If no data is available to be read, `null` is returned. By default,
@@ -4832,10 +4496,6 @@ v0.9.4
 
 `Request.read`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:212
-
 ***
 
 ### reduce()
@@ -4843,6 +4503,8 @@ node\_modules/@types/node/stream.d.ts:212
 #### Call Signature
 
 \> **reduce**\<`T`\>(`fn`, `initial`?, `options`?): `Promise`\<`T`\>
+
+Defined in: node\_modules/@types/node/stream.d.ts:564
 
 This method calls *fn* on each chunk of the stream in order, passing it the result from the calculation
 on the previous element. It returns a promise for the final value of the reduction.
@@ -4889,13 +4551,11 @@ v17.5.0
 
 `Request.reduce`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:564
-
 #### Call Signature
 
 \> **reduce**\<`T`\>(`fn`, `initial`, `options`?): `Promise`\<`T`\>
+
+Defined in: node\_modules/@types/node/stream.d.ts:569
 
 This method calls *fn* on each chunk of the stream in order, passing it the result from the calculation
 on the previous element. It returns a promise for the final value of the reduction.
@@ -4942,15 +4602,13 @@ v17.5.0
 
 `Request.reduce`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:569
-
 ***
 
 ### removeAllListeners()
 
 \> **removeAllListeners**(`eventName`?): `this`
+
+Defined in: node\_modules/@types/node/events.d.ts:758
 
 Removes all listeners, or those of the specified `eventName`.
 
@@ -4978,10 +4636,6 @@ v0.1.26
 
 `Request.removeAllListeners`
 
-#### Defined in
-
-node\_modules/@types/node/events.d.ts:758
-
 ***
 
 ### removeListener()
@@ -4989,6 +4643,8 @@ node\_modules/@types/node/events.d.ts:758
 #### Call Signature
 
 \> **removeListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:646
 
 Removes the specified `listener` from the listener array for the event named `eventName`.
 
@@ -5092,13 +4748,11 @@ v0.1.26
 
 `Request.removeListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:646
-
 #### Call Signature
 
 \> **removeListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:647
 
 ##### Parameters
 
@@ -5118,13 +4772,11 @@ node\_modules/@types/node/stream.d.ts:646
 
 `Request.removeListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:647
-
 #### Call Signature
 
 \> **removeListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:648
 
 ##### Parameters
 
@@ -5144,13 +4796,11 @@ node\_modules/@types/node/stream.d.ts:647
 
 `Request.removeListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:648
-
 #### Call Signature
 
 \> **removeListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:649
 
 ##### Parameters
 
@@ -5170,13 +4820,11 @@ node\_modules/@types/node/stream.d.ts:648
 
 `Request.removeListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:649
-
 #### Call Signature
 
 \> **removeListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:650
 
 ##### Parameters
 
@@ -5196,13 +4844,11 @@ node\_modules/@types/node/stream.d.ts:649
 
 `Request.removeListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:650
-
 #### Call Signature
 
 \> **removeListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:651
 
 ##### Parameters
 
@@ -5222,13 +4868,11 @@ node\_modules/@types/node/stream.d.ts:650
 
 `Request.removeListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:651
-
 #### Call Signature
 
 \> **removeListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:652
 
 ##### Parameters
 
@@ -5248,13 +4892,11 @@ node\_modules/@types/node/stream.d.ts:651
 
 `Request.removeListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:652
-
 #### Call Signature
 
 \> **removeListener**(`event`, `listener`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:653
 
 ##### Parameters
 
@@ -5274,15 +4916,13 @@ node\_modules/@types/node/stream.d.ts:652
 
 `Request.removeListener`
 
-##### Defined in
-
-node\_modules/@types/node/stream.d.ts:653
-
 ***
 
 ### resume()
 
 \> **resume**(): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:278
 
 The `readable.resume()` method causes an explicitly paused `Readable` stream to
 resume emitting `'data'` events, switching the stream into flowing mode.
@@ -5312,15 +4952,13 @@ v0.9.4
 
 `Request.resume`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:278
-
 ***
 
 ### setEncoding()
 
 \> **setEncoding**(`encoding`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:237
 
 The `readable.setEncoding()` method sets the character encoding for
 data read from the `Readable` stream.
@@ -5363,15 +5001,13 @@ v0.9.4
 
 `Request.setEncoding`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:237
-
 ***
 
 ### setLocale()
 
 \> **setLocale**(`locale`): `void`
+
+Defined in: node\_modules/@types/i18n/index.d.ts:562
 
 Change the current active locale
 
@@ -5391,15 +5027,13 @@ The locale to set as default
 
 `Request.setLocale`
 
-#### Defined in
-
-node\_modules/@types/i18n/index.d.ts:562
-
 ***
 
 ### setMaxListeners()
 
 \> **setMaxListeners**(`n`): `this`
+
+Defined in: node\_modules/@types/node/events.d.ts:768
 
 By default `EventEmitter`s will print a warning if more than `10` listeners are
 added for a particular event. This is a useful default that helps finding
@@ -5426,15 +5060,13 @@ v0.3.5
 
 `Request.setMaxListeners`
 
-#### Defined in
-
-node\_modules/@types/node/events.d.ts:768
-
 ***
 
 ### setTimeout()
 
 \> **setTimeout**(`msecs`, `callback`?): `this`
+
+Defined in: node\_modules/@types/node/http.d.ts:1324
 
 Calls `message.socket.setTimeout(msecs, callback)`.
 
@@ -5460,15 +5092,13 @@ v0.5.9
 
 `Request.setTimeout`
 
-#### Defined in
-
-node\_modules/@types/node/http.d.ts:1324
-
 ***
 
 ### some()
 
 \> **some**(`fn`, `options`?): `Promise`\<`boolean`\>
+
+Defined in: node\_modules/@types/node/stream.d.ts:483
 
 This method is similar to `Array.prototype.some` and calls *fn* on each chunk in the stream
 until the awaited return value is `true` (or any truthy value). Once an *fn* call on a chunk
@@ -5501,15 +5131,13 @@ v17.5.0
 
 `Request.some`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:483
-
 ***
 
 ### take()
 
 \> **take**(`limit`, `options`?): `Readable`
+
+Defined in: node\_modules/@types/node/stream.d.ts:542
 
 This method returns a new stream with the first *limit* chunks.
 
@@ -5539,15 +5167,13 @@ v17.5.0
 
 `Request.take`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:542
-
 ***
 
 ### toArray()
 
 \> **toArray**(`options`?): `Promise`\<`any`[]\>
+
+Defined in: node\_modules/@types/node/stream.d.ts:473
 
 This method allows easily obtaining the contents of a stream.
 
@@ -5574,15 +5200,13 @@ v17.5.0
 
 `Request.toArray`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:473
-
 ***
 
 ### unpipe()
 
 \> **unpipe**(`destination`?): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:322
 
 The `readable.unpipe()` method detaches a `Writable` stream previously attached
 using the [pipe](InterfaceAuthenticatedRequest.md#pipe) method.
@@ -5627,15 +5251,13 @@ v0.9.4
 
 `Request.unpipe`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:322
-
 ***
 
 ### unshift()
 
 \> **unshift**(`chunk`, `encoding`?): `void`
+
+Defined in: node\_modules/@types/node/stream.d.ts:388
 
 Passing `chunk` as `null` signals the end of the stream (EOF) and behaves the
 same as `readable.push(null)`, after which no more data can be written. The EOF
@@ -5724,15 +5346,13 @@ v0.9.11
 
 `Request.unshift`
 
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:388
-
 ***
 
 ### wrap()
 
 \> **wrap**(`stream`): `this`
+
+Defined in: node\_modules/@types/node/stream.d.ts:414
 
 Prior to Node.js 0.10, streams did not implement the entire `node:stream` module API as it is currently defined. (See `Compatibility` for more
 information.)
@@ -5775,7 +5395,3 @@ v0.9.4
 #### Inherited from
 
 `Request.wrap`
-
-#### Defined in
-
-node\_modules/@types/node/stream.d.ts:414

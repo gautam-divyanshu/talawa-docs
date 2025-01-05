@@ -6,8 +6,6 @@
 
 # resolvers/Query/getUserTag
 
-## Index
-
-### Variables
+## Variables
 
 - [getUserTag](variables/getUserTag.md)

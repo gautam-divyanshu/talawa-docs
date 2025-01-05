@@ -8,6 +8,8 @@
 
 \> `const` **advertisementsConnection**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"advertisementsConnection"`\]
 
+Defined in: [src/resolvers/Query/advertisementsConnection.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/advertisementsConnection.ts#L28)
+
 Retrieves a paginated list of advertisements based on the provided connection arguments.
 
 This function handles querying and pagination of advertisements using connection arguments. It performs validation of the connection arguments, applies filters and sorting, and then returns a paginated result containing the advertisements. The media URLs for each advertisement are adjusted based on the API root URL provided in the context.
@@ -27,7 +29,3 @@ Provides contextual information, including the API root URL. This is used to con
 ## Returns
 
 A paginated connection object containing the advertisements, their total count, and the pagination information.
-
-## Defined in
-
-[src/resolvers/Query/advertisementsConnection.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/advertisementsConnection.ts#L28)

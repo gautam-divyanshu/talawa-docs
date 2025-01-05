@@ -8,6 +8,8 @@
 
 \> **checkAppUserProfileExists**(`user`): `Promise`\<[`InterfaceAppUserProfile`](../../../models/AppUserProfile/interfaces/InterfaceAppUserProfile.md)\>
 
+Defined in: [src/utilities/checks.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/checks.ts#L61)
+
 This function checks if the user has an app profile.
 
 ## Parameters
@@ -23,7 +25,3 @@ user object
 `Promise`\<[`InterfaceAppUserProfile`](../../../models/AppUserProfile/interfaces/InterfaceAppUserProfile.md)\>
 
 AppUserProfile
-
-## Defined in
-
-[src/utilities/checks.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/checks.ts#L61)

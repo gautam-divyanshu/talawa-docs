@@ -8,6 +8,8 @@
 
 \> **deleteEventFromCache**(`eventId`): `Promise`\<`void`\>
 
+Defined in: [src/services/EventCache/deleteEventFromCache.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/services/EventCache/deleteEventFromCache.ts#L10)
+
 Deletes the specified event from Redis cache.
 
 ## Parameters
@@ -23,7 +25,3 @@ The ObjectId representing the event to delete from cache.
 `Promise`\<`void`\>
 
 A promise resolving to void.
-
-## Defined in
-
-[src/services/EventCache/deleteEventFromCache.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/services/EventCache/deleteEventFromCache.ts#L10)

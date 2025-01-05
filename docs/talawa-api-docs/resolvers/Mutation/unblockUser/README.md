@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/unblockUser
 
-## Index
-
-### Variables
+## Variables
 
 - [unblockUser](variables/unblockUser.md)

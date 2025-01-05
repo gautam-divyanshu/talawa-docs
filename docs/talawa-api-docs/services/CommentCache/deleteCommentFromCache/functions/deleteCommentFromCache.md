@@ -8,6 +8,8 @@
 
 \> **deleteCommentFromCache**(`comment`): `Promise`\<`void`\>
 
+Defined in: [src/services/CommentCache/deleteCommentFromCache.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/services/CommentCache/deleteCommentFromCache.ts#L10)
+
 Deletes the specified comment from Redis cache.
 
 ## Parameters
@@ -23,7 +25,3 @@ The InterfaceComment object representing the comment to delete.
 `Promise`\<`void`\>
 
 A promise resolving to void.
-
-## Defined in
-
-[src/services/CommentCache/deleteCommentFromCache.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/services/CommentCache/deleteCommentFromCache.ts#L10)

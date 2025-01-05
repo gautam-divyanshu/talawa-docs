@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/unregisterForEventByUser
 
-## Index
-
-### Variables
+## Variables
 
 - [unregisterForEventByUser](variables/unregisterForEventByUser.md)

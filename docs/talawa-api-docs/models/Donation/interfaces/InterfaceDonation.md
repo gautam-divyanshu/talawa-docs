@@ -6,6 +6,8 @@
 
 # Interface: InterfaceDonation
 
+Defined in: [src/models/Donation.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Donation.ts#L10)
+
 Interface representing a document for a donation in MongoDB.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for a donation in MongoDB.
 
 \> **amount**: `number`
 
-#### Defined in
-
-[src/models/Donation.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Donation.ts#L16)
+Defined in: [src/models/Donation.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Donation.ts#L16)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for a donation in MongoDB.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/Donation.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Donation.ts#L17)
+Defined in: [src/models/Donation.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Donation.ts#L17)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a document for a donation in MongoDB.
 
 \> **nameOfOrg**: `string`
 
-#### Defined in
-
-[src/models/Donation.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Donation.ts#L13)
+Defined in: [src/models/Donation.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Donation.ts#L13)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a document for a donation in MongoDB.
 
 \> **nameOfUser**: `string`
 
-#### Defined in
-
-[src/models/Donation.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Donation.ts#L15)
+Defined in: [src/models/Donation.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Donation.ts#L15)
 
 ***
 
@@ -54,9 +48,7 @@ Interface representing a document for a donation in MongoDB.
 
 \> **orgId**: `string` \| `ObjectId`
 
-#### Defined in
-
-[src/models/Donation.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Donation.ts#L12)
+Defined in: [src/models/Donation.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Donation.ts#L12)
 
 ***
 
@@ -64,9 +56,7 @@ Interface representing a document for a donation in MongoDB.
 
 \> **payPalId**: `string`
 
-#### Defined in
-
-[src/models/Donation.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Donation.ts#L14)
+Defined in: [src/models/Donation.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Donation.ts#L14)
 
 ***
 
@@ -74,9 +64,7 @@ Interface representing a document for a donation in MongoDB.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/Donation.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Donation.ts#L18)
+Defined in: [src/models/Donation.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Donation.ts#L18)
 
 ***
 
@@ -84,6 +72,4 @@ Interface representing a document for a donation in MongoDB.
 
 \> **userId**: `string` \| `ObjectId`
 
-#### Defined in
-
-[src/models/Donation.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Donation.ts#L11)
+Defined in: [src/models/Donation.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Donation.ts#L11)

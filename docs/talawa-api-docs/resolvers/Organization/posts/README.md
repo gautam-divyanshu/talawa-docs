@@ -6,12 +6,10 @@
 
 # resolvers/Organization/posts
 
-## Index
-
-### Variables
+## Variables
 
 - [posts](variables/posts.md)
 
-### Functions
+## Functions
 
 - [parseCursor](functions/parseCursor.md)

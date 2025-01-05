@@ -6,12 +6,10 @@
 
 # models/Post
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfacePost](interfaces/InterfacePost.md)
 
-### Variables
+## Variables
 
 - [Post](variables/Post.md)

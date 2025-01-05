@@ -6,8 +6,6 @@
 
 # resolvers/Event/attendees
 
-## Index
-
-### Variables
+## Variables
 
 - [attendees](variables/attendees.md)

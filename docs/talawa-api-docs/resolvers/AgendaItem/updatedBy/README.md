@@ -6,8 +6,6 @@
 
 # resolvers/AgendaItem/updatedBy
 
-## Index
-
-### Variables
+## Variables
 
 - [updatedBy](variables/updatedBy.md)

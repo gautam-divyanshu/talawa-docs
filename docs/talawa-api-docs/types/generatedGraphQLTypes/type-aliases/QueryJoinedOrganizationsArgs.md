@@ -8,12 +8,10 @@
 
 \> **QueryJoinedOrganizationsArgs**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:2667](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L2667)
+
 ## Type declaration
 
 ### id?
 
 \> `optional` **id**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"ID"`\]\[`"input"`\]\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:2662](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L2662)

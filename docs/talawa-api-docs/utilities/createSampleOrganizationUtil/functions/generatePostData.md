@@ -8,6 +8,8 @@
 
 \> **generatePostData**(`users`, `organizationId`): `Promise`\<[`InterfacePost`](../../../models/Post/interfaces/InterfacePost.md) & `Document`\<[`InterfacePost`](../../../models/Post/interfaces/InterfacePost.md)\>\>
 
+Defined in: [src/utilities/createSampleOrganizationUtil.ts:151](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/createSampleOrganizationUtil.ts#L151)
+
 Generates post data for a given list of users and organization.
 
 ## Parameters
@@ -29,7 +31,3 @@ The ID of the organization the post belongs to
 `Promise`\<[`InterfacePost`](../../../models/Post/interfaces/InterfacePost.md) & `Document`\<[`InterfacePost`](../../../models/Post/interfaces/InterfacePost.md)\>\>
 
 A promise that resolves to the created post
-
-## Defined in
-
-[src/utilities/createSampleOrganizationUtil.ts:151](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/createSampleOrganizationUtil.ts#L151)

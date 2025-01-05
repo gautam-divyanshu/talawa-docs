@@ -6,13 +6,11 @@
 
 # models/AgendaSection
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceAgendaSection](interfaces/InterfaceAgendaSection.md)
 
-### Variables
+## Variables
 
 - [AgendaSectionModel](variables/AgendaSectionModel.md)
 - [AgendaSectionSchema](variables/AgendaSectionSchema.md)

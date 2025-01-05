@@ -8,6 +8,8 @@
 
 \> **askForSuperAdminEmail**(): `Promise`\<`string`\>
 
+Defined in: [src/setup/superAdmin.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/superAdmin.ts#L9)
+
 LAST_RESORT_SUPERADMIN_EMAIL prompt
 The function `askForSuperAdminEmail` asks the user to enter an email address and returns it as a promise.
 
@@ -16,7 +18,3 @@ The function `askForSuperAdminEmail` asks the user to enter an email address and
 `Promise`\<`string`\>
 
 The email entered by the user is being returned.
-
-## Defined in
-
-[src/setup/superAdmin.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/superAdmin.ts#L9)

@@ -6,15 +6,13 @@
 
 # utilities/graphQLConnection
 
-## Index
-
-### Type Aliases
+## Type Aliases
 
 - [DefaultGraphQLArgumentError](type-aliases/DefaultGraphQLArgumentError.md)
 - [DefaultGraphQLConnectionArguments](type-aliases/DefaultGraphQLConnectionArguments.md)
 - [GraphQLConnectionTraversalDirection](type-aliases/GraphQLConnectionTraversalDirection.md)
 
-### Functions
+## Functions
 
 - [isNotNullish](functions/isNotNullish.md)
 

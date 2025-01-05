@@ -6,12 +6,10 @@
 
 # REST/services/file/uploadFile
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceUploadedFileResponse](interfaces/InterfaceUploadedFileResponse.md)
 
-### Functions
+## Functions
 
 - [uploadFile](functions/uploadFile.md)

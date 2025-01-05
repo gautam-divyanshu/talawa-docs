@@ -6,8 +6,6 @@
 
 # resolvers/AgendaSection/relatedEvent
 
-## Index
-
-### Variables
+## Variables
 
 - [relatedEvent](variables/relatedEvent.md)

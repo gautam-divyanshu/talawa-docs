@@ -6,8 +6,6 @@
 
 # resolvers/UserTag/ancestorTags
 
-## Index
-
-### Variables
+## Variables
 
 - [ancestorTags](variables/ancestorTags.md)

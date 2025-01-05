@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updatePluginStatus
 
-## Index
-
-### Variables
+## Variables
 
 - [updatePluginStatus](variables/updatePluginStatus.md)

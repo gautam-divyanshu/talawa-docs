@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/likeComment
 
-## Index
-
-### Variables
+## Variables
 
 - [likeComment](variables/likeComment.md)

@@ -6,8 +6,6 @@
 
 # typeDefs/scalars
 
-## Index
-
-### Variables
+## Variables
 
 - [scalars](variables/scalars.md)

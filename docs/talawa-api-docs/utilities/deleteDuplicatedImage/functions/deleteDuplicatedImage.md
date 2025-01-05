@@ -8,6 +8,8 @@
 
 \> **deleteDuplicatedImage**(`imagePath`): `void`
 
+Defined in: [src/utilities/deleteDuplicatedImage.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/deleteDuplicatedImage.ts#L10)
+
 Deletes a duplicated image file using fs.unlink().
 
 ## Parameters
@@ -25,7 +27,3 @@ The path to the image file to delete.
 ## Throws
 
 Throws an error if deletion fails.
-
-## Defined in
-
-[src/utilities/deleteDuplicatedImage.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/deleteDuplicatedImage.ts#L10)

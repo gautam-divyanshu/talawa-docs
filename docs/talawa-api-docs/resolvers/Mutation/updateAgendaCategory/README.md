@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateAgendaCategory
 
-## Index
-
-### Variables
+## Variables
 
 - [updateAgendaCategory](variables/updateAgendaCategory.md)

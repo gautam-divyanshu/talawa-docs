@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/assignToUserTags
 
-## Index
-
-### Variables
+## Variables
 
 - [assignToUserTags](variables/assignToUserTags.md)

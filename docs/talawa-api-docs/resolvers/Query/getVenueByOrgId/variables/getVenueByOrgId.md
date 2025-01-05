@@ -8,6 +8,8 @@
 
 \> `const` **getVenueByOrgId**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"getVenueByOrgId"`\]
 
+Defined in: [src/resolvers/Query/getVenueByOrgId.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/getVenueByOrgId.ts#L27)
+
 Retrieves venues associated with a specific organization, with optional filtering and sorting.
 
 This function performs the following steps:
@@ -33,7 +35,3 @@ The arguments provided by the GraphQL query, including:
 ## Returns
 
 A promise that resolves to an array of venues matching the query criteria.
-
-## Defined in
-
-[src/resolvers/Query/getVenueByOrgId.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/getVenueByOrgId.ts#L27)

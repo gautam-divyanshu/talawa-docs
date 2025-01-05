@@ -6,8 +6,6 @@
 
 # helpers/event/deleteEventHelpers/deleteSingleEvent
 
-## Index
-
-### Functions
+## Functions
 
 - [deleteSingleEvent](functions/deleteSingleEvent.md)

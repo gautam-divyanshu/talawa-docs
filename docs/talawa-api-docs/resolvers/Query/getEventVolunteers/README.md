@@ -6,8 +6,6 @@
 
 # resolvers/Query/getEventVolunteers
 
-## Index
-
-### Variables
+## Variables
 
 - [getEventVolunteers](variables/getEventVolunteers.md)

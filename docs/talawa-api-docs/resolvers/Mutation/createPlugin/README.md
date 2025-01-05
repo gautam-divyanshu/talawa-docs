@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createPlugin
 
-## Index
-
-### Variables
+## Variables
 
 - [createPlugin](variables/createPlugin.md)

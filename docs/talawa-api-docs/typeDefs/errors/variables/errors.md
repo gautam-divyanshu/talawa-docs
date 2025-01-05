@@ -8,8 +8,6 @@
 
 \> `const` **errors**: `DocumentNode`[]
 
+Defined in: [src/typeDefs/errors/index.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/typeDefs/errors/index.ts#L10)
+
 Array of all error definitions.
-
-## Defined in
-
-[src/typeDefs/errors/index.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/typeDefs/errors/index.ts#L10)

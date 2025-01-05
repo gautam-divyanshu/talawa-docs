@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/joinPublicOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [joinPublicOrganization](variables/joinPublicOrganization.md)

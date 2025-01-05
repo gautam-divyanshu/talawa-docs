@@ -8,6 +8,8 @@
 
 \> **parseUserTagWhere**(`where`): [`ParseGraphQLConnectionWhereResult`](../../../graphQLConnection/parseGraphQLConnectionArgumentsWithWhere/type-aliases/ParseGraphQLConnectionWhereResult.md)\<[`ParseUserTagWhereResult`](../type-aliases/ParseUserTagWhereResult.md)\>
 
+Defined in: [src/utilities/userTagsPaginationUtils/parseUserTagWhere.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/userTagsPaginationUtils/parseUserTagWhere.ts#L17)
+
 function to parse the args.where for UserTag queries
 
 ## Parameters
@@ -19,7 +21,3 @@ function to parse the args.where for UserTag queries
 ## Returns
 
 [`ParseGraphQLConnectionWhereResult`](../../../graphQLConnection/parseGraphQLConnectionArgumentsWithWhere/type-aliases/ParseGraphQLConnectionWhereResult.md)\<[`ParseUserTagWhereResult`](../type-aliases/ParseUserTagWhereResult.md)\>
-
-## Defined in
-
-[src/utilities/userTagsPaginationUtils/parseUserTagWhere.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/userTagsPaginationUtils/parseUserTagWhere.ts#L17)

@@ -6,8 +6,6 @@
 
 # resolvers/Query/actionItemsByOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [actionItemsByOrganization](variables/actionItemsByOrganization.md)

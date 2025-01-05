@@ -8,6 +8,8 @@
 
 \> **compareTime**(`time1`, `time2`): `string`
 
+Defined in: [src/libraries/validators/compareTime.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/validators/compareTime.ts#L8)
+
 Compares two times and returns a message if the first time is later than the second time.
 
 ## Parameters
@@ -29,7 +31,3 @@ The second time as a string.
 `string`
 
 A message indicating that the start time must be earlier than the end time, or an empty string if the times are in the correct order.
-
-## Defined in
-
-[src/libraries/validators/compareTime.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/validators/compareTime.ts#L8)

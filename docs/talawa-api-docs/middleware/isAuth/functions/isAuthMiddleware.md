@@ -8,6 +8,8 @@
 
 \> **isAuthMiddleware**(`req`, `res`, `next`): `void`
 
+Defined in: [src/middleware/isAuth.ts:110](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/middleware/isAuth.ts#L110)
+
 Middleware for REST APIs to authenticate users based on the JWT token in the Authorization header.
 
 This middleware checks if the incoming request has a valid JWT token. It sets the authentication
@@ -49,7 +51,3 @@ app.use("/api/protected-route", isAuthMiddleware, (req, res) =\> \{
   \}
 \});
 ```
-
-## Defined in
-
-[src/middleware/isAuth.ts:110](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/middleware/isAuth.ts#L110)

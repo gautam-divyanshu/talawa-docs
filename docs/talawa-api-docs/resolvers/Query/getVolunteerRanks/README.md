@@ -6,8 +6,6 @@
 
 # resolvers/Query/getVolunteerRanks
 
-## Index
-
-### Variables
+## Variables
 
 - [getVolunteerRanks](variables/getVolunteerRanks.md)

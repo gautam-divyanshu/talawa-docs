@@ -6,6 +6,8 @@
 
 # Interface: InterfaceCheckOut
 
+Defined in: [src/models/CheckOut.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckOut.ts#L16)
+
 Interface representing a document for a check-out record in MongoDB.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for a check-out record in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/CheckOut.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckOut.ts#L17)
+Defined in: [src/models/CheckOut.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckOut.ts#L17)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for a check-out record in MongoDB.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/CheckOut.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckOut.ts#L20)
+Defined in: [src/models/CheckOut.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckOut.ts#L20)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a document for a check-out record in MongoDB.
 
 \> **eventAttendeeId**: `any`
 
-#### Defined in
-
-[src/models/CheckOut.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckOut.ts#L18)
+Defined in: [src/models/CheckOut.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckOut.ts#L18)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a document for a check-out record in MongoDB.
 
 \> **time**: `Date`
 
-#### Defined in
-
-[src/models/CheckOut.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckOut.ts#L19)
+Defined in: [src/models/CheckOut.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckOut.ts#L19)
 
 ***
 
@@ -54,6 +48,4 @@ Interface representing a document for a check-out record in MongoDB.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/CheckOut.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/CheckOut.ts#L21)
+Defined in: [src/models/CheckOut.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckOut.ts#L21)

@@ -8,6 +8,8 @@
 
 \> **setRequestContext**(`obj`): `void`
 
+Defined in: [src/libraries/requestContext.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/requestContext.ts#L34)
+
 Sets the translation functions in the request context.
 
 ## Parameters
@@ -21,7 +23,3 @@ The object containing translation functions.
 ## Returns
 
 `void`
-
-## Defined in
-
-[src/libraries/requestContext.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/requestContext.ts#L34)

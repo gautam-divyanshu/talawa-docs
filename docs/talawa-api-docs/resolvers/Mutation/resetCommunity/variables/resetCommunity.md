@@ -8,6 +8,8 @@
 
 \> `const` **resetCommunity**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"resetCommunity"`\]
 
+Defined in: [src/resolvers/Mutation/resetCommunity.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/resetCommunity.ts#L25)
+
 This function enables to reset Pre login imagery.
 
 ## Param
@@ -31,7 +33,3 @@ The following checks are done:
 ## Returns
 
 Boolean.
-
-## Defined in
-
-[src/resolvers/Mutation/resetCommunity.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/resetCommunity.ts#L25)

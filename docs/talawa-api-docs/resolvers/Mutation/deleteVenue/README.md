@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/deleteVenue
 
-## Index
-
-### Variables
+## Variables
 
 - [deleteVenue](variables/deleteVenue.md)

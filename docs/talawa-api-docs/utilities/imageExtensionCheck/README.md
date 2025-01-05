@@ -6,8 +6,6 @@
 
 # utilities/imageExtensionCheck
 
-## Index
-
-### Functions
+## Functions
 
 - [imageExtensionCheck](functions/imageExtensionCheck.md)

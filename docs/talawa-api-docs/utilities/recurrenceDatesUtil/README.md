@@ -6,9 +6,7 @@
 
 # utilities/recurrenceDatesUtil
 
-## Index
-
-### Functions
+## Functions
 
 - [convertToRRuleDateString](functions/convertToRRuleDateString.md)
 - [convertToUTCDate](functions/convertToUTCDate.md)

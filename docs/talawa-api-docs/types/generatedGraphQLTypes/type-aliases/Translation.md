@@ -8,6 +8,8 @@
 
 \> **Translation**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:2848](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L2848)
+
 ## Type declaration
 
 ### \_\_typename?
@@ -29,7 +31,3 @@
 ### verified?
 
 \> `optional` **verified**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"output"`\]\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:2843](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L2843)

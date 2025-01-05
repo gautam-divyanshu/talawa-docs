@@ -6,8 +6,6 @@
 
 # resolvers/AgendaItem/createdBy
 
-## Index
-
-### Variables
+## Variables
 
 - [createdBy](variables/createdBy.md)

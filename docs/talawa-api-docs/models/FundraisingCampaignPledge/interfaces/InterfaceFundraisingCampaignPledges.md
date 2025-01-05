@@ -6,6 +6,8 @@
 
 # Interface: InterfaceFundraisingCampaignPledges
 
+Defined in: [src/models/FundraisingCampaignPledge.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/FundraisingCampaignPledge.ts#L14)
+
 Interface representing a document for a fundraising campaign pledge in the database (MongoDB).
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for a fundraising campaign pledge in the datab
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/FundraisingCampaignPledge.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/FundraisingCampaignPledge.ts#L15)
+Defined in: [src/models/FundraisingCampaignPledge.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/FundraisingCampaignPledge.ts#L15)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for a fundraising campaign pledge in the datab
 
 \> **amount**: `number`
 
-#### Defined in
-
-[src/models/FundraisingCampaignPledge.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/FundraisingCampaignPledge.ts#L20)
+Defined in: [src/models/FundraisingCampaignPledge.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/FundraisingCampaignPledge.ts#L20)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a document for a fundraising campaign pledge in the datab
 
 \> **campaign**: `PopulatedDoc`\<[`InterfaceFundraisingCampaign`](../../FundraisingCampaign/interfaces/InterfaceFundraisingCampaign.md) & `Document`\>
 
-#### Defined in
-
-[src/models/FundraisingCampaignPledge.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/FundraisingCampaignPledge.ts#L16)
+Defined in: [src/models/FundraisingCampaignPledge.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/FundraisingCampaignPledge.ts#L16)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a document for a fundraising campaign pledge in the datab
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/FundraisingCampaignPledge.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/FundraisingCampaignPledge.ts#L22)
+Defined in: [src/models/FundraisingCampaignPledge.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/FundraisingCampaignPledge.ts#L22)
 
 ***
 
@@ -54,9 +48,7 @@ Interface representing a document for a fundraising campaign pledge in the datab
 
 \> **currency**: [`CurrencyType`](../../FundraisingCampaign/enumerations/CurrencyType.md)
 
-#### Defined in
-
-[src/models/FundraisingCampaignPledge.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/FundraisingCampaignPledge.ts#L21)
+Defined in: [src/models/FundraisingCampaignPledge.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/FundraisingCampaignPledge.ts#L21)
 
 ***
 
@@ -64,9 +56,7 @@ Interface representing a document for a fundraising campaign pledge in the datab
 
 \> **endDate**: `Date`
 
-#### Defined in
-
-[src/models/FundraisingCampaignPledge.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/FundraisingCampaignPledge.ts#L19)
+Defined in: [src/models/FundraisingCampaignPledge.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/FundraisingCampaignPledge.ts#L19)
 
 ***
 
@@ -74,9 +64,7 @@ Interface representing a document for a fundraising campaign pledge in the datab
 
 \> **startDate**: `Date`
 
-#### Defined in
-
-[src/models/FundraisingCampaignPledge.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/FundraisingCampaignPledge.ts#L18)
+Defined in: [src/models/FundraisingCampaignPledge.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/FundraisingCampaignPledge.ts#L18)
 
 ***
 
@@ -84,9 +72,7 @@ Interface representing a document for a fundraising campaign pledge in the datab
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/FundraisingCampaignPledge.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/FundraisingCampaignPledge.ts#L23)
+Defined in: [src/models/FundraisingCampaignPledge.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/FundraisingCampaignPledge.ts#L23)
 
 ***
 
@@ -94,6 +80,4 @@ Interface representing a document for a fundraising campaign pledge in the datab
 
 \> **users**: `PopulatedDoc`\<[`InterfaceUser`](../../User/interfaces/InterfaceUser.md) & `Document`\>[]
 
-#### Defined in
-
-[src/models/FundraisingCampaignPledge.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/FundraisingCampaignPledge.ts#L17)
+Defined in: [src/models/FundraisingCampaignPledge.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/FundraisingCampaignPledge.ts#L17)

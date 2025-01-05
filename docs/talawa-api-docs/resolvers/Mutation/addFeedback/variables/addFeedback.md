@@ -8,6 +8,8 @@
 
 \> `const` **addFeedback**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addFeedback"`\]
 
+Defined in: [src/resolvers/Mutation/addFeedback.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/addFeedback.ts#L37)
+
 Mutation resolver function to add feedback for an event.
 
 This function pcerforms the following ations:
@@ -44,7 +46,3 @@ A promise that resolves to the newly created feedback document.
  - CheckIn - The CheckIn model used to manage check-in records.
  - Feedback - The Feedback model used to create and manage feedback entries.
  - MutationResolvers - The type definition for the mutation resolvers.
-
-## Defined in
-
-[src/resolvers/Mutation/addFeedback.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addFeedback.ts#L37)

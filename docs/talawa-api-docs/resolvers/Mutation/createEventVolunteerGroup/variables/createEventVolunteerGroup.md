@@ -8,6 +8,8 @@
 
 \> `const` **createEventVolunteerGroup**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createEventVolunteerGroup"`\]
 
+Defined in: [src/resolvers/Mutation/createEventVolunteerGroup.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createEventVolunteerGroup.ts#L44)
+
 Creates a new event volunteer group and associates it with an event.
 
 This resolver performs the following actions:
@@ -46,7 +48,3 @@ A promise that resolves to the created event volunteer group object.
 ## Remarks
 
 This function first checks the cache for the current user and then queries the database if needed. It ensures that the user is authorized to create a volunteer group for the event before proceeding.
-
-## Defined in
-
-[src/resolvers/Mutation/createEventVolunteerGroup.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createEventVolunteerGroup.ts#L44)

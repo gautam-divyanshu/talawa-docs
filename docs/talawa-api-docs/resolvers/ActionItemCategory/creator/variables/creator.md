@@ -8,6 +8,8 @@
 
 \> `const` **creator**: [`ActionItemCategoryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/ActionItemCategoryResolvers.md)\[`"creator"`\]
 
+Defined in: [src/resolvers/ActionItemCategory/creator.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/ActionItemCategory/creator.ts#L15)
+
 Resolver function for the `creator` field of an `ActionItemCategory`.
 
 This function retrieves the user who created a specific action item category.
@@ -24,7 +26,3 @@ A promise that resolves to the user document found in the database. This documen
 
  - User - The User model used to interact with the users collection in the database.
  - ActionItemCategoryResolvers - The type definition for the resolvers of the ActionItemCategory fields.
-
-## Defined in
-
-[src/resolvers/ActionItemCategory/creator.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/ActionItemCategory/creator.ts#L15)

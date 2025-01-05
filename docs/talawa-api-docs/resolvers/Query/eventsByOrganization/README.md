@@ -6,8 +6,6 @@
 
 # resolvers/Query/eventsByOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [eventsByOrganization](variables/eventsByOrganization.md)

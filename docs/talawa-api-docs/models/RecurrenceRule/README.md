@@ -6,17 +6,15 @@
 
 # models/RecurrenceRule
 
-## Index
-
-### Enumerations
+## Enumerations
 
 - [Frequency](enumerations/Frequency.md)
 - [WeekDays](enumerations/WeekDays.md)
 
-### Interfaces
+## Interfaces
 
 - [InterfaceRecurrenceRule](interfaces/InterfaceRecurrenceRule.md)
 
-### Variables
+## Variables
 
 - [RecurrenceRule](variables/RecurrenceRule.md)

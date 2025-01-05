@@ -6,8 +6,6 @@
 
 # utilities/copyToClipboard
 
-## Index
-
-### Functions
+## Functions
 
 - [copyToClipboard](functions/copyToClipboard.md)

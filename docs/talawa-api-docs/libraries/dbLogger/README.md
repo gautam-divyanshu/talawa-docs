@@ -6,21 +6,19 @@
 
 # libraries/dbLogger
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceLoggableDocument](interfaces/InterfaceLoggableDocument.md)
 - [InterfaceLoggableQuery](interfaces/InterfaceLoggableQuery.md)
 
-### Type Aliases
+## Type Aliases
 
 - [TransactionLogInfo](type-aliases/TransactionLogInfo.md)
 
-### Variables
+## Variables
 
 - [default](variables/default.md)
 
-### Functions
+## Functions
 
 - [createLoggingMiddleware](functions/createLoggingMiddleware.md)

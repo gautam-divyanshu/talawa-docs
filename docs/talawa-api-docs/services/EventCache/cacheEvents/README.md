@@ -6,8 +6,6 @@
 
 # services/EventCache/cacheEvents
 
-## Index
-
-### Functions
+## Functions
 
 - [cacheEvents](functions/cacheEvents.md)

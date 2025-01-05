@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/logout
 
-## Index
-
-### Variables
+## Variables
 
 - [logout](variables/logout.md)

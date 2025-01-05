@@ -8,6 +8,8 @@
 
 \> **verifySmtpConnection**(`config`): `Promise`\<`VerifySmtpConnectionReturnType`\>
 
+Defined in: [src/setup/verifySmtpConnection.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/verifySmtpConnection.ts#L18)
+
 The function `verifySmtpConnection` verifies the SMTP connection using the provided configuration
 and returns a success status and error message if applicable.
 
@@ -28,7 +30,3 @@ The function `verifySmtpConnection` returns a Promise that resolves to an object
 `VerifySmtpConnectionReturnType`. The `VerifySmtpConnectionReturnType` object has two properties:
 `success` and `error`. If the SMTP connection is verified successfully, the `success` property will
 be `true` and the `error` property will be `null`. If the SMTP connection verification fails
-
-## Defined in
-
-[src/setup/verifySmtpConnection.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/verifySmtpConnection.ts#L18)

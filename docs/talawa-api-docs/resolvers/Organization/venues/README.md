@@ -6,8 +6,6 @@
 
 # resolvers/Organization/venues
 
-## Index
-
-### Variables
+## Variables
 
 - [venues](variables/venues.md)

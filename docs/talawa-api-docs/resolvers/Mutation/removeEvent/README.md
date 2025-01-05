@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeEvent
 
-## Index
-
-### Variables
+## Variables
 
 - [removeEvent](variables/removeEvent.md)

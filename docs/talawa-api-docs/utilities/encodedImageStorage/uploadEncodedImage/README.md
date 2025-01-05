@@ -6,8 +6,6 @@
 
 # utilities/encodedImageStorage/uploadEncodedImage
 
-## Index
-
-### Functions
+## Functions
 
 - [uploadEncodedImage](functions/uploadEncodedImage.md)

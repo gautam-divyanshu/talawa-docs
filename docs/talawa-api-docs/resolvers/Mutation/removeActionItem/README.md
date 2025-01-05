@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeActionItem
 
-## Index
-
-### Variables
+## Variables
 
 - [removeActionItem](variables/removeActionItem.md)

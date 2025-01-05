@@ -8,6 +8,8 @@
 
 \> `const` **createVolunteerMembership**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createVolunteerMembership"`\]
 
+Defined in: [src/resolvers/Mutation/createVolunteerMembership.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createVolunteerMembership.ts#L31)
+
 Creates a new event volunteer membership entry.
 
 This function performs the following actions:
@@ -37,7 +39,3 @@ The context for the mutation, including:
 ## Returns
 
 The created event volunteer record.
-
-## Defined in
-
-[src/resolvers/Mutation/createVolunteerMembership.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createVolunteerMembership.ts#L31)

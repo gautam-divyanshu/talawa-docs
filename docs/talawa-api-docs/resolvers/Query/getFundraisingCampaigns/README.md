@@ -6,8 +6,6 @@
 
 # resolvers/Query/getFundraisingCampaigns
 
-## Index
-
-### Variables
+## Variables
 
 - [getFundraisingCampaigns](variables/getFundraisingCampaigns.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Query/getFundById
 
-## Index
-
-### Variables
+## Variables
 
 - [getFundById](variables/getFundById.md)

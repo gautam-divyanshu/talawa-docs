@@ -8,6 +8,8 @@
 
 \> `const` **deleteAgendaCategory**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"deleteAgendaCategory"`\]
 
+Defined in: [src/resolvers/Mutation/deleteAgendaCategory.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/deleteAgendaCategory.ts#L29)
+
 This is a resolver function for the GraphQL mutation 'deleteAgendaCategory'.
 
 This resolver deletes an agenda category if the user has the necessary permissions.
@@ -35,7 +37,3 @@ A promise that resolves to the ID of the deleted agenda category.
 ## Throws
 
 `InternalServerError` For other potential issues during agenda category deletion.
-
-## Defined in
-
-[src/resolvers/Mutation/deleteAgendaCategory.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/deleteAgendaCategory.ts#L29)

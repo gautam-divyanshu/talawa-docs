@@ -6,8 +6,6 @@
 
 # services/EventCache/findEventInCache
 
-## Index
-
-### Functions
+## Functions
 
 - [findEventsInCache](functions/findEventsInCache.md)

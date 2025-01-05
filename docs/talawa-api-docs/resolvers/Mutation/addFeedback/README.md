@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/addFeedback
 
-## Index
-
-### Variables
+## Variables
 
 - [addFeedback](variables/addFeedback.md)

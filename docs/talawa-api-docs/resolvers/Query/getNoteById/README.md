@@ -6,8 +6,6 @@
 
 # resolvers/Query/getNoteById
 
-## Index
-
-### Variables
+## Variables
 
 - [getNoteById](variables/getNoteById.md)

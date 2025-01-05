@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/addUserCustomData
 
-## Index
-
-### Variables
+## Variables
 
 - [addUserCustomData](variables/addUserCustomData.md)

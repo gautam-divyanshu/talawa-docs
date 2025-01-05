@@ -6,8 +6,6 @@
 
 # typeDefs/mutations
 
-## Index
-
-### Variables
+## Variables
 
 - [mutations](variables/mutations.md)

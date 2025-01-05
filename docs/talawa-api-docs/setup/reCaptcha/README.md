@@ -6,8 +6,6 @@
 
 # setup/reCaptcha
 
-## Index
-
-### Functions
+## Functions
 
 - [validateRecaptcha](functions/validateRecaptcha.md)

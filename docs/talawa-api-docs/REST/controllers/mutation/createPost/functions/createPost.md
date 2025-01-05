@@ -8,6 +8,8 @@
 
 \> **createPost**(`req`, `res`): `Promise`\<`void`\>
 
+Defined in: [src/REST/controllers/mutation/createPost.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/controllers/mutation/createPost.ts#L71)
+
 Creates a new post within an organization
 async
 function - createPost
@@ -61,7 +63,3 @@ UnauthorizedError - When user is not authorized or lacks permissions
 ## Throws
 
 InputValidationError - When title or text validation fails
-
-## Defined in
-
-[src/REST/controllers/mutation/createPost.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/REST/controllers/mutation/createPost.ts#L71)

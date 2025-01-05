@@ -6,8 +6,6 @@
 
 # typeDefs/errors/createMemberErrors
 
-## Index
-
-### Variables
+## Variables
 
 - [createMemberErrors](variables/createMemberErrors.md)

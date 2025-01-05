@@ -8,6 +8,8 @@
 
 \> `const` **creator**: [`FundResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/FundResolvers.md)\[`"creator"`\]
 
+Defined in: [src/resolvers/Fund/creator.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Fund/creator.ts#L17)
+
 Resolver function for the `creator` field of a `Fund`.
 
 This function retrieves the user who created a specific fund.
@@ -24,7 +26,3 @@ A promise that resolves to the user document found in the database. This documen
 
  - User - The User model used to interact with the users collection in the database.
  - FundResolvers - The type definition for the resolvers of the Fund fields.
-
-## Defined in
-
-[src/resolvers/Fund/creator.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Fund/creator.ts#L17)

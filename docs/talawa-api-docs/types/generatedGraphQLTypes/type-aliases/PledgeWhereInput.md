@@ -8,6 +8,8 @@
 
 \> **PledgeWhereInput**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:2216](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L2216)
+
 ## Type declaration
 
 ### campaignId?
@@ -25,7 +27,3 @@
 ### name\_contains?
 
 \> `optional` **name\_contains**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"String"`\]\[`"input"`\]\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:2212](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L2212)

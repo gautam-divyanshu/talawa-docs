@@ -8,6 +8,8 @@
 
 \> **getEventData**(`updateEventInputData`, `event`): [`InterfaceRecurringEvent`](../../../recurringEventHelpers/generateRecurringEventInstances/interfaces/InterfaceRecurringEvent.md)
 
+Defined in: [src/helpers/event/updateEventHelpers/getEventData.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/updateEventHelpers/getEventData.ts#L12)
+
 This function retrieves the data to be used for updating an event,
 combining existing event data with new input data.
 
@@ -30,7 +32,3 @@ The current event data to be updated.
 [`InterfaceRecurringEvent`](../../../recurringEventHelpers/generateRecurringEventInstances/interfaces/InterfaceRecurringEvent.md)
 
 The updated event data.
-
-## Defined in
-
-[src/helpers/event/updateEventHelpers/getEventData.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/updateEventHelpers/getEventData.ts#L12)

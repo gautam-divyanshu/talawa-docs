@@ -6,8 +6,6 @@
 
 # resolvers/ChatMessage/replyTo
 
-## Index
-
-### Variables
+## Variables
 
 - [replyTo](variables/replyTo.md)

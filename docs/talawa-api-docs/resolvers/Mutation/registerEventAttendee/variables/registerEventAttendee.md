@@ -8,6 +8,8 @@
 
 \> `const` **registerEventAttendee**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"registerEventAttendee"`\]
 
+Defined in: [src/resolvers/Mutation/registerEventAttendee.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/registerEventAttendee.ts#L38)
+
 Registers an attendee for an event.
 
 This function handles the registration process for an attendee to participate in an event.
@@ -37,7 +39,3 @@ NotFoundError Throws a NotFoundError if the user or event is not found.
 ## Throws
 
 UnauthorizedError Throws an UnauthorizedError if the current user is not authorized to register attendees.
-
-## Defined in
-
-[src/resolvers/Mutation/registerEventAttendee.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/registerEventAttendee.ts#L38)

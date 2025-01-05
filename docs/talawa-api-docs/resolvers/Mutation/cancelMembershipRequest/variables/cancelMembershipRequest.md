@@ -8,6 +8,8 @@
 
 \> `const` **cancelMembershipRequest**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"cancelMembershipRequest"`\]
 
+Defined in: [src/resolvers/Mutation/cancelMembershipRequest.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/cancelMembershipRequest.ts#L45)
+
 Mutation resolver function to cancel a membership request.
 
 This function performs the following actions:
@@ -47,7 +49,3 @@ A promise that resolves to the deleted membership request.
  - cacheOrganizations - Service function to cache updated organization data.
  - findUserInCache - Service function to retrieve users from cache.
  - cacheUsers - Service function to cache updated user data.
-
-## Defined in
-
-[src/resolvers/Mutation/cancelMembershipRequest.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/cancelMembershipRequest.ts#L45)

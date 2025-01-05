@@ -6,6 +6,8 @@
 
 # Interface: InterfaceAgendaSection
 
+Defined in: [src/models/AgendaSection.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L12)
+
 Interface representing a document for an agenda section in MongoDB.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for an agenda section in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/AgendaSection.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaSection.ts#L13)
+Defined in: [src/models/AgendaSection.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L13)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for an agenda section in MongoDB.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/AgendaSection.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaSection.ts#L18)
+Defined in: [src/models/AgendaSection.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L18)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a document for an agenda section in MongoDB.
 
 \> **createdBy**: `any`
 
-#### Defined in
-
-[src/models/AgendaSection.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaSection.ts#L20)
+Defined in: [src/models/AgendaSection.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L20)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a document for an agenda section in MongoDB.
 
 \> **description**: `string`
 
-#### Defined in
-
-[src/models/AgendaSection.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaSection.ts#L15)
+Defined in: [src/models/AgendaSection.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L15)
 
 ***
 
@@ -54,9 +48,7 @@ Interface representing a document for an agenda section in MongoDB.
 
 \> **items**: `any`[]
 
-#### Defined in
-
-[src/models/AgendaSection.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaSection.ts#L16)
+Defined in: [src/models/AgendaSection.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L16)
 
 ***
 
@@ -64,9 +56,7 @@ Interface representing a document for an agenda section in MongoDB.
 
 \> **relatedEvent**: `any`
 
-#### Defined in
-
-[src/models/AgendaSection.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaSection.ts#L14)
+Defined in: [src/models/AgendaSection.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L14)
 
 ***
 
@@ -74,9 +64,7 @@ Interface representing a document for an agenda section in MongoDB.
 
 \> **sequence**: `number`
 
-#### Defined in
-
-[src/models/AgendaSection.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaSection.ts#L17)
+Defined in: [src/models/AgendaSection.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L17)
 
 ***
 
@@ -84,9 +72,7 @@ Interface representing a document for an agenda section in MongoDB.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/AgendaSection.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaSection.ts#L19)
+Defined in: [src/models/AgendaSection.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L19)
 
 ***
 
@@ -94,6 +80,4 @@ Interface representing a document for an agenda section in MongoDB.
 
 \> **updatedBy**: `any`
 
-#### Defined in
-
-[src/models/AgendaSection.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/AgendaSection.ts#L21)
+Defined in: [src/models/AgendaSection.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L21)

@@ -6,8 +6,6 @@
 
 # resolvers/Query/venue
 
-## Index
-
-### Variables
+## Variables
 
 - [venue](variables/venue.md)

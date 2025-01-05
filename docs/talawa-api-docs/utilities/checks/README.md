@@ -6,9 +6,7 @@
 
 # utilities/checks
 
-## Index
-
-### Functions
+## Functions
 
 - [checkAppUserProfileExists](functions/checkAppUserProfileExists.md)
 - [checkEventVolunteerExists](functions/checkEventVolunteerExists.md)

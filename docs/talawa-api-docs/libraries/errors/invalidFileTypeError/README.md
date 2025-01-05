@@ -6,8 +6,6 @@
 
 # libraries/errors/invalidFileTypeError
 
-## Index
-
-### Classes
+## Classes
 
 - [InvalidFileTypeError](classes/InvalidFileTypeError.md)

@@ -6,13 +6,11 @@
 
 # models/AgendaCategory
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceAgendaCategory](interfaces/InterfaceAgendaCategory.md)
 
-### Variables
+## Variables
 
 - [AgendaCategoryModel](variables/AgendaCategoryModel.md)
 - [AgendaCategorySchema](variables/AgendaCategorySchema.md)

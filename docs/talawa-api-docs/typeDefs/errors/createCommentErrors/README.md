@@ -6,8 +6,6 @@
 
 # typeDefs/errors/createCommentErrors
 
-## Index
-
-### Variables
+## Variables
 
 - [createCommentErrors](variables/createCommentErrors.md)

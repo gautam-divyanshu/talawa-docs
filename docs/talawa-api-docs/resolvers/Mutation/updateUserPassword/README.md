@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateUserPassword
 
-## Index
-
-### Variables
+## Variables
 
 - [updateUserPassword](variables/updateUserPassword.md)

@@ -6,12 +6,10 @@
 
 # models/userFamily
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceUserFamily](interfaces/InterfaceUserFamily.md)
 
-### Variables
+## Variables
 
 - [UserFamily](variables/UserFamily.md)

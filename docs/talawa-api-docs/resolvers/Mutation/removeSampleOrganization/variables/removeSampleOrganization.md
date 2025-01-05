@@ -8,6 +8,8 @@
 
 \> `const` **removeSampleOrganization**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeSampleOrganization"`\]
 
+Defined in: [src/resolvers/Mutation/removeSampleOrganization.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeSampleOrganization.ts#L31)
+
 Removes a sample organization from the system.
 
 This function allows the deletion of a sample organization by checking the current user's authorization and the existence of the organization.
@@ -29,7 +31,3 @@ Provides contextual information, including the current user's ID. This is used t
 ## Returns
 
 A boolean value indicating whether the operation was successful.
-
-## Defined in
-
-[src/resolvers/Mutation/removeSampleOrganization.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeSampleOrganization.ts#L31)

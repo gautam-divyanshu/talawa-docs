@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateFund
 
-## Index
-
-### Variables
+## Variables
 
 - [updateFund](variables/updateFund.md)

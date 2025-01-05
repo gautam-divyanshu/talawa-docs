@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createFund
 
-## Index
-
-### Variables
+## Variables
 
 - [createFund](variables/createFund.md)

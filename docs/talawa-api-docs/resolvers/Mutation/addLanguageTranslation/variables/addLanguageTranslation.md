@@ -8,6 +8,8 @@
 
 \> `const` **addLanguageTranslation**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addLanguageTranslation"`\]
 
+Defined in: [src/resolvers/Mutation/addLanguageTranslation.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/addLanguageTranslation.ts#L33)
+
 Mutation resolver function to add a translation for a language.
 
 This function performs the following actions:
@@ -42,7 +44,3 @@ A promise that resolves to the updated or newly created language document.
 The function uses the `findOne` method to locate an existing language entry by its English value.
 If the language exists, it checks the existing translations to prevent duplicate entries.
 If the language does not exist, a nsnew entry is created with the provided tralation.
-
-## Defined in
-
-[src/resolvers/Mutation/addLanguageTranslation.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addLanguageTranslation.ts#L33)

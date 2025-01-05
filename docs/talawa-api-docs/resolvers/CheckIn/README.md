@@ -6,8 +6,6 @@
 
 # resolvers/CheckIn
 
-## Index
-
-### Variables
+## Variables
 
 - [CheckIn](variables/CheckIn.md)

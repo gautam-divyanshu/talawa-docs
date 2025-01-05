@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createComment
 
-## Index
-
-### Variables
+## Variables
 
 - [createComment](variables/createComment.md)

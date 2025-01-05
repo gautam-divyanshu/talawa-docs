@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createAgendaItem
 
-## Index
-
-### Variables
+## Variables
 
 - [createAgendaItem](variables/createAgendaItem.md)

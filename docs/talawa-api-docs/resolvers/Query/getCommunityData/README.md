@@ -6,8 +6,6 @@
 
 # resolvers/Query/getCommunityData
 
-## Index
-
-### Variables
+## Variables
 
 - [getCommunityData](variables/getCommunityData.md)

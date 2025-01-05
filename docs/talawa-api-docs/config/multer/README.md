@@ -6,12 +6,10 @@
 
 # config/multer
 
-## Index
-
-### Variables
+## Variables
 
 - [upload](variables/upload.md)
 
-### Functions
+## Functions
 
 - [fileFilter](functions/fileFilter.md)

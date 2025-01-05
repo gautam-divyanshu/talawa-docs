@@ -8,6 +8,8 @@
 
 \> **ParsedGraphQLConnectionArgumentsWithWhere**\<`T0`, `T1`\>: `object` & [`ParsedGraphQLConnectionArguments`](../../parseGraphQLConnectionArguments/type-aliases/ParsedGraphQLConnectionArguments.md)\<`T0`\>
 
+Defined in: [src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithWhere.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithWhere.ts#L29)
+
 This is typescript type of the object containing the validated and transformed connection
 arguments passed to `parseGraphQLConnectionArgumentsWithWhere` function.
 
@@ -22,7 +24,3 @@ arguments passed to `parseGraphQLConnectionArgumentsWithWhere` function.
 • **T0**
 
 • **T1**
-
-## Defined in
-
-[src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithWhere.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithWhere.ts#L29)

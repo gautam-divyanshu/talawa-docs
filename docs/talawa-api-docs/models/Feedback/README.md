@@ -6,12 +6,10 @@
 
 # models/Feedback
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceFeedback](interfaces/InterfaceFeedback.md)
 
-### Variables
+## Variables
 
 - [Feedback](variables/Feedback.md)

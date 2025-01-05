@@ -6,8 +6,6 @@
 
 # helpers/event/updateEventHelpers/getEventData
 
-## Index
-
-### Functions
+## Functions
 
 - [getEventData](functions/getEventData.md)

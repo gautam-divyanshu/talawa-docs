@@ -6,8 +6,6 @@
 
 # services/CommentCache/findCommentsInCache
 
-## Index
-
-### Functions
+## Functions
 
 - [findCommentsInCache](functions/findCommentsInCache.md)

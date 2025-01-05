@@ -6,6 +6,8 @@
 
 # Interface: InterfaceCommunity
 
+Defined in: [src/models/Community.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L9)
+
 Interface representing a document for a community in MongoDB.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for a community in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/Community.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Community.ts#L10)
+Defined in: [src/models/Community.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L10)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for a community in MongoDB.
 
 \> **logoUrl**: `string`
 
-#### Defined in
-
-[src/models/Community.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Community.ts#L12)
+Defined in: [src/models/Community.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L12)
 
 ***
 
@@ -34,15 +32,15 @@ Interface representing a document for a community in MongoDB.
 
 \> **name**: `string`
 
-#### Defined in
-
-[src/models/Community.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Community.ts#L11)
+Defined in: [src/models/Community.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L11)
 
 ***
 
 ### socialMediaUrls
 
 \> **socialMediaUrls**: `object`
+
+Defined in: [src/models/Community.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L14)
 
 #### facebook
 
@@ -76,19 +74,13 @@ Interface representing a document for a community in MongoDB.
 
 \> **youTube**: `string`
 
-#### Defined in
-
-[src/models/Community.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Community.ts#L14)
-
 ***
 
 ### timeout
 
 \> **timeout**: `number`
 
-#### Defined in
-
-[src/models/Community.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Community.ts#L24)
+Defined in: [src/models/Community.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L24)
 
 ***
 
@@ -96,6 +88,4 @@ Interface representing a document for a community in MongoDB.
 
 \> **websiteLink**: `string`
 
-#### Defined in
-
-[src/models/Community.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Community.ts#L13)
+Defined in: [src/models/Community.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L13)

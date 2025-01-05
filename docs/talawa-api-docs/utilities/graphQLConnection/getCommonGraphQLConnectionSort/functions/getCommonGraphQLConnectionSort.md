@@ -8,6 +8,8 @@
 
 \> **getCommonGraphQLConnectionSort**(`__namedParameters`): `CommmonGraphQLConnectionSort`
 
+Defined in: [src/utilities/graphQLConnection/getCommonGraphQLConnectionSort.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/getCommonGraphQLConnectionSort.ts#L34)
+
 This function is used to get an object containing common mongoose sorting logic.
 
 ## Parameters
@@ -44,7 +46,3 @@ const sort = getCommonGraphQLConnectionSort(\{
  \});
 const objectList = await User.find().sort(sort).limit(10);
 ```
-
-## Defined in
-
-[src/utilities/graphQLConnection/getCommonGraphQLConnectionSort.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/graphQLConnection/getCommonGraphQLConnectionSort.ts#L34)

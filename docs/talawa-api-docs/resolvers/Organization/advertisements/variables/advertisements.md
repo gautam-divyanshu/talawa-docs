@@ -8,6 +8,8 @@
 
 \> `const` **advertisements**: [`OrganizationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/OrganizationResolvers.md)\[`"advertisements"`\]
 
+Defined in: [src/resolvers/Organization/advertisements.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Organization/advertisements.ts#L38)
+
 Resolver function for the `advertisements` field of an `Organization`.
 
 This resolver is used to resolve the `advertisements` field of an `Organization` type.
@@ -38,7 +40,3 @@ A promise that resolves to a connection object containing the advertisements of 
  - MAXIMUM_FETCH_LIMIT - The maximum number of advertisements that can be fetched in a single request.
  - GraphQLError - The error class used to throw GraphQL errors.
  - OrganizationResolvers - The type definition for the resolvers of the Organization fields.
-
-## Defined in
-
-[src/resolvers/Organization/advertisements.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Organization/advertisements.ts#L38)

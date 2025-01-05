@@ -6,8 +6,6 @@
 
 # services/AppUserProfileCache/findAppUserProfileCache
 
-## Index
-
-### Functions
+## Functions
 
 - [findAppUserProfileCache](functions/findAppUserProfileCache.md)

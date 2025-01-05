@@ -6,8 +6,6 @@
 
 # middleware/fileUpload
 
-## Index
-
-### Functions
+## Functions
 
 - [fileUpload](functions/fileUpload.md)

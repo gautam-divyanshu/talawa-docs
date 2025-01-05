@@ -8,6 +8,8 @@
 
 \> **askForMongoDBUrl**(): `Promise`\<`string`\>
 
+Defined in: [src/setup/MongoDB.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/MongoDB.ts#L73)
+
 The function `askForMongoDBUrl` prompts the user to enter a MongoDB URL and returns the entered URL
 as a string.
 
@@ -16,7 +18,3 @@ as a string.
 `Promise`\<`string`\>
 
 a Promise that resolves to a string.
-
-## Defined in
-
-[src/setup/MongoDB.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/MongoDB.ts#L73)

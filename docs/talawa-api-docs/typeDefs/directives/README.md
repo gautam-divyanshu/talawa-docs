@@ -6,8 +6,6 @@
 
 # typeDefs/directives
 
-## Index
-
-### Variables
+## Variables
 
 - [directives](variables/directives.md)

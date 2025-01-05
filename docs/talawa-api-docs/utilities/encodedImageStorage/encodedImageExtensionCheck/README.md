@@ -6,8 +6,6 @@
 
 # utilities/encodedImageStorage/encodedImageExtensionCheck
 
-## Index
-
-### Functions
+## Functions
 
 - [encodedImageExtentionCheck](functions/encodedImageExtentionCheck.md)

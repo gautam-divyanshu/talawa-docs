@@ -8,6 +8,8 @@
 
 \> **ResolversInterfaceTypes**\<`_RefType`\>: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3496](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3496)
+
 Mapping of interface types
 
 ## Type Parameters
@@ -27,7 +29,3 @@ Mapping of interface types
 ### FieldError
 
 \> **FieldError**: [`InvalidCursor`](InvalidCursor.md) \| [`MaximumLengthError`](MaximumLengthError.md) \| [`MaximumValueError`](MaximumValueError.md) \| [`MinimumLengthError`](MinimumLengthError.md) \| [`MinimumValueError`](MinimumValueError.md)
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3491](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3491)

@@ -6,8 +6,6 @@
 
 # resolvers/Chat
 
-## Index
-
-### Variables
+## Variables
 
 - [Chat](variables/Chat.md)

@@ -6,13 +6,11 @@
 
 # utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedByAndWhere
 
-## Index
-
-### Type Aliases
+## Type Aliases
 
 - [ParsedGraphQLConnectionArgumentsWithSortedByAndWhere](type-aliases/ParsedGraphQLConnectionArgumentsWithSortedByAndWhere.md)
 - [ParseGraphQLConnectionArgumentsWithSortedByAndWhereResult](type-aliases/ParseGraphQLConnectionArgumentsWithSortedByAndWhereResult.md)
 
-### Functions
+## Functions
 
 - [parseGraphQLConnectionArgumentsWithSortedByAndWhere](functions/parseGraphQLConnectionArgumentsWithSortedByAndWhere.md)

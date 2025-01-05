@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/leaveOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [leaveOrganization](variables/leaveOrganization.md)

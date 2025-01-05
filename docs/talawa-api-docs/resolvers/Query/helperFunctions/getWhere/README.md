@@ -6,8 +6,6 @@
 
 # resolvers/Query/helperFunctions/getWhere
 
-## Index
-
-### Functions
+## Functions
 
 - [getWhere](functions/getWhere.md)

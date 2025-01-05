@@ -8,6 +8,8 @@
 
 \> **ParseGraphQLConnectionCursorArguments**: `object`
 
+Defined in: [src/utilities/graphQLConnection/parseGraphQLConnectionArguments.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/parseGraphQLConnectionArguments.ts#L13)
+
 This is typescript type of the single object callback function `parseCursor` takes in as
 an argument.
 
@@ -24,7 +26,3 @@ an argument.
 ### cursorValue
 
 \> **cursorValue**: `string`
-
-## Defined in
-
-[src/utilities/graphQLConnection/parseGraphQLConnectionArguments.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/graphQLConnection/parseGraphQLConnectionArguments.ts#L13)

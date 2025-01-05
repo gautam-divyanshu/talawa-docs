@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/cancelMembershipRequest
 
-## Index
-
-### Variables
+## Variables
 
 - [cancelMembershipRequest](variables/cancelMembershipRequest.md)

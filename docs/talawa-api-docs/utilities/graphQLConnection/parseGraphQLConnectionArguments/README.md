@@ -6,9 +6,7 @@
 
 # utilities/graphQLConnection/parseGraphQLConnectionArguments
 
-## Index
-
-### Type Aliases
+## Type Aliases
 
 - [ParsedGraphQLConnectionArguments](type-aliases/ParsedGraphQLConnectionArguments.md)
 - [ParseGraphQLConnectionArgumentsResult](type-aliases/ParseGraphQLConnectionArgumentsResult.md)
@@ -16,6 +14,6 @@
 - [ParseGraphQLConnectionCursorArguments](type-aliases/ParseGraphQLConnectionCursorArguments.md)
 - [ParseGraphQLConnectionCursorResult](type-aliases/ParseGraphQLConnectionCursorResult.md)
 
-### Functions
+## Functions
 
 - [parseGraphQLConnectionArguments](functions/parseGraphQLConnectionArguments.md)

@@ -6,8 +6,6 @@
 
 # resolvers/ChatMessage/sender
 
-## Index
-
-### Variables
+## Variables
 
 - [sender](variables/sender.md)

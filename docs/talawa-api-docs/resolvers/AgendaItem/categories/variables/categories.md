@@ -8,6 +8,8 @@
 
 \> `const` **categories**: [`AgendaItemResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/AgendaItemResolvers.md)\[`"categories"`\]
 
+Defined in: [src/resolvers/AgendaItem/categories.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/AgendaItem/categories.ts#L17)
+
 Resolver function for the `categories` field of an `AgendaItem`.
 
 This function retrieves the categories associated with a specific agenda item.
@@ -24,7 +26,3 @@ A promise that resolves to an array of category documents found in the database.
 
  - AgendaCategoryModel - The model used to interact with the categories collection in the database.
  - AgendaItemResolvers - The type definition for the resolvers of the AgendaItem fields.
-
-## Defined in
-
-[src/resolvers/AgendaItem/categories.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/AgendaItem/categories.ts#L17)

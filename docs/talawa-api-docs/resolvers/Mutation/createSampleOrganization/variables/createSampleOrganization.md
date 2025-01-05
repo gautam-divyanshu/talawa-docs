@@ -8,6 +8,8 @@
 
 \> `const` **createSampleOrganization**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createSampleOrganization"`\]
 
+Defined in: [src/resolvers/Mutation/createSampleOrganization.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createSampleOrganization.ts#L33)
+
 Generates sample data for testing or development purposes.
 
 This resolver performs the following steps:
@@ -36,7 +38,3 @@ True if the sample data generation is successful; false otherwise.
 ## Remarks
 
 This function is intended for creating sample data and should only be accessible by super admins.
-
-## Defined in
-
-[src/resolvers/Mutation/createSampleOrganization.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createSampleOrganization.ts#L33)

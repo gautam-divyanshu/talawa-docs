@@ -6,8 +6,6 @@
 
 # resolvers/Event/feedback
 
-## Index
-
-### Variables
+## Variables
 
 - [feedback](variables/feedback.md)

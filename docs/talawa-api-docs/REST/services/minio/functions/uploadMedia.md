@@ -8,6 +8,8 @@
 
 \> **uploadMedia**(`bucketName`, `buffer`, `originalname`, `contentType`): `Promise`\<[`InterfaceUploadResult`](../interfaces/InterfaceUploadResult.md)\>
 
+Defined in: [src/REST/services/minio/index.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/services/minio/index.ts#L43)
+
 Uploads a media file to a specified S3 bucket, calculating its hash for naming and uniqueness.
 
 The `uploadMedia` function calculates the SHA-256 hash of the provided buffer to generate a unique object key.
@@ -55,7 +57,3 @@ A promise that resolves to an object containing the file's existence status, obj
 const result = await uploadMedia("my-bucket", fileBuffer, "image.png", \{ ContentType: "image/png" \});
 console.log(result);
 ```
-
-## Defined in
-
-[src/REST/services/minio/index.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/REST/services/minio/index.ts#L43)

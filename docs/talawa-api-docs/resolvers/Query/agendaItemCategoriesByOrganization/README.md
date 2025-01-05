@@ -6,8 +6,6 @@
 
 # resolvers/Query/agendaItemCategoriesByOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [agendaItemCategoriesByOrganization](variables/agendaItemCategoriesByOrganization.md)

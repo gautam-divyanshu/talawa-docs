@@ -6,8 +6,6 @@
 
 # resolvers/Query/helperFunctions/getSort
 
-## Index
-
-### Functions
+## Functions
 
 - [getSort](functions/getSort.md)

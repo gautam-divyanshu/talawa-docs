@@ -6,12 +6,10 @@
 
 # models/OrganizationTagUser
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceOrganizationTagUser](interfaces/InterfaceOrganizationTagUser.md)
 
-### Variables
+## Variables
 
 - [OrganizationTagUser](variables/OrganizationTagUser.md)

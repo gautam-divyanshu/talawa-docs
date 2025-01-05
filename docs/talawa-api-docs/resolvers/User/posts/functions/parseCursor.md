@@ -8,6 +8,8 @@
 
 \> **parseCursor**(`args`): [`ParseGraphQLConnectionCursorResult`](../../../../utilities/graphQLConnection/parseGraphQLConnectionArguments/type-aliases/ParseGraphQLConnectionCursorResult.md)\<`string`\>
 
+Defined in: [src/resolvers/User/posts.ts:102](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/User/posts.ts#L102)
+
 This function is used to validate and transform the cursor passed to the `posts` connection resolver.
 
 ## Parameters
@@ -27,7 +29,3 @@ A Promise that resolves to an object that includes a boolean indicating whether 
 ## Throws
 
 Error Throws an error if the provided cursor is invalid.
-
-## Defined in
-
-[src/resolvers/User/posts.ts:102](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/User/posts.ts#L102)

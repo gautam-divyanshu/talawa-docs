@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createAgendaSection
 
-## Index
-
-### Variables
+## Variables
 
 - [createAgendaSection](variables/createAgendaSection.md)

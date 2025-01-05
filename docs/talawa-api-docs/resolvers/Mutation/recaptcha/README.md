@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/recaptcha
 
-## Index
-
-### Variables
+## Variables
 
 - [recaptcha](variables/recaptcha.md)

@@ -6,15 +6,15 @@
 
 # Interface: InterfaceFile
 
+Defined in: [src/models/File.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L9)
+
 ## Properties
 
 ### \_id
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/File.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L10)
+Defined in: [src/models/File.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L10)
 
 ***
 
@@ -22,9 +22,7 @@
 
 \> **archived**: `boolean`
 
-#### Defined in
-
-[src/models/File.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L22)
+Defined in: [src/models/File.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L22)
 
 ***
 
@@ -32,9 +30,7 @@
 
 \> `optional` **archivedAt**: `Date`
 
-#### Defined in
-
-[src/models/File.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L28)
+Defined in: [src/models/File.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L28)
 
 ***
 
@@ -42,9 +38,7 @@
 
 \> **backupStatus**: `string`
 
-#### Defined in
-
-[src/models/File.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L24)
+Defined in: [src/models/File.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L24)
 
 ***
 
@@ -52,9 +46,7 @@
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/File.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L26)
+Defined in: [src/models/File.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L26)
 
 ***
 
@@ -62,9 +54,7 @@
 
 \> **encryption**: `boolean`
 
-#### Defined in
-
-[src/models/File.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L21)
+Defined in: [src/models/File.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L21)
 
 ***
 
@@ -72,15 +62,15 @@
 
 \> **fileName**: `string`
 
-#### Defined in
-
-[src/models/File.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L11)
+Defined in: [src/models/File.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L11)
 
 ***
 
 ### hash
 
 \> **hash**: `object`
+
+Defined in: [src/models/File.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L14)
 
 #### algorithm
 
@@ -90,19 +80,13 @@
 
 \> **value**: `string`
 
-#### Defined in
-
-[src/models/File.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L14)
-
 ***
 
 ### metadata
 
 \> **metadata**: `Record`\<`string`, `any`\>
 
-#### Defined in
-
-[src/models/File.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L20)
+Defined in: [src/models/File.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L20)
 
 ***
 
@@ -110,9 +94,7 @@
 
 \> **mimeType**: `string`
 
-#### Defined in
-
-[src/models/File.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L12)
+Defined in: [src/models/File.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L12)
 
 ***
 
@@ -120,9 +102,7 @@
 
 \> **referenceCount**: `number`
 
-#### Defined in
-
-[src/models/File.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L19)
+Defined in: [src/models/File.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L19)
 
 ***
 
@@ -130,9 +110,7 @@
 
 \> **size**: `number`
 
-#### Defined in
-
-[src/models/File.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L13)
+Defined in: [src/models/File.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L13)
 
 ***
 
@@ -140,9 +118,7 @@
 
 \> **status**: `"ACTIVE"` \| `"BLOCKED"` \| `"DELETED"`
 
-#### Defined in
-
-[src/models/File.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L25)
+Defined in: [src/models/File.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L25)
 
 ***
 
@@ -150,9 +126,7 @@
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/File.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L27)
+Defined in: [src/models/File.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L27)
 
 ***
 
@@ -160,9 +134,7 @@
 
 \> **uri**: `string`
 
-#### Defined in
-
-[src/models/File.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L18)
+Defined in: [src/models/File.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L18)
 
 ***
 
@@ -170,6 +142,4 @@
 
 \> **visibility**: `"PRIVATE"` \| `"PUBLIC"`
 
-#### Defined in
-
-[src/models/File.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/File.ts#L23)
+Defined in: [src/models/File.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L23)

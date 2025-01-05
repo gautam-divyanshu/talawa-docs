@@ -6,8 +6,6 @@
 
 # resolvers/Query/getDonationById
 
-## Index
-
-### Variables
+## Variables
 
 - [getDonationById](variables/getDonationById.md)

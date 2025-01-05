@@ -6,6 +6,8 @@
 
 # Interface: InterfaceActionItem
 
+Defined in: [src/models/ActionItem.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L16)
+
 Interface representing a database document for ActionItem in MongoDB.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/ActionItem.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L17)
+Defined in: [src/models/ActionItem.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L17)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **actionItemCategory**: `any`
 
-#### Defined in
-
-[src/models/ActionItem.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L23)
+Defined in: [src/models/ActionItem.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L23)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **allottedHours**: `null` \| `number`
 
-#### Defined in
-
-[src/models/ActionItem.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L32)
+Defined in: [src/models/ActionItem.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L32)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **assignee**: `any`
 
-#### Defined in
-
-[src/models/ActionItem.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L18)
+Defined in: [src/models/ActionItem.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L18)
 
 ***
 
@@ -54,9 +48,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **assigneeGroup**: `any`
 
-#### Defined in
-
-[src/models/ActionItem.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L19)
+Defined in: [src/models/ActionItem.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L19)
 
 ***
 
@@ -64,9 +56,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **assigneeType**: `"User"` \| `"EventVolunteerGroup"` \| `"EventVolunteer"`
 
-#### Defined in
-
-[src/models/ActionItem.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L21)
+Defined in: [src/models/ActionItem.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L21)
 
 ***
 
@@ -74,9 +64,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **assigneeUser**: `any`
 
-#### Defined in
-
-[src/models/ActionItem.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L20)
+Defined in: [src/models/ActionItem.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L20)
 
 ***
 
@@ -84,9 +72,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **assigner**: `any`
 
-#### Defined in
-
-[src/models/ActionItem.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L22)
+Defined in: [src/models/ActionItem.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L22)
 
 ***
 
@@ -94,9 +80,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **assignmentDate**: `Date`
 
-#### Defined in
-
-[src/models/ActionItem.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L28)
+Defined in: [src/models/ActionItem.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L28)
 
 ***
 
@@ -104,9 +88,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **completionDate**: `Date`
 
-#### Defined in
-
-[src/models/ActionItem.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L30)
+Defined in: [src/models/ActionItem.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L30)
 
 ***
 
@@ -114,9 +96,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/ActionItem.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L36)
+Defined in: [src/models/ActionItem.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L36)
 
 ***
 
@@ -124,9 +104,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **creator**: `any`
 
-#### Defined in
-
-[src/models/ActionItem.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L35)
+Defined in: [src/models/ActionItem.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L35)
 
 ***
 
@@ -134,9 +112,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **dueDate**: `Date`
 
-#### Defined in
-
-[src/models/ActionItem.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L29)
+Defined in: [src/models/ActionItem.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L29)
 
 ***
 
@@ -144,9 +120,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **event**: `any`
 
-#### Defined in
-
-[src/models/ActionItem.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L34)
+Defined in: [src/models/ActionItem.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L34)
 
 ***
 
@@ -154,9 +128,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **isCompleted**: `boolean`
 
-#### Defined in
-
-[src/models/ActionItem.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L31)
+Defined in: [src/models/ActionItem.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L31)
 
 ***
 
@@ -164,9 +136,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **organization**: `any`
 
-#### Defined in
-
-[src/models/ActionItem.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L33)
+Defined in: [src/models/ActionItem.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L33)
 
 ***
 
@@ -174,9 +144,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **postCompletionNotes**: `string`
 
-#### Defined in
-
-[src/models/ActionItem.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L27)
+Defined in: [src/models/ActionItem.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L27)
 
 ***
 
@@ -184,9 +152,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **preCompletionNotes**: `string`
 
-#### Defined in
-
-[src/models/ActionItem.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L26)
+Defined in: [src/models/ActionItem.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L26)
 
 ***
 
@@ -194,6 +160,4 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/ActionItem.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ActionItem.ts#L37)
+Defined in: [src/models/ActionItem.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ActionItem.ts#L37)

@@ -6,8 +6,6 @@
 
 # resolvers/Query/organizationIsSample
 
-## Index
-
-### Variables
+## Variables
 
 - [isSampleOrganization](variables/isSampleOrganization.md)

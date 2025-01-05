@@ -8,6 +8,8 @@
 
 \> **parseGraphQLConnectionArguments**\<`T0`\>(`__namedParameters`): `Promise`\<[`ParseGraphQLConnectionArgumentsResult`](../type-aliases/ParseGraphQLConnectionArgumentsResult.md)\<`T0`\>\>
 
+Defined in: [src/utilities/graphQLConnection/parseGraphQLConnectionArguments.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/parseGraphQLConnectionArguments.ts#L88)
+
 This function handles validating and transforming arguments of a base graphQL connection.
 
 ## Type Parameters
@@ -55,7 +57,3 @@ if (result.isSuccessful === false) \{
 \}
 const \{ parsedArgs: \{ cursor, direction, limit \} \} = result;
 ```
-
-## Defined in
-
-[src/utilities/graphQLConnection/parseGraphQLConnectionArguments.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/graphQLConnection/parseGraphQLConnectionArguments.ts#L88)

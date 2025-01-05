@@ -8,6 +8,8 @@
 
 \> `const` **upload**: `Multer`
 
+Defined in: [src/config/multer/index.ts:63](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/config/multer/index.ts#L63)
+
 Multer upload configuration.
 
 This configuration sets up multer to use memory storage, applies the file filter,
@@ -25,7 +27,3 @@ app.post("/upload", uploadMiddleware, (req, res) =\> \{
   res.send("File uploaded successfully!");
 \});
 ```
-
-## Defined in
-
-[src/config/multer/index.ts:63](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/config/multer/index.ts#L63)

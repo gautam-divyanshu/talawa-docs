@@ -6,12 +6,10 @@
 
 # libraries/errors/applicationError
 
-## Index
-
-### Classes
+## Classes
 
 - [ApplicationError](classes/ApplicationError.md)
 
-### Interfaces
+## Interfaces
 
 - [InterfaceError](interfaces/InterfaceError.md)

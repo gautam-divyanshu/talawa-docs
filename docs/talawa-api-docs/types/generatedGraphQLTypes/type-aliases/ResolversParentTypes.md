@@ -8,6 +8,8 @@
 
 \> **ResolversParentTypes**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3741](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3741)
+
 Mapping between all available schema types and the resolvers parents
 
 ## Type declaration
@@ -71,6 +73,10 @@ Mapping between all available schema types and the resolvers parents
 ### AgendaItem
 
 \> **AgendaItem**: [`InterfaceAgendaItem`](../../../models/AgendaItem/interfaces/InterfaceAgendaItem.md)
+
+### AgendaItemCategoryWhereInput
+
+\> **AgendaItemCategoryWhereInput**: [`AgendaItemCategoryWhereInput`](AgendaItemCategoryWhereInput.md)
 
 ### AgendaSection
 
@@ -971,7 +977,3 @@ Mapping between all available schema types and the resolvers parents
 ### VolunteerRankWhereInput
 
 \> **VolunteerRankWhereInput**: [`VolunteerRankWhereInput`](VolunteerRankWhereInput.md)
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3735](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3735)

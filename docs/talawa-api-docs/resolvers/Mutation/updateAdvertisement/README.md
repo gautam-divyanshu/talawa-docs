@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateAdvertisement
 
-## Index
-
-### Variables
+## Variables
 
 - [updateAdvertisement](variables/updateAdvertisement.md)

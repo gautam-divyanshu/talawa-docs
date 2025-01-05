@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeSampleOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [removeSampleOrganization](variables/removeSampleOrganization.md)

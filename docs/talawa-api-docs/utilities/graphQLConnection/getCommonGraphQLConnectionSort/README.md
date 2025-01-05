@@ -6,8 +6,6 @@
 
 # utilities/graphQLConnection/getCommonGraphQLConnectionSort
 
-## Index
-
-### Functions
+## Functions
 
 - [getCommonGraphQLConnectionSort](functions/getCommonGraphQLConnectionSort.md)

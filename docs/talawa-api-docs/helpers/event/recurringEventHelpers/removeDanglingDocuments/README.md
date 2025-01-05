@@ -6,8 +6,6 @@
 
 # helpers/event/recurringEventHelpers/removeDanglingDocuments
 
-## Index
-
-### Functions
+## Functions
 
 - [removeDanglingDocuments](functions/removeDanglingDocuments.md)

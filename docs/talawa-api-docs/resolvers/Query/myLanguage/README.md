@@ -6,8 +6,6 @@
 
 # resolvers/Query/myLanguage
 
-## Index
-
-### Variables
+## Variables
 
 - [myLanguage](variables/myLanguage.md)

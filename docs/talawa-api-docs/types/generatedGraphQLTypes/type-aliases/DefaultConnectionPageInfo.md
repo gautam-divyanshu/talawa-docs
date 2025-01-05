@@ -8,6 +8,8 @@
 
 \> **DefaultConnectionPageInfo**: [`ConnectionPageInfo`](ConnectionPageInfo.md) & `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:656](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L656)
+
 Default connection page info for containing the metadata for a connection
 instance.
 
@@ -32,7 +34,3 @@ instance.
 ### startCursor?
 
 \> `optional` **startCursor**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"String"`\]\[`"output"`\]\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:652](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L652)

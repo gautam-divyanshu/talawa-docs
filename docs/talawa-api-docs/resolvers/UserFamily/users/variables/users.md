@@ -8,6 +8,8 @@
 
 \> `const` **users**: [`UserFamilyResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/UserFamilyResolvers.md)\[`"users"`\]
 
+Defined in: [src/resolvers/UserFamily/users.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/UserFamily/users.ts#L16)
+
 Resolver function for the `users` field of a `UserFamily`.
 
 This function retrieves the users who are part of a specific user family.
@@ -24,7 +26,3 @@ A promise that resolves to an array of user documents found in the database. The
 
  - User - The User model used to interact with the users collection in the database.
  - UserFamilyResolvers - The type definition for the resolvers of the UserFamily fields.
-
-## Defined in
-
-[src/resolvers/UserFamily/users.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/UserFamily/users.ts#L16)

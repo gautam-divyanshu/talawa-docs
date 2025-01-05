@@ -6,8 +6,6 @@
 
 # utilities/dateValidator
 
-## Index
-
-### Functions
+## Functions
 
 - [validateDate](functions/validateDate.md)

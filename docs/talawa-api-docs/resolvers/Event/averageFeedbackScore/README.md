@@ -6,8 +6,6 @@
 
 # resolvers/Event/averageFeedbackScore
 
-## Index
-
-### Variables
+## Variables
 
 - [averageFeedbackScore](variables/averageFeedbackScore.md)

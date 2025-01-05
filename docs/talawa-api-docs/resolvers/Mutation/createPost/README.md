@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createPost
 
-## Index
-
-### Variables
+## Variables
 
 - [createPost](variables/createPost.md)

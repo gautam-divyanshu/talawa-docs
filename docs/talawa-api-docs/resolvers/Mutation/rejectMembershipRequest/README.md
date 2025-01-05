@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/rejectMembershipRequest
 
-## Index
-
-### Variables
+## Variables
 
 - [rejectMembershipRequest](variables/rejectMembershipRequest.md)

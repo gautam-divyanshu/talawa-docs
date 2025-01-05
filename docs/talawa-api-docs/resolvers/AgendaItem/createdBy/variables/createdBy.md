@@ -8,6 +8,8 @@
 
 \> `const` **createdBy**: [`AgendaItemResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/AgendaItemResolvers.md)\[`"createdBy"`\]
 
+Defined in: [src/resolvers/AgendaItem/createdBy.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/AgendaItem/createdBy.ts#L16)
+
 Resolver function for the `createdBy` field of an `AgendaItem`.
 
 This function retrieves the user who created a specific agenda item.
@@ -21,7 +23,3 @@ The parent `AgendaItem` object. This contains the `createdBy` field, which is us
 ## Returns
 
 A promise that resolves to the user object found in the database, or `null` if no user is found.
-
-## Defined in
-
-[src/resolvers/AgendaItem/createdBy.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/AgendaItem/createdBy.ts#L16)

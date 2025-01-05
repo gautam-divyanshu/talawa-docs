@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/sendMembershipRequest
 
-## Index
-
-### Variables
+## Variables
 
 - [sendMembershipRequest](variables/sendMembershipRequest.md)

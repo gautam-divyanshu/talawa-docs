@@ -6,8 +6,6 @@
 
 # services/EventCache/deleteEventFromCache
 
-## Index
-
-### Functions
+## Functions
 
 - [deleteEventFromCache](functions/deleteEventFromCache.md)

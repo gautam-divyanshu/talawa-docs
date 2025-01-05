@@ -6,13 +6,11 @@
 
 # utilities/auth
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceJwtTokenPayload](interfaces/InterfaceJwtTokenPayload.md)
 
-### Functions
+## Functions
 
 - [createAccessToken](functions/createAccessToken.md)
 - [createRefreshToken](functions/createRefreshToken.md)

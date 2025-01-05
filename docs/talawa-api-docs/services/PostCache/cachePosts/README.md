@@ -6,8 +6,6 @@
 
 # services/PostCache/cachePosts
 
-## Index
-
-### Functions
+## Functions
 
 - [cachePosts](functions/cachePosts.md)

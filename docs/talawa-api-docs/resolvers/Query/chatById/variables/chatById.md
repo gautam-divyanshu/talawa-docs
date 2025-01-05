@@ -8,6 +8,8 @@
 
 \> `const` **chatById**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"chatById"`\]
 
+Defined in: [src/resolvers/Query/chatById.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/chatById.ts#L14)
+
 This query will fetch Chats by a specified id from the database.
 
 ## Param
@@ -25,7 +27,3 @@ If the `Chat` object is null then it throws `NotFoundError` error.
 
 You can learn about GraphQL `Resolvers`
 [here](https://www.apollographql.com/docs/apollo-server/data/resolvers/).
-
-## Defined in
-
-[src/resolvers/Query/chatById.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/chatById.ts#L14)

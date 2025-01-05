@@ -6,8 +6,6 @@
 
 # resolvers/Query/getRecurringEvents
 
-## Index
-
-### Variables
+## Variables
 
 - [getRecurringEvents](variables/getRecurringEvents.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createSampleOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [createSampleOrganization](variables/createSampleOrganization.md)

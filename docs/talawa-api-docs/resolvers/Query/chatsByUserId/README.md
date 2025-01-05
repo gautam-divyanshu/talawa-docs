@@ -6,8 +6,6 @@
 
 # resolvers/Query/chatsByUserId
 
-## Index
-
-### Variables
+## Variables
 
 - [chatsByUserId](variables/chatsByUserId.md)

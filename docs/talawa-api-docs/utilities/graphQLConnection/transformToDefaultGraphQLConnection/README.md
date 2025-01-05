@@ -6,14 +6,12 @@
 
 # utilities/graphQLConnection/transformToDefaultGraphQLConnection
 
-## Index
-
-### Type Aliases
+## Type Aliases
 
 - [CreateCursor](type-aliases/CreateCursor.md)
 - [CreateNode](type-aliases/CreateNode.md)
 - [TransformToDefaultGraphQLConnectionArguments](type-aliases/TransformToDefaultGraphQLConnectionArguments.md)
 
-### Functions
+## Functions
 
 - [transformToDefaultGraphQLConnection](functions/transformToDefaultGraphQLConnection.md)

@@ -6,8 +6,6 @@
 
 # helpers/event/createEventHelpers/createSingleEvent
 
-## Index
-
-### Functions
+## Functions
 
 - [createSingleEvent](functions/createSingleEvent.md)

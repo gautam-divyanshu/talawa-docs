@@ -6,12 +6,10 @@
 
 # models/Donation
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceDonation](interfaces/InterfaceDonation.md)
 
-### Variables
+## Variables
 
 - [Donation](variables/Donation.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createAgendaCategory
 
-## Index
-
-### Variables
+## Variables
 
 - [createAgendaCategory](variables/createAgendaCategory.md)

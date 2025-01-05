@@ -6,8 +6,6 @@
 
 # resolvers/Organization/admins
 
-## Index
-
-### Variables
+## Variables
 
 - [admins](variables/admins.md)

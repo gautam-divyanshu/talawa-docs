@@ -8,6 +8,8 @@
 
 \> `const` **eventsByOrganizationConnection**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"eventsByOrganizationConnection"`\]
 
+Defined in: [src/resolvers/Query/eventsByOrganizationConnection.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/eventsByOrganizationConnection.ts#L22)
+
 Retrieves events for a specific organization based on the provided query parameters.
 
 This function performs the following steps:
@@ -26,7 +28,3 @@ The arguments provided by the GraphQL query, including filters (`where`), sortin
 ## Returns
 
 A list of events matching the query parameters, with related data populated.
-
-## Defined in
-
-[src/resolvers/Query/eventsByOrganizationConnection.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/eventsByOrganizationConnection.ts#L22)

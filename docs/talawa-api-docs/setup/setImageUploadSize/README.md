@@ -6,9 +6,7 @@
 
 # setup/setImageUploadSize
 
-## Index
-
-### Functions
+## Functions
 
 - [setImageUploadSize](functions/setImageUploadSize.md)
 - [validateImageFileSize](functions/validateImageFileSize.md)

@@ -6,13 +6,11 @@
 
 # libraries/requestContext
 
-## Index
-
-### Variables
+## Variables
 
 - [requestContextNamespace](variables/requestContextNamespace.md)
 
-### Functions
+## Functions
 
 - [getRequestContextValue](functions/getRequestContextValue.md)
 - [init](functions/init.md)

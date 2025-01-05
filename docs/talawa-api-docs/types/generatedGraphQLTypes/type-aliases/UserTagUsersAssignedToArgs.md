@@ -8,6 +8,8 @@
 
 \> **UserTagUsersAssignedToArgs**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3211](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3211)
+
 ## Type declaration
 
 ### after?
@@ -33,7 +35,3 @@
 ### where?
 
 \> `optional` **where**: [`InputMaybe`](InputMaybe.md)\<[`UserTagUsersAssignedToWhereInput`](UserTagUsersAssignedToWhereInput.md)\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3206](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3206)

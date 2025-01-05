@@ -6,12 +6,10 @@
 
 # resolvers/UserTag/usersAssignedTo
 
-## Index
-
-### Variables
+## Variables
 
 - [usersAssignedTo](variables/usersAssignedTo.md)
 
-### Functions
+## Functions
 
 - [parseCursor](functions/parseCursor.md)

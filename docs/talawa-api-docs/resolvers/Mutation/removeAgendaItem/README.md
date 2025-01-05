@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeAgendaItem
 
-## Index
-
-### Variables
+## Variables
 
 - [removeAgendaItem](variables/removeAgendaItem.md)

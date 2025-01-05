@@ -8,6 +8,8 @@
 
 \> **updateIgnoreFile**(`filePath`, `directoryToIgnore`): `void`
 
+Defined in: [src/setup/updateIgnoreFile.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/updateIgnoreFile.ts#L20)
+
 Updates the specified ignore file by adding an ignore pattern for a given directory.
 
 This function ensures that the directory to be ignored is relative to the project root.
@@ -38,7 +40,3 @@ void
 
 If the directory is outside the project root, the function will return early without making changes.
 No logging is performed for cases where the ignore pattern already exists in the file, as this is expected behavior.
-
-## Defined in
-
-[src/setup/updateIgnoreFile.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/updateIgnoreFile.ts#L20)

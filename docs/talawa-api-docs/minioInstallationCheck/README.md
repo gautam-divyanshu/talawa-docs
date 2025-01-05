@@ -6,8 +6,6 @@
 
 # minioInstallationCheck
 
-## Index
-
-### Functions
+## Functions
 
 - [checkMinio](functions/checkMinio.md)

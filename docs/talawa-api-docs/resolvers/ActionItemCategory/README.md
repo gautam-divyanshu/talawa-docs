@@ -6,8 +6,6 @@
 
 # resolvers/ActionItemCategory
 
-## Index
-
-### Variables
+## Variables
 
 - [ActionItemCategory](variables/ActionItemCategory.md)

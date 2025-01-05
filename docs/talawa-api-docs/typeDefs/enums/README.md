@@ -6,8 +6,6 @@
 
 # typeDefs/enums
 
-## Index
-
-### Variables
+## Variables
 
 - [enums](variables/enums.md)

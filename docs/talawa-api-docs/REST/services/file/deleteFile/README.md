@@ -6,8 +6,6 @@
 
 # REST/services/file/deleteFile
 
-## Index
-
-### Functions
+## Functions
 
 - [deleteFile](functions/deleteFile.md)

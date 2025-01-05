@@ -8,6 +8,8 @@
 
 \> `const` **organizationsMemberConnection**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"organizationsMemberConnection"`\]
 
+Defined in: [src/resolvers/Query/organizationsMemberConnection.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/organizationsMemberConnection.ts#L19)
+
 This query will retrieve from the database a list of members
 in the organisation under the specified limit for the specified page in the pagination.
 
@@ -27,7 +29,3 @@ An object containing the list of members and pagination information.
 
 Connection in graphQL means pagination,
 learn more about Connection [here](https://relay.dev/graphql/connections.htm).
-
-## Defined in
-
-[src/resolvers/Query/organizationsMemberConnection.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/organizationsMemberConnection.ts#L19)

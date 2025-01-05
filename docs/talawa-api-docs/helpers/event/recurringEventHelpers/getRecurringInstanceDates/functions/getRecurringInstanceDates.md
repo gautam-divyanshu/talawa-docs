@@ -8,6 +8,8 @@
 
 \> **getRecurringInstanceDates**(`recurrenceRuleString`, `recurrenceStartDate`, `recurrenceEndDate`, `queryUptoDate`): `Date`[]
 
+Defined in: [src/helpers/event/recurringEventHelpers/getRecurringInstanceDates.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/getRecurringInstanceDates.ts#L25)
+
 Generates dates of recurrence for the recurring event based on provided recurrence rules.
 
 ## Parameters
@@ -47,7 +49,3 @@ Dates for recurring instances to be generated during this operation.
 This function performs the following steps:
 1. Determines the date limit for instance generation based on the recurrence frequency.
 2. Retrieves dates for recurring event instances within the specified limits.
-
-## Defined in
-
-[src/helpers/event/recurringEventHelpers/getRecurringInstanceDates.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/recurringEventHelpers/getRecurringInstanceDates.ts#L25)

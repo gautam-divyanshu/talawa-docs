@@ -6,12 +6,10 @@
 
 # models/Venue
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceVenue](interfaces/InterfaceVenue.md)
 
-### Variables
+## Variables
 
 - [Venue](variables/Venue.md)

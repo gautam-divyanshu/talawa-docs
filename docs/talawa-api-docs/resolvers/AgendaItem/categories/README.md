@@ -6,8 +6,6 @@
 
 # resolvers/AgendaItem/categories
 
-## Index
-
-### Variables
+## Variables
 
 - [categories](variables/categories.md)

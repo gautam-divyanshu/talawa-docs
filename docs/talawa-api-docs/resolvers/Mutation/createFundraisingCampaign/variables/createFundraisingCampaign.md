@@ -8,6 +8,8 @@
 
 \> `const` **createFundraisingCampaign**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createFundraisingCampaign"`\]
 
+Defined in: [src/resolvers/Mutation/createFundraisingCampaign.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createFundraisingCampaign.ts#L45)
+
 Creates a new fundraising campaign and associates it with a specified fund.
 
 This resolver performs the following actions:
@@ -45,7 +47,3 @@ A promise that resolves to the created fundraising campaign object.
 ## Remarks
 
 This function checks the cache for user and profile data, validates inputs, and ensures the user has the necessary permissions before creating the campaign.
-
-## Defined in
-
-[src/resolvers/Mutation/createFundraisingCampaign.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createFundraisingCampaign.ts#L45)

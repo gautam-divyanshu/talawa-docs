@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeComment
 
-## Index
-
-### Variables
+## Variables
 
 - [removeComment](variables/removeComment.md)

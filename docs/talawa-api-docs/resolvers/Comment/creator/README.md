@@ -6,8 +6,6 @@
 
 # resolvers/Comment/creator
 
-## Index
-
-### Variables
+## Variables
 
 - [creator](variables/creator.md)

@@ -6,8 +6,6 @@
 
 # helpers/event/updateEventHelpers/updateThisInstance
 
-## Index
-
-### Functions
+## Functions
 
 - [updateThisInstance](functions/updateThisInstance.md)

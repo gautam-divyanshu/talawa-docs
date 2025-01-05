@@ -6,8 +6,6 @@
 
 # utilities/PII/encryption
 
-## Index
-
-### Functions
+## Functions
 
 - [encrypt](functions/encrypt.md)

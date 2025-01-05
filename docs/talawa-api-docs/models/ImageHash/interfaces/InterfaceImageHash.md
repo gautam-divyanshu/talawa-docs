@@ -6,6 +6,8 @@
 
 # Interface: InterfaceImageHash
 
+Defined in: [src/models/ImageHash.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ImageHash.ts#L10)
+
 Interface representing a document for an image hash in the database (MongoDB).
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for an image hash in the database (MongoDB).
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/ImageHash.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ImageHash.ts#L11)
+Defined in: [src/models/ImageHash.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ImageHash.ts#L11)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for an image hash in the database (MongoDB).
 
 \> **fileName**: `string`
 
-#### Defined in
-
-[src/models/ImageHash.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ImageHash.ts#L13)
+Defined in: [src/models/ImageHash.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ImageHash.ts#L13)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a document for an image hash in the database (MongoDB).
 
 \> **hashValue**: `string`
 
-#### Defined in
-
-[src/models/ImageHash.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ImageHash.ts#L12)
+Defined in: [src/models/ImageHash.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ImageHash.ts#L12)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a document for an image hash in the database (MongoDB).
 
 \> **numberOfUses**: `number`
 
-#### Defined in
-
-[src/models/ImageHash.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ImageHash.ts#L14)
+Defined in: [src/models/ImageHash.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ImageHash.ts#L14)
 
 ***
 
@@ -54,6 +48,4 @@ Interface representing a document for an image hash in the database (MongoDB).
 
 \> **status**: `string`
 
-#### Defined in
-
-[src/models/ImageHash.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/ImageHash.ts#L15)
+Defined in: [src/models/ImageHash.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/ImageHash.ts#L15)

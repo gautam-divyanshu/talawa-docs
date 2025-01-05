@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeUserTag
 
-## Index
-
-### Variables
+## Variables
 
 - [removeUserTag](variables/removeUserTag.md)

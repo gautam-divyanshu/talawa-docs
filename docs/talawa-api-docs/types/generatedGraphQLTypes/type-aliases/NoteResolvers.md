@@ -8,6 +8,8 @@
 
 \> **NoteResolvers**\<`ContextType`, `ParentType`\>: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:4697](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L4697)
+
 ## Type Parameters
 
 • **ContextType** = `any`
@@ -47,7 +49,3 @@
 ### updatedBy?
 
 \> `optional` **updatedBy**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"User"`\], `ParentType`, `ContextType`\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:4690](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L4690)

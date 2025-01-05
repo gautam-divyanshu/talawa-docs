@@ -6,8 +6,6 @@
 
 # resolvers/Organization/agendaCategories
 
-## Index
-
-### Variables
+## Variables
 
 - [agendaCategories](variables/agendaCategories.md)

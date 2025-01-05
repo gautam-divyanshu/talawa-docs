@@ -6,8 +6,6 @@
 
 # resolvers/Query/getAllAgendaItems
 
-## Index
-
-### Variables
+## Variables
 
 - [getAllAgendaItems](variables/getAllAgendaItems.md)

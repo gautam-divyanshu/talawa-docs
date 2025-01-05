@@ -8,10 +8,8 @@
 
 \> `const` **OrganizationTagUser**: `Model`\<[`InterfaceOrganizationTagUser`](../interfaces/InterfaceOrganizationTagUser.md), `Document`\<`unknown`, \{\}, [`InterfaceOrganizationTagUser`](../interfaces/InterfaceOrganizationTagUser.md)\> & [`InterfaceOrganizationTagUser`](../interfaces/InterfaceOrganizationTagUser.md) & `Required`\<\{ `_id`: `ObjectId`; \}\>\>
 
+Defined in: [src/models/OrganizationTagUser.ts:87](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationTagUser.ts#L87)
+
 The Mongoose model for the Organization Tag User.
 If the model already exists (e.g., during testing), it uses the existing model.
 Otherwise, it creates a new model.
-
-## Defined in
-
-[src/models/OrganizationTagUser.ts:87](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/OrganizationTagUser.ts#L87)

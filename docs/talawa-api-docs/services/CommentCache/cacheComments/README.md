@@ -6,8 +6,6 @@
 
 # services/CommentCache/cacheComments
 
-## Index
-
-### Functions
+## Functions
 
 - [cacheComments](functions/cacheComments.md)

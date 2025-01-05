@@ -8,6 +8,8 @@
 
 \> `const` **addPeopleToUserTag**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addPeopleToUserTag"`\]
 
+Defined in: [src/resolvers/Mutation/addPeopleToUserTag.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/addPeopleToUserTag.ts#L36)
+
 This function enables an admin to assign a tag to multiple users.
 
 ## Param
@@ -34,7 +36,3 @@ The following checks are done:
 ## Returns
 
 Array of users to whom the tag was assigned.
-
-## Defined in
-
-[src/resolvers/Mutation/addPeopleToUserTag.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addPeopleToUserTag.ts#L36)

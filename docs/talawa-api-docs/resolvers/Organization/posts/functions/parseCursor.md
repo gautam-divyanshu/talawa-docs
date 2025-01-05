@@ -8,6 +8,8 @@
 
 \> **parseCursor**(`__namedParameters`): [`ParseGraphQLConnectionCursorResult`](../../../../utilities/graphQLConnection/parseGraphQLConnectionArguments/type-aliases/ParseGraphQLConnectionCursorResult.md)\<`string`\>
 
+Defined in: [src/resolvers/Organization/posts.ts:125](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Organization/posts.ts#L125)
+
 Parses the cursor value for the `posts` connection resolver.
 
 This function is used to parse the cursor value for the `posts` connection resolver.
@@ -29,7 +31,3 @@ An object containing the parsed cursor value or an array of errors if the cursor
  - Post - The Post model used to interact with the posts collection in the database.
  - ParseGraphQLConnectionCursorArguments - The type definition for the arguments of the parseCursor function.
  - ParseGraphQLConnectionCursorResult - The type definition for the result of the parseCursor function.
-
-## Defined in
-
-[src/resolvers/Organization/posts.ts:125](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Organization/posts.ts#L125)

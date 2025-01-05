@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateAgendaItem
 
-## Index
-
-### Variables
+## Variables
 
 - [updateAgendaItem](variables/updateAgendaItem.md)

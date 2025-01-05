@@ -6,6 +6,8 @@
 
 # Interface: InterfaceRecurrenceRule
 
+Defined in: [src/models/RecurrenceRule.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L35)
+
 Interface representing a document for a recurrence rule in the database (MongoDB).
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L36)
+Defined in: [src/models/RecurrenceRule.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L36)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **baseRecurringEventId**: `any`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L38)
+Defined in: [src/models/RecurrenceRule.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L38)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **count**: `number`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L45)
+Defined in: [src/models/RecurrenceRule.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L45)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **frequency**: [`Frequency`](../enumerations/Frequency.md)
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L42)
+Defined in: [src/models/RecurrenceRule.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L42)
 
 ***
 
@@ -54,9 +48,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **interval**: `number`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L44)
+Defined in: [src/models/RecurrenceRule.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L44)
 
 ***
 
@@ -64,9 +56,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **latestInstanceDate**: `Date`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L47)
+Defined in: [src/models/RecurrenceRule.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L47)
 
 ***
 
@@ -74,9 +64,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **organizationId**: `any`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L37)
+Defined in: [src/models/RecurrenceRule.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L37)
 
 ***
 
@@ -84,9 +72,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **recurrenceEndDate**: `Date`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L41)
+Defined in: [src/models/RecurrenceRule.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L41)
 
 ***
 
@@ -94,9 +80,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **recurrenceRuleString**: `string`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L39)
+Defined in: [src/models/RecurrenceRule.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L39)
 
 ***
 
@@ -104,9 +88,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **recurrenceStartDate**: `Date`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L40)
+Defined in: [src/models/RecurrenceRule.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L40)
 
 ***
 
@@ -114,9 +96,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **weekDayOccurenceInMonth**: `number`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L46)
+Defined in: [src/models/RecurrenceRule.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L46)
 
 ***
 
@@ -124,6 +104,4 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **weekDays**: [`WeekDays`](../enumerations/WeekDays.md)[]
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L43)
+Defined in: [src/models/RecurrenceRule.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L43)

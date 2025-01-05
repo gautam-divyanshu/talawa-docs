@@ -6,8 +6,6 @@
 
 # services/CommentCache/findCommentsByPostIdInCache
 
-## Index
-
-### Functions
+## Functions
 
 - [findCommentsByPostIdInCache](functions/findCommentsByPostIdInCache.md)

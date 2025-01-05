@@ -6,6 +6,8 @@
 
 # Interface: SubscriptionResolverObject\<TResult, TParent, TContext, TArgs\>
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3456](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3456)
+
 ## Type Parameters
 
 • **TResult**
@@ -22,9 +24,7 @@
 
 \> **resolve**: [`SubscriptionResolveFn`](../type-aliases/SubscriptionResolveFn.md)\<`TResult`, `any`, `TContext`, `TArgs`\>
 
-#### Defined in
-
-[src/types/generatedGraphQLTypes.ts:3453](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3453)
+Defined in: [src/types/generatedGraphQLTypes.ts:3458](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3458)
 
 ***
 
@@ -32,6 +32,4 @@
 
 \> **subscribe**: [`SubscriptionSubscribeFn`](../type-aliases/SubscriptionSubscribeFn.md)\<`any`, `TParent`, `TContext`, `TArgs`\>
 
-#### Defined in
-
-[src/types/generatedGraphQLTypes.ts:3452](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3452)
+Defined in: [src/types/generatedGraphQLTypes.ts:3457](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3457)

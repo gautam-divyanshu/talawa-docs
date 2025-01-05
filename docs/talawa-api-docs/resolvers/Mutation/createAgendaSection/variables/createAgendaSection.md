@@ -8,6 +8,8 @@
 
 \> `const` **createAgendaSection**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createAgendaSection"`\]
 
+Defined in: [src/resolvers/Mutation/createAgendaSection.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createAgendaSection.ts#L37)
+
 Creates a new agenda section and performs authorization checks.
 
 This resolver performs the following steps:
@@ -40,7 +42,3 @@ A promise that resolves to the created agenda section object.
 
 This function performs caching and retrieval operations to ensure the latest data is used.
 It also verifies that the user has the necessary permissions to create the agenda section in the context of the specified event.
-
-## Defined in
-
-[src/resolvers/Mutation/createAgendaSection.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createAgendaSection.ts#L37)

@@ -6,8 +6,6 @@
 
 # resolvers/UserTag
 
-## Index
-
-### Variables
+## Variables
 
 - [UserTag](variables/UserTag.md)

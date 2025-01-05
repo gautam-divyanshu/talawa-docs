@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removePost
 
-## Index
-
-### Variables
+## Variables
 
 - [removePost](variables/removePost.md)

@@ -8,6 +8,8 @@
 
 \> **UpdateEventVolunteerInput**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:2967](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L2967)
+
 ## Type declaration
 
 ### assignments?
@@ -21,7 +23,3 @@
 ### isPublic?
 
 \> `optional` **isPublic**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"input"`\]\>
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:2962](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L2962)

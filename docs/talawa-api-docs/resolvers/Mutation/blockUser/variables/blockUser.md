@@ -8,6 +8,8 @@
 
 \> `const` **blockUser**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"blockUser"`\]
 
+Defined in: [src/resolvers/Mutation/blockUser.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/blockUser.ts#L45)
+
 Mutation resolver function to block a user from an organization.
 
 This function performs the following actions:
@@ -46,7 +48,3 @@ A promise that resolves to the updated user document after blocking.
  - adminCheck - Utility function to check if the current user is an admin of the organization.
  - findOrganizationsInCache - Service function to retrieve organizations from cache.
  - cacheOrganizations - Service function to cache updated organization data.
-
-## Defined in
-
-[src/resolvers/Mutation/blockUser.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/blockUser.ts#L45)

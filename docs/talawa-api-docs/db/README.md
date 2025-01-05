@@ -6,13 +6,11 @@
 
 # db
 
-## Index
-
-### Variables
+## Variables
 
 - [session](variables/session.md)
 
-### Functions
+## Functions
 
 - [connect](functions/connect.md)
 - [disconnect](functions/disconnect.md)

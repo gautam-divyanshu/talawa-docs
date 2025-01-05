@@ -8,6 +8,8 @@
 
 \> `const` **togglePostPin**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"togglePostPin"`\]
 
+Defined in: [src/resolvers/Mutation/togglePostPin.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/togglePostPin.ts#L40)
+
 Toggles the pinning status of a post within an organization.
 
 This function allows an authorized user, such as an organization admin or super admin, to pin or unpin a post within an organization. If the post is already pinned, it will be unpinned, and if it is not pinned, it will be pinned. The function ensures that only authorized users can perform this action and that the title provided for pinning meets validation requirements.
@@ -27,7 +29,3 @@ Provides contextual information, including the current user's ID. This is used t
 ## Returns
 
 The updated post object after the pinning status has been toggled.
-
-## Defined in
-
-[src/resolvers/Mutation/togglePostPin.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/togglePostPin.ts#L40)

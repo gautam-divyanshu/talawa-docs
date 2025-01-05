@@ -8,6 +8,8 @@
 
 \> `const` **createDonation**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createDonation"`\]
 
+Defined in: [src/resolvers/Mutation/createDonation.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createDonation.ts#L23)
+
 Creates a new donation transaction.
 
 This function performs the following actions:
@@ -34,7 +36,3 @@ The context for the mutation, which is not used in this resolver.
 ## Returns
 
 The created donation record.
-
-## Defined in
-
-[src/resolvers/Mutation/createDonation.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createDonation.ts#L23)

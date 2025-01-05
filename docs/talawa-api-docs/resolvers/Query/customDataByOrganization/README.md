@@ -6,8 +6,6 @@
 
 # resolvers/Query/customDataByOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [customDataByOrganization](variables/customDataByOrganization.md)

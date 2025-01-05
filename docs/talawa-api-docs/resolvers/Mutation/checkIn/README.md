@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/checkIn
 
-## Index
-
-### Variables
+## Variables
 
 - [checkIn](variables/checkIn.md)

@@ -6,9 +6,7 @@
 
 # utilities/createSampleOrganizationUtil
 
-## Index
-
-### Functions
+## Functions
 
 - [createSampleOrganization](functions/createSampleOrganization.md)
 - [generateEventData](functions/generateEventData.md)

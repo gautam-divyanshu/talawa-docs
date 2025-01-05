@@ -6,8 +6,6 @@
 
 # typeDefs/errors/createAdminErrors
 
-## Index
-
-### Variables
+## Variables
 
 - [createAdminErrors](variables/createAdminErrors.md)

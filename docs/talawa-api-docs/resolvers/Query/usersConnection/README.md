@@ -6,8 +6,6 @@
 
 # resolvers/Query/usersConnection
 
-## Index
-
-### Variables
+## Variables
 
 - [usersConnection](variables/usersConnection.md)

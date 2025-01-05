@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createEvent
 
-## Index
-
-### Variables
+## Variables
 
 - [createEvent](variables/createEvent.md)

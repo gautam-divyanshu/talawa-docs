@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateVolunteerMembership
 
-## Index
-
-### Variables
+## Variables
 
 - [updateVolunteerMembership](variables/updateVolunteerMembership.md)

@@ -8,6 +8,8 @@
 
 \> `const` **user**: [`CheckInResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/CheckInResolvers.md)\[`"user"`\]
 
+Defined in: [src/resolvers/CheckIn/user.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/CheckIn/user.ts#L16)
+
 Resolver function for the `user` field of a `CheckIn`.
 
 This function retrieves the user who checked in to an event.
@@ -24,7 +26,3 @@ A promise that resolves to the user document found in the database. This documen
 
  - EventAttendee - The EventAttendee model used to interact with the event attendees collection in the database.
  - CheckInResolvers - The type definition for the resolvers of the CheckIn fields.
-
-## Defined in
-
-[src/resolvers/CheckIn/user.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/CheckIn/user.ts#L16)

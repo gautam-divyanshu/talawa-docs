@@ -8,6 +8,8 @@
 
 \> **isMinioInstalled**(): `boolean`
 
+Defined in: [src/setup/isMinioInstalled.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/isMinioInstalled.ts#L15)
+
 Checks if MinIO is installed either via the command line or by checking the existence of the MinIO binary.
 If installed, it sets the PATH environment variable.
 
@@ -16,7 +18,3 @@ If installed, it sets the PATH environment variable.
 `boolean`
 
 A boolean indicating whether MinIO is installed.
-
-## Defined in
-
-[src/setup/isMinioInstalled.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/isMinioInstalled.ts#L15)

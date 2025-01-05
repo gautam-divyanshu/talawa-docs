@@ -6,8 +6,6 @@
 
 # resolvers/Event/baseRecurringEvent
 
-## Index
-
-### Variables
+## Variables
 
 - [baseRecurringEvent](variables/baseRecurringEvent.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateFundCampaignPledge
 
-## Index
-
-### Variables
+## Variables
 
 - [updateFundraisingCampaignPledge](variables/updateFundraisingCampaignPledge.md)

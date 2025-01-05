@@ -8,6 +8,8 @@
 
 \> `const` **blockedUsers**: [`OrganizationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/OrganizationResolvers.md)\[`"blockedUsers"`\]
 
+Defined in: [src/resolvers/Organization/blockedUsers.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Organization/blockedUsers.ts#L16)
+
 Resolver function for the `blockedUsers` field of an `Organization`.
 
 This function retrieves the users who are blocked by a specific organization.
@@ -24,7 +26,3 @@ A promise that resolves to an array of user documents found in the database. The
 
  - User - The User model used to interact with the users collection in the database.
  - OrganizationResolvers - The type definition for the resolvers of the Organization fields.
-
-## Defined in
-
-[src/resolvers/Organization/blockedUsers.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Organization/blockedUsers.ts#L16)

@@ -8,6 +8,8 @@
 
 \> **middleware**(): (`req`, `res`, `next`) =\> `void`
 
+Defined in: [src/libraries/requestContext.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/requestContext.ts#L42)
+
 Middleware to bind the request and response to the request context namespace.
 
 ## Returns
@@ -31,7 +33,3 @@ Middleware to bind the request and response to the request context namespace.
 ### Returns
 
 `void`
-
-## Defined in
-
-[src/libraries/requestContext.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/requestContext.ts#L42)

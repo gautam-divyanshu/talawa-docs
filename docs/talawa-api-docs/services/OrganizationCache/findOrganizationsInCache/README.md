@@ -6,8 +6,6 @@
 
 # services/OrganizationCache/findOrganizationsInCache
 
-## Index
-
-### Functions
+## Functions
 
 - [findOrganizationsInCache](functions/findOrganizationsInCache.md)

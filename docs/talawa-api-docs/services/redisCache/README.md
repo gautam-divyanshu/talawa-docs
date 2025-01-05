@@ -6,8 +6,6 @@
 
 # services/redisCache
 
-## Index
-
-### Variables
+## Variables
 
 - [default](variables/default.md)

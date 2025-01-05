@@ -6,12 +6,10 @@
 
 # resolvers/UserTag/childTags
 
-## Index
-
-### Variables
+## Variables
 
 - [childTags](variables/childTags.md)
 
-### Functions
+## Functions
 
 - [parseCursor](functions/parseCursor.md)

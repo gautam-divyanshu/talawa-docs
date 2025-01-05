@@ -8,6 +8,8 @@
 
 \> `const` **updateUserProfile**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"updateUserProfile"`\]
 
+Defined in: [src/resolvers/Mutation/updateUserProfile.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/updateUserProfile.ts#L22)
+
 This function enables to update user profile.
 
 ## Param
@@ -30,7 +32,3 @@ The following checks are done:
 ## Returns
 
 Updated user profile.
-
-## Defined in
-
-[src/resolvers/Mutation/updateUserProfile.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/updateUserProfile.ts#L22)

@@ -6,8 +6,6 @@
 
 # config/appConfig
 
-## Index
-
-### Variables
+## Variables
 
 - [appConfig](variables/appConfig.md)

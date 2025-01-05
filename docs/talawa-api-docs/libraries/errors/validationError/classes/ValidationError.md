@@ -6,6 +6,8 @@
 
 # Class: ValidationError
 
+Defined in: [src/libraries/errors/validationError.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/validationError.ts#L8)
+
 This class represents an error indicating validation errors.
 It extends the ApplicationError class to handle and format the error information.
 
@@ -18,6 +20,8 @@ It extends the ApplicationError class to handle and format the error information
 ### new ValidationError()
 
 \> **new ValidationError**(`errors`, `message`): [`ValidationError`](ValidationError.md)
+
+Defined in: [src/libraries/errors/validationError.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/validationError.ts#L15)
 
 Creates an instance of ValidationError.
 
@@ -43,15 +47,13 @@ The error message (default is "Validation error").
 
 [`ApplicationError`](../../applicationError/classes/ApplicationError.md).[`constructor`](../../applicationError/classes/ApplicationError.md#constructors)
 
-#### Defined in
-
-[src/libraries/errors/validationError.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/errors/validationError.ts#L15)
-
 ## Properties
 
 ### errors
 
 \> **errors**: [`InterfaceError`](../../applicationError/interfaces/InterfaceError.md)[]
+
+Defined in: [src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L21)
 
 An array of errors conforming to the InterfaceError interface
 
@@ -59,15 +61,13 @@ An array of errors conforming to the InterfaceError interface
 
 [`ApplicationError`](../../applicationError/classes/ApplicationError.md).[`errors`](../../applicationError/classes/ApplicationError.md#errors-1)
 
-#### Defined in
-
-[src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/errors/applicationError.ts#L21)
-
 ***
 
 ### httpCode
 
 \> **httpCode**: `number`
+
+Defined in: [src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L23)
 
 The HTTP status code associated with the error
 
@@ -75,23 +75,17 @@ The HTTP status code associated with the error
 
 [`ApplicationError`](../../applicationError/classes/ApplicationError.md).[`httpCode`](../../applicationError/classes/ApplicationError.md#httpcode-1)
 
-#### Defined in
-
-[src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/errors/applicationError.ts#L23)
-
 ***
 
 ### message
 
 \> **message**: `string`
 
+Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1077
+
 #### Inherited from
 
 [`ApplicationError`](../../applicationError/classes/ApplicationError.md).[`message`](../../applicationError/classes/ApplicationError.md#message-1)
-
-#### Defined in
-
-node\_modules/typescript/lib/lib.es5.d.ts:1077
 
 ***
 
@@ -99,13 +93,11 @@ node\_modules/typescript/lib/lib.es5.d.ts:1077
 
 \> **name**: `string`
 
+Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1076
+
 #### Inherited from
 
 [`ApplicationError`](../../applicationError/classes/ApplicationError.md).[`name`](../../applicationError/classes/ApplicationError.md#name)
-
-#### Defined in
-
-node\_modules/typescript/lib/lib.es5.d.ts:1076
 
 ***
 
@@ -113,19 +105,19 @@ node\_modules/typescript/lib/lib.es5.d.ts:1076
 
 \> `optional` **stack**: `string`
 
+Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1078
+
 #### Inherited from
 
 [`ApplicationError`](../../applicationError/classes/ApplicationError.md).[`stack`](../../applicationError/classes/ApplicationError.md#stack)
-
-#### Defined in
-
-node\_modules/typescript/lib/lib.es5.d.ts:1078
 
 ***
 
 ### prepareStackTrace()?
 
 \> `static` `optional` **prepareStackTrace**: (`err`, `stackTraces`) =\> `any`
+
+Defined in: node\_modules/@types/node/globals.d.ts:143
 
 Optional override for formatting stack traces
 
@@ -151,29 +143,25 @@ https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 [`ApplicationError`](../../applicationError/classes/ApplicationError.md).[`prepareStackTrace`](../../applicationError/classes/ApplicationError.md#preparestacktrace)
 
-#### Defined in
-
-node\_modules/@types/node/globals.d.ts:143
-
 ***
 
 ### stackTraceLimit
 
 \> `static` **stackTraceLimit**: `number`
 
+Defined in: node\_modules/@types/node/globals.d.ts:145
+
 #### Inherited from
 
 [`ApplicationError`](../../applicationError/classes/ApplicationError.md).[`stackTraceLimit`](../../applicationError/classes/ApplicationError.md#stacktracelimit)
-
-#### Defined in
-
-node\_modules/@types/node/globals.d.ts:145
 
 ## Methods
 
 ### captureStackTrace()
 
 \> `static` **captureStackTrace**(`targetObject`, `constructorOpt`?): `void`
+
+Defined in: node\_modules/@types/node/globals.d.ts:136
 
 Create .stack property on a target object
 
@@ -194,7 +182,3 @@ Create .stack property on a target object
 #### Inherited from
 
 [`ApplicationError`](../../applicationError/classes/ApplicationError.md).[`captureStackTrace`](../../applicationError/classes/ApplicationError.md#capturestacktrace)
-
-#### Defined in
-
-node\_modules/@types/node/globals.d.ts:136

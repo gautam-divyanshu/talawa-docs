@@ -6,8 +6,6 @@
 
 # typeDefs/errors
 
-## Index
-
-### Variables
+## Variables
 
 - [errors](variables/errors.md)

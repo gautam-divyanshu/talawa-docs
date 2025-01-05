@@ -8,6 +8,8 @@
 
 \> `const` **updateAgendaCategory**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"updateAgendaCategory"`\]
 
+Defined in: [src/resolvers/Mutation/updateAgendaCategory.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/updateAgendaCategory.ts#L36)
+
 This is a resolver function for the GraphQL mutation 'updateAgendaCategory'.
 
 This resolver updates an existing agenda category based on the provided ID.
@@ -40,7 +42,3 @@ A promise that resolves to the updated agenda category.
 ## Throws
 
 `InternalServerError` For other potential issues during agenda category update.
-
-## Defined in
-
-[src/resolvers/Mutation/updateAgendaCategory.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/updateAgendaCategory.ts#L36)

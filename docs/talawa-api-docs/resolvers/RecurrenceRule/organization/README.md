@@ -6,8 +6,6 @@
 
 # resolvers/RecurrenceRule/organization
 
-## Index
-
-### Variables
+## Variables
 
 - [organization](variables/organization.md)

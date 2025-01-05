@@ -6,8 +6,6 @@
 
 # services/AppUserProfileCache/cacheAppUserProfile
 
-## Index
-
-### Functions
+## Functions
 
 - [cacheAppUserProfile](functions/cacheAppUserProfile.md)

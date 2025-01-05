@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/unlikePost
 
-## Index
-
-### Variables
+## Variables
 
 - [unlikePost](variables/unlikePost.md)

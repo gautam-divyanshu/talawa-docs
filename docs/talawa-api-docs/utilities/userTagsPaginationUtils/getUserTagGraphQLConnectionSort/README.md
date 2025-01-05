@@ -6,8 +6,6 @@
 
 # utilities/userTagsPaginationUtils/getUserTagGraphQLConnectionSort
 
-## Index
-
-### Functions
+## Functions
 
 - [getUserTagGraphQLConnectionSort](functions/getUserTagGraphQLConnectionSort.md)

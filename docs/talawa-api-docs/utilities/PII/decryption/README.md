@@ -6,8 +6,6 @@
 
 # utilities/PII/decryption
 
-## Index
-
-### Functions
+## Functions
 
 - [decrypt](functions/decrypt.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Subscription
 
-## Index
-
-### Variables
+## Variables
 
 - [Subscription](variables/Subscription.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/forgotPassword
 
-## Index
-
-### Variables
+## Variables
 
 - [forgotPassword](variables/forgotPassword.md)

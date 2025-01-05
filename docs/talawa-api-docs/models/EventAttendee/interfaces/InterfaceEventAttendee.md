@@ -6,6 +6,8 @@
 
 # Interface: InterfaceEventAttendee
 
+Defined in: [src/models/EventAttendee.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EventAttendee.ts#L19)
+
 Interface representing a document for an event attendee in MongoDB.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for an event attendee in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/EventAttendee.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EventAttendee.ts#L20)
+Defined in: [src/models/EventAttendee.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EventAttendee.ts#L20)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for an event attendee in MongoDB.
 
 \> **checkInId**: `any`
 
-#### Defined in
-
-[src/models/EventAttendee.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EventAttendee.ts#L23)
+Defined in: [src/models/EventAttendee.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EventAttendee.ts#L23)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a document for an event attendee in MongoDB.
 
 \> **checkOutId**: `any`
 
-#### Defined in
-
-[src/models/EventAttendee.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EventAttendee.ts#L24)
+Defined in: [src/models/EventAttendee.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EventAttendee.ts#L24)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a document for an event attendee in MongoDB.
 
 \> **eventId**: `any`
 
-#### Defined in
-
-[src/models/EventAttendee.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EventAttendee.ts#L22)
+Defined in: [src/models/EventAttendee.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EventAttendee.ts#L22)
 
 ***
 
@@ -54,9 +48,7 @@ Interface representing a document for an event attendee in MongoDB.
 
 \> **isCheckedIn**: `boolean`
 
-#### Defined in
-
-[src/models/EventAttendee.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EventAttendee.ts#L27)
+Defined in: [src/models/EventAttendee.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EventAttendee.ts#L27)
 
 ***
 
@@ -64,9 +56,7 @@ Interface representing a document for an event attendee in MongoDB.
 
 \> **isCheckedOut**: `boolean`
 
-#### Defined in
-
-[src/models/EventAttendee.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EventAttendee.ts#L28)
+Defined in: [src/models/EventAttendee.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EventAttendee.ts#L28)
 
 ***
 
@@ -74,9 +64,7 @@ Interface representing a document for an event attendee in MongoDB.
 
 \> **isInvited**: `boolean`
 
-#### Defined in
-
-[src/models/EventAttendee.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EventAttendee.ts#L25)
+Defined in: [src/models/EventAttendee.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EventAttendee.ts#L25)
 
 ***
 
@@ -84,9 +72,7 @@ Interface representing a document for an event attendee in MongoDB.
 
 \> **isRegistered**: `boolean`
 
-#### Defined in
-
-[src/models/EventAttendee.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EventAttendee.ts#L26)
+Defined in: [src/models/EventAttendee.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EventAttendee.ts#L26)
 
 ***
 
@@ -94,6 +80,4 @@ Interface representing a document for an event attendee in MongoDB.
 
 \> **userId**: `any`
 
-#### Defined in
-
-[src/models/EventAttendee.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/EventAttendee.ts#L21)
+Defined in: [src/models/EventAttendee.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/EventAttendee.ts#L21)

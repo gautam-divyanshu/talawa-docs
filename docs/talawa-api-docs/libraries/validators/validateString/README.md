@@ -6,8 +6,6 @@
 
 # libraries/validators/validateString
 
-## Index
-
-### Functions
+## Functions
 
 - [isValidString](functions/isValidString.md)

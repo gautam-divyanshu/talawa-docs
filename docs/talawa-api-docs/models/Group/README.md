@@ -6,12 +6,10 @@
 
 # models/Group
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceGroup](interfaces/InterfaceGroup.md)
 
-### Variables
+## Variables
 
 - [Group](variables/Group.md)

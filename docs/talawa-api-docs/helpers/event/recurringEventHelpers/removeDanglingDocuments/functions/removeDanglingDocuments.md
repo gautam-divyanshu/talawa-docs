@@ -8,6 +8,8 @@
 
 \> **removeDanglingDocuments**(`recurrenceRuleId`, `baseRecurringEventId`, `session`): `Promise`\<`void`\>
 
+Defined in: [src/helpers/event/recurringEventHelpers/removeDanglingDocuments.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/removeDanglingDocuments.ts#L13)
+
 Removes dangling recurrence rule and base recurring event documents if they have no associated events.
 
 ## Parameters
@@ -38,7 +40,3 @@ Mongoose client session.
 
 The function first checks if there are any associated events for each document.
 If no associated events are found, it deletes the document from the database.
-
-## Defined in
-
-[src/helpers/event/recurringEventHelpers/removeDanglingDocuments.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/recurringEventHelpers/removeDanglingDocuments.ts#L13)

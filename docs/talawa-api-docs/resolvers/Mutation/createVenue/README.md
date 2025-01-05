@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createVenue
 
-## Index
-
-### Variables
+## Variables
 
 - [createVenue](variables/createVenue.md)

@@ -6,8 +6,6 @@
 
 # helpers/event/createEventHelpers/createRecurringEventInstancesDuringQuery
 
-## Index
-
-### Functions
+## Functions
 
 - [createRecurringEventInstancesDuringQuery](functions/createRecurringEventInstancesDuringQuery.md)

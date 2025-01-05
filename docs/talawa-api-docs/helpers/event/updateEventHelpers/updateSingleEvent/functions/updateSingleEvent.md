@@ -8,6 +8,8 @@
 
 \> **updateSingleEvent**(`args`, `event`, `session`): `Promise`\<[`InterfaceEvent`](../../../../../models/Event/interfaces/InterfaceEvent.md)\>
 
+Defined in: [src/helpers/event/updateEventHelpers/updateSingleEvent.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/updateEventHelpers/updateSingleEvent.ts#L28)
+
 This function updates a single non-recurring event.
 
 ## Parameters
@@ -43,7 +45,3 @@ The following steps are followed:
   - remove the current event and its associations as a new series has been created.
 2. If it's still a non-recurring event:
   - just perform a regular update.
-
-## Defined in
-
-[src/helpers/event/updateEventHelpers/updateSingleEvent.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/updateEventHelpers/updateSingleEvent.ts#L28)

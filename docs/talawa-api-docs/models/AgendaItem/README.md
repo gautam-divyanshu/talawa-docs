@@ -6,17 +6,15 @@
 
 # models/AgendaItem
 
-## Index
-
-### Enumerations
+## Enumerations
 
 - [ItemType](enumerations/ItemType.md)
 
-### Interfaces
+## Interfaces
 
 - [InterfaceAgendaItem](interfaces/InterfaceAgendaItem.md)
 
-### Variables
+## Variables
 
 - [AgendaItemModel](variables/AgendaItemModel.md)
 - [AgendaItemSchema](variables/AgendaItemSchema.md)

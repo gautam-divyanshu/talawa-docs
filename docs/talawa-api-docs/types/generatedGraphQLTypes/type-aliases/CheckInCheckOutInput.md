@@ -8,6 +8,8 @@
 
 \> **CheckInCheckOutInput**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:324](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L324)
+
 ## Type declaration
 
 ### eventId
@@ -17,7 +19,3 @@
 ### userId
 
 \> **userId**: [`Scalars`](Scalars.md)\[`"ID"`\]\[`"input"`\]
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:320](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L320)

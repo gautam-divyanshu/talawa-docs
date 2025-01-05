@@ -6,8 +6,6 @@
 
 # resolvers/Query/hasSubmittedFeedback
 
-## Index
-
-### Variables
+## Variables
 
 - [hasSubmittedFeedback](variables/hasSubmittedFeedback.md)

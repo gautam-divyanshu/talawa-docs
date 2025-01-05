@@ -6,12 +6,10 @@
 
 # resolvers/Organization/userTags
 
-## Index
-
-### Variables
+## Variables
 
 - [userTags](variables/userTags.md)
 
-### Functions
+## Functions
 
 - [parseCursor](functions/parseCursor.md)

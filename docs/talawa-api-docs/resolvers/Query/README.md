@@ -6,8 +6,6 @@
 
 # resolvers/Query
 
-## Index
-
-### Variables
+## Variables
 
 - [Query](variables/Query.md)

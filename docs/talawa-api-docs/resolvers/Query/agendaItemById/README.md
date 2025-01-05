@@ -6,8 +6,6 @@
 
 # resolvers/Query/agendaItemById
 
-## Index
-
-### Variables
+## Variables
 
 - [getAgendaItem](variables/getAgendaItem.md)

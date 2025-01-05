@@ -8,6 +8,8 @@
 
 \> `const` **acceptMembershipRequest**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"acceptMembershipRequest"`\]
 
+Defined in: [src/resolvers/Mutation/acceptMembershipRequest.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/acceptMembershipRequest.ts#L25)
+
 This function accepts the membership request sent by a user.
 
 ## Param
@@ -30,7 +32,3 @@ The following checks are done:
 3. Whether the user exists
 4. whether currentUser with _id === context.userId is an admin of organization.
 5. Whether user is already a member of organization.
-
-## Defined in
-
-[src/resolvers/Mutation/acceptMembershipRequest.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/acceptMembershipRequest.ts#L25)

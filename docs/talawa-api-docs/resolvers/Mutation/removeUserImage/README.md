@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeUserImage
 
-## Index
-
-### Variables
+## Variables
 
 - [removeUserImage](variables/removeUserImage.md)

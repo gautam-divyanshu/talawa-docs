@@ -6,8 +6,6 @@
 
 # typeDefs/queries
 
-## Index
-
-### Variables
+## Variables
 
 - [queries](variables/queries.md)

@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/blockPluginCreationBySuperadmin
 
-## Index
-
-### Variables
+## Variables
 
 - [blockPluginCreationBySuperadmin](variables/blockPluginCreationBySuperadmin.md)

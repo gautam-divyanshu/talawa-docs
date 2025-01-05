@@ -6,8 +6,6 @@
 
 # resolvers/Query/agendaCategory
 
-## Index
-
-### Variables
+## Variables
 
 - [agendaCategory](variables/agendaCategory.md)

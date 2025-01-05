@@ -6,8 +6,6 @@
 
 # utilities/userTagsPaginationUtils/getUserTagMemberGraphQLConnectionFilter
 
-## Index
-
-### Functions
+## Functions
 
 - [getUserTagMemberGraphQLConnectionFilter](functions/getUserTagMemberGraphQLConnectionFilter.md)

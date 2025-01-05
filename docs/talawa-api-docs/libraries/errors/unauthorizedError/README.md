@@ -6,8 +6,6 @@
 
 # libraries/errors/unauthorizedError
 
-## Index
-
-### Classes
+## Classes
 
 - [UnauthorizedError](classes/UnauthorizedError.md)

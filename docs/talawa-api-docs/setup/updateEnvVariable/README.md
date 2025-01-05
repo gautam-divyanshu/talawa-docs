@@ -6,8 +6,6 @@
 
 # setup/updateEnvVariable
 
-## Index
-
-### Functions
+## Functions
 
 - [updateEnvVariable](functions/updateEnvVariable.md)

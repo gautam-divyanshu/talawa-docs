@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/likePost
 
-## Index
-
-### Variables
+## Variables
 
 - [likePost](variables/likePost.md)

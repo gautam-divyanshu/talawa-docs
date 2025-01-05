@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/deleteAgendaCategory
 
-## Index
-
-### Variables
+## Variables
 
 - [deleteAgendaCategory](variables/deleteAgendaCategory.md)

@@ -6,8 +6,6 @@
 
 # libraries/errors/validationError
 
-## Index
-
-### Classes
+## Classes
 
 - [ValidationError](classes/ValidationError.md)

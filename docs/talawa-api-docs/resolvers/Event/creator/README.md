@@ -6,8 +6,6 @@
 
 # resolvers/Event/creator
 
-## Index
-
-### Variables
+## Variables
 
 - [creator](variables/creator.md)

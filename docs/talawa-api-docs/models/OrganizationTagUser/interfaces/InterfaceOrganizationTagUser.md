@@ -6,6 +6,8 @@
 
 # Interface: InterfaceOrganizationTagUser
 
+Defined in: [src/models/OrganizationTagUser.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationTagUser.ts#L11)
+
 Interface representing a document for an Organization Tag User in the database (MongoDB).
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a document for an Organization Tag User in the database (
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/OrganizationTagUser.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/OrganizationTagUser.ts#L12)
+Defined in: [src/models/OrganizationTagUser.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationTagUser.ts#L12)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a document for an Organization Tag User in the database (
 
 \> **name**: `string`
 
-#### Defined in
-
-[src/models/OrganizationTagUser.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/OrganizationTagUser.ts#L15)
+Defined in: [src/models/OrganizationTagUser.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationTagUser.ts#L15)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a document for an Organization Tag User in the database (
 
 \> **organizationId**: `any`
 
-#### Defined in
-
-[src/models/OrganizationTagUser.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/OrganizationTagUser.ts#L13)
+Defined in: [src/models/OrganizationTagUser.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationTagUser.ts#L13)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a document for an Organization Tag User in the database (
 
 \> **parentTagId**: `any`
 
-#### Defined in
-
-[src/models/OrganizationTagUser.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/OrganizationTagUser.ts#L14)
+Defined in: [src/models/OrganizationTagUser.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationTagUser.ts#L14)
 
 ***
 
@@ -54,6 +48,4 @@ Interface representing a document for an Organization Tag User in the database (
 
 \> **tagColor**: `string`
 
-#### Defined in
-
-[src/models/OrganizationTagUser.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/OrganizationTagUser.ts#L16)
+Defined in: [src/models/OrganizationTagUser.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/OrganizationTagUser.ts#L16)

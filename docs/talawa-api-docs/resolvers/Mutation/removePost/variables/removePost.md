@@ -8,6 +8,8 @@
 
 \> `const` **removePost**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removePost"`\]
 
+Defined in: [src/resolvers/Mutation/removePost.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removePost.ts#L37)
+
 This function enables to remove a post.
 
 ## Param
@@ -34,7 +36,3 @@ The following checks are done:
 ## Returns
 
 Deleted Post.
-
-## Defined in
-
-[src/resolvers/Mutation/removePost.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removePost.ts#L37)

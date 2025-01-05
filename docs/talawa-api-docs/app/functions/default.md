@@ -10,6 +10,8 @@
 
 \> **default**(`req`, `res`): `any`
 
+Defined in: [src/app.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/app.ts#L21)
+
 Express instance itself is a request handler, which could be invoked without
 third argument.
 
@@ -27,13 +29,11 @@ third argument.
 
 `any`
 
-### Defined in
-
-[src/app.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/app.ts#L21)
-
 ## Call Signature
 
 \> **default**(`req`, `res`, `next`): `void`
+
+Defined in: [src/app.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/app.ts#L21)
 
 ### Parameters
 
@@ -52,7 +52,3 @@ third argument.
 ### Returns
 
 `void`
-
-### Defined in
-
-[src/app.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/app.ts#L21)

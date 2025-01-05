@@ -8,6 +8,8 @@
 
 \> `const` **checkOut**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"checkOut"`\]
 
+Defined in: [src/resolvers/Mutation/checkOut.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/checkOut.ts#L52)
+
 Handles the check-out process for event attendees.
 
 This resolver function allows event admins or superadmins to check-out attendees from a specific event.
@@ -49,7 +51,3 @@ The function performs the following checks and operations:
 2. Checks if the current user is authorized to perform the check-out operation.
 3. Checks if the user is an event attendee.
 4. Checks if the attendee is checkedIn and if the attendee is already checked out.
-
-## Defined in
-
-[src/resolvers/Mutation/checkOut.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/checkOut.ts#L52)

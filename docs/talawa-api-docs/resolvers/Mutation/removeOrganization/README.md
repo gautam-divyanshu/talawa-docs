@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [removeOrganization](variables/removeOrganization.md)

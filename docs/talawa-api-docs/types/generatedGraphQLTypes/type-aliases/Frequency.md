@@ -8,6 +8,4 @@
 
 \> **Frequency**: `"DAILY"` \| `"MONTHLY"` \| `"WEEKLY"` \| `"YEARLY"`
 
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:1001](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L1001)
+Defined in: [src/types/generatedGraphQLTypes.ts:1005](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L1005)

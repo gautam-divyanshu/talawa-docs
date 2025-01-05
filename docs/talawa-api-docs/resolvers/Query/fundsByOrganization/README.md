@@ -6,8 +6,6 @@
 
 # resolvers/Query/fundsByOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [fundsByOrganization](variables/fundsByOrganization.md)

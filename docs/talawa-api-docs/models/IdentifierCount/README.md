@@ -6,8 +6,6 @@
 
 # models/IdentifierCount
 
-## Index
-
-### Variables
+## Variables
 
 - [identifier\_count](variables/identifier_count.md)

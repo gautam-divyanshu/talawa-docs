@@ -8,6 +8,8 @@
 
 \> **validateDate**(`startDate`, `endDate`): `void`
 
+Defined in: [src/utilities/dateValidator.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/dateValidator.ts#L12)
+
 Validates the start and end dates.
 
 ## Parameters
@@ -27,7 +29,3 @@ The ending date.
 ## Returns
 
 `void`
-
-## Defined in
-
-[src/utilities/dateValidator.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/dateValidator.ts#L12)

@@ -8,6 +8,8 @@
 
 \> `const` **createdBy**: [`AgendaSectionResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/AgendaSectionResolvers.md)\[`"createdBy"`\]
 
+Defined in: [src/resolvers/AgendaSection/createdBy.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/AgendaSection/createdBy.ts#L16)
+
 Resolver function for the `createdBy` field of an `AgendaSection`.
 
 This function retrieves the user who created a specific agenda section.
@@ -24,7 +26,3 @@ A promise that resolves to the user document found in the database. This documen
 
  - User - The User model used to interact with the users collection in the database.
  - AgendaSectionResolvers - The type definition for the resolvers of the AgendaSection fields.
-
-## Defined in
-
-[src/resolvers/AgendaSection/createdBy.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/AgendaSection/createdBy.ts#L16)

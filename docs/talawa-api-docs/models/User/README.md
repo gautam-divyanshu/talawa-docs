@@ -6,12 +6,10 @@
 
 # models/User
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceUser](interfaces/InterfaceUser.md)
 
-### Variables
+## Variables
 
 - [User](variables/User.md)

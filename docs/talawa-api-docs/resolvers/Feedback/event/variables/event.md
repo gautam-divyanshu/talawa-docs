@@ -8,6 +8,8 @@
 
 \> `const` **event**: [`FeedbackResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/FeedbackResolvers.md)\[`"event"`\]
 
+Defined in: [src/resolvers/Feedback/event.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Feedback/event.ts#L16)
+
 Resolver function for the `event` field of a `Feedback`.
 
 This function retrieves the event associated with a specific feedback.
@@ -24,7 +26,3 @@ A promise that resolves to the event document found in the database. This docume
 
  - Event - The Event model used to interact with the events collection in the database.
  - FeedbackResolvers - The type definition for the resolvers of the Feedback fields.
-
-## Defined in
-
-[src/resolvers/Feedback/event.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Feedback/event.ts#L16)

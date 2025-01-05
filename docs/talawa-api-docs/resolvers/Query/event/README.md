@@ -6,8 +6,6 @@
 
 # resolvers/Query/event
 
-## Index
-
-### Variables
+## Variables
 
 - [event](variables/event.md)

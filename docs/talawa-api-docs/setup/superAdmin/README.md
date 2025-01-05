@@ -6,8 +6,6 @@
 
 # setup/superAdmin
 
-## Index
-
-### Functions
+## Functions
 
 - [askForSuperAdminEmail](functions/askForSuperAdminEmail.md)

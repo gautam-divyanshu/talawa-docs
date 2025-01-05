@@ -6,8 +6,6 @@
 
 # setup/isValidEmail
 
-## Index
-
-### Functions
+## Functions
 
 - [isValidEmail](functions/isValidEmail.md)

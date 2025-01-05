@@ -6,8 +6,6 @@
 
 # setup/setPathEnvVar
 
-## Index
-
-### Functions
+## Functions
 
 - [setPathEnvVar](functions/setPathEnvVar.md)

@@ -6,8 +6,6 @@
 
 # services/CommentCache/deleteCommentFromCache
 
-## Index
-
-### Functions
+## Functions
 
 - [deleteCommentFromCache](functions/deleteCommentFromCache.md)

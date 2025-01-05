@@ -6,12 +6,10 @@
 
 # models/Community
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceCommunity](interfaces/InterfaceCommunity.md)
 
-### Variables
+## Variables
 
 - [Community](variables/Community.md)

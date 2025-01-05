@@ -8,6 +8,8 @@
 
 \> **ResolversUnionTypes**\<`_RefType`\>: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3488](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3488)
+
 Mapping of union types
 
 ## Type Parameters
@@ -31,7 +33,3 @@ Mapping of union types
 ### CreateMemberError
 
 \> **CreateMemberError**: [`MemberNotFoundError`](MemberNotFoundError.md) \| [`OrganizationNotFoundError`](OrganizationNotFoundError.md) \| [`UserNotAuthorizedAdminError`](UserNotAuthorizedAdminError.md) \| [`UserNotAuthorizedError`](UserNotAuthorizedError.md) \| [`UserNotFoundError`](UserNotFoundError.md)
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3483](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3483)

@@ -6,8 +6,6 @@
 
 # utilities/deleteImage
 
-## Index
-
-### Functions
+## Functions
 
 - [deleteImage](functions/deleteImage.md)

@@ -6,12 +6,10 @@
 
 # resolvers/Organization/advertisements
 
-## Index
-
-### Variables
+## Variables
 
 - [advertisements](variables/advertisements.md)
 
-### Functions
+## Functions
 
 - [parseCursor](functions/parseCursor.md)

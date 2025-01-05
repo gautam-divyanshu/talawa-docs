@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateUserProfile
 
-## Index
-
-### Variables
+## Variables
 
 - [updateUserProfile](variables/updateUserProfile.md)

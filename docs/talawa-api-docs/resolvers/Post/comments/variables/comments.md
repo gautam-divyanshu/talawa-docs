@@ -8,6 +8,8 @@
 
 \> `const` **comments**: [`PostResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/PostResolvers.md)\[`"comments"`\]
 
+Defined in: [src/resolvers/Post/comments.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Post/comments.ts#L18)
+
 Resolver function for the `comments` field of a `Post`.
 
 This function retrieves the comments associated with a specific post.
@@ -24,7 +26,3 @@ A promise that resolves to an array of comment documents found in the database. 
 
  - Comment - The Comment model used to interact with the comments collection in the database.
  - PostResolvers - The type definition for the resolvers of the Post fields.
-
-## Defined in
-
-[src/resolvers/Post/comments.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Post/comments.ts#L18)

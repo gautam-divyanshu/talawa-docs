@@ -8,6 +8,8 @@
 
 \> **uploadEncodedImage**(`encodedImageURL`, `previousImagePath`?): `Promise`\<`string`\>
 
+Defined in: [src/utilities/encodedImageStorage/uploadEncodedImage.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/encodedImageStorage/uploadEncodedImage.ts#L46)
+
 Uploads an encoded image to the server.
 
 ## Parameters
@@ -29,7 +31,3 @@ Optional. The path of the previous image to delete before uploading the new one.
 `Promise`\<`string`\>
 
 The file name of the uploaded image.
-
-## Defined in
-
-[src/utilities/encodedImageStorage/uploadEncodedImage.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/encodedImageStorage/uploadEncodedImage.ts#L46)

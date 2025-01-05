@@ -6,12 +6,10 @@
 
 # models/Advertisement
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceAdvertisement](interfaces/InterfaceAdvertisement.md)
 
-### Variables
+## Variables
 
 - [Advertisement](variables/Advertisement.md)

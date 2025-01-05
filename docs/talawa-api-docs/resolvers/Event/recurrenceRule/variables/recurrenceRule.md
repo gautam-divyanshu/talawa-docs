@@ -8,6 +8,8 @@
 
 \> `const` **recurrenceRule**: [`EventResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/EventResolvers.md)\[`"recurrenceRule"`\]
 
+Defined in: [src/resolvers/Event/recurrenceRule.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Event/recurrenceRule.ts#L17)
+
 Resolver function for the `recurrenceRule` field of an `Event`.
 
 This function retrieves the recurrence rule associated with a specific event.
@@ -24,7 +26,3 @@ A promise that resolves to the recurrence rule document found in the database. T
 
  - RecurrenceRule - The RecurrenceRule model used to interact with the recurrence rules collection in the database.
  - EventResolvers - The type definition for the resolvers of the Event fields.
-
-## Defined in
-
-[src/resolvers/Event/recurrenceRule.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Event/recurrenceRule.ts#L17)

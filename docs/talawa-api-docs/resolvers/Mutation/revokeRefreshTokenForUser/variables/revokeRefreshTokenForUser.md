@@ -8,6 +8,8 @@
 
 \> `const` **revokeRefreshTokenForUser**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"revokeRefreshTokenForUser"`\]
 
+Defined in: [src/resolvers/Mutation/revokeRefreshTokenForUser.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/revokeRefreshTokenForUser.ts#L9)
+
 This function creates a refresh token for user.
 
 ## Param
@@ -21,7 +23,3 @@ payload provided with the request
 ## Returns
 
 True is operation successful.
-
-## Defined in
-
-[src/resolvers/Mutation/revokeRefreshTokenForUser.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/revokeRefreshTokenForUser.ts#L9)

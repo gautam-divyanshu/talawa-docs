@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/addOrganizationCustomField
 
-## Index
-
-### Variables
+## Variables
 
 - [addOrganizationCustomField](variables/addOrganizationCustomField.md)

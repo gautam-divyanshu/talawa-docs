@@ -6,9 +6,7 @@
 
 # libraries/logger
 
-## Index
-
-### Variables
+## Variables
 
 - [logger](variables/logger.md)
 - [stream](variables/stream.md)

@@ -6,9 +6,7 @@
 
 # types/generatedGraphQLTypes
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [AnyScalarConfig](interfaces/AnyScalarConfig.md)
 - [CountryCodeScalarConfig](interfaces/CountryCodeScalarConfig.md)
@@ -26,7 +24,7 @@
 - [UploadScalarConfig](interfaces/UploadScalarConfig.md)
 - [UrlScalarConfig](interfaces/UrlScalarConfig.md)
 
-### Type Aliases
+## Type Aliases
 
 - [ActionItem](type-aliases/ActionItem.md)
 - [ActionItemCategory](type-aliases/ActionItemCategory.md)
@@ -49,6 +47,7 @@
 - [AgendaCategory](type-aliases/AgendaCategory.md)
 - [AgendaCategoryResolvers](type-aliases/AgendaCategoryResolvers.md)
 - [AgendaItem](type-aliases/AgendaItem.md)
+- [AgendaItemCategoryWhereInput](type-aliases/AgendaItemCategoryWhereInput.md)
 - [AgendaItemResolvers](type-aliases/AgendaItemResolvers.md)
 - [AgendaSection](type-aliases/AgendaSection.md)
 - [AgendaSectionResolvers](type-aliases/AgendaSectionResolvers.md)

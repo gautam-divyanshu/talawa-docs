@@ -6,8 +6,6 @@
 
 # typeDefs/errors/connectionError
 
-## Index
-
-### Variables
+## Variables
 
 - [connectionError](variables/connectionError.md)

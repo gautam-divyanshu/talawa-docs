@@ -6,12 +6,10 @@
 
 # models/EncodedImage
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceEncodedImage](interfaces/InterfaceEncodedImage.md)
 
-### Variables
+## Variables
 
 - [EncodedImage](variables/EncodedImage.md)

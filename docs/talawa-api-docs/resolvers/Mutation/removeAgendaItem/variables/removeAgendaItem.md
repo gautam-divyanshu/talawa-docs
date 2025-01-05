@@ -8,6 +8,8 @@
 
 \> `const` **removeAgendaItem**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeAgendaItem"`\]
 
+Defined in: [src/resolvers/Mutation/removeAgendaItem.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeAgendaItem.ts#L28)
+
 This function removes an agenda item.
 
 ## Param
@@ -33,7 +35,3 @@ NotFoundError if the user or agenda item is not found
 ## Throws
 
 UnauthorizedError if the user is not the creator of the agenda item
-
-## Defined in
-
-[src/resolvers/Mutation/removeAgendaItem.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeAgendaItem.ts#L28)

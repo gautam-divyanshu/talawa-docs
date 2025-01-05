@@ -8,6 +8,8 @@
 
 \> `const` **unassignUserTag**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"unassignUserTag"`\]
 
+Defined in: [src/resolvers/Mutation/unassignUserTag.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/unassignUserTag.ts#L47)
+
 Unassigns a tag from a user in an organization.
 
 This function removes a specific tag from a user in an organization.
@@ -40,7 +42,3 @@ The context of the request, containing information about the currently authentic
 ## Returns
 
 The user from whom the tag was unassigned.
-
-## Defined in
-
-[src/resolvers/Mutation/unassignUserTag.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/unassignUserTag.ts#L47)

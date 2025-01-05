@@ -8,6 +8,8 @@
 
 \> **checkMinio**(): `Promise`\<`string` \| `void`\>
 
+Defined in: [src/minioInstallationCheck.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/minioInstallationCheck.ts#L25)
+
 Checks if MinIO is installed by attempting to execute `minio --version`.
 If MinIO is not installed, it triggers the installation process.
 
@@ -28,7 +30,3 @@ A promise that resolves with:
 ## Throws
 
 Error If an error occurs during the check or installation process.
-
-## Defined in
-
-[src/minioInstallationCheck.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/minioInstallationCheck.ts#L25)

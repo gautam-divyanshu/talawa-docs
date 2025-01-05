@@ -6,8 +6,6 @@
 
 # resolvers/Post/comments
 
-## Index
-
-### Variables
+## Variables
 
 - [comments](variables/comments.md)

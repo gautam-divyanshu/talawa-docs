@@ -8,6 +8,8 @@
 
 \> **ResolversTypes**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3503](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3503)
+
 Mapping between all available schema types and the resolvers types
 
 ## Type declaration
@@ -67,6 +69,10 @@ Mapping between all available schema types and the resolvers types
 ### AgendaItem
 
 \> **AgendaItem**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceAgendaItem`](../../../models/AgendaItem/interfaces/InterfaceAgendaItem.md)\>
+
+### AgendaItemCategoryWhereInput
+
+\> **AgendaItemCategoryWhereInput**: [`AgendaItemCategoryWhereInput`](AgendaItemCategoryWhereInput.md)
 
 ### AgendaSection
 
@@ -943,7 +949,3 @@ Mapping between all available schema types and the resolvers types
 ### WeekDays
 
 \> **WeekDays**: [`WeekDays`](WeekDays.md)
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3498](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3498)

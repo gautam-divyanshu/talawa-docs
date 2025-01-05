@@ -8,6 +8,8 @@
 
 \> `const` **leaveOrganization**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"leaveOrganization"`\]
 
+Defined in: [src/resolvers/Mutation/leaveOrganization.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/leaveOrganization.ts#L36)
+
 This function enables to leave an organization.
 
 ## Param
@@ -33,7 +35,3 @@ The following checks are done:
 ## Returns
 
 Updated user
-
-## Defined in
-
-[src/resolvers/Mutation/leaveOrganization.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/leaveOrganization.ts#L36)

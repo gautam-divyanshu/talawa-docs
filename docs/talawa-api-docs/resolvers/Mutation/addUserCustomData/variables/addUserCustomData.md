@@ -8,6 +8,8 @@
 
 \> `const` **addUserCustomData**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addUserCustomData"`\]
 
+Defined in: [src/resolvers/Mutation/addUserCustomData.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/addUserCustomData.ts#L34)
+
 Mutation resolver to add or update custom data for a user within a joined organization.
 
 This function allows a user to add or update a custom field with a name and value for an organization
@@ -36,7 +38,3 @@ The context of the entire application, including user information and other cont
 ## Returns
 
 A promise that resolves to the newly added or updated user custom data object.
-
-## Defined in
-
-[src/resolvers/Mutation/addUserCustomData.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addUserCustomData.ts#L34)

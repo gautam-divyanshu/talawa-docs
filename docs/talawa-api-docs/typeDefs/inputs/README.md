@@ -6,8 +6,6 @@
 
 # typeDefs/inputs
 
-## Index
-
-### Variables
+## Variables
 
 - [inputs](variables/inputs.md)

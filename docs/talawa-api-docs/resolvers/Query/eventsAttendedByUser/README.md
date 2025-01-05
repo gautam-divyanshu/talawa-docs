@@ -6,8 +6,6 @@
 
 # resolvers/Query/eventsAttendedByUser
 
-## Index
-
-### Variables
+## Variables
 
 - [eventsAttendedByUser](variables/eventsAttendedByUser.md)

@@ -6,8 +6,6 @@
 
 # services/OrganizationCache/deleteOrganizationFromCache
 
-## Index
-
-### Functions
+## Functions
 
 - [deleteOrganizationFromCache](functions/deleteOrganizationFromCache.md)

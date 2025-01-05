@@ -6,12 +6,10 @@
 
 # models/ActionItem
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceActionItem](interfaces/InterfaceActionItem.md)
 
-### Variables
+## Variables
 
 - [ActionItem](variables/ActionItem.md)

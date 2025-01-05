@@ -8,6 +8,8 @@
 
 \> `const` **sendMessageToChat**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"sendMessageToChat"`\]
 
+Defined in: [src/resolvers/Mutation/sendMessageToChat.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/sendMessageToChat.ts#L17)
+
 This function enables to send message to chat.
 
 ## Param
@@ -31,7 +33,3 @@ The following checks are done:
 ## Returns
 
 Chat message.
-
-## Defined in
-
-[src/resolvers/Mutation/sendMessageToChat.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/sendMessageToChat.ts#L17)

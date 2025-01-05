@@ -8,6 +8,8 @@
 
 \> **getMinioBinaryUrl**(): `string`
 
+Defined in: [src/setup/getMinioBinaryUrl.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/getMinioBinaryUrl.ts#L11)
+
 Constructs the URL to download the MinIO binary for the current platform.
 
 ## Returns
@@ -19,7 +21,3 @@ The URL of the MinIO binary for the current platform.
 ## Throws
 
 Error If the platform is unsupported.
-
-## Defined in
-
-[src/setup/getMinioBinaryUrl.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/getMinioBinaryUrl.ts#L11)

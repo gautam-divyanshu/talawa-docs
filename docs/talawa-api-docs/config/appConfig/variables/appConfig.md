@@ -8,6 +8,8 @@
 
 \> `const` **appConfig**: `object`
 
+Defined in: [src/config/appConfig.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/config/appConfig.ts#L5)
+
 Application configuration settings.
 This object contains various configuration options for the application.
 
@@ -42,7 +44,3 @@ The logging level for the application (e.g., 'info', 'error').
 \> **supportedLocales**: `string`[]
 
 An array of supported language for the application.
-
-## Defined in
-
-[src/config/appConfig.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/config/appConfig.ts#L5)

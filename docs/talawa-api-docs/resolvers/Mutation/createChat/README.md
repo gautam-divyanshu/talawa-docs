@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createChat
 
-## Index
-
-### Variables
+## Variables
 
 - [createChat](variables/createChat.md)

@@ -8,6 +8,8 @@
 
 \> `const` **addUserImage**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addUserImage"`\]
 
+Defined in: [src/resolvers/Mutation/addUserImage.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/addUserImage.ts#L39)
+
 Mutation resolver function to add or update a user's profile image.
 
 This function performs the following actions:
@@ -48,7 +50,3 @@ A promise that resolves to the updated user document with the new image.
 The function first attempts to retrieve the user from the cache using `findUserInCache`.
 If the user is not found in the cache, it queries the database.
 It then performs the image upload and updates the user's profile image before saving the changes to the database.
-
-## Defined in
-
-[src/resolvers/Mutation/addUserImage.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addUserImage.ts#L39)

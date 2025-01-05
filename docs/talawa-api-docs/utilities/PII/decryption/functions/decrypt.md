@@ -8,6 +8,8 @@
 
 \> **decrypt**(`encryptedText`, `key`, `iv`): `string`
 
+Defined in: [src/utilities/PII/decryption.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/PII/decryption.ts#L11)
+
 Decrypts the given encrypted text using AES-256-CBC decryption.
 
 ## Parameters
@@ -35,7 +37,3 @@ The initialization vector (IV), used to ensure different ciphertexts encrypt to 
 `string`
 
 The decrypted plaintext string.
-
-## Defined in
-
-[src/utilities/PII/decryption.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/PII/decryption.ts#L11)

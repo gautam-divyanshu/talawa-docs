@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateNote
 
-## Index
-
-### Variables
+## Variables
 
 - [updateNote](variables/updateNote.md)

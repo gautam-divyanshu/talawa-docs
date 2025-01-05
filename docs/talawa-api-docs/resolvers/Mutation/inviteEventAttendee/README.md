@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/inviteEventAttendee
 
-## Index
-
-### Variables
+## Variables
 
 - [inviteEventAttendee](variables/inviteEventAttendee.md)

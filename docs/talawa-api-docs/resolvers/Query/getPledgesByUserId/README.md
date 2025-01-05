@@ -6,8 +6,6 @@
 
 # resolvers/Query/getPledgesByUserId
 
-## Index
-
-### Variables
+## Variables
 
 - [getPledgesByUserId](variables/getPledgesByUserId.md)

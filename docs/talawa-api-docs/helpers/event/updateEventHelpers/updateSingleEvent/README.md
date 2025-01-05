@@ -6,8 +6,6 @@
 
 # helpers/event/updateEventHelpers/updateSingleEvent
 
-## Index
-
-### Functions
+## Functions
 
 - [updateSingleEvent](functions/updateSingleEvent.md)

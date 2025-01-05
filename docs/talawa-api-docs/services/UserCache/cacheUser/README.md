@@ -6,8 +6,6 @@
 
 # services/UserCache/cacheUser
 
-## Index
-
-### Functions
+## Functions
 
 - [cacheUsers](functions/cacheUsers.md)

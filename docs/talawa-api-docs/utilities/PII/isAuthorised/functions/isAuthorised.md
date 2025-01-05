@@ -8,6 +8,8 @@
 
 \> **isAuthorised**(`requestingUser`, `requestedUser`): `boolean`
 
+Defined in: [src/utilities/PII/isAuthorised.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/PII/isAuthorised.ts#L9)
+
 Checks if the requesting user is authorized to access or modify the requested user's data.
 
 ## Parameters
@@ -29,7 +31,3 @@ The user whose data is being requested or modified.
 `boolean`
 
 `true` if the requesting user is authorized, `false` otherwise.
-
-## Defined in
-
-[src/utilities/PII/isAuthorised.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/PII/isAuthorised.ts#L9)

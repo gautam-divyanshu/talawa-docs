@@ -8,6 +8,8 @@
 
 \> **checkEventVolunteerExists**(`volunteerId`): `Promise`\<[`InterfaceEventVolunteer`](../../../models/EventVolunteer/interfaces/InterfaceEventVolunteer.md)\>
 
+Defined in: [src/utilities/checks.ts:92](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/checks.ts#L92)
+
 This function checks if the event volunteer exists.
 
 ## Parameters
@@ -23,7 +25,3 @@ event volunteer id
 `Promise`\<[`InterfaceEventVolunteer`](../../../models/EventVolunteer/interfaces/InterfaceEventVolunteer.md)\>
 
 EventVolunteer
-
-## Defined in
-
-[src/utilities/checks.ts:92](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/checks.ts#L92)

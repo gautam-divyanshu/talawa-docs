@@ -6,8 +6,6 @@
 
 # resolvers/Query/getEventAttendeesByEventId
 
-## Index
-
-### Variables
+## Variables
 
 - [getEventAttendeesByEventId](variables/getEventAttendeesByEventId.md)

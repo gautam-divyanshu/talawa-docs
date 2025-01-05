@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/signUp
 
-## Index
-
-### Variables
+## Variables
 
 - [signUp](variables/signUp.md)

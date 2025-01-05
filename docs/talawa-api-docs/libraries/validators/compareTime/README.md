@@ -6,8 +6,6 @@
 
 # libraries/validators/compareTime
 
-## Index
-
-### Functions
+## Functions
 
 - [compareTime](functions/compareTime.md)

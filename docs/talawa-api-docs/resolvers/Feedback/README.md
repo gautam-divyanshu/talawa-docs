@@ -6,8 +6,6 @@
 
 # resolvers/Feedback
 
-## Index
-
-### Variables
+## Variables
 
 - [Feedback](variables/Feedback.md)

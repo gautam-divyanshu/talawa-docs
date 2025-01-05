@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateEventVolunteerGroup
 
-## Index
-
-### Variables
+## Variables
 
 - [updateEventVolunteerGroup](variables/updateEventVolunteerGroup.md)

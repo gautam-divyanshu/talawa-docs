@@ -8,12 +8,10 @@
 
 \> **QueryAgendaItemByOrganizationArgs**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:2463](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L2463)
+
 ## Type declaration
 
 ### organizationId
 
 \> **organizationId**: [`Scalars`](Scalars.md)\[`"ID"`\]\[`"input"`\]
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:2459](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L2459)

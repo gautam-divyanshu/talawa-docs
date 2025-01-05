@@ -6,8 +6,6 @@
 
 # resolvers/Query/getPlugins
 
-## Index
-
-### Variables
+## Variables
 
 - [getPlugins](variables/getPlugins.md)

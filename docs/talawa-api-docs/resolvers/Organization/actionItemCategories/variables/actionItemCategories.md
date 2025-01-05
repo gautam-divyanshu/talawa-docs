@@ -8,6 +8,8 @@
 
 \> `const` **actionItemCategories**: [`OrganizationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/OrganizationResolvers.md)\[`"actionItemCategories"`\]
 
+Defined in: [src/resolvers/Organization/actionItemCategories.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Organization/actionItemCategories.ts#L16)
+
 Resolver function for the `actionItemCategories` field of an `Organization`.
 
 This function retrieves the action item categories related to a specific organization.
@@ -24,7 +26,3 @@ A promise that resolves to the action item category documents found in the datab
 
  - ActionItemCategory - The ActionItemCategory model used to interact with the action item categories collection in the database.
  - OrganizationResolvers - The type definition for the resolvers of the Organization fields.
-
-## Defined in
-
-[src/resolvers/Organization/actionItemCategories.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Organization/actionItemCategories.ts#L16)

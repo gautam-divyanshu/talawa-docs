@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/removeMember
 
-## Index
-
-### Variables
+## Variables
 
 - [removeMember](variables/removeMember.md)

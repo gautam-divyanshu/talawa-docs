@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createMember
 
-## Index
-
-### Variables
+## Variables
 
 - [createMember](variables/createMember.md)

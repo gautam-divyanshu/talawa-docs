@@ -6,8 +6,6 @@
 
 # resolvers/Query/checkAuth
 
-## Index
-
-### Variables
+## Variables
 
 - [checkAuth](variables/checkAuth.md)

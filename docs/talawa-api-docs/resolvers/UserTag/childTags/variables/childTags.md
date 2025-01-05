@@ -8,6 +8,8 @@
 
 \> `const` **childTags**: [`UserTagResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/UserTagResolvers.md)\[`"childTags"`\]
 
+Defined in: [src/resolvers/UserTag/childTags.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/UserTag/childTags.ts#L40)
+
 Resolver function for the `childTags` field of a `UserTag`.
 
 This resolver is used to resolve the `childTags` field of a `UserTag` type.
@@ -34,7 +36,3 @@ A promise that resolves to a connection object containing the child tags of the 
  - MAXIMUM_FETCH_LIMIT - The maximum number of child tags that can be fetched in a single request.
  - GraphQLError - The error class used to throw GraphQL errors.
  - UserTagResolvers - The type definition for the resolvers of the UserTag fields.
-
-## Defined in
-
-[src/resolvers/UserTag/childTags.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/UserTag/childTags.ts#L40)

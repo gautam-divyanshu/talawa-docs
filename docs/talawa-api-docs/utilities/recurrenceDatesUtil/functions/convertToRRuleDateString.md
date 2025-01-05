@@ -8,6 +8,8 @@
 
 \> **convertToRRuleDateString**(`date`): `string`
 
+Defined in: [src/utilities/recurrenceDatesUtil.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/recurrenceDatesUtil.ts#L24)
+
 This function converts the date to a valid rrule string argument.
 
 ## Parameters
@@ -23,7 +25,3 @@ the date string to be converted.
 `string`
 
 converted date string.
-
-## Defined in
-
-[src/utilities/recurrenceDatesUtil.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/recurrenceDatesUtil.ts#L24)

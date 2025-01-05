@@ -8,6 +8,8 @@
 
 \> `const` **createActionItem**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createActionItem"`\]
 
+Defined in: [src/resolvers/Mutation/createActionItem.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createActionItem.ts#L58)
+
 Creates a new action item and assigns it to a user.
 
 This function performs several checks:
@@ -41,7 +43,3 @@ The context of the entire application, including user information and other cont
 ## Returns
 
 A promise that resolves to the created action item object.
-
-## Defined in
-
-[src/resolvers/Mutation/createActionItem.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createActionItem.ts#L58)

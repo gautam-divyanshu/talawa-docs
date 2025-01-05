@@ -6,8 +6,6 @@
 
 # libraries/errors/notFoundError
 
-## Index
-
-### Classes
+## Classes
 
 - [NotFoundError](classes/NotFoundError.md)

@@ -8,6 +8,8 @@
 
 \> **setRequestContextValue**\<`T`\>(`key`, `value`): `T`
 
+Defined in: [src/libraries/requestContext.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/requestContext.ts#L17)
+
 Sets a value in the request context.
 
 ## Type Parameters
@@ -33,7 +35,3 @@ The value to store.
 `T`
 
 The stored value.
-
-## Defined in
-
-[src/libraries/requestContext.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/libraries/requestContext.ts#L17)

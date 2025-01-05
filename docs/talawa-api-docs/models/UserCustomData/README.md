@@ -6,12 +6,10 @@
 
 # models/UserCustomData
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceUserCustomData](interfaces/InterfaceUserCustomData.md)
 
-### Variables
+## Variables
 
 - [UserCustomData](variables/UserCustomData.md)

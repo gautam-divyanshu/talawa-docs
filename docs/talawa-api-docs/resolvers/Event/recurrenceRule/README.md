@@ -6,8 +6,6 @@
 
 # resolvers/Event/recurrenceRule
 
-## Index
-
-### Variables
+## Variables
 
 - [recurrenceRule](variables/recurrenceRule.md)

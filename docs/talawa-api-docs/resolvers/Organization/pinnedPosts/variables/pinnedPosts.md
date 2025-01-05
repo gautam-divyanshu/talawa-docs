@@ -8,6 +8,8 @@
 
 \> `const` **pinnedPosts**: [`OrganizationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/OrganizationResolvers.md)\[`"pinnedPosts"`\]
 
+Defined in: [src/resolvers/Organization/pinnedPosts.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Organization/pinnedPosts.ts#L18)
+
 Resolver function for the `pinnedPosts` field of an `Organization`.
 
 This function retrieves the posts that are pinned by a specific organization.
@@ -24,7 +26,3 @@ A promise that resolves to the post documents found in the database. These docum
 
  - Post - The Post model used to interact with the posts collection in the database.
  - OrganizationResolvers - The type definition for the resolvers of the Organization fields.
-
-## Defined in
-
-[src/resolvers/Organization/pinnedPosts.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Organization/pinnedPosts.ts#L18)

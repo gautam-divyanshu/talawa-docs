@@ -8,6 +8,8 @@
 
 \> **UserTag**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3171](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3171)
+
 ## Type declaration
 
 ### \_\_typename?
@@ -64,7 +66,3 @@ to.
 
 A connection field to traverse a list of Users this UserTag is not assigned
 to, to see and select among them and assign this tag.
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3166](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3166)

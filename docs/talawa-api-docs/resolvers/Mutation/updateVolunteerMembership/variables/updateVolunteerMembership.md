@@ -8,6 +8,8 @@
 
 \> `const` **updateVolunteerMembership**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"updateVolunteerMembership"`\]
 
+Defined in: [src/resolvers/Mutation/updateVolunteerMembership.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/updateVolunteerMembership.ts#L72)
+
 This function enables to update an Volunteer Membership
 
 ## Param
@@ -28,7 +30,3 @@ The following checks are done:
 1. Whether the user exists
 2. Update the Volunteer Membership
 3. update related fields of Volunteer Group & Volunteer
-
-## Defined in
-
-[src/resolvers/Mutation/updateVolunteerMembership.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/updateVolunteerMembership.ts#L72)

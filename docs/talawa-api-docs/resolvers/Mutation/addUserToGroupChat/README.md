@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/addUserToGroupChat
 
-## Index
-
-### Variables
+## Variables
 
 - [addUserToGroupChat](variables/addUserToGroupChat.md)

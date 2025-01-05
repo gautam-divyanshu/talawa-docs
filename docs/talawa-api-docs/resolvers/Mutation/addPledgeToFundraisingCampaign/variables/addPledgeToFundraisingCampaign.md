@@ -8,6 +8,8 @@
 
 \> `const` **addPledgeToFundraisingCampaign**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addPledgeToFundraisingCampaign"`\]
 
+Defined in: [src/resolvers/Mutation/addPledgeToFundraisingCampaign.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/addPledgeToFundraisingCampaign.ts#L41)
+
 Mutation resolver to add a pledge to a fundraising campaign.
 
 This function adds a specified pledge to a fundraising campaign. It performs several checks:
@@ -37,7 +39,3 @@ The context of the entire application, containing user information and other con
 ## Returns
 
 A promise that resolves to the updated pledge object.
-
-## Defined in
-
-[src/resolvers/Mutation/addPledgeToFundraisingCampaign.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/addPledgeToFundraisingCampaign.ts#L41)

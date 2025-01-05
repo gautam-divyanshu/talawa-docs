@@ -6,12 +6,10 @@
 
 # models/Plugin
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfacePlugin](interfaces/InterfacePlugin.md)
 
-### Variables
+## Variables
 
 - [Plugin](variables/Plugin.md)

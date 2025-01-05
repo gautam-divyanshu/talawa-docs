@@ -6,8 +6,6 @@
 
 # resolvers/Chat/creator
 
-## Index
-
-### Variables
+## Variables
 
 - [creator](variables/creator.md)

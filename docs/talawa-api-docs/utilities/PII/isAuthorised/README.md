@@ -6,8 +6,6 @@
 
 # utilities/PII/isAuthorised
 
-## Index
-
-### Functions
+## Functions
 
 - [isAuthorised](functions/isAuthorised.md)

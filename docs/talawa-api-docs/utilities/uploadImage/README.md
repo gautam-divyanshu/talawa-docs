@@ -6,8 +6,6 @@
 
 # utilities/uploadImage
 
-## Index
-
-### Functions
+## Functions
 
 - [uploadImage](functions/uploadImage.md)

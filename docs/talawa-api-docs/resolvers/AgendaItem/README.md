@@ -6,8 +6,6 @@
 
 # resolvers/AgendaItem
 
-## Index
-
-### Variables
+## Variables
 
 - [AgendaItem](variables/AgendaItem.md)

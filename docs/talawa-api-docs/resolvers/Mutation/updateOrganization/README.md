@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [updateOrganization](variables/updateOrganization.md)

@@ -6,8 +6,6 @@
 
 # REST/services/file/createFile
 
-## Index
-
-### Functions
+## Functions
 
 - [createFile](functions/createFile.md)

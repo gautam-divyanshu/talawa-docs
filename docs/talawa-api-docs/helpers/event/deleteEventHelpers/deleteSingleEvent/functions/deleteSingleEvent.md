@@ -8,6 +8,8 @@
 
 \> **deleteSingleEvent**(`eventId`, `session`, `recurrenceRule`?, `baseRecurringEvent`?): `Promise`\<`void`\>
 
+Defined in: [src/helpers/event/deleteEventHelpers/deleteSingleEvent.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/deleteEventHelpers/deleteSingleEvent.ts#L25)
+
 Deletes a single event.
 
 ## Parameters
@@ -46,7 +48,3 @@ This function performs the following steps:
 1. Removes all associations (attendees, users, profiles, action items) related to the event.
 2. Deletes the event document itself.
 3. If provided, removes any dangling documents related to the recurrence rule and base recurring event.
-
-## Defined in
-
-[src/helpers/event/deleteEventHelpers/deleteSingleEvent.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/deleteEventHelpers/deleteSingleEvent.ts#L25)

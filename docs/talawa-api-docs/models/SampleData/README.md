@@ -6,12 +6,10 @@
 
 # models/SampleData
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceSampleData](interfaces/InterfaceSampleData.md)
 
-### Variables
+## Variables
 
 - [SampleData](variables/SampleData.md)

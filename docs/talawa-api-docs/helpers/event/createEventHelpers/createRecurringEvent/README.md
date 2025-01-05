@@ -6,8 +6,6 @@
 
 # helpers/event/createEventHelpers/createRecurringEvent
 
-## Index
-
-### Functions
+## Functions
 
 - [createRecurringEvent](functions/createRecurringEvent.md)

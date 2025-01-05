@@ -6,8 +6,6 @@
 
 # resolvers/Query/organizationsMemberConnection
 
-## Index
-
-### Variables
+## Variables
 
 - [organizationsMemberConnection](variables/organizationsMemberConnection.md)

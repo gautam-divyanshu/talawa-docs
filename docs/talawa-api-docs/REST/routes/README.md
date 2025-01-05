@@ -6,8 +6,6 @@
 
 # REST/routes
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

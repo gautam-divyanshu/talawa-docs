@@ -6,6 +6,8 @@
 
 # Interface: InterfaceFeedback
 
+Defined in: [src/models/Feedback.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Feedback.ts#L12)
+
 Represents a document for feedback in the MongoDB database.
 This interface defines the structure and types of data that a feedback document will hold.
 
@@ -15,9 +17,7 @@ This interface defines the structure and types of data that a feedback document 
 
 \> **\_id**: `ObjectId`
 
-#### Defined in
-
-[src/models/Feedback.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Feedback.ts#L13)
+Defined in: [src/models/Feedback.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Feedback.ts#L13)
 
 ***
 
@@ -25,9 +25,7 @@ This interface defines the structure and types of data that a feedback document 
 
 \> **createdAt**: `Date`
 
-#### Defined in
-
-[src/models/Feedback.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Feedback.ts#L17)
+Defined in: [src/models/Feedback.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Feedback.ts#L17)
 
 ***
 
@@ -35,9 +33,7 @@ This interface defines the structure and types of data that a feedback document 
 
 \> **eventId**: `any`
 
-#### Defined in
-
-[src/models/Feedback.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Feedback.ts#L14)
+Defined in: [src/models/Feedback.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Feedback.ts#L14)
 
 ***
 
@@ -45,9 +41,7 @@ This interface defines the structure and types of data that a feedback document 
 
 \> **rating**: `number`
 
-#### Defined in
-
-[src/models/Feedback.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Feedback.ts#L15)
+Defined in: [src/models/Feedback.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Feedback.ts#L15)
 
 ***
 
@@ -55,9 +49,7 @@ This interface defines the structure and types of data that a feedback document 
 
 \> **review**: `null` \| `string`
 
-#### Defined in
-
-[src/models/Feedback.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Feedback.ts#L16)
+Defined in: [src/models/Feedback.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Feedback.ts#L16)
 
 ***
 
@@ -65,6 +57,4 @@ This interface defines the structure and types of data that a feedback document 
 
 \> **updatedAt**: `Date`
 
-#### Defined in
-
-[src/models/Feedback.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/Feedback.ts#L18)
+Defined in: [src/models/Feedback.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Feedback.ts#L18)

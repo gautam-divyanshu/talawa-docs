@@ -6,8 +6,6 @@
 
 # helpers/event/updateEventHelpers/shouldUpdateBaseRecurringEvent
 
-## Index
-
-### Functions
+## Functions
 
 - [shouldUpdateBaseRecurringEvent](functions/shouldUpdateBaseRecurringEvent.md)

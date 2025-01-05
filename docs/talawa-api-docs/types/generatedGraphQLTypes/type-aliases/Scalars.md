@@ -8,6 +8,8 @@
 
 \> **Scalars**: `object`
 
+Defined in: [src/types/generatedGraphQLTypes.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L48)
+
 All built-in and custom scalars, mapped to their actual values
 
 ## Type declaration
@@ -227,7 +229,3 @@ All built-in and custom scalars, mapped to their actual values
 #### URL.output
 
 \> **output**: `any`
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L48)

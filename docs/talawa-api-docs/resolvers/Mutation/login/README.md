@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/login
 
-## Index
-
-### Variables
+## Variables
 
 - [login](variables/login.md)

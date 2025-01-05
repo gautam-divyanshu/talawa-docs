@@ -6,12 +6,10 @@
 
 # models/ImageHash
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceImageHash](interfaces/InterfaceImageHash.md)
 
-### Variables
+## Variables
 
 - [ImageHash](variables/ImageHash.md)

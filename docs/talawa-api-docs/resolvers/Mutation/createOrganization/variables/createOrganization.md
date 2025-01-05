@@ -8,6 +8,8 @@
 
 \> `const` **createOrganization**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createOrganization"`\]
 
+Defined in: [src/resolvers/Mutation/createOrganization.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createOrganization.ts#L55)
+
 Creates a new organization.
 
 This resolver performs the following steps:
@@ -45,7 +47,3 @@ The created organization object.
 ## Remarks
 
 This function creates an organization, uploads an optional image, validates the input data, creates a default action item category, updates user records, and manages caching.
-
-## Defined in
-
-[src/resolvers/Mutation/createOrganization.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createOrganization.ts#L55)

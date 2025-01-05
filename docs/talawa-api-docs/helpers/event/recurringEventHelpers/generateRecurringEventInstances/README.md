@@ -6,12 +6,10 @@
 
 # helpers/event/recurringEventHelpers/generateRecurringEventInstances
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceRecurringEvent](interfaces/InterfaceRecurringEvent.md)
 
-### Functions
+## Functions
 
 - [generateRecurringEventInstances](functions/generateRecurringEventInstances.md)

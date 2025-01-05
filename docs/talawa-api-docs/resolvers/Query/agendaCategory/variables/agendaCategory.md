@@ -8,6 +8,8 @@
 
 \> `const` **agendaCategory**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"agendaCategory"`\]
 
+Defined in: [src/resolvers/Query/agendaCategory.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/agendaCategory.ts#L19)
+
 This is a resolver function for the GraphQL query 'agendaCategory'.
 
 This resolver fetches an agenda category by its ID.
@@ -31,7 +33,3 @@ A promise that resolves to the fetched agenda category.
 ## Throws
 
 `InternalServerError` For other potential issues during agenda category fetching.
-
-## Defined in
-
-[src/resolvers/Query/agendaCategory.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/agendaCategory.ts#L19)

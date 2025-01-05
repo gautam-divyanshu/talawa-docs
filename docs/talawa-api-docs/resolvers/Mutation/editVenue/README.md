@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/editVenue
 
-## Index
-
-### Variables
+## Variables
 
 - [editVenue](variables/editVenue.md)

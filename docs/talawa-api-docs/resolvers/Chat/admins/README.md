@@ -6,8 +6,6 @@
 
 # resolvers/Chat/admins
 
-## Index
-
-### Variables
+## Variables
 
 - [admins](variables/admins.md)

@@ -6,8 +6,6 @@
 
 # index
 
-## Index
-
-### Variables
+## Variables
 
 - [pubsub](variables/pubsub.md)

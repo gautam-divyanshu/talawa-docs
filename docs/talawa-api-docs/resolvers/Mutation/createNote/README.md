@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/createNote
 
-## Index
-
-### Variables
+## Variables
 
 - [createNote](variables/createNote.md)

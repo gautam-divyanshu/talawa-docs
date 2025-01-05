@@ -8,6 +8,8 @@
 
 \> **getUserTagGraphQLConnectionSort**(`__namedParameters`): `UserTagGraphQLConnectionSort`
 
+Defined in: [src/utilities/userTagsPaginationUtils/getUserTagGraphQLConnectionSort.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/userTagsPaginationUtils/getUserTagGraphQLConnectionSort.ts#L18)
+
 This function is used to get an object containing sorting logic.a
 
 ## Parameters
@@ -19,7 +21,3 @@ This function is used to get an object containing sorting logic.a
 ## Returns
 
 `UserTagGraphQLConnectionSort`
-
-## Defined in
-
-[src/utilities/userTagsPaginationUtils/getUserTagGraphQLConnectionSort.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/userTagsPaginationUtils/getUserTagGraphQLConnectionSort.ts#L18)

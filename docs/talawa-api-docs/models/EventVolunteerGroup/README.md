@@ -6,12 +6,10 @@
 
 # models/EventVolunteerGroup
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceEventVolunteerGroup](interfaces/InterfaceEventVolunteerGroup.md)
 
-### Variables
+## Variables
 
 - [EventVolunteerGroup](variables/EventVolunteerGroup.md)

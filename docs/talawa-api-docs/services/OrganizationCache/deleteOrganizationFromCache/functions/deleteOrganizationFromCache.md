@@ -8,6 +8,8 @@
 
 \> **deleteOrganizationFromCache**(`organization`): `Promise`\<`void`\>
 
+Defined in: [src/services/OrganizationCache/deleteOrganizationFromCache.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/services/OrganizationCache/deleteOrganizationFromCache.ts#L10)
+
 Deletes the specified organization from Redis cache.
 
 ## Parameters
@@ -23,7 +25,3 @@ The InterfaceOrganization object representing the organization to delete.
 `Promise`\<`void`\>
 
 A promise resolving to void.
-
-## Defined in
-
-[src/services/OrganizationCache/deleteOrganizationFromCache.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/services/OrganizationCache/deleteOrganizationFromCache.ts#L10)

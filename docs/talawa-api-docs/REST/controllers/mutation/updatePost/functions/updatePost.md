@@ -8,6 +8,8 @@
 
 \> **updatePost**(`req`, `res`): `Promise`\<`void`\>
 
+Defined in: [src/REST/controllers/mutation/updatePost.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/controllers/mutation/updatePost.ts#L73)
+
 Updates an existing post
 async
 function - updatePost
@@ -65,7 +67,3 @@ UnauthorizedError - When user lacks permissions to update the post
 ## Throws
 
 InputValidationError - When title/text validation fails or pinned status requirements aren't met
-
-## Defined in
-
-[src/REST/controllers/mutation/updatePost.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/REST/controllers/mutation/updatePost.ts#L73)

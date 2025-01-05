@@ -8,6 +8,8 @@
 
 \> **updateThisInstance**(`args`, `event`, `session`): `Promise`\<[`InterfaceEvent`](../../../../../models/Event/interfaces/InterfaceEvent.md)\>
 
+Defined in: [src/helpers/event/updateEventHelpers/updateThisInstance.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/updateEventHelpers/updateThisInstance.ts#L17)
+
 This function updates only this instance of a recurrence pattern.
 This will make the instance an exception to the recurrence pattern.
 
@@ -39,7 +41,3 @@ The updated recurring event instance.
 
 The following steps are followed:
 1. Update this instance.
-
-## Defined in
-
-[src/helpers/event/updateEventHelpers/updateThisInstance.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/helpers/event/updateEventHelpers/updateThisInstance.ts#L17)

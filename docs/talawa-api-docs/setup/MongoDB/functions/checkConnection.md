@@ -8,6 +8,8 @@
 
 \> **checkConnection**(`url`): `Promise`\<`boolean`\>
 
+Defined in: [src/setup/MongoDB.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/MongoDB.ts#L45)
+
 The `checkConnection` function attempts to establish a connection to a MongoDB instance using a provided URL.
 
 ## Parameters
@@ -32,7 +34,3 @@ It performs the following steps:
    - If the error is not an instance of the Error class, it logs a generic error message and the error itself.
 
 This function is used during the initial setup process to test the MongoDB connection.
-
-## Defined in
-
-[src/setup/MongoDB.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/setup/MongoDB.ts#L45)

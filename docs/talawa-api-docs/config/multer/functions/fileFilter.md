@@ -8,6 +8,8 @@
 
 \> **fileFilter**(`req`, `file`, `cb`): `void`
 
+Defined in: [src/config/multer/index.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/config/multer/index.ts#L27)
+
 File filter function for multer.
 
 This function checks the MIME type of the uploaded file against allowed image and video types.
@@ -43,7 +45,3 @@ The callback function to indicate if the file is accepted or rejected.
 ```typescript
 fileFilter(req, file, cb);
 ```
-
-## Defined in
-
-[src/config/multer/index.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/config/multer/index.ts#L27)

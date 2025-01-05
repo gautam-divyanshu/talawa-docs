@@ -8,6 +8,8 @@
 
 \> `const` **hasSubmittedFeedback**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"hasSubmittedFeedback"`\]
 
+Defined in: [src/resolvers/Query/hasSubmittedFeedback.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/hasSubmittedFeedback.ts#L22)
+
 Checks whether a user has submitted feedback for a specific event.
 
 This function verifies if the given user and event exist in the database. It then checks if the user is registered and checked in for the event. Finally, it determines whether the user has submitted feedback for that event based on the check-in record.
@@ -25,7 +27,3 @@ The arguments provided to the GraphQL query. Should include:
 ## Returns
 
 A boolean value indicating whether the user has submitted feedback for the event. This is determined by checking the `feedbackSubmitted` property of the check-in record.
-
-## Defined in
-
-[src/resolvers/Query/hasSubmittedFeedback.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/hasSubmittedFeedback.ts#L22)

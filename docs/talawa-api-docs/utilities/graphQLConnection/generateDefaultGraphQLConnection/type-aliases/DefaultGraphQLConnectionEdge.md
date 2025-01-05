@@ -8,6 +8,8 @@
 
 \> **DefaultGraphQLConnectionEdge**\<`T0`\>: `object`
 
+Defined in: [src/utilities/graphQLConnection/generateDefaultGraphQLConnection.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/generateDefaultGraphQLConnection.ts#L8)
+
 This is typescript type of a base graphQL connection edge object. This connection edge object
 can be extended to create a custom connection edge object as long as the new connection edge
 object adheres to the default type of this base connection edge object.
@@ -25,7 +27,3 @@ object adheres to the default type of this base connection edge object.
 ### node
 
 \> **node**: `T0`
-
-## Defined in
-
-[src/utilities/graphQLConnection/generateDefaultGraphQLConnection.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/graphQLConnection/generateDefaultGraphQLConnection.ts#L8)

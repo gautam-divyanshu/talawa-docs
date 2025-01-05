@@ -6,14 +6,12 @@
 
 # libraries/requestTracing
 
-## Index
-
-### Variables
+## Variables
 
 - [requestTracingNamespace](variables/requestTracingNamespace.md)
 - [tracingIdHeaderName](variables/tracingIdHeaderName.md)
 
-### Functions
+## Functions
 
 - [getTracingId](functions/getTracingId.md)
 - [middleware](functions/middleware.md)

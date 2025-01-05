@@ -6,6 +6,8 @@
 
 # Enumeration: WeekDays
 
+Defined in: [src/models/RecurrenceRule.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L22)
+
 Enumeration for weekdays.
 
 ## Enumeration Members
@@ -14,9 +16,7 @@ Enumeration for weekdays.
 
 \> **FRIDAY**: `"FRIDAY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L28)
+Defined in: [src/models/RecurrenceRule.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L28)
 
 ***
 
@@ -24,9 +24,7 @@ Enumeration for weekdays.
 
 \> **MONDAY**: `"MONDAY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L24)
+Defined in: [src/models/RecurrenceRule.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L24)
 
 ***
 
@@ -34,9 +32,7 @@ Enumeration for weekdays.
 
 \> **SATURDAY**: `"SATURDAY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L29)
+Defined in: [src/models/RecurrenceRule.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L29)
 
 ***
 
@@ -44,9 +40,7 @@ Enumeration for weekdays.
 
 \> **SUNDAY**: `"SUNDAY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L23)
+Defined in: [src/models/RecurrenceRule.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L23)
 
 ***
 
@@ -54,9 +48,7 @@ Enumeration for weekdays.
 
 \> **THURSDAY**: `"THURSDAY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L27)
+Defined in: [src/models/RecurrenceRule.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L27)
 
 ***
 
@@ -64,9 +56,7 @@ Enumeration for weekdays.
 
 \> **TUESDAY**: `"TUESDAY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L25)
+Defined in: [src/models/RecurrenceRule.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L25)
 
 ***
 
@@ -74,6 +64,4 @@ Enumeration for weekdays.
 
 \> **WEDNESDAY**: `"WEDNESDAY"`
 
-#### Defined in
-
-[src/models/RecurrenceRule.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/models/RecurrenceRule.ts#L26)
+Defined in: [src/models/RecurrenceRule.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/RecurrenceRule.ts#L26)

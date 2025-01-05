@@ -8,6 +8,8 @@
 
 \> `const` **relatedEvent**: [`AgendaItemResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/AgendaItemResolvers.md)\[`"relatedEvent"`\]
 
+Defined in: [src/resolvers/AgendaItem/relatedEvent.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/AgendaItem/relatedEvent.ts#L16)
+
 Resolver function for the `relatedEvent` field of an `AgendaItem`.
 
 This function retrieves the event related to a specific agenda item.
@@ -24,7 +26,3 @@ A promise that resolves to the event document found in the database. This docume
 
  - Event - The Event model used to interact with the events collection in the database.
  - AgendaItemResolvers - The type definition for the resolvers of the AgendaItem fields.
-
-## Defined in
-
-[src/resolvers/AgendaItem/relatedEvent.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/AgendaItem/relatedEvent.ts#L16)

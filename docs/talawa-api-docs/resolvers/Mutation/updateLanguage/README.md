@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateLanguage
 
-## Index
-
-### Variables
+## Variables
 
 - [updateLanguage](variables/updateLanguage.md)

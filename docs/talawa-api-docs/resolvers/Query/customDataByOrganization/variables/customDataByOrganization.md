@@ -8,6 +8,8 @@
 
 \> `const` **customDataByOrganization**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"customDataByOrganization"`\]
 
+Defined in: [src/resolvers/Query/customDataByOrganization.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/customDataByOrganization.ts#L13)
+
 This query will fetch all the customData of the members of the organization in the database.
 
 ## Param
@@ -21,7 +23,3 @@ An object that contains `id` of the organization.
 An object `customDatas` that contains all the custom fields of the specified organization.
 The following checks are made:
  1. if the organization exists
-
-## Defined in
-
-[src/resolvers/Query/customDataByOrganization.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/customDataByOrganization.ts#L13)

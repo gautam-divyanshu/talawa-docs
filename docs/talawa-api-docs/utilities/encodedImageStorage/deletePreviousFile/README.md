@@ -6,8 +6,6 @@
 
 # utilities/encodedImageStorage/deletePreviousFile
 
-## Index
-
-### Functions
+## Functions
 
 - [deletePreviousFile](functions/deletePreviousFile.md)

@@ -6,8 +6,6 @@
 
 # helpers/event/recurringEventHelpers/createRecurrenceRule
 
-## Index
-
-### Functions
+## Functions
 
 - [createRecurrenceRule](functions/createRecurrenceRule.md)

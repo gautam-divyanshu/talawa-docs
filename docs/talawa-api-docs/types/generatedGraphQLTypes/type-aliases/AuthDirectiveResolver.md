@@ -8,6 +8,8 @@
 
 \> **AuthDirectiveResolver**\<`Result`, `Parent`, `ContextType`, `Args`\>: [`DirectiveResolverFn`](DirectiveResolverFn.md)\<`Result`, `Parent`, `ContextType`, `Args`\>
 
+Defined in: [src/types/generatedGraphQLTypes.ts:3951](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L3951)
+
 ## Type Parameters
 
 • **Result**
@@ -17,7 +19,3 @@
 • **ContextType** = `any`
 
 • **Args** = [`AuthDirectiveArgs`](AuthDirectiveArgs.md)
-
-## Defined in
-
-[src/types/generatedGraphQLTypes.ts:3944](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/types/generatedGraphQLTypes.ts#L3944)

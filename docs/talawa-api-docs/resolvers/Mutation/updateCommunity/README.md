@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateCommunity
 
-## Index
-
-### Variables
+## Variables
 
 - [updateCommunity](variables/updateCommunity.md)

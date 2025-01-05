@@ -8,6 +8,8 @@
 
 \> **ParsedGraphQLConnectionArgumentsWithSortedBy**\<`T0`, `T1`\>: `object` & [`ParsedGraphQLConnectionArguments`](../../parseGraphQLConnectionArguments/type-aliases/ParsedGraphQLConnectionArguments.md)\<`T0`\>
 
+Defined in: [src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedBy.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedBy.ts#L29)
+
 This is typescript type of the object containing validated and transformed connection
 arguments passed to `parseGraphQLConnectionArgumentsWithSortedBy` function.
 
@@ -22,7 +24,3 @@ arguments passed to `parseGraphQLConnectionArgumentsWithSortedBy` function.
 • **T0**
 
 • **T1**
-
-## Defined in
-
-[src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedBy.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedBy.ts#L29)

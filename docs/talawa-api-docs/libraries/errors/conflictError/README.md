@@ -6,8 +6,6 @@
 
 # libraries/errors/conflictError
 
-## Index
-
-### Classes
+## Classes
 
 - [ConflictError](classes/ConflictError.md)

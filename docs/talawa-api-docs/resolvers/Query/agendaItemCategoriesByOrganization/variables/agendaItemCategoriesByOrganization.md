@@ -8,6 +8,8 @@
 
 \> `const` **agendaItemCategoriesByOrganization**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"agendaItemCategoriesByOrganization"`\]
 
+Defined in: [src/resolvers/Query/agendaItemCategoriesByOrganization.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/agendaItemCategoriesByOrganization.ts#L10)
+
 This query will fetch all categories for the organization from database.
 
 ## Param
@@ -19,7 +21,3 @@ An object that contains `organizationId` which is the _id of the Organization.
 ## Returns
 
 A `categories` object that holds all categories for the Organization.
-
-## Defined in
-
-[src/resolvers/Query/agendaItemCategoriesByOrganization.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/agendaItemCategoriesByOrganization.ts#L9)

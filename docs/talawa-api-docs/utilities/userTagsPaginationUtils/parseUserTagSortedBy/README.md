@@ -6,12 +6,10 @@
 
 # utilities/userTagsPaginationUtils/parseUserTagSortedBy
 
-## Index
-
-### Type Aliases
+## Type Aliases
 
 - [ParseSortedByResult](type-aliases/ParseSortedByResult.md)
 
-### Functions
+## Functions
 
 - [parseUserTagSortedBy](functions/parseUserTagSortedBy.md)

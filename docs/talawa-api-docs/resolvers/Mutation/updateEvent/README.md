@@ -6,8 +6,6 @@
 
 # resolvers/Mutation/updateEvent
 
-## Index
-
-### Variables
+## Variables
 
 - [updateEvent](variables/updateEvent.md)

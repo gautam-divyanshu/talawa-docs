@@ -6,8 +6,6 @@
 
 # REST/controllers/mutation/createPost
 
-## Index
-
-### Functions
+## Functions
 
 - [createPost](functions/createPost.md)

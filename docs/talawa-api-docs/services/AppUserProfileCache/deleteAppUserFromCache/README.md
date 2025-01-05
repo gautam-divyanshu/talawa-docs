@@ -6,8 +6,6 @@
 
 # services/AppUserProfileCache/deleteAppUserFromCache
 
-## Index
-
-### Functions
+## Functions
 
 - [deleteAppUserFromCache](functions/deleteAppUserFromCache.md)

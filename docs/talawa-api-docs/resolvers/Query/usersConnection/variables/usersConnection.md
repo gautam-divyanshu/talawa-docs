@@ -8,6 +8,8 @@
 
 \> `const` **usersConnection**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"usersConnection"`\]
 
+Defined in: [src/resolvers/Query/usersConnection.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/usersConnection.ts#L16)
+
 This query will fetch all the users in a specified order to paginate from the database.
 
 ## Param
@@ -24,7 +26,3 @@ An object that contains list of the users.
 
 Connection in graphQL means pagination,
 learn more about Connection [here](https://relay.dev/graphql/connections.htm).
-
-## Defined in
-
-[src/resolvers/Query/usersConnection.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Query/usersConnection.ts#L16)

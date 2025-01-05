@@ -8,6 +8,8 @@
 
 \> `const` **user**: [`MembershipRequestResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MembershipRequestResolvers.md)\[`"user"`\]
 
+Defined in: [src/resolvers/MembershipRequest/user.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/MembershipRequest/user.ts#L18)
+
 Resolver function for the `user` field of a `MembershipRequest`.
 
 This function retrieves the user who made a specific membership request.
@@ -24,7 +26,3 @@ A promise that resolves to the user document found in the database. This documen
 
  - User - The User model used to interact with the users collection in the database.
  - MembershipRequestResolvers - The type definition for the resolvers of the MembershipRequest fields.
-
-## Defined in
-
-[src/resolvers/MembershipRequest/user.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/MembershipRequest/user.ts#L18)

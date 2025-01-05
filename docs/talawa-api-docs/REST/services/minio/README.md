@@ -6,13 +6,11 @@
 
 # REST/services/minio
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceUploadResult](interfaces/InterfaceUploadResult.md)
 
-### Functions
+## Functions
 
 - [deleteFile](functions/deleteFile.md)
 - [uploadMedia](functions/uploadMedia.md)

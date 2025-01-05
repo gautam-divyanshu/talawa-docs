@@ -6,8 +6,6 @@
 
 # helpers/event/deleteEventHelpers/deleteRecurringEvent
 
-## Index
-
-### Functions
+## Functions
 
 - [deleteRecurringEvent](functions/deleteRecurringEvent.md)

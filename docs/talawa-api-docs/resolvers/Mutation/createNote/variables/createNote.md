@@ -8,6 +8,8 @@
 
 \> `const` **createNote**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createNote"`\]
 
+Defined in: [src/resolvers/Mutation/createNote.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createNote.ts#L40)
+
 Creates a note for a specified agenda item.
 
 This resolver performs the following actions:
@@ -40,7 +42,3 @@ The created note object.
 ## Remarks
 
 This function creates a note, associates it with the specified agenda item, and updates the agenda item to include the new note. It also handles caching and error scenarios.
-
-## Defined in
-
-[src/resolvers/Mutation/createNote.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/createNote.ts#L40)

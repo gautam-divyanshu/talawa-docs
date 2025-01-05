@@ -8,6 +8,8 @@
 
 \> `const` **removeActionItem**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"removeActionItem"`\]
 
+Defined in: [src/resolvers/Mutation/removeActionItem.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/removeActionItem.ts#L35)
+
 This function enables to remove an action item.
 
 ## Param
@@ -33,7 +35,3 @@ The following checks are done:
 ## Returns
 
 deleted action item.
-
-## Defined in
-
-[src/resolvers/Mutation/removeActionItem.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3a5276aff43f5de4f7fab3ec9683a420dcdc7a06/src/resolvers/Mutation/removeActionItem.ts#L35)

@@ -6,8 +6,6 @@
 
 # resolvers/middleware/currentUserExists
 
-## Index
-
-### Functions
+## Functions
 
 - [currentUserExists](functions/currentUserExists.md)
