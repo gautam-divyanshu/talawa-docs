@@ -28,4 +28,4 @@ Component that mocks the TagActions component for the Manage Tag screen.
 
 ## Defined in
 
-[src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx#L8)
+[src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx#L8)

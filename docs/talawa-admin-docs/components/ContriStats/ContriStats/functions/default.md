@@ -6,15 +6,13 @@
 
 # Function: default()
 
-\> **default**(`props`): `JSX.Element`
+\> **default**(`__namedParameters`): `JSX.Element`
 
 A component that displays contribution statistics.
 
 ## Parameters
 
-• **props**: `InterfaceContriStatsProps`
-
-The properties passed to the component, including `recentAmount`, `highestAmount`, and `totalAmount`.
+• **\_\_namedParameters**: `InterfaceContriStatsProps`
 
 ## Returns
 
@@ -24,4 +22,4 @@ JSX.Element - The rendered component displaying the contribution stats.
 
 ## Defined in
 
-[src/components/ContriStats/ContriStats.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/ContriStats/ContriStats.tsx#L20)
+[src/components/ContriStats/ContriStats.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/ContriStats/ContriStats.tsx#L22)

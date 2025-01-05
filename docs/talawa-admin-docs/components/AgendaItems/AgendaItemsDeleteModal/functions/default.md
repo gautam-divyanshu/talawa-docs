@@ -29,4 +29,4 @@ Displays a confirmation dialog when a user attempts to delete an agenda item.
 
 ## Defined in
 
-[src/components/AgendaItems/AgendaItemsDeleteModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/AgendaItems/AgendaItemsDeleteModal.tsx#L23)
+[src/components/AgendaItems/AgendaItemsDeleteModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AgendaItems/AgendaItemsDeleteModal.tsx#L23)

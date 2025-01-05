@@ -44,4 +44,4 @@ JSX.Element - The recurrence options dropdown and the custom recurrence modal.
 
 ## Defined in
 
-[src/components/RecurrenceOptions/RecurrenceOptions.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/RecurrenceOptions/RecurrenceOptions.tsx#L49)
+[src/components/RecurrenceOptions/RecurrenceOptions.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/RecurrenceOptions/RecurrenceOptions.tsx#L49)

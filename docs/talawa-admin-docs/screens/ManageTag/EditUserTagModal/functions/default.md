@@ -26,4 +26,4 @@
 
 ## Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/ManageTag/EditUserTagModal.tsx#L20)
+[src/screens/ManageTag/EditUserTagModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/EditUserTagModal.tsx#L20)

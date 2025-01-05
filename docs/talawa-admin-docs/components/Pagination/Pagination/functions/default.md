@@ -28,4 +28,4 @@ The rendered component.
 
 ## Defined in
 
-[src/components/Pagination/Pagination.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/Pagination/Pagination.tsx#L30)
+[src/components/Pagination/Pagination.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/Pagination/Pagination.tsx#L30)

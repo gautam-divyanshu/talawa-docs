@@ -23,4 +23,4 @@ JSX.Element - The rendered component with delete functionality.
 
 ## Defined in
 
-[src/components/OrgSettings/General/DeleteOrg/DeleteOrg.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/OrgSettings/General/DeleteOrg/DeleteOrg.tsx#L26)
+[src/components/OrgSettings/General/DeleteOrg/DeleteOrg.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/General/DeleteOrg/DeleteOrg.tsx#L26)

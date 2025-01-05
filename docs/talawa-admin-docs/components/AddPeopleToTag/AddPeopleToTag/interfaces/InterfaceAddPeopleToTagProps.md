@@ -16,7 +16,7 @@ Props for the `AddPeopleToTag` component.
 
 #### Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L29)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L29)
 
 ***
 
@@ -30,7 +30,7 @@ Props for the `AddPeopleToTag` component.
 
 #### Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L30)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L30)
 
 ***
 
@@ -44,7 +44,7 @@ Props for the `AddPeopleToTag` component.
 
 #### Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L31)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L31)
 
 ***
 
@@ -54,7 +54,7 @@ Props for the `AddPeopleToTag` component.
 
 #### Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L32)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L32)
 
 ***
 
@@ -64,4 +64,4 @@ Props for the `AddPeopleToTag` component.
 
 #### Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L33)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L33)

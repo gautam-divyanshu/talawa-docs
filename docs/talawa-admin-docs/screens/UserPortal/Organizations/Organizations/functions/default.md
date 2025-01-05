@@ -16,4 +16,4 @@ Component for displaying and managing user organizations.
 
 ## Defined in
 
-[src/screens/UserPortal/Organizations/Organizations.tsx:76](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/UserPortal/Organizations/Organizations.tsx#L76)
+[src/screens/UserPortal/Organizations/Organizations.tsx:76](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Organizations/Organizations.tsx#L76)

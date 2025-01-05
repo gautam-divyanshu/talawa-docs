@@ -28,4 +28,4 @@ The JSX element representing the RequestsTableItem.
 
 ## Defined in
 
-[src/components/RequestsTableItem/RequestsTableItem.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/RequestsTableItem/RequestsTableItem.tsx#L45)
+[src/components/RequestsTableItem/RequestsTableItem.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/RequestsTableItem/RequestsTableItem.tsx#L45)

@@ -33,4 +33,4 @@ JSX.Element - The rendered calendar component.
 
 ## Defined in
 
-[src/components/EventCalendar/YearlyEventCalender.tsx:95](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/EventCalendar/YearlyEventCalender.tsx#L95)
+[src/components/EventCalendar/YearlyEventCalender.tsx:95](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventCalendar/YearlyEventCalender.tsx#L95)

@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[src/screens/OrganizationFundCampaign/OrganizationFundCampaignMocks.ts:300](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/OrganizationFundCampaign/OrganizationFundCampaignMocks.ts#L300)
+[src/screens/OrganizationFundCampaign/OrganizationFundCampaignMocks.ts:300](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationFundCampaign/OrganizationFundCampaignMocks.ts#L300)

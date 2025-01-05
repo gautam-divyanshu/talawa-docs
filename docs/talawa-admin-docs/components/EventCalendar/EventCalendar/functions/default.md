@@ -26,4 +26,4 @@
 
 ## Defined in
 
-[src/components/EventCalendar/EventCalendar.tsx:60](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/EventCalendar/EventCalendar.tsx#L60)
+[src/components/EventCalendar/EventCalendar.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventCalendar/EventCalendar.tsx#L58)

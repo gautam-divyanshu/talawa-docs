@@ -30,4 +30,4 @@ Modal component with form for adding new attendee
 
 ## Defined in
 
-[src/components/EventRegistrantsModal/AddOnSpotAttendee.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/components/EventRegistrantsModal/AddOnSpotAttendee.tsx#L21)
+[src/components/EventRegistrantsModal/AddOnSpotAttendee.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventRegistrantsModal/AddOnSpotAttendee.tsx#L21)

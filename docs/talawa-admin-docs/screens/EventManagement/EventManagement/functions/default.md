@@ -33,4 +33,4 @@ JSX.Element - The `EventManagement` component.
 
 ## Defined in
 
-[src/screens/EventManagement/EventManagement.tsx:90](https://github.com/PalisadoesFoundation/talawa-admin/blob/b465221425f3dcc638f77fbf5f1ccedb8e0dd082/src/screens/EventManagement/EventManagement.tsx#L90)
+[src/screens/EventManagement/EventManagement.tsx:91](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventManagement/EventManagement.tsx#L91)
