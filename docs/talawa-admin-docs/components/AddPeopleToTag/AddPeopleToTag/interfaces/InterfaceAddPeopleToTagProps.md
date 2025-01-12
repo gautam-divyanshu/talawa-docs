@@ -12,17 +12,17 @@ Props for the `AddPeopleToTag` component.
 
 ### addPeopleToTagModalIsOpen
 
-\> **addPeopleToTagModalIsOpen**: `boolean`
+> **addPeopleToTagModalIsOpen**: `boolean`
 
 #### Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L29)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L29)
 
 ***
 
 ### hideAddPeopleToTagModal()
 
-\> **hideAddPeopleToTagModal**: () =\> `void`
+> **hideAddPeopleToTagModal**: () => `void`
 
 #### Returns
 
@@ -30,13 +30,13 @@ Props for the `AddPeopleToTag` component.
 
 #### Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L30)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L30)
 
 ***
 
 ### refetchAssignedMembersData()
 
-\> **refetchAssignedMembersData**: () =\> `void`
+> **refetchAssignedMembersData**: () => `void`
 
 #### Returns
 
@@ -44,24 +44,24 @@ Props for the `AddPeopleToTag` component.
 
 #### Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L31)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L31)
 
 ***
 
 ### t
 
-\> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
+> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
 
 #### Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L32)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L32)
 
 ***
 
 ### tCommon
 
-\> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
+> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
 
 #### Defined in
 
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L33)
+[src/components/AddPeopleToTag/AddPeopleToTag.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L33)

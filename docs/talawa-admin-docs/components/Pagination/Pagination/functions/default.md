@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `JSX.Element`
+> **default**(`props`): `JSX.Element`
 
 Pagination component for navigating between pages in a table.
 
@@ -28,4 +28,4 @@ The rendered component.
 
 ## Defined in
 
-[src/components/Pagination/Pagination.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/Pagination/Pagination.tsx#L30)
+[src/components/Pagination/Pagination.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/Pagination/Pagination.tsx#L30)

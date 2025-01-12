@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 Renders a profile dropdown menu for the user.
 
@@ -25,4 +25,4 @@ JSX.Element - The profile dropdown menu.
 
 ## Defined in
 
-[src/components/ProfileDropdown/ProfileDropdown.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/ProfileDropdown/ProfileDropdown.tsx#L24)
+[src/components/ProfileDropdown/ProfileDropdown.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/ProfileDropdown/ProfileDropdown.tsx#L24)

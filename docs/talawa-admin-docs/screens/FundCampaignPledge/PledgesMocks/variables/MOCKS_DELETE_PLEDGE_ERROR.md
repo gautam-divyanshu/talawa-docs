@@ -6,8 +6,8 @@
 
 # Variable: MOCKS\_DELETE\_PLEDGE\_ERROR
 
-\> `const` **MOCKS\_DELETE\_PLEDGE\_ERROR**: (`object` \| `object`)[]
+> `const` **MOCKS\_DELETE\_PLEDGE\_ERROR**: (`object` \| `object`)[]
 
 ## Defined in
 
-[src/screens/FundCampaignPledge/PledgesMocks.ts:374](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/FundCampaignPledge/PledgesMocks.ts#L374)
+[src/screens/FundCampaignPledge/PledgesMocks.ts:374](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/FundCampaignPledge/PledgesMocks.ts#L374)

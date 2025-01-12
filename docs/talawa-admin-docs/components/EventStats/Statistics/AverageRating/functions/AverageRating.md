@@ -6,7 +6,7 @@
 
 # Function: AverageRating()
 
-\> **AverageRating**(`data`): `Element`
+> **AverageRating**(`data`): `Element`
 
 Component that displays the average rating for an event.
 Shows a rating value and a star rating icon.
@@ -25,4 +25,4 @@ JSX element representing the average rating card with a star rating.
 
 ## Defined in
 
-[src/components/EventStats/Statistics/AverageRating.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventStats/Statistics/AverageRating.tsx#L33)
+[src/components/EventStats/Statistics/AverageRating.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventStats/Statistics/AverageRating.tsx#L33)

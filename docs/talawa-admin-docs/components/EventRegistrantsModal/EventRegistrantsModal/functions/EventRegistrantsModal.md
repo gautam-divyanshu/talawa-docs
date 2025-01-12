@@ -6,7 +6,7 @@
 
 # Function: EventRegistrantsModal()
 
-\> **EventRegistrantsModal**(`props`): `Element`
+> **EventRegistrantsModal**(`props`): `Element`
 
 Modal component for managing event registrants.
 Allows adding and removing attendees from an event.
@@ -23,4 +23,4 @@ JSX element representing the modal.
 
 ## Defined in
 
-[src/components/EventRegistrantsModal/EventRegistrantsModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventRegistrantsModal/EventRegistrantsModal.tsx#L44)
+[src/components/EventRegistrantsModal/EventRegistrantsModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventRegistrantsModal/EventRegistrantsModal.tsx#L44)

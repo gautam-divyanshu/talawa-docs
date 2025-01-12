@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `Element`
+> **default**(`props`): `Element`
 
 Renders an icon based on the provided name.
 
@@ -24,4 +24,4 @@ JSX element representing the icon.
 
 ## Defined in
 
-[src/components/IconComponent/IconComponent.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/IconComponent/IconComponent.tsx#L39)
+[src/components/IconComponent/IconComponent.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/IconComponent/IconComponent.tsx#L39)

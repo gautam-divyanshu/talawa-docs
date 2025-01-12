@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`__namedParameters`): `Element`
+> **default**(`__namedParameters`): `Element`
 
 A modal component for creating a new post.
 
@@ -27,4 +27,4 @@ JSX.Element - The rendered modal component.
 
 ## Defined in
 
-[src/components/UserPortal/StartPostModal/StartPostModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/UserPortal/StartPostModal/StartPostModal.tsx#L40)
+[src/components/UserPortal/StartPostModal/StartPostModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/UserPortal/StartPostModal/StartPostModal.tsx#L40)

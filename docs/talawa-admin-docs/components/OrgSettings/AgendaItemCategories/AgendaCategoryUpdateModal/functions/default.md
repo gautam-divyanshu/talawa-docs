@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 AgendaCategoryUpdateModal component is used to update the agenda category details like name, description
 
@@ -30,4 +30,4 @@ returns the AgendaCategoryUpdateModal component
 
 ## Defined in
 
-[src/components/OrgSettings/AgendaItemCategories/AgendaCategoryUpdateModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryUpdateModal.tsx#L40)
+[src/components/OrgSettings/AgendaItemCategories/AgendaCategoryUpdateModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryUpdateModal.tsx#L40)

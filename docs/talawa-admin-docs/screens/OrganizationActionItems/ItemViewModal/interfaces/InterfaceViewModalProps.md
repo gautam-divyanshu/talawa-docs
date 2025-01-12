@@ -10,7 +10,7 @@
 
 ### hide()
 
-\> **hide**: () =\> `void`
+> **hide**: () => `void`
 
 #### Returns
 
@@ -18,24 +18,24 @@
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationActionItems/ItemViewModal.tsx#L15)
+[src/screens/OrganizationActionItems/ItemViewModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/ItemViewModal.tsx#L15)
 
 ***
 
 ### isOpen
 
-\> **isOpen**: `boolean`
+> **isOpen**: `boolean`
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationActionItems/ItemViewModal.tsx#L14)
+[src/screens/OrganizationActionItems/ItemViewModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/ItemViewModal.tsx#L14)
 
 ***
 
 ### item
 
-\> **item**: `InterfaceActionItemInfo`
+> **item**: `InterfaceActionItemInfo`
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationActionItems/ItemViewModal.tsx#L16)
+[src/screens/OrganizationActionItems/ItemViewModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/ItemViewModal.tsx#L16)

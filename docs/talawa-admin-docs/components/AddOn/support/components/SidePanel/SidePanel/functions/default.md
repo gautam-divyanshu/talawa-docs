@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `JSX.Element`
+> **default**(`props`): `JSX.Element`
 
 A React component that renders a side panel with an optional collapse state.
 
@@ -25,11 +25,11 @@ A JSX element containing the side panel with the provided child elements.
 ## Example
 
 ```ts
-\<SidePanel collapse="true"\>
-  \<p\>Side panel content\</p\>
-\</SidePanel\>
+<SidePanel collapse="true">
+  <p>Side panel content</p>
+</SidePanel>
 ```
 
 ## Defined in
 
-[src/components/AddOn/support/components/SidePanel/SidePanel.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddOn/support/components/SidePanel/SidePanel.tsx#L30)
+[src/components/AddOn/support/components/SidePanel/SidePanel.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddOn/support/components/SidePanel/SidePanel.tsx#L30)

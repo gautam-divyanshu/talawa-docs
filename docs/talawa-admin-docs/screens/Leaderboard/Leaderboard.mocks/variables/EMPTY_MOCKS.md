@@ -6,8 +6,8 @@
 
 # Variable: EMPTY\_MOCKS
 
-\> `const` **EMPTY\_MOCKS**: `object`[]
+> `const` **EMPTY\_MOCKS**: `object`[]
 
 ## Defined in
 
-[src/screens/Leaderboard/Leaderboard.mocks.ts:162](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/Leaderboard/Leaderboard.mocks.ts#L162)
+[src/screens/Leaderboard/Leaderboard.mocks.ts:162](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/Leaderboard/Leaderboard.mocks.ts#L162)

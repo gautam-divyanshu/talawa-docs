@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 `CommunityProfile` component allows users to view and update their community profile details.
 
@@ -24,9 +24,9 @@ JSX.Element - The `CommunityProfile` component.
 ## Example
 
 ```tsx
-\<CommunityProfile /\>
+<CommunityProfile />
 ```
 
 ## Defined in
 
-[src/screens/CommunityProfile/CommunityProfile.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/CommunityProfile/CommunityProfile.tsx#L40)
+[src/screens/CommunityProfile/CommunityProfile.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/CommunityProfile/CommunityProfile.tsx#L40)

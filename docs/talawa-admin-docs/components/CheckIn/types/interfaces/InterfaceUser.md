@@ -10,28 +10,28 @@
 
 ### \_id
 
-\> **\_id**: `string`
+> **\_id**: `string`
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:2](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L2)
+[src/components/CheckIn/types.ts:2](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L2)
 
 ***
 
 ### firstName
 
-\> **firstName**: `string`
+> **firstName**: `string`
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L3)
+[src/components/CheckIn/types.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L3)
 
 ***
 
 ### lastName
 
-\> **lastName**: `string`
+> **lastName**: `string`
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L4)
+[src/components/CheckIn/types.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L4)

@@ -6,46 +6,46 @@
 
 # Variable: actionItemCategoryListQuery
 
-\> `const` **actionItemCategoryListQuery**: `object`
+> `const` **actionItemCategoryListQuery**: `object`
 
 ## Type declaration
 
 ### request
 
-\> **request**: `object`
+> **request**: `object`
 
 ### request.query
 
-\> **query**: `DocumentNode` = `ACTION_ITEM_CATEGORY_LIST`
+> **query**: `DocumentNode` = `ACTION_ITEM_CATEGORY_LIST`
 
 ### request.variables
 
-\> **variables**: `object`
+> **variables**: `object`
 
 ### request.variables.organizationId
 
-\> **organizationId**: `string` = `'orgId'`
+> **organizationId**: `string` = `'orgId'`
 
 ### request.variables.where
 
-\> **where**: `object`
+> **where**: `object`
 
 ### request.variables.where.is\_disabled
 
-\> **is\_disabled**: `boolean` = `false`
+> **is\_disabled**: `boolean` = `false`
 
 ### result
 
-\> **result**: `object`
+> **result**: `object`
 
 ### result.data
 
-\> **data**: `object`
+> **data**: `object`
 
 ### result.data.actionItemCategoriesByOrganization
 
-\> **actionItemCategoriesByOrganization**: `object`[]
+> **actionItemCategoriesByOrganization**: (`object` \| `object`)[]
 
 ## Defined in
 
-[src/screens/OrganizationActionItems/testObject.mocks.ts:366](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationActionItems/testObject.mocks.ts#L366)
+[src/screens/OrganizationActionItems/testObject.mocks.ts:408](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/testObject.mocks.ts#L408)

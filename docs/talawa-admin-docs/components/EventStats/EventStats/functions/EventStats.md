@@ -6,7 +6,7 @@
 
 # Function: EventStats()
 
-\> **EventStats**(`__namedParameters`): `Element`
+> **EventStats**(`__namedParameters`): `Element`
 
 Component that displays event statistics in a modal.
 Shows feedback, reviews, and average rating for the event.
@@ -23,4 +23,4 @@ JSX element representing the event statistics modal.
 
 ## Defined in
 
-[src/components/EventStats/EventStats.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventStats/EventStats.tsx#L27)
+[src/components/EventStats/EventStats.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventStats/EventStats.tsx#L27)

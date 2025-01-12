@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 `VolunteerManagement` component handles the display and navigation of different event management sections.
 
@@ -24,4 +24,4 @@ JSX.Element - The `VolunteerManagement` component.
 
 ## Defined in
 
-[src/screens/UserPortal/Volunteer/VolunteerManagement.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Volunteer/VolunteerManagement.tsx#L58)
+[src/screens/UserPortal/Volunteer/VolunteerManagement.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Volunteer/VolunteerManagement.tsx#L58)

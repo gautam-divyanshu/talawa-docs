@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 Component for managing volunteer groups for an event.
 This component allows users to view, filter, sort, and create action items. It also provides a modal for creating and editing action items.
@@ -19,4 +19,4 @@ The rendered component.
 
 ## Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx#L57)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx#L58)

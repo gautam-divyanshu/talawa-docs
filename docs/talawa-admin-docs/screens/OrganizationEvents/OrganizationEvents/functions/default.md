@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 Organization Events Page Component to display the events of an organization
 and create new events for the organization by the admin or superadmin user.
@@ -26,4 +26,4 @@ JSX.Element to display the Organization Events Page
 
 ## Defined in
 
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationEvents/OrganizationEvents.tsx#L56)
+[src/screens/OrganizationEvents/OrganizationEvents.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationEvents/OrganizationEvents.tsx#L56)

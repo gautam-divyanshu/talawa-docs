@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 The `Requests` component fetches and displays a paginated list of membership requests
 for an organization, with functionality for searching, filtering, and infinite scrolling.
@@ -17,4 +17,4 @@ for an organization, with functionality for searching, filtering, and infinite s
 
 ## Defined in
 
-[src/screens/Requests/Requests.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/Requests/Requests.tsx#L34)
+[src/screens/Requests/Requests.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/Requests/Requests.tsx#L34)

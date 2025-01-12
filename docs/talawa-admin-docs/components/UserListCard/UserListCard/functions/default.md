@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `JSX.Element`
+> **default**(`props`): `JSX.Element`
 
 The UserListCard component allows for adding a user as an admin in a specific organization.
 It uses a button to trigger a mutation for updating the user's role.
@@ -25,4 +25,4 @@ The JSX element representing the user list card.
 
 ## Defined in
 
-[src/components/UserListCard/UserListCard.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/UserListCard/UserListCard.tsx#L27)
+[src/components/UserListCard/UserListCard.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/UserListCard/UserListCard.tsx#L27)

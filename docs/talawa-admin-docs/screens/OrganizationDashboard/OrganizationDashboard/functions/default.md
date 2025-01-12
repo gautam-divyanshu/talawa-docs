@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 Component for displaying the organization dashboard.
 
@@ -20,4 +20,4 @@ The rendered component.
 
 ## Defined in
 
-[src/screens/OrganizationDashboard/OrganizationDashboard.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationDashboard/OrganizationDashboard.tsx#L44)
+[src/screens/OrganizationDashboard/OrganizationDashboard.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationDashboard/OrganizationDashboard.tsx#L44)

@@ -10,27 +10,27 @@
 
 ### campaignId
 
-\> **campaignId**: `string`
+> **campaignId**: `string`
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/FundCampaignPledge/PledgeModal.tsx#L31)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/FundCampaignPledge/PledgeModal.tsx#L31)
 
 ***
 
 ### endDate
 
-\> **endDate**: `Date`
+> **endDate**: `Date`
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/FundCampaignPledge/PledgeModal.tsx#L35)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/FundCampaignPledge/PledgeModal.tsx#L35)
 
 ***
 
 ### hide()
 
-\> **hide**: () =\> `void`
+> **hide**: () => `void`
 
 #### Returns
 
@@ -38,53 +38,53 @@
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/FundCampaignPledge/PledgeModal.tsx#L30)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/FundCampaignPledge/PledgeModal.tsx#L30)
 
 ***
 
 ### isOpen
 
-\> **isOpen**: `boolean`
+> **isOpen**: `boolean`
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/FundCampaignPledge/PledgeModal.tsx#L29)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/FundCampaignPledge/PledgeModal.tsx#L29)
 
 ***
 
 ### mode
 
-\> **mode**: `"create"` \| `"edit"`
+> **mode**: `"create"` \| `"edit"`
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/FundCampaignPledge/PledgeModal.tsx#L36)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/FundCampaignPledge/PledgeModal.tsx#L36)
 
 ***
 
 ### orgId
 
-\> **orgId**: `string`
+> **orgId**: `string`
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/FundCampaignPledge/PledgeModal.tsx#L32)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/FundCampaignPledge/PledgeModal.tsx#L32)
 
 ***
 
 ### pledge
 
-\> **pledge**: `null` \| `InterfacePledgeInfo`
+> **pledge**: `null` \| `InterfacePledgeInfo`
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/FundCampaignPledge/PledgeModal.tsx#L33)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/FundCampaignPledge/PledgeModal.tsx#L33)
 
 ***
 
 ### refetchPledge()
 
-\> **refetchPledge**: () =\> `void`
+> **refetchPledge**: () => `void`
 
 #### Returns
 
@@ -92,4 +92,4 @@
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/FundCampaignPledge/PledgeModal.tsx#L34)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/FundCampaignPledge/PledgeModal.tsx#L34)

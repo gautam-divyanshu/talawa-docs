@@ -6,8 +6,8 @@
 
 # Variable: MOCKS\_ERROR\_UPDATE\_ORGLIST
 
-\> `const` **MOCKS\_ERROR\_UPDATE\_ORGLIST**: (`object` \| `object`)[]
+> `const` **MOCKS\_ERROR\_UPDATE\_ORGLIST**: (`object` \| `object`)[]
 
 ## Defined in
 
-[src/components/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts:120](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts#L120)
+[src/components/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts:120](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts#L120)

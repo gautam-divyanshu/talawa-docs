@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 ## Parameters
 
@@ -26,4 +26,4 @@
 
 ## Defined in
 
-[src/components/TagActions/TagActions.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/TagActions/TagActions.tsx#L44)
+[src/components/TagActions/TagActions.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/TagActions/TagActions.tsx#L44)

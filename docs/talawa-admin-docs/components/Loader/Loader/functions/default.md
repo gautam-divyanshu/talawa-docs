@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `Element`
+> **default**(`props`): `Element`
 
 Loader component for displaying a loading spinner.
 
@@ -22,4 +22,4 @@ JSX element for a loading spinner.
 
 ## Defined in
 
-[src/components/Loader/Loader.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/Loader/Loader.tsx#L17)
+[src/components/Loader/Loader.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/Loader/Loader.tsx#L17)

@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 `EventManagement` component handles the display and navigation of different event management sections.
 
@@ -28,9 +28,9 @@ JSX.Element - The `EventManagement` component.
 ## Example
 
 ```tsx
-\<EventManagement /\>
+<EventManagement />
 ```
 
 ## Defined in
 
-[src/screens/EventManagement/EventManagement.tsx:91](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventManagement/EventManagement.tsx#L91)
+[src/screens/EventManagement/EventManagement.tsx:91](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventManagement/EventManagement.tsx#L91)

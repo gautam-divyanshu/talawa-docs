@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 OtherSettings component displays a card with settings options such as changing the language.
 It includes a label and a dropdown for selecting a different language.
@@ -31,4 +31,4 @@ The JSX element for the other settings card.
 
 ## Defined in
 
-[src/components/UserProfileSettings/OtherSettings.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/UserProfileSettings/OtherSettings.tsx#L13)
+[src/components/UserProfileSettings/OtherSettings.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/UserProfileSettings/OtherSettings.tsx#L13)

@@ -12,8 +12,8 @@ Props for the OrgListCard component
 
 ### data
 
-\> **data**: `InterfaceOrgConnectionInfoType`
+> **data**: `InterfaceOrgConnectionInfoType`
 
 #### Defined in
 
-[src/components/OrgListCard/OrgListCard.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgListCard/OrgListCard.tsx#L23)
+[src/components/OrgListCard/OrgListCard.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgListCard/OrgListCard.tsx#L25)

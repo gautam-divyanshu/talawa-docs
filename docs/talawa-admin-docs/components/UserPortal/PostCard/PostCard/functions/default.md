@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `JSX.Element`
+> **default**(`props`): `JSX.Element`
 
 PostCard component displays an individual post, including its details, interactions, and comments.
 
@@ -31,4 +31,4 @@ JSX.Element representing a post card with interactive features.
 
 ## Defined in
 
-[src/components/UserPortal/PostCard/PostCard.tsx:69](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/UserPortal/PostCard/PostCard.tsx#L69)
+[src/components/UserPortal/PostCard/PostCard.tsx:69](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/UserPortal/PostCard/PostCard.tsx#L69)

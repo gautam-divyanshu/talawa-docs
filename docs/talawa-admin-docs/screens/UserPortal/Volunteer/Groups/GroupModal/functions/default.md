@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 A modal dialog for creating or editing a volunteer group.
 
@@ -46,4 +46,4 @@ Success or error messages are displayed using toast notifications based on the r
 
 ## Defined in
 
-[src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L71)
+[src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L71)

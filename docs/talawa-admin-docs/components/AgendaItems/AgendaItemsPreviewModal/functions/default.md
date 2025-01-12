@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 Modal component for previewing details of an agenda item.
 Displays the details of the selected agenda item, including its categories, title, description, duration, creator, URLs, and attachments.
@@ -30,4 +30,4 @@ Also provides options to update or delete the agenda item.
 
 ## Defined in
 
-[src/components/AgendaItems/AgendaItemsPreviewModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AgendaItems/AgendaItemsPreviewModal.tsx#L41)
+[src/components/AgendaItems/AgendaItemsPreviewModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AgendaItems/AgendaItemsPreviewModal.tsx#L41)

@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 Component that renders the Organization Tags screen when the app navigates to '/orgtags/:orgId'.
 
@@ -19,4 +19,4 @@ the content associated with the corresponding route.
 
 ## Defined in
 
-[src/screens/OrganizationTags/OrganizationTags.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationTags/OrganizationTags.tsx#L41)
+[src/screens/OrganizationTags/OrganizationTags.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationTags/OrganizationTags.tsx#L39)

@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 `donate` component allows users to make donations to an organization and view their previous donations.
 
@@ -37,4 +37,4 @@ The rendered component.
 
 ## Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Donate/Donate.tsx#L65)
+[src/screens/UserPortal/Donate/Donate.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Donate/Donate.tsx#L65)

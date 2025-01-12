@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`__namedParameters`): `JSX.Element`
+> **default**(`__namedParameters`): `JSX.Element`
 
 The AddOn component is used to wrap children within a plugin container.
 It also accepts additional properties (`extras` and `name`) to allow for
@@ -24,4 +24,4 @@ The JSX element representing the AddOn component.
 
 ## Defined in
 
-[src/components/AddOn/AddOn.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddOn/AddOn.tsx#L22)
+[src/components/AddOn/AddOn.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddOn/AddOn.tsx#L22)

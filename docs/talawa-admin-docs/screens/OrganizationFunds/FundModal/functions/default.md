@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 `FundModal` component provides a modal dialog for creating or editing a fund.
 It allows users to input fund details and submit them to the server.
@@ -32,7 +32,7 @@ or update the fund details and triggers a refetch of the fund data.
 
 ### Methods
 - `handleSubmit()`: Handles form submission, creates or updates the fund, and triggers a refetch of the fund list.
-- `handleChange(event: React.ChangeEvent\<HTMLInputElement | HTMLTextAreaElement\>)`: Updates the state based on user input.
+- `handleChange(event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>)`: Updates the state based on user input.
 
 ## Parameters
 
@@ -54,4 +54,4 @@ The rendered modal dialog.
 
 ## Defined in
 
-[src/screens/OrganizationFunds/FundModal.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationFunds/FundModal.tsx#L52)
+[src/screens/OrganizationFunds/FundModal.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationFunds/FundModal.tsx#L52)

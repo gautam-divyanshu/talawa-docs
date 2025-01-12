@@ -10,28 +10,28 @@
 
 ### headerTitles?
 
-\> `optional` **headerTitles**: `string`[]
+> `optional` **headerTitles**: `string`[]
 
 #### Defined in
 
-[src/components/TableLoader/TableLoader.tsx:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/TableLoader/TableLoader.tsx#L7)
+[src/components/TableLoader/TableLoader.tsx:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/TableLoader/TableLoader.tsx#L7)
 
 ***
 
 ### noOfCols?
 
-\> `optional` **noOfCols**: `number`
+> `optional` **noOfCols**: `number`
 
 #### Defined in
 
-[src/components/TableLoader/TableLoader.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/TableLoader/TableLoader.tsx#L8)
+[src/components/TableLoader/TableLoader.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/TableLoader/TableLoader.tsx#L8)
 
 ***
 
 ### noOfRows
 
-\> **noOfRows**: `number`
+> **noOfRows**: `number`
 
 #### Defined in
 
-[src/components/TableLoader/TableLoader.tsx:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/TableLoader/TableLoader.tsx#L6)
+[src/components/TableLoader/TableLoader.tsx:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/TableLoader/TableLoader.tsx#L6)

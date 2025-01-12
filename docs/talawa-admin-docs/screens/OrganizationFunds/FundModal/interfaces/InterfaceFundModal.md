@@ -10,17 +10,17 @@
 
 ### fund
 
-\> **fund**: `null` \| `InterfaceFundInfo`
+> **fund**: `null` \| `InterfaceFundInfo`
 
 #### Defined in
 
-[src/screens/OrganizationFunds/FundModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationFunds/FundModal.tsx#L19)
+[src/screens/OrganizationFunds/FundModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationFunds/FundModal.tsx#L19)
 
 ***
 
 ### hide()
 
-\> **hide**: () =\> `void`
+> **hide**: () => `void`
 
 #### Returns
 
@@ -28,43 +28,43 @@
 
 #### Defined in
 
-[src/screens/OrganizationFunds/FundModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationFunds/FundModal.tsx#L17)
+[src/screens/OrganizationFunds/FundModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationFunds/FundModal.tsx#L17)
 
 ***
 
 ### isOpen
 
-\> **isOpen**: `boolean`
+> **isOpen**: `boolean`
 
 #### Defined in
 
-[src/screens/OrganizationFunds/FundModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationFunds/FundModal.tsx#L16)
+[src/screens/OrganizationFunds/FundModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationFunds/FundModal.tsx#L16)
 
 ***
 
 ### mode
 
-\> **mode**: `"create"` \| `"edit"`
+> **mode**: `"create"` \| `"edit"`
 
 #### Defined in
 
-[src/screens/OrganizationFunds/FundModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationFunds/FundModal.tsx#L21)
+[src/screens/OrganizationFunds/FundModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationFunds/FundModal.tsx#L21)
 
 ***
 
 ### orgId
 
-\> **orgId**: `string`
+> **orgId**: `string`
 
 #### Defined in
 
-[src/screens/OrganizationFunds/FundModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationFunds/FundModal.tsx#L20)
+[src/screens/OrganizationFunds/FundModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationFunds/FundModal.tsx#L20)
 
 ***
 
 ### refetchFunds()
 
-\> **refetchFunds**: () =\> `void`
+> **refetchFunds**: () => `void`
 
 #### Returns
 
@@ -72,4 +72,4 @@
 
 #### Defined in
 
-[src/screens/OrganizationFunds/FundModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationFunds/FundModal.tsx#L18)
+[src/screens/OrganizationFunds/FundModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationFunds/FundModal.tsx#L18)

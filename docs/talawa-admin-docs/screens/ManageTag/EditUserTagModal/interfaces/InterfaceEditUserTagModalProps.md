@@ -12,17 +12,17 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 ### editUserTagModalIsOpen
 
-\> **editUserTagModalIsOpen**: `boolean`
+> **editUserTagModalIsOpen**: `boolean`
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/EditUserTagModal.tsx#L11)
+[src/screens/ManageTag/EditUserTagModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/EditUserTagModal.tsx#L11)
 
 ***
 
 ### handleEditUserTag()
 
-\> **handleEditUserTag**: (`e`) =\> `Promise`\<`void`\>
+> **handleEditUserTag**: (`e`) => `Promise`\<`void`\>
 
 #### Parameters
 
@@ -34,13 +34,13 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/EditUserTagModal.tsx#L15)
+[src/screens/ManageTag/EditUserTagModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/EditUserTagModal.tsx#L15)
 
 ***
 
 ### hideEditUserTagModal()
 
-\> **hideEditUserTagModal**: () =\> `void`
+> **hideEditUserTagModal**: () => `void`
 
 #### Returns
 
@@ -48,23 +48,23 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/EditUserTagModal.tsx#L12)
+[src/screens/ManageTag/EditUserTagModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/EditUserTagModal.tsx#L12)
 
 ***
 
 ### newTagName
 
-\> **newTagName**: `string`
+> **newTagName**: `string`
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/EditUserTagModal.tsx#L13)
+[src/screens/ManageTag/EditUserTagModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/EditUserTagModal.tsx#L13)
 
 ***
 
 ### setNewTagName()
 
-\> **setNewTagName**: (`state`) =\> `void`
+> **setNewTagName**: (`state`) => `void`
 
 #### Parameters
 
@@ -76,24 +76,24 @@ Edit UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/EditUserTagModal.tsx#L14)
+[src/screens/ManageTag/EditUserTagModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/EditUserTagModal.tsx#L14)
 
 ***
 
 ### t
 
-\> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
+> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/EditUserTagModal.tsx#L16)
+[src/screens/ManageTag/EditUserTagModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/EditUserTagModal.tsx#L16)
 
 ***
 
 ### tCommon
 
-\> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
+> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
 
 #### Defined in
 
-[src/screens/ManageTag/EditUserTagModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/EditUserTagModal.tsx#L17)
+[src/screens/ManageTag/EditUserTagModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/EditUserTagModal.tsx#L17)

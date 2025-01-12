@@ -6,26 +6,26 @@
 
 # Variable: props
 
-\> `const` **props**: `object`
+> `const` **props**: `object`
 
 ## Type declaration
 
 ### agendaItemCategories
 
-\> **agendaItemCategories**: `object`[]
+> **agendaItemCategories**: `object`[]
 
 ### agendaItemConnection
 
-\> **agendaItemConnection**: `"Event"`
+> **agendaItemConnection**: `"Event"`
 
 ### agendaItemData
 
-\> **agendaItemData**: `object`[]
+> **agendaItemData**: `object`[]
 
 ### agendaItemRefetch
 
-\> **agendaItemRefetch**: `Mock`\<`Procedure`\>
+> **agendaItemRefetch**: `Mock`\<`Procedure`\>
 
 ## Defined in
 
-[src/components/AgendaItems/AgendaItemsContainerProps.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AgendaItems/AgendaItemsContainerProps.ts#L4)
+[src/components/AgendaItems/AgendaItemsContainerProps.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AgendaItems/AgendaItemsContainerProps.ts#L4)

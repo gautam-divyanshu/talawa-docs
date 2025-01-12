@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 AgendaCategoryPreviewModal component is used to preview the agenda category details like name, description, createdBy
 
@@ -30,4 +30,4 @@ returns the AgendaCategoryPreviewModal component
 
 ## Defined in
 
-[src/components/OrgSettings/AgendaItemCategories/AgendaCategoryPreviewModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryPreviewModal.tsx#L38)
+[src/components/OrgSettings/AgendaItemCategories/AgendaCategoryPreviewModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryPreviewModal.tsx#L38)

@@ -6,8 +6,8 @@
 
 # Variable: MOCKS2
 
-\> `const` **MOCKS2**: `object`[]
+> `const` **MOCKS2**: `object`[]
 
 ## Defined in
 
-[src/components/UsersTableItem/UserTableItemMocks.ts:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/UsersTableItem/UserTableItemMocks.ts#L42)
+[src/components/UsersTableItem/UserTableItemMocks.ts:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/UsersTableItem/UserTableItemMocks.ts#L42)

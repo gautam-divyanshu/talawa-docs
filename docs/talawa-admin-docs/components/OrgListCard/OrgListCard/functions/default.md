@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `JSX.Element`
+> **default**(`props`): `JSX.Element`
 
 Component for displaying a list card for an organization
 
@@ -28,4 +28,4 @@ JSX.Element representing an organization list card
 
 ## Defined in
 
-[src/components/OrgListCard/OrgListCard.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgListCard/OrgListCard.tsx#L36)
+[src/components/OrgListCard/OrgListCard.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgListCard/OrgListCard.tsx#L38)

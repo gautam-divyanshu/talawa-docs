@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 Component for managing and displaying action items within an organization.
 
@@ -20,4 +20,4 @@ The rendered component.
 
 ## Defined in
 
-[src/screens/UserPortal/Volunteer/Actions/Actions.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Volunteer/Actions/Actions.tsx#L59)
+[src/screens/UserPortal/Volunteer/Actions/Actions.tsx:60](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Volunteer/Actions/Actions.tsx#L60)

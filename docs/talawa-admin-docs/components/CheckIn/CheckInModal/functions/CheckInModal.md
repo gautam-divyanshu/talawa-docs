@@ -6,7 +6,7 @@
 
 # Function: CheckInModal()
 
-\> **CheckInModal**(`__namedParameters`): `Element`
+> **CheckInModal**(`__namedParameters`): `Element`
 
 Modal component for managing event check-ins. Displays a list of attendees
 and their check-in statuses, allowing for filtering by user name.
@@ -23,4 +23,4 @@ JSX.Element - The rendered modal component.
 
 ## Defined in
 
-[src/components/CheckIn/CheckInModal.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/CheckInModal.tsx#L26)
+[src/components/CheckIn/CheckInModal.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/CheckInModal.tsx#L26)

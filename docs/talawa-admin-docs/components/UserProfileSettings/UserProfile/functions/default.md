@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 UserProfile component displays user profile details including an avatar or profile image, name, email, and join date.
 It also provides a button to copy the profile link.
@@ -33,4 +33,4 @@ The JSX element for the user profile card.
 
 ## Defined in
 
-[src/components/UserProfileSettings/UserProfile.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/UserProfileSettings/UserProfile.tsx#L38)
+[src/components/UserProfileSettings/UserProfile.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/UserProfileSettings/UserProfile.tsx#L38)

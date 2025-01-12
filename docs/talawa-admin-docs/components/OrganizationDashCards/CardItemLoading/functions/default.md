@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 CardItemLoading component is a loading state for the card item. It is used when the data is being fetched.
 
@@ -18,4 +18,4 @@ JSX.Element
 
 ## Defined in
 
-[src/components/OrganizationDashCards/CardItemLoading.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrganizationDashCards/CardItemLoading.tsx#L8)
+[src/components/OrganizationDashCards/CardItemLoading.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrganizationDashCards/CardItemLoading.tsx#L8)

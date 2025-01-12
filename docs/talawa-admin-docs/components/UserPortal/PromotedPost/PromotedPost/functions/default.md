@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `JSX.Element`
+> **default**(`props`): `JSX.Element`
 
 PromotedPost component displays a card representing promoted content.
 
@@ -29,4 +29,4 @@ JSX.Element representing a card with promoted content.
 
 ## Defined in
 
-[src/components/UserPortal/PromotedPost/PromotedPost.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/UserPortal/PromotedPost/PromotedPost.tsx#L23)
+[src/components/UserPortal/PromotedPost/PromotedPost.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/UserPortal/PromotedPost/PromotedPost.tsx#L23)

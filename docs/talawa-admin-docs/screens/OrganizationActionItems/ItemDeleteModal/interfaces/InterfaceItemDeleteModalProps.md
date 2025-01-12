@@ -12,17 +12,17 @@ Props for the `ItemDeleteModal` component.
 
 ### actionItem
 
-\> **actionItem**: `null` \| `InterfaceActionItemInfo`
+> **actionItem**: `null` \| `InterfaceActionItemInfo`
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L16)
+[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L16)
 
 ***
 
 ### actionItemsRefetch()
 
-\> **actionItemsRefetch**: () =\> `void`
+> **actionItemsRefetch**: () => `void`
 
 #### Returns
 
@@ -30,13 +30,13 @@ Props for the `ItemDeleteModal` component.
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L17)
+[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L17)
 
 ***
 
 ### hide()
 
-\> **hide**: () =\> `void`
+> **hide**: () => `void`
 
 #### Returns
 
@@ -44,14 +44,14 @@ Props for the `ItemDeleteModal` component.
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L15)
+[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L15)
 
 ***
 
 ### isOpen
 
-\> **isOpen**: `boolean`
+> **isOpen**: `boolean`
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L14)
+[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L14)

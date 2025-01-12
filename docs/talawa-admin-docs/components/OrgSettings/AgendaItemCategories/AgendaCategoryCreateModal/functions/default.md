@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 AgendaCategoryCreateModal component is used to create the agenda category details like name, description
 
@@ -30,4 +30,4 @@ returns the AgendaCategoryCreateModal component
 
 ## Defined in
 
-[src/components/OrgSettings/AgendaItemCategories/AgendaCategoryCreateModal.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryCreateModal.tsx#L39)
+[src/components/OrgSettings/AgendaItemCategories/AgendaCategoryCreateModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryCreateModal.tsx#L38)

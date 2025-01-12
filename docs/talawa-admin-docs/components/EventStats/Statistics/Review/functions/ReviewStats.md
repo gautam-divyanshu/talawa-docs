@@ -6,7 +6,7 @@
 
 # Function: ReviewStats()
 
-\> **ReviewStats**(`data`): `Element`
+> **ReviewStats**(`data`): `Element`
 
 Component that displays reviews for an event.
 Shows a list of reviews with ratings and text.
@@ -25,4 +25,4 @@ JSX element representing the reviews card.
 
 ## Defined in
 
-[src/components/EventStats/Statistics/Review.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventStats/Statistics/Review.tsx#L30)
+[src/components/EventStats/Statistics/Review.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventStats/Statistics/Review.tsx#L30)

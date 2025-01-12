@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 A dummy plugin component that renders a welcome message inside an `AddOn` component.
 
@@ -21,4 +21,4 @@ JSX.Element - Renders the `AddOn` component containing a welcome message.
 
 ## Defined in
 
-[src/components/plugins/DummyPlugin/DummyPlugin.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/plugins/DummyPlugin/DummyPlugin.tsx#L12)
+[src/components/plugins/DummyPlugin/DummyPlugin.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/plugins/DummyPlugin/DummyPlugin.tsx#L12)

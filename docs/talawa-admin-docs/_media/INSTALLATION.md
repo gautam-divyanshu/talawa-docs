@@ -4,7 +4,7 @@ This document provides instructions on how to set up and start a running instanc
 
 # Table of Contents
 
-\<!-- toc --\>
+<!-- toc -->
 
 - [Installation Steps Summary](#installation-steps-summary)
 - [Prerequisites](#prerequisites)
@@ -17,7 +17,7 @@ This document provides instructions on how to set up and start a running instanc
   - [Prerequisites](#prerequisites-1)
     - [Development Setup](#development-setup)
 
-\<!-- tocstop --\>
+<!-- tocstop -->
 
 # Installation Steps Summary
 
@@ -62,9 +62,9 @@ First you need a local copy of `talawa-admin`. Run the following command in the 
 
       ![Image of user's clone](public/markdown/images/install2.png)
 
-   1. Clone the repository to your local computer (replacing the values in `\{\{\}\}`):
+   1. Clone the repository to your local computer (replacing the values in `{{}}`):
       ```bash
-      $ git clone https://github.com/\{\{YOUR GITHUB USERNAME\}\}/talawa-admin.git
+      $ git clone https://github.com/{{YOUR GITHUB USERNAME}}/talawa-admin.git
       cd talawa-admin
       git checkout develop
       ```
@@ -305,11 +305,11 @@ If you have specified a custom port number in your `.env` file, Talawa-Admin wil
 
 ```
 
-http://localhost:$\{\{customPort\}\}/
+http://localhost:${{customPort}}/
 
 ```
 
-Replace `$\{\{customPort\}\}` with the actual custom port number you have configured in your `.env` file.
+Replace `${{customPort}}` with the actual custom port number you have configured in your `.env` file.
 
 ## Talawa-Admin Registration
 
@@ -378,5 +378,5 @@ If you don't want this hook to run, you can manually opt out of this using the `
 
         git pull --no-verify
 
-\<br/\>
+<br/>
 ```

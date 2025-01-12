@@ -19,17 +19,17 @@ mode - The mode of the modal.
 
 ### category
 
-\> **category**: `null` \| `InterfaceActionItemCategoryInfo`
+> **category**: `null` \| `InterfaceActionItemCategoryInfo`
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L31)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L31)
 
 ***
 
 ### hide()
 
-\> **hide**: () =\> `void`
+> **hide**: () => `void`
 
 #### Returns
 
@@ -37,43 +37,43 @@ mode - The mode of the modal.
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L28)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L28)
 
 ***
 
 ### isOpen
 
-\> **isOpen**: `boolean`
+> **isOpen**: `boolean`
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L27)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L27)
 
 ***
 
 ### mode
 
-\> **mode**: `"create"` \| `"edit"`
+> **mode**: `"create"` \| `"edit"`
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L32)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L32)
 
 ***
 
 ### orgId
 
-\> **orgId**: `string`
+> **orgId**: `string`
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L30)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L30)
 
 ***
 
 ### refetchCategories()
 
-\> **refetchCategories**: () =\> `void`
+> **refetchCategories**: () => `void`
 
 #### Returns
 
@@ -81,4 +81,4 @@ mode - The mode of the modal.
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L29)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L29)

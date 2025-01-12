@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `Element`
+> **default**(`props`): `Element`
 
 Component that displays a card with the name of a holiday.
 
@@ -24,4 +24,4 @@ JSX element representing a card with the holiday name.
 
 ## Defined in
 
-[src/components/HolidayCards/HolidayCard.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/HolidayCards/HolidayCard.tsx#L15)
+[src/components/HolidayCards/HolidayCard.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/HolidayCards/HolidayCard.tsx#L15)

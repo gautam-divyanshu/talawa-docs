@@ -10,58 +10,58 @@
 
 ### amount
 
-\> **amount**: `string`
+> **amount**: `string`
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Donate/Donate.tsx#L26)
+[src/screens/UserPortal/Donate/Donate.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Donate/Donate.tsx#L26)
 
 ***
 
 ### id
 
-\> **id**: `string`
+> **id**: `string`
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Donate/Donate.tsx#L24)
+[src/screens/UserPortal/Donate/Donate.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Donate/Donate.tsx#L24)
 
 ***
 
 ### name
 
-\> **name**: `string`
+> **name**: `string`
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Donate/Donate.tsx#L25)
+[src/screens/UserPortal/Donate/Donate.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Donate/Donate.tsx#L25)
 
 ***
 
 ### payPalId
 
-\> **payPalId**: `string`
+> **payPalId**: `string`
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Donate/Donate.tsx#L28)
+[src/screens/UserPortal/Donate/Donate.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Donate/Donate.tsx#L28)
 
 ***
 
 ### updatedAt
 
-\> **updatedAt**: `string`
+> **updatedAt**: `string`
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Donate/Donate.tsx#L29)
+[src/screens/UserPortal/Donate/Donate.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Donate/Donate.tsx#L29)
 
 ***
 
 ### userId
 
-\> **userId**: `string`
+> **userId**: `string`
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Donate/Donate.tsx#L27)
+[src/screens/UserPortal/Donate/Donate.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Donate/Donate.tsx#L27)

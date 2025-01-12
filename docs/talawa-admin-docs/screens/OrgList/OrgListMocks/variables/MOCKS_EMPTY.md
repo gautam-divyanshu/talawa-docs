@@ -6,8 +6,8 @@
 
 # Variable: MOCKS\_EMPTY
 
-\> `const` **MOCKS\_EMPTY**: (`object` \| `object`)[]
+> `const` **MOCKS\_EMPTY**: (`object` \| `object`)[]
 
 ## Defined in
 
-[src/screens/OrgList/OrgListMocks.ts:165](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrgList/OrgListMocks.ts#L165)
+[src/screens/OrgList/OrgListMocks.ts:164](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrgList/OrgListMocks.ts#L164)

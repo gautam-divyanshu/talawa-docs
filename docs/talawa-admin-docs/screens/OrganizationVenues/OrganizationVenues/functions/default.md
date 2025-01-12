@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 Component to manage and display the list of organization venues.
 Handles searching, sorting, and CRUD operations for venues.
@@ -17,4 +17,4 @@ Handles searching, sorting, and CRUD operations for venues.
 
 ## Defined in
 
-[src/screens/OrganizationVenues/OrganizationVenues.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationVenues/OrganizationVenues.tsx#L22)
+[src/screens/OrganizationVenues/OrganizationVenues.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationVenues/OrganizationVenues.tsx#L23)

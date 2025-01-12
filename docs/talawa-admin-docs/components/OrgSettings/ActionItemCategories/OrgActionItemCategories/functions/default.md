@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 Represents the component for managing organization action item categories.
 This component allows creating, updating, enabling, and disabling action item categories.
@@ -29,4 +29,4 @@ This component allows creating, updating, enabling, and disabling action item ca
 
 ## Defined in
 
-[src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx#L66)
+[src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx#L61)

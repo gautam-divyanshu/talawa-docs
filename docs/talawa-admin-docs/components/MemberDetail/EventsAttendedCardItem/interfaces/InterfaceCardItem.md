@@ -33,68 +33,68 @@ Event location
 
 ### creator?
 
-\> `optional` **creator**: `string`
+> `optional` **creator**: `string`
 
 #### Defined in
 
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/MemberDetail/EventsAttendedCardItem.tsx#L20)
+[src/components/MemberDetail/EventsAttendedCardItem.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/MemberDetail/EventsAttendedCardItem.tsx#L20)
 
 ***
 
 ### eventId?
 
-\> `optional` **eventId**: `string`
+> `optional` **eventId**: `string`
 
 #### Defined in
 
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/MemberDetail/EventsAttendedCardItem.tsx#L22)
+[src/components/MemberDetail/EventsAttendedCardItem.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/MemberDetail/EventsAttendedCardItem.tsx#L22)
 
 ***
 
 ### location?
 
-\> `optional` **location**: `string`
+> `optional` **location**: `string`
 
 #### Defined in
 
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/MemberDetail/EventsAttendedCardItem.tsx#L21)
+[src/components/MemberDetail/EventsAttendedCardItem.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/MemberDetail/EventsAttendedCardItem.tsx#L21)
 
 ***
 
 ### orgId?
 
-\> `optional` **orgId**: `string`
+> `optional` **orgId**: `string`
 
 #### Defined in
 
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/MemberDetail/EventsAttendedCardItem.tsx#L23)
+[src/components/MemberDetail/EventsAttendedCardItem.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/MemberDetail/EventsAttendedCardItem.tsx#L23)
 
 ***
 
 ### startdate?
 
-\> `optional` **startdate**: `string`
+> `optional` **startdate**: `string`
 
 #### Defined in
 
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/MemberDetail/EventsAttendedCardItem.tsx#L19)
+[src/components/MemberDetail/EventsAttendedCardItem.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/MemberDetail/EventsAttendedCardItem.tsx#L19)
 
 ***
 
 ### time?
 
-\> `optional` **time**: `string`
+> `optional` **time**: `string`
 
 #### Defined in
 
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/MemberDetail/EventsAttendedCardItem.tsx#L18)
+[src/components/MemberDetail/EventsAttendedCardItem.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/MemberDetail/EventsAttendedCardItem.tsx#L18)
 
 ***
 
 ### title
 
-\> **title**: `string`
+> **title**: `string`
 
 #### Defined in
 
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/MemberDetail/EventsAttendedCardItem.tsx#L17)
+[src/components/MemberDetail/EventsAttendedCardItem.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/MemberDetail/EventsAttendedCardItem.tsx#L17)

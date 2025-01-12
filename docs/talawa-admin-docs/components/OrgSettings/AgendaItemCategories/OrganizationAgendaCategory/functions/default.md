@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 Component for managing and displaying agenda item categories within an organization.
 
@@ -32,4 +32,4 @@ The rendered component.
 
 ## Defined in
 
-[src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategory.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategory.tsx#L31)
+[src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategory.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategory.tsx#L31)

@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`__namedParameters`): `JSX.Element`
+> **default**(`__namedParameters`): `JSX.Element`
 
 ## Parameters
 
@@ -18,4 +18,4 @@
 
 ## Defined in
 
-[src/components/UserPortal/CreateGroupChat/CreateGroupChat.tsx:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/UserPortal/CreateGroupChat/CreateGroupChat.tsx#L63)
+[src/components/UserPortal/CreateGroupChat/CreateGroupChat.tsx:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/UserPortal/CreateGroupChat/CreateGroupChat.tsx#L63)

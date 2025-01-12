@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `Element`
+> **default**(`props`): `Element`
 
 Renders a table row item for a membership request.
 
@@ -28,4 +28,4 @@ The JSX element representing the RequestsTableItem.
 
 ## Defined in
 
-[src/components/RequestsTableItem/RequestsTableItem.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/RequestsTableItem/RequestsTableItem.tsx#L45)
+[src/components/RequestsTableItem/RequestsTableItem.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/RequestsTableItem/RequestsTableItem.tsx#L45)

@@ -12,7 +12,7 @@ Props for the `AssignToTags` component.
 
 ### hideTagActionsModal()
 
-\> **hideTagActionsModal**: () =\> `void`
+> **hideTagActionsModal**: () => `void`
 
 #### Returns
 
@@ -20,44 +20,44 @@ Props for the `AssignToTags` component.
 
 #### Defined in
 
-[src/components/TagActions/TagActions.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/TagActions/TagActions.tsx#L38)
+[src/components/TagActions/TagActions.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/TagActions/TagActions.tsx#L38)
 
 ***
 
 ### t
 
-\> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
+> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
 
 #### Defined in
 
-[src/components/TagActions/TagActions.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/TagActions/TagActions.tsx#L40)
+[src/components/TagActions/TagActions.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/TagActions/TagActions.tsx#L40)
 
 ***
 
 ### tagActionsModalIsOpen
 
-\> **tagActionsModalIsOpen**: `boolean`
+> **tagActionsModalIsOpen**: `boolean`
 
 #### Defined in
 
-[src/components/TagActions/TagActions.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/TagActions/TagActions.tsx#L37)
+[src/components/TagActions/TagActions.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/TagActions/TagActions.tsx#L37)
 
 ***
 
 ### tagActionType
 
-\> **tagActionType**: `TagActionType`
+> **tagActionType**: `TagActionType`
 
 #### Defined in
 
-[src/components/TagActions/TagActions.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/TagActions/TagActions.tsx#L39)
+[src/components/TagActions/TagActions.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/TagActions/TagActions.tsx#L39)
 
 ***
 
 ### tCommon
 
-\> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
+> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
 
 #### Defined in
 
-[src/components/TagActions/TagActions.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/TagActions/TagActions.tsx#L41)
+[src/components/TagActions/TagActions.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/TagActions/TagActions.tsx#L41)

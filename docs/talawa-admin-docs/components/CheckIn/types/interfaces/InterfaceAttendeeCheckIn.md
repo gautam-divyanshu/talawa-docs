@@ -10,28 +10,28 @@
 
 ### \_id
 
-\> **\_id**: `string`
+> **\_id**: `string`
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L8)
+[src/components/CheckIn/types.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L8)
 
 ***
 
 ### checkIn
 
-\> **checkIn**: `null` \| `object`
+> **checkIn**: `null` \| `object`
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L10)
+[src/components/CheckIn/types.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L10)
 
 ***
 
 ### user
 
-\> **user**: [`InterfaceUser`](InterfaceUser.md)
+> **user**: [`InterfaceUser`](InterfaceUser.md)
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L9)
+[src/components/CheckIn/types.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L9)

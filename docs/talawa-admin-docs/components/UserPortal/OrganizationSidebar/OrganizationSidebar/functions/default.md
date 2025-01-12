@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 OrganizationSidebar displays the sidebar for an organization, showing a list of members and events.
 
@@ -28,4 +28,4 @@ JSX.Element representing the organization sidebar.
 
 ## Defined in
 
-[src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx#L36)
+[src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx#L36)

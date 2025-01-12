@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 Calendar component to display events for a selected year.
 
@@ -33,4 +33,4 @@ JSX.Element - The rendered calendar component.
 
 ## Defined in
 
-[src/components/EventCalendar/YearlyEventCalender.tsx:95](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventCalendar/YearlyEventCalender.tsx#L95)
+[src/components/EventCalendar/YearlyEventCalender.tsx:95](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventCalendar/YearlyEventCalender.tsx#L95)

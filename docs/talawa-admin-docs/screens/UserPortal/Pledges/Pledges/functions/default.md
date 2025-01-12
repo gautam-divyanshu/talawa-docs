@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 The `Pledges` component is responsible for rendering a user's pledges within a campaign.
 It fetches pledges data using Apollo Client's `useQuery` hook and displays the data
@@ -31,4 +31,4 @@ The rendered Pledges component.
 
 ## Defined in
 
-[src/screens/UserPortal/Pledges/Pledges.tsx:69](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Pledges/Pledges.tsx#L69)
+[src/screens/UserPortal/Pledges/Pledges.tsx:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Pledges/Pledges.tsx#L70)

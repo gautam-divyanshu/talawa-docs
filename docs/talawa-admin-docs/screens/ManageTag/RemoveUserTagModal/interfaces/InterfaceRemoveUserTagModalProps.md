@@ -12,7 +12,7 @@ Remove UserTag Modal component for the Manage Tag screen.
 
 ### handleRemoveUserTag()
 
-\> **handleRemoveUserTag**: () =\> `Promise`\<`void`\>
+> **handleRemoveUserTag**: () => `Promise`\<`void`\>
 
 #### Returns
 
@@ -20,43 +20,43 @@ Remove UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/RemoveUserTagModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/RemoveUserTagModal.tsx#L12)
+[src/screens/ManageTag/RemoveUserTagModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/RemoveUserTagModal.tsx#L12)
 
 ***
 
 ### removeUserTagModalIsOpen
 
-\> **removeUserTagModalIsOpen**: `boolean`
+> **removeUserTagModalIsOpen**: `boolean`
 
 #### Defined in
 
-[src/screens/ManageTag/RemoveUserTagModal.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/RemoveUserTagModal.tsx#L10)
+[src/screens/ManageTag/RemoveUserTagModal.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/RemoveUserTagModal.tsx#L10)
 
 ***
 
 ### t
 
-\> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
+> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
 
 #### Defined in
 
-[src/screens/ManageTag/RemoveUserTagModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/RemoveUserTagModal.tsx#L13)
+[src/screens/ManageTag/RemoveUserTagModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/RemoveUserTagModal.tsx#L13)
 
 ***
 
 ### tCommon
 
-\> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
+> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
 
 #### Defined in
 
-[src/screens/ManageTag/RemoveUserTagModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/RemoveUserTagModal.tsx#L14)
+[src/screens/ManageTag/RemoveUserTagModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/RemoveUserTagModal.tsx#L14)
 
 ***
 
 ### toggleRemoveUserTagModal()
 
-\> **toggleRemoveUserTagModal**: () =\> `void`
+> **toggleRemoveUserTagModal**: () => `void`
 
 #### Returns
 
@@ -64,4 +64,4 @@ Remove UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/RemoveUserTagModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/RemoveUserTagModal.tsx#L11)
+[src/screens/ManageTag/RemoveUserTagModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/RemoveUserTagModal.tsx#L11)

@@ -6,7 +6,7 @@
 
 # Function: CheckInWrapper()
 
-\> **CheckInWrapper**(`eventId`): `Element`
+> **CheckInWrapper**(`eventId`): `Element`
 
 Wrapper component that displays a button to open the CheckInModal.
 
@@ -24,4 +24,4 @@ JSX.Element - The rendered CheckInWrapper component.
 
 ## Defined in
 
-[src/components/CheckIn/CheckInWrapper.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/CheckInWrapper.tsx#L17)
+[src/components/CheckIn/CheckInWrapper.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/CheckInWrapper.tsx#L17)

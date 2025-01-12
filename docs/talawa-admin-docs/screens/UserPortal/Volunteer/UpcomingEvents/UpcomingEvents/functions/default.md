@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 The `UpcomingEvents` component displays list of upcoming events for the user to volunteer.
 It allows the user to search, sort, and volunteer for events/volunteer groups.
@@ -19,4 +19,4 @@ The rendered component displaying the upcoming events.
 
 ## Defined in
 
-[src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.tsx#L41)
+[src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.tsx#L42)

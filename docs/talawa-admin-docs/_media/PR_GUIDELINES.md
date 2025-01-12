@@ -6,7 +6,7 @@ In order to give everyone a chance to submit a pull request and contribute to th
 
 # Table of Contents
 
-\<!-- toc --\>
+<!-- toc -->
 
 - [Pull Requests and Issues](#pull-requests-and-issues)
 - [Linting and Formatting](#linting-and-formatting)
@@ -14,7 +14,7 @@ In order to give everyone a chance to submit a pull request and contribute to th
 - [Pull Request Processing](#pull-request-processing)
   - [Only submit PRs against our `develop` branch, not the default `main` branch](#only-submit-prs-against-our-develop-branch-not-the-default-main-branch)
 
-\<!-- tocstop --\>
+<!-- tocstop -->
 
 ## Pull Requests and Issues
 

@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`__namedParameters`): `Element`
+> **default**(`__namedParameters`): `Element`
 
 Represents a card component displaying venue information.
 
@@ -26,14 +26,14 @@ JSX.Element - The `VenueCard` component.
 ## Example
 
 ```tsx
-\<VenueCard
-  venueItem=\{venue\}
-  index=\{0\}
-  showEditVenueModal=\{handleShowEditVenueModal\}
-  handleDelete=\{handleDeleteVenue\}
-/\>
+<VenueCard
+  venueItem={venue}
+  index={0}
+  showEditVenueModal={handleShowEditVenueModal}
+  handleDelete={handleDeleteVenue}
+/>
 ```
 
 ## Defined in
 
-[src/components/Venues/VenueCard.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/Venues/VenueCard.tsx#L39)
+[src/components/Venues/VenueCard.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/Venues/VenueCard.tsx#L39)

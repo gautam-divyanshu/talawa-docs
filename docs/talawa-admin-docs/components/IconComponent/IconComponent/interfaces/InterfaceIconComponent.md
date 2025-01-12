@@ -10,38 +10,38 @@
 
 ### fill?
 
-\> `optional` **fill**: `string`
+> `optional` **fill**: `string`
 
 #### Defined in
 
-[src/components/IconComponent/IconComponent.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/IconComponent/IconComponent.tsx#L29)
+[src/components/IconComponent/IconComponent.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/IconComponent/IconComponent.tsx#L29)
 
 ***
 
 ### height?
 
-\> `optional` **height**: `string`
+> `optional` **height**: `string`
 
 #### Defined in
 
-[src/components/IconComponent/IconComponent.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/IconComponent/IconComponent.tsx#L30)
+[src/components/IconComponent/IconComponent.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/IconComponent/IconComponent.tsx#L30)
 
 ***
 
 ### name
 
-\> **name**: `string`
+> **name**: `string`
 
 #### Defined in
 
-[src/components/IconComponent/IconComponent.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/IconComponent/IconComponent.tsx#L28)
+[src/components/IconComponent/IconComponent.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/IconComponent/IconComponent.tsx#L28)
 
 ***
 
 ### width?
 
-\> `optional` **width**: `string`
+> `optional` **width**: `string`
 
 #### Defined in
 
-[src/components/IconComponent/IconComponent.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/IconComponent/IconComponent.tsx#L31)
+[src/components/IconComponent/IconComponent.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/IconComponent/IconComponent.tsx#L31)

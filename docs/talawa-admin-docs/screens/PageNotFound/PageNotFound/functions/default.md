@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 The `PageNotFound` component displays a 404 error page when a user navigates to a non-existent route.
 It shows a message indicating that the page was not found and provides a link to redirect users back
@@ -18,4 +18,4 @@ to the appropriate home page based on their admin status.
 
 ## Defined in
 
-[src/screens/PageNotFound/PageNotFound.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/PageNotFound/PageNotFound.tsx#L15)
+[src/screens/PageNotFound/PageNotFound.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/PageNotFound/PageNotFound.tsx#L15)

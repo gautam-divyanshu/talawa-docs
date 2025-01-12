@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 Component that mocks the TagActions component for the Manage Tag screen.
 
@@ -28,4 +28,4 @@ Component that mocks the TagActions component for the Manage Tag screen.
 
 ## Defined in
 
-[src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx#L8)
+[src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx#L8)

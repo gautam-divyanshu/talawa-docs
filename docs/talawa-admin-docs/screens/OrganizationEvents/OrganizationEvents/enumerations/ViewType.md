@@ -10,28 +10,28 @@
 
 ### DAY
 
-\> **DAY**: `"Day"`
+> **DAY**: `"Day"`
 
 #### Defined in
 
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationEvents/OrganizationEvents.tsx#L38)
+[src/screens/OrganizationEvents/OrganizationEvents.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationEvents/OrganizationEvents.tsx#L38)
 
 ***
 
 ### MONTH
 
-\> **MONTH**: `"Month View"`
+> **MONTH**: `"Month View"`
 
 #### Defined in
 
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationEvents/OrganizationEvents.tsx#L39)
+[src/screens/OrganizationEvents/OrganizationEvents.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationEvents/OrganizationEvents.tsx#L39)
 
 ***
 
 ### YEAR
 
-\> **YEAR**: `"Year View"`
+> **YEAR**: `"Year View"`
 
 #### Defined in
 
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationEvents/OrganizationEvents.tsx#L40)
+[src/screens/OrganizationEvents/OrganizationEvents.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationEvents/OrganizationEvents.tsx#L40)

@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 A modal dialog for viewing volunteer information for an event.
 
@@ -36,4 +36,4 @@ The modal includes:
 
 ## Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L42)
+[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L42)

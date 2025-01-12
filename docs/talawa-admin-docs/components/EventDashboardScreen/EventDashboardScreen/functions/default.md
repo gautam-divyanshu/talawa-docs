@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 The EventDashboardScreen component is the main dashboard view for event management.
 It includes navigation, a sidebar, and a profile dropdown.
@@ -19,4 +19,4 @@ JSX.Element - The rendered EventDashboardScreen component.
 
 ## Defined in
 
-[src/components/EventDashboardScreen/EventDashboardScreen.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventDashboardScreen/EventDashboardScreen.tsx#L21)
+[src/components/EventDashboardScreen/EventDashboardScreen.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventDashboardScreen/EventDashboardScreen.tsx#L21)

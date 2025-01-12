@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `JSX.Element`
+> **default**(`props`): `JSX.Element`
 
 The `EventListCardModals` component displays the modals related to events, such as viewing,
 updating, and deleting events.
@@ -25,4 +25,4 @@ A JSX element containing the event modals.
 
 ## Defined in
 
-[src/components/EventListCard/EventListCardModals.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventListCard/EventListCardModals.tsx#L72)
+[src/components/EventListCard/EventListCardModals.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventListCard/EventListCardModals.tsx#L72)

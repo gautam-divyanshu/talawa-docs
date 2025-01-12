@@ -10,186 +10,186 @@
 
 ### \_\_typename
 
-\> **\_\_typename**: `string`
+> **\_\_typename**: `string`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L66)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L66)
 
 ***
 
 ### \_id
 
-\> **\_id**: `string`
+> **\_id**: `string`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L36)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L36)
 
 ***
 
 ### allDay
 
-\> **allDay**: `boolean`
+> **allDay**: `boolean`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L44)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L44)
 
 ***
 
 ### attendees
 
-\> **attendees**: `object`[]
+> **attendees**: `object`[]
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L58)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L58)
 
 ***
 
 ### description
 
-\> **description**: `string`
+> **description**: `string`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L38)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L38)
 
 ***
 
 ### endDate
 
-\> **endDate**: `string`
+> **endDate**: `string`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L40)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L40)
 
 ***
 
 ### endTime
 
-\> **endTime**: `string`
+> **endTime**: `string`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L43)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L43)
 
 ***
 
 ### isPublic
 
-\> **isPublic**: `boolean`
+> **isPublic**: `boolean`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L56)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L56)
 
 ***
 
 ### isRecurringEventException
 
-\> **isRecurringEventException**: `boolean`
+> **isRecurringEventException**: `boolean`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L55)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L55)
 
 ***
 
 ### isRegisterable
 
-\> **isRegisterable**: `boolean`
+> **isRegisterable**: `boolean`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L57)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L57)
 
 ***
 
 ### location
 
-\> **location**: `string`
+> **location**: `string`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L41)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L41)
 
 ***
 
 ### recurrenceRule
 
-\> **recurrenceRule**: `object`
+> **recurrenceRule**: `object`
 
 #### count?
 
-\> `optional` **count**: `number`
+> `optional` **count**: `number`
 
 #### frequency
 
-\> **frequency**: `string`
+> **frequency**: `string`
 
 #### interval
 
-\> **interval**: `number`
+> **interval**: `number`
 
 #### recurrenceEndDate?
 
-\> `optional` **recurrenceEndDate**: `null` \| `string`
+> `optional` **recurrenceEndDate**: `null` \| `string`
 
 #### recurrenceStartDate
 
-\> **recurrenceStartDate**: `string`
+> **recurrenceStartDate**: `string`
 
 #### weekDayOccurenceInMonth?
 
-\> `optional` **weekDayOccurenceInMonth**: `number`
+> `optional` **weekDayOccurenceInMonth**: `number`
 
 #### weekDays
 
-\> **weekDays**: `string`[]
+> **weekDays**: `string`[]
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L46)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L46)
 
 ***
 
 ### recurring
 
-\> **recurring**: `boolean`
+> **recurring**: `boolean`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L45)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L45)
 
 ***
 
 ### startDate
 
-\> **startDate**: `string`
+> **startDate**: `string`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L39)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L39)
 
 ***
 
 ### startTime
 
-\> **startTime**: `string`
+> **startTime**: `string`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L42)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L42)
 
 ***
 
 ### title
 
-\> **title**: `string`
+> **title**: `string`
 
 #### Defined in
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L37)
+[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L37)

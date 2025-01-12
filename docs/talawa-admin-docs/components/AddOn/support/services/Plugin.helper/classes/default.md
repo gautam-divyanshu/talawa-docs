@@ -12,7 +12,7 @@ Helper class for managing plugin-related tasks such as fetching store data, inst
 
 ### new default()
 
-\> **new default**(): [`default`](default.md)
+> **new default**(): [`default`](default.md)
 
 #### Returns
 
@@ -22,7 +22,7 @@ Helper class for managing plugin-related tasks such as fetching store data, inst
 
 ### fetchInstalled()
 
-\> **fetchInstalled**(): `Promise`\<`any`\>
+> **fetchInstalled**(): `Promise`\<`any`\>
 
 Fetches the list of installed plugins from a local server.
 
@@ -34,13 +34,13 @@ A promise that resolves to the installed plugins data in JSON format.
 
 #### Defined in
 
-[src/components/AddOn/support/services/Plugin.helper.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddOn/support/services/Plugin.helper.ts#L21)
+[src/components/AddOn/support/services/Plugin.helper.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddOn/support/services/Plugin.helper.ts#L21)
 
 ***
 
 ### fetchStore()
 
-\> **fetchStore**(): `Promise`\<`any`\>
+> **fetchStore**(): `Promise`\<`any`\>
 
 Fetches the store data from a local server.
 
@@ -52,13 +52,13 @@ A promise that resolves to the store data in JSON format.
 
 #### Defined in
 
-[src/components/AddOn/support/services/Plugin.helper.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddOn/support/services/Plugin.helper.ts#L11)
+[src/components/AddOn/support/services/Plugin.helper.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddOn/support/services/Plugin.helper.ts#L11)
 
 ***
 
 ### generateLinks()
 
-\> **generateLinks**(`plugins`): `object`[]
+> **generateLinks**(`plugins`): `object`[]
 
 Generates an array of links for the enabled plugins.
 
@@ -76,4 +76,4 @@ An array of objects containing the name and URL of each enabled plugin.
 
 #### Defined in
 
-[src/components/AddOn/support/services/Plugin.helper.ts:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddOn/support/services/Plugin.helper.ts#L32)
+[src/components/AddOn/support/services/Plugin.helper.ts:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddOn/support/services/Plugin.helper.ts#L32)

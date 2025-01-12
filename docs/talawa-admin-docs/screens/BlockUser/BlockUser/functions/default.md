@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `Element`
+> **default**(): `Element`
 
 Requests component displays and manages a list of users that can be blocked or unblocked.
 
@@ -22,9 +22,9 @@ JSX.Element - The `Requests` component.
 ## Example
 
 ```tsx
-\<Requests /\>
+<Requests />
 ```
 
 ## Defined in
 
-[src/screens/BlockUser/BlockUser.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/BlockUser/BlockUser.tsx#L45)
+[src/screens/BlockUser/BlockUser.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/BlockUser/BlockUser.tsx#L45)

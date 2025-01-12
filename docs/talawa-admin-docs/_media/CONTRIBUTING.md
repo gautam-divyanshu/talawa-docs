@@ -6,7 +6,7 @@ If you are new to contributing to open source, please read the Open Source Guide
 
 ## Table of Contents
 
-\<!-- toc --\>
+<!-- toc -->
 
 - [Code of Conduct](#code-of-conduct)
 - [Videos](#videos)
@@ -20,7 +20,7 @@ If you are new to contributing to open source, please read the Open Source Guide
 - [Internships](#internships)
 - [Community](#community)
 
-\<!-- tocstop --\>
+<!-- tocstop -->
 
 ## Code of Conduct
 
@@ -86,7 +86,7 @@ Make sure you have read the [Documentation for Setting up the Project](https://g
 The process of proposing a change to Talawa Admin can be summarized as:
 
 1. Fork the Talawa Admin repository and branch off `develop`.
-1. Your newly forked repository can be cloned locally using `git clone \<YOUR FORKED REPO URL\>`.
+1. Your newly forked repository can be cloned locally using `git clone <YOUR FORKED REPO URL>`.
 1. Make the Palisadoes Foundation's repo your `git upstream` for your local repo.
 1. Make the desired changes to the Talawa Admin project.
 1. Run the app and test your changes.
@@ -153,16 +153,16 @@ The process of proposing a change to Talawa Admin can be summarized as:
             3. Remember to add the `Repository Upload Token` for your forked repo. This can be found under `Settings` of your `codecov.io` account.
 
             4. Click on Setup Repo option
-               ![Debugging Test Demo](\</public/images/codecov/homescrenn%20(1).jpg\>)
+               ![Debugging Test Demo](</public/images/codecov/homescrenn%20(1).jpg>)
             5. Use the value of this token to create a secret named CODE_COV for your forked repo.
                [![Code-cov-token.jpg](/public/images/codecov/Code-cov-token.jpg)]()
                [![addd-your-key.jpg](/public/images/codecov/addd-your-key.jpg)]()
             6. You will see your code coverage reports with every push to your repo after following these steps
                [![results.jpg](/public/images/codecov/results.jpg)]()
 
-1. After making changes you can add them to git locally using `git add \<file_name\>`(to add changes only in a particular file) or `git add .` (to add all changes).
-1. After adding the changes you need to commit them using `git commit -m '\<commit message\>'`(look at the commit guidelines below for commit messages).
-1. Once you have successfully commited your changes, you need to push the changes to the forked repo on github using: `git push origin \<branch_name\>`.(Here branch name must be name of the branch you want to push the changes to.)
+1. After making changes you can add them to git locally using `git add <file_name>`(to add changes only in a particular file) or `git add .` (to add all changes).
+1. After adding the changes you need to commit them using `git commit -m '<commit message>'`(look at the commit guidelines below for commit messages).
+1. Once you have successfully commited your changes, you need to push the changes to the forked repo on github using: `git push origin <branch_name>`.(Here branch name must be name of the branch you want to push the changes to.)
 1. Now create a pull request to the Talawa-admin repository from your forked repo. Open an issue regarding the same and link your PR to it.
 1. Ensure the test suite passes, either locally or on CI once a PR has been created.
 1. Review and address comments on your pull request if requested.

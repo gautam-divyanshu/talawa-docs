@@ -10,28 +10,28 @@
 
 ### checkInData
 
-\> **checkInData**: [`InterfaceTableCheckIn`](InterfaceTableCheckIn.md)
+> **checkInData**: [`InterfaceTableCheckIn`](InterfaceTableCheckIn.md)
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L43)
+[src/components/CheckIn/types.ts:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L43)
 
 ***
 
 ### id
 
-\> **id**: `string`
+> **id**: `string`
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L42)
+[src/components/CheckIn/types.ts:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L42)
 
 ***
 
 ### userName
 
-\> **userName**: `string`
+> **userName**: `string`
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L41)
+[src/components/CheckIn/types.ts:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L41)

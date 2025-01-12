@@ -10,17 +10,17 @@
 
 ### group
 
-\> **group**: `InterfaceVolunteerGroupInfo`
+> **group**: `InterfaceVolunteerGroupInfo`
 
 #### Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx#L22)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx#L22)
 
 ***
 
 ### hide()
 
-\> **hide**: () =\> `void`
+> **hide**: () => `void`
 
 #### Returns
 
@@ -28,14 +28,14 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx#L21)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx#L21)
 
 ***
 
 ### isOpen
 
-\> **isOpen**: `boolean`
+> **isOpen**: `boolean`
 
 #### Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx#L20)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx#L20)

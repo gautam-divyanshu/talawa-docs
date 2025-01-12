@@ -6,54 +6,54 @@
 
 # Variable: baseActionItem
 
-\> `const` **baseActionItem**: `object`
+> `const` **baseActionItem**: `object`
 
 ## Type declaration
 
 ### assigner
 
-\> **assigner**: `object`
+> **assigner**: `object`
 
 ### assigner.\_id
 
-\> **\_id**: `string` = `'userId'`
+> **\_id**: `string` = `'userId'`
 
 ### assigner.firstName
 
-\> **firstName**: `string` = `'Wilt'`
+> **firstName**: `string` = `'Wilt'`
 
 ### assigner.image
 
-\> **image**: `null` = `null`
+> **image**: `null` = `null`
 
 ### assigner.lastName
 
-\> **lastName**: `string` = `'Shepherd'`
+> **lastName**: `string` = `'Shepherd'`
 
 ### creator
 
-\> **creator**: `object`
+> **creator**: `object`
 
 ### creator.\_\_typename
 
-\> **\_\_typename**: `string` = `'User'`
+> **\_\_typename**: `string` = `'User'`
 
 ### creator.\_id
 
-\> **\_id**: `string` = `'userId'`
+> **\_id**: `string` = `'userId'`
 
 ### creator.firstName
 
-\> **firstName**: `string` = `'Wilt'`
+> **firstName**: `string` = `'Wilt'`
 
 ### creator.image
 
-\> **image**: `null` = `null`
+> **image**: `null` = `null`
 
 ### creator.lastName
 
-\> **lastName**: `string` = `'Shepherd'`
+> **lastName**: `string` = `'Shepherd'`
 
 ## Defined in
 
-[src/screens/OrganizationActionItems/testObject.mocks.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationActionItems/testObject.mocks.ts#L21)
+[src/screens/OrganizationActionItems/testObject.mocks.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/testObject.mocks.ts#L21)

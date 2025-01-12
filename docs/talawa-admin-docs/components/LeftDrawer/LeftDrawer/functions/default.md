@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`__namedParameters`): `Element`
+> **default**(`__namedParameters`): `Element`
 
 LeftDrawer component for displaying navigation options.
 
@@ -22,4 +22,4 @@ JSX element for the left navigation drawer.
 
 ## Defined in
 
-[src/components/LeftDrawer/LeftDrawer.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/LeftDrawer/LeftDrawer.tsx#L24)
+[src/components/LeftDrawer/LeftDrawer.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/LeftDrawer/LeftDrawer.tsx#L24)

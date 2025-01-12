@@ -6,38 +6,38 @@
 
 # Variable: memberListQuery
 
-\> `const` **memberListQuery**: `object`
+> `const` **memberListQuery**: `object`
 
 ## Type declaration
 
 ### request
 
-\> **request**: `object`
+> **request**: `object`
 
 ### request.query
 
-\> **query**: `DocumentNode` = `MEMBERS_LIST`
+> **query**: `DocumentNode` = `MEMBERS_LIST`
 
 ### request.variables
 
-\> **variables**: `object`
+> **variables**: `object`
 
 ### request.variables.id
 
-\> **id**: `string` = `'orgId'`
+> **id**: `string` = `'orgId'`
 
 ### result
 
-\> **result**: `object`
+> **result**: `object`
 
 ### result.data
 
-\> **data**: `object`
+> **data**: `object`
 
 ### result.data.organizations
 
-\> **organizations**: `object`[]
+> **organizations**: `object`[]
 
 ## Defined in
 
-[src/screens/OrganizationActionItems/testObject.mocks.ts:184](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrganizationActionItems/testObject.mocks.ts#L184)
+[src/screens/OrganizationActionItems/testObject.mocks.ts:184](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/testObject.mocks.ts#L184)

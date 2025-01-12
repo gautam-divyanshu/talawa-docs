@@ -10,7 +10,7 @@
 
 ### new default()
 
-\> **new default**(): [`default`](default.md)
+> **new default**(): [`default`](default.md)
 
 #### Returns
 

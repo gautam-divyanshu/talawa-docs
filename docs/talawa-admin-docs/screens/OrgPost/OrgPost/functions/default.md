@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 This function is used to display the posts of the organization. It displays the posts in a card format.
 It also provides the functionality to create a new post. The user can also sort the posts based on the date of creation.
@@ -20,4 +20,4 @@ JSX.Element which contains the posts of the organization.
 
 ## Defined in
 
-[src/screens/OrgPost/OrgPost.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/OrgPost/OrgPost.tsx#L52)
+[src/screens/OrgPost/OrgPost.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrgPost/OrgPost.tsx#L51)

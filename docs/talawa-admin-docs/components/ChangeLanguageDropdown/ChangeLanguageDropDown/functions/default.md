@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `Element`
+> **default**(`props`): `Element`
 
 A dropdown component that allows users to change the application's language.
 It updates the user's language preference in the backend and stores the selection in cookies.
@@ -25,4 +25,4 @@ JSX.Element - The rendered dropdown component for changing languages.
 
 ## Defined in
 
-[src/components/ChangeLanguageDropdown/ChangeLanguageDropDown.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/ChangeLanguageDropdown/ChangeLanguageDropDown.tsx#L29)
+[src/components/ChangeLanguageDropdown/ChangeLanguageDropDown.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/ChangeLanguageDropdown/ChangeLanguageDropDown.tsx#L29)

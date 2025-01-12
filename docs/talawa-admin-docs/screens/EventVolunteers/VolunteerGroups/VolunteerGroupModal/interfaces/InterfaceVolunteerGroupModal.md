@@ -10,27 +10,27 @@
 
 ### eventId
 
-\> **eventId**: `string`
+> **eventId**: `string`
 
 #### Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L24)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L24)
 
 ***
 
 ### group
 
-\> **group**: `null` \| `InterfaceVolunteerGroupInfo`
+> **group**: `null` \| `InterfaceVolunteerGroupInfo`
 
 #### Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L26)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L26)
 
 ***
 
 ### hide()
 
-\> **hide**: () =\> `void`
+> **hide**: () => `void`
 
 #### Returns
 
@@ -38,43 +38,43 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L23)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L23)
 
 ***
 
 ### isOpen
 
-\> **isOpen**: `boolean`
+> **isOpen**: `boolean`
 
 #### Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L22)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L22)
 
 ***
 
 ### mode
 
-\> **mode**: `"create"` \| `"edit"`
+> **mode**: `"create"` \| `"edit"`
 
 #### Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L28)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L28)
 
 ***
 
 ### orgId
 
-\> **orgId**: `string`
+> **orgId**: `string`
 
 #### Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L25)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L25)
 
 ***
 
 ### refetchGroups()
 
-\> **refetchGroups**: () =\> `void`
+> **refetchGroups**: () => `void`
 
 #### Returns
 
@@ -82,4 +82,4 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L27)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupModal.tsx#L27)

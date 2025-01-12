@@ -10,17 +10,17 @@
 
 ### eventId
 
-\> **eventId**: `string`
+> **eventId**: `string`
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L25)
+[src/components/CheckIn/types.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L25)
 
 ***
 
 ### handleClose()
 
-\> **handleClose**: () =\> `void`
+> **handleClose**: () => `void`
 
 #### Returns
 
@@ -28,14 +28,14 @@
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L26)
+[src/components/CheckIn/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L26)
 
 ***
 
 ### show
 
-\> **show**: `boolean`
+> **show**: `boolean`
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CheckIn/types.ts#L24)
+[src/components/CheckIn/types.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/types.ts#L24)

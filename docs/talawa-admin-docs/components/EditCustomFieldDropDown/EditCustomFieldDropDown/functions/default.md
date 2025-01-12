@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`__namedParameters`): `Element`
+> **default**(`__namedParameters`): `Element`
 
 A dropdown component for editing custom field types.
 
@@ -26,4 +26,4 @@ JSX.Element - The rendered dropdown component.
 
 ## Defined in
 
-[src/components/EditCustomFieldDropDown/EditCustomFieldDropDown.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/EditCustomFieldDropDown/EditCustomFieldDropDown.tsx#L33)
+[src/components/EditCustomFieldDropDown/EditCustomFieldDropDown.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EditCustomFieldDropDown/EditCustomFieldDropDown.tsx#L33)

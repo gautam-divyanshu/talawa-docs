@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
 A modal dialog for confirming the deletion of a pledge.
 
@@ -43,4 +43,4 @@ The `deletePledge` mutation is used to perform the deletion operation.
 
 ## Defined in
 
-[src/screens/FundCampaignPledge/PledgeDeleteModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/FundCampaignPledge/PledgeDeleteModal.tsx#L42)
+[src/screens/FundCampaignPledge/PledgeDeleteModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/FundCampaignPledge/PledgeDeleteModal.tsx#L42)

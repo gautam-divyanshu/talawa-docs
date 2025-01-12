@@ -10,7 +10,7 @@
 
 ### hide()
 
-\> **hide**: () =\> `void`
+> **hide**: () => `void`
 
 #### Returns
 
@@ -18,23 +18,23 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L12)
+[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L12)
 
 ***
 
 ### isOpen
 
-\> **isOpen**: `boolean`
+> **isOpen**: `boolean`
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L11)
+[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L11)
 
 ***
 
 ### refetchVolunteers()
 
-\> **refetchVolunteers**: () =\> `void`
+> **refetchVolunteers**: () => `void`
 
 #### Returns
 
@@ -42,14 +42,14 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L14)
+[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L14)
 
 ***
 
 ### volunteer
 
-\> **volunteer**: `InterfaceEventVolunteerInfo`
+> **volunteer**: `InterfaceEventVolunteerInfo`
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L13)
+[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L13)

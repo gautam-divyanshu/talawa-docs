@@ -10,7 +10,7 @@
 
 ### hide()
 
-\> **hide**: () =\> `void`
+> **hide**: () => `void`
 
 #### Returns
 
@@ -18,24 +18,24 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L22)
+[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L22)
 
 ***
 
 ### isOpen
 
-\> **isOpen**: `boolean`
+> **isOpen**: `boolean`
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L21)
+[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L21)
 
 ***
 
 ### volunteer
 
-\> **volunteer**: `InterfaceEventVolunteerInfo`
+> **volunteer**: `InterfaceEventVolunteerInfo`
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L23)
+[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L23)

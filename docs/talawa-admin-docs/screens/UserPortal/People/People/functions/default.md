@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(): `JSX.Element`
+> **default**(): `JSX.Element`
 
 `People` component displays a list of people associated with an organization.
 It allows users to filter between all members and admins, search for members by their first name,
@@ -18,4 +18,4 @@ and paginate through the list.
 
 ## Defined in
 
-[src/screens/UserPortal/People/People.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/screens/UserPortal/People/People.tsx#L39)
+[src/screens/UserPortal/People/People.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/UserPortal/People/People.tsx#L39)

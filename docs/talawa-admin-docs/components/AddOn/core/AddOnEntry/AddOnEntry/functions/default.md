@@ -6,7 +6,7 @@
 
 # Function: default()
 
-\> **default**(`props`): `JSX.Element`
+> **default**(`props`): `JSX.Element`
 
 A React component that represents an add-on entry, displaying its details and allowing installation or uninstallation.
 
@@ -25,19 +25,19 @@ A JSX element containing the add-on entry.
 ## Example
 
 ```tsx
-\<AddOnEntry
+<AddOnEntry
   id="1"
-  enabled=\{true\}
+  enabled={true}
   title="Sample Add-On"
   description="This is a sample add-on."
   createdBy="Author Name"
   component="SampleComponent"
-  modified=\{new Date()\}
-  uninstalledOrgs=\{['org1', 'org2']\}
-  getInstalledPlugins=\{() =\> \{\}\}
-/\>
+  modified={new Date()}
+  uninstalledOrgs={['org1', 'org2']}
+  getInstalledPlugins={() => {}}
+/>
 ```
 
 ## Defined in
 
-[src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx#L46)
+[src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx#L46)

@@ -10,28 +10,28 @@
 
 ### setShowDropdown
 
-\> **setShowDropdown**: `Dispatch`\<`SetStateAction`\<`boolean`\>\>
+> **setShowDropdown**: `Dispatch`\<`SetStateAction`\<`boolean`\>\>
 
 #### Defined in
 
-[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L12)
+[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L12)
 
 ***
 
 ### showDropdown
 
-\> **showDropdown**: `boolean`
+> **showDropdown**: `boolean`
 
 #### Defined in
 
-[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L10)
+[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L10)
 
 ***
 
 ### target
 
-\> **target**: `TargetsType`
+> **target**: `TargetsType`
 
 #### Defined in
 
-[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/94350901b6ad76804d426de8171d610a1a65ce41/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L11)
+[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L11)
