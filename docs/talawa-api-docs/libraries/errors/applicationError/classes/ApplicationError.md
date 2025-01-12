@@ -6,7 +6,7 @@
 
 # Class: ApplicationError
 
-Defined in: [src/libraries/errors/applicationError.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L19)
+Defined in: [src/libraries/errors/applicationError.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L19)
 
 This class is responsible for handling application errors.
 It extends the built-in Error class to include additional properties and methods.
@@ -33,7 +33,7 @@ It extends the built-in Error class to include additional properties and methods
 
 \> **new ApplicationError**(`errors`, `httpCode`, `message`): [`ApplicationError`](ApplicationError.md)
 
-Defined in: [src/libraries/errors/applicationError.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L32)
+Defined in: [src/libraries/errors/applicationError.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L32)
 
 Creates an instance of ApplicationError.
 
@@ -71,7 +71,7 @@ The error message (default is "Error").
 
 \> **errors**: [`InterfaceError`](../interfaces/InterfaceError.md)[]
 
-Defined in: [src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L21)
+Defined in: [src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L21)
 
 An array of errors conforming to the InterfaceError interface
 
@@ -81,7 +81,7 @@ An array of errors conforming to the InterfaceError interface
 
 \> **httpCode**: `number`
 
-Defined in: [src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L23)
+Defined in: [src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L23)
 
 The HTTP status code associated with the error
 

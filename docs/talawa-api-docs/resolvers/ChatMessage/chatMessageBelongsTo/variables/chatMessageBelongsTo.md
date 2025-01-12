@@ -8,7 +8,7 @@
 
 \> `const` **chatMessageBelongsTo**: [`ChatMessageResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/ChatMessageResolvers.md)\[`"chatMessageBelongsTo"`\]
 
-Defined in: [src/resolvers/ChatMessage/chatMessageBelongsTo.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/ChatMessage/chatMessageBelongsTo.ts#L10)
+Defined in: [src/resolvers/ChatMessage/chatMessageBelongsTo.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/ChatMessage/chatMessageBelongsTo.ts#L10)
 
 This resolver method will retrieve and return from the database the Chat to which the specified message belongs.
 

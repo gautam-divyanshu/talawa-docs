@@ -8,7 +8,7 @@
 
 \> **checkExistingRedis**(): `Promise`\<`string` \| `null`\>
 
-Defined in: [src/setup/redisConfiguration.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/redisConfiguration.ts#L71)
+Defined in: [src/setup/redisConfiguration.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/setup/redisConfiguration.ts#L71)
 
 The function `checkExistingRedis` checks if there is an existing Redis connection by iterating
 through a list of Redis URLs and testing the connection.

@@ -8,7 +8,7 @@
 
 \> `const` **appConfig**: `object`
 
-Defined in: [src/config/appConfig.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/config/appConfig.ts#L5)
+Defined in: [src/config/appConfig.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/config/appConfig.ts#L5)
 
 Application configuration settings.
 This object contains various configuration options for the application.

@@ -6,7 +6,7 @@
 
 # Interface: InterfaceCheckIn
 
-Defined in: [src/models/CheckIn.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L16)
+Defined in: [src/models/CheckIn.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckIn.ts#L16)
 
 Represents a document for a check-in entry in the MongoDB database.
 
@@ -16,7 +16,7 @@ Represents a document for a check-in entry in the MongoDB database.
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/CheckIn.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L17)
+Defined in: [src/models/CheckIn.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckIn.ts#L17)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/CheckIn.ts:17](https://github.com/PalisadoesFoundation/t
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/CheckIn.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L21)
+Defined in: [src/models/CheckIn.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckIn.ts#L21)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/CheckIn.ts:21](https://github.com/PalisadoesFoundation/t
 
 \> **eventAttendeeId**: `any`
 
-Defined in: [src/models/CheckIn.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L18)
+Defined in: [src/models/CheckIn.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckIn.ts#L18)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/CheckIn.ts:18](https://github.com/PalisadoesFoundation/t
 
 \> **feedbackSubmitted**: `boolean`
 
-Defined in: [src/models/CheckIn.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L20)
+Defined in: [src/models/CheckIn.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckIn.ts#L20)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/models/CheckIn.ts:20](https://github.com/PalisadoesFoundation/t
 
 \> **time**: `Date`
 
-Defined in: [src/models/CheckIn.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L19)
+Defined in: [src/models/CheckIn.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckIn.ts#L19)
 
 ***
 
@@ -56,4 +56,4 @@ Defined in: [src/models/CheckIn.ts:19](https://github.com/PalisadoesFoundation/t
 
 \> **updatedAt**: `Date`
 
-Defined in: [src/models/CheckIn.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/CheckIn.ts#L22)
+Defined in: [src/models/CheckIn.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckIn.ts#L22)

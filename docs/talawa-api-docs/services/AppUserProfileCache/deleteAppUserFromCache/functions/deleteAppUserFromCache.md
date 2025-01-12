@@ -8,7 +8,7 @@
 
 \> **deleteAppUserFromCache**(`appUserProfileId`): `Promise`\<`void`\>
 
-Defined in: [src/services/AppUserProfileCache/deleteAppUserFromCache.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/services/AppUserProfileCache/deleteAppUserFromCache.ts#L9)
+Defined in: [src/services/AppUserProfileCache/deleteAppUserFromCache.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/services/AppUserProfileCache/deleteAppUserFromCache.ts#L9)
 
 Deletes the specified app user profile from Redis cache.
 

@@ -8,4 +8,4 @@
 
 \> **EducationGrade**: `"GRADE_1"` \| `"GRADE_2"` \| `"GRADE_3"` \| `"GRADE_4"` \| `"GRADE_5"` \| `"GRADE_6"` \| `"GRADE_7"` \| `"GRADE_8"` \| `"GRADE_9"` \| `"GRADE_10"` \| `"GRADE_11"` \| `"GRADE_12"` \| `"GRADUATE"` \| `"KG"` \| `"NO_GRADE"` \| `"PRE_KG"`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:710](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L710)
+Defined in: [src/types/generatedGraphQLTypes.ts:710](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L710)

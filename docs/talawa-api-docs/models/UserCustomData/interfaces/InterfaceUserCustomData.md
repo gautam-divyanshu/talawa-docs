@@ -6,7 +6,7 @@
 
 # Interface: InterfaceUserCustomData
 
-Defined in: [src/models/UserCustomData.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/UserCustomData.ts#L9)
+Defined in: [src/models/UserCustomData.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/UserCustomData.ts#L9)
 
 Interface representing a document for custom field in the database (MongoDB).
 
@@ -16,7 +16,7 @@ Interface representing a document for custom field in the database (MongoDB).
 
 \> **\_id**: `string`
 
-Defined in: [src/models/UserCustomData.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/UserCustomData.ts#L10)
+Defined in: [src/models/UserCustomData.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/UserCustomData.ts#L10)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/UserCustomData.ts:10](https://github.com/PalisadoesFound
 
 \> **organizationId**: `string`
 
-Defined in: [src/models/UserCustomData.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/UserCustomData.ts#L11)
+Defined in: [src/models/UserCustomData.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/UserCustomData.ts#L11)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/UserCustomData.ts:11](https://github.com/PalisadoesFound
 
 \> **userId**: `string`
 
-Defined in: [src/models/UserCustomData.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/UserCustomData.ts#L14)
+Defined in: [src/models/UserCustomData.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/UserCustomData.ts#L14)
 
 ***
 
@@ -40,4 +40,4 @@ Defined in: [src/models/UserCustomData.ts:14](https://github.com/PalisadoesFound
 
 \> **values**: `any`
 
-Defined in: [src/models/UserCustomData.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/UserCustomData.ts#L13)
+Defined in: [src/models/UserCustomData.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/UserCustomData.ts#L13)

@@ -6,7 +6,7 @@
 
 # Interface: InterfaceUploadResult
 
-Defined in: [src/REST/services/minio/index.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/services/minio/index.ts#L16)
+Defined in: [src/REST/services/minio/index.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/REST/services/minio/index.ts#L16)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/REST/services/minio/index.ts:16](https://github.com/PalisadoesF
 
 \> **exists**: `boolean`
 
-Defined in: [src/REST/services/minio/index.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/services/minio/index.ts#L17)
+Defined in: [src/REST/services/minio/index.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/REST/services/minio/index.ts#L17)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/REST/services/minio/index.ts:17](https://github.com/PalisadoesF
 
 \> **hash**: `string`
 
-Defined in: [src/REST/services/minio/index.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/services/minio/index.ts#L19)
+Defined in: [src/REST/services/minio/index.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/REST/services/minio/index.ts#L19)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/REST/services/minio/index.ts:19](https://github.com/PalisadoesF
 
 \> **hashAlgorithm**: `string`
 
-Defined in: [src/REST/services/minio/index.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/services/minio/index.ts#L20)
+Defined in: [src/REST/services/minio/index.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/REST/services/minio/index.ts#L20)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/REST/services/minio/index.ts:20](https://github.com/PalisadoesF
 
 \> **objectKey**: `string`
 
-Defined in: [src/REST/services/minio/index.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/services/minio/index.ts#L18)
+Defined in: [src/REST/services/minio/index.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/REST/services/minio/index.ts#L18)

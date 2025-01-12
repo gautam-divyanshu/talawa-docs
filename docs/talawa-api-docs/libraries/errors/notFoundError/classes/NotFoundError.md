@@ -6,7 +6,7 @@
 
 # Class: NotFoundError
 
-Defined in: [src/libraries/errors/notFoundError.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/notFoundError.ts#L7)
+Defined in: [src/libraries/errors/notFoundError.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/notFoundError.ts#L7)
 
 Represents a "Not Found" error. It extends the ApplicationError class
 and is used to handle situations where a requested resource is not found.
@@ -21,7 +21,7 @@ and is used to handle situations where a requested resource is not found.
 
 \> **new NotFoundError**(`message`, `code`, `param`, `metadata`): [`NotFoundError`](NotFoundError.md)
 
-Defined in: [src/libraries/errors/notFoundError.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/notFoundError.ts#L18)
+Defined in: [src/libraries/errors/notFoundError.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/notFoundError.ts#L18)
 
 Creates an instance of NotFoundError.
 
@@ -65,7 +65,7 @@ Additional metadata related to the error. Defaults to an empty object.
 
 \> **code**: `null` \| `string`
 
-Defined in: [src/libraries/errors/notFoundError.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/notFoundError.ts#L8)
+Defined in: [src/libraries/errors/notFoundError.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/notFoundError.ts#L8)
 
 ***
 
@@ -73,7 +73,7 @@ Defined in: [src/libraries/errors/notFoundError.ts:8](https://github.com/Palisad
 
 \> **errors**: [`InterfaceError`](../../applicationError/interfaces/InterfaceError.md)[]
 
-Defined in: [src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L21)
+Defined in: [src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L21)
 
 An array of errors conforming to the InterfaceError interface
 
@@ -87,7 +87,7 @@ An array of errors conforming to the InterfaceError interface
 
 \> **httpCode**: `number`
 
-Defined in: [src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L23)
+Defined in: [src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L23)
 
 The HTTP status code associated with the error
 
@@ -125,7 +125,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1076
 
 \> **param**: `null` \| `string`
 
-Defined in: [src/libraries/errors/notFoundError.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/notFoundError.ts#L9)
+Defined in: [src/libraries/errors/notFoundError.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/notFoundError.ts#L9)
 
 ***
 

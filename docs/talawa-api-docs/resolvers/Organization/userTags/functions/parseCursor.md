@@ -8,7 +8,7 @@
 
 \> **parseCursor**(`__namedParameters`): [`ParseGraphQLConnectionCursorResult`](../../../../utilities/graphQLConnection/parseGraphQLConnectionArguments/type-aliases/ParseGraphQLConnectionCursorResult.md)\<`string`\>
 
-Defined in: [src/resolvers/Organization/userTags.ts:148](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Organization/userTags.ts#L148)
+Defined in: [src/resolvers/Organization/userTags.ts:148](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Organization/userTags.ts#L148)
 
 Parses the cursor value for the `userTags` connection resolver.
 

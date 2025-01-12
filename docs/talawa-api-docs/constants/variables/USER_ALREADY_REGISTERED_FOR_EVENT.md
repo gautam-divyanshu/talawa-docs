@@ -8,4 +8,4 @@
 
 \> `const` **USER\_ALREADY\_REGISTERED\_FOR\_EVENT**: `Readonly`\<\{ `CODE`: `"user.alreadyRegistered"`; `MESSAGE`: `"The user has already been registered for the event"`; `PARAM`: `"user.alreadyRegistered"`; \}\>
 
-Defined in: [src/constants.ts:353](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/constants.ts#L353)
+Defined in: [src/constants.ts:353](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L353)

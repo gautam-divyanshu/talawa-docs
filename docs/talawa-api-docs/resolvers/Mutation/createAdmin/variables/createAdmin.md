@@ -8,7 +8,7 @@
 
 \> `const` **createAdmin**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createAdmin"`\]
 
-Defined in: [src/resolvers/Mutation/createAdmin.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createAdmin.ts#L47)
+Defined in: [src/resolvers/Mutation/createAdmin.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Mutation/createAdmin.ts#L47)
 
 Creates an admin for an organization by adding the specified user to the organization's admin list.
 

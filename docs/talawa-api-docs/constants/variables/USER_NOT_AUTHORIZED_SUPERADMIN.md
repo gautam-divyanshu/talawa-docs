@@ -8,4 +8,4 @@
 
 \> `const` **USER\_NOT\_AUTHORIZED\_SUPERADMIN**: `Readonly`\<\{ `CODE`: `"role.notValid.superadmin"`; `MESSAGE`: `"Error: Current user must be a SUPERADMIN"`; `PARAM`: `"roleValidationSuperAdmin"`; \}\>
 
-Defined in: [src/constants.ts:341](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/constants.ts#L341)
+Defined in: [src/constants.ts:341](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L341)

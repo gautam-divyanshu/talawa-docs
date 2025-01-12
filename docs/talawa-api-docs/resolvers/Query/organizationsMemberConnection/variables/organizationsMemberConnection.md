@@ -8,7 +8,7 @@
 
 \> `const` **organizationsMemberConnection**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"organizationsMemberConnection"`\]
 
-Defined in: [src/resolvers/Query/organizationsMemberConnection.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Query/organizationsMemberConnection.ts#L19)
+Defined in: [src/resolvers/Query/organizationsMemberConnection.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Query/organizationsMemberConnection.ts#L19)
 
 This query will retrieve from the database a list of members
 in the organisation under the specified limit for the specified page in the pagination.

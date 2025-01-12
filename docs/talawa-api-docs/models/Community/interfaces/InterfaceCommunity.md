@@ -6,7 +6,7 @@
 
 # Interface: InterfaceCommunity
 
-Defined in: [src/models/Community.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L9)
+Defined in: [src/models/Community.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Community.ts#L9)
 
 Interface representing a document for a community in MongoDB.
 
@@ -16,7 +16,7 @@ Interface representing a document for a community in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/Community.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L10)
+Defined in: [src/models/Community.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Community.ts#L10)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/Community.ts:10](https://github.com/PalisadoesFoundation
 
 \> **logoUrl**: `string`
 
-Defined in: [src/models/Community.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L12)
+Defined in: [src/models/Community.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Community.ts#L12)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/Community.ts:12](https://github.com/PalisadoesFoundation
 
 \> **name**: `string`
 
-Defined in: [src/models/Community.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L11)
+Defined in: [src/models/Community.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Community.ts#L11)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/Community.ts:11](https://github.com/PalisadoesFoundation
 
 \> **socialMediaUrls**: `object`
 
-Defined in: [src/models/Community.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L14)
+Defined in: [src/models/Community.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Community.ts#L14)
 
 #### facebook
 
@@ -80,7 +80,7 @@ Defined in: [src/models/Community.ts:14](https://github.com/PalisadoesFoundation
 
 \> **timeout**: `number`
 
-Defined in: [src/models/Community.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L24)
+Defined in: [src/models/Community.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Community.ts#L24)
 
 ***
 
@@ -88,4 +88,4 @@ Defined in: [src/models/Community.ts:24](https://github.com/PalisadoesFoundation
 
 \> **websiteLink**: `string`
 
-Defined in: [src/models/Community.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Community.ts#L13)
+Defined in: [src/models/Community.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Community.ts#L13)

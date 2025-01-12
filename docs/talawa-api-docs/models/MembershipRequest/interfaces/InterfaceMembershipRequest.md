@@ -6,7 +6,7 @@
 
 # Interface: InterfaceMembershipRequest
 
-Defined in: [src/models/MembershipRequest.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/MembershipRequest.ts#L11)
+Defined in: [src/models/MembershipRequest.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/MembershipRequest.ts#L11)
 
 Represents a database document for Membership Request.
 
@@ -16,7 +16,7 @@ Represents a database document for Membership Request.
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/MembershipRequest.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/MembershipRequest.ts#L12)
+Defined in: [src/models/MembershipRequest.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/MembershipRequest.ts#L12)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/MembershipRequest.ts:12](https://github.com/PalisadoesFo
 
 \> **organization**: `any`
 
-Defined in: [src/models/MembershipRequest.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/MembershipRequest.ts#L13)
+Defined in: [src/models/MembershipRequest.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/MembershipRequest.ts#L13)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/MembershipRequest.ts:13](https://github.com/PalisadoesFo
 
 \> **status**: `string`
 
-Defined in: [src/models/MembershipRequest.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/MembershipRequest.ts#L15)
+Defined in: [src/models/MembershipRequest.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/MembershipRequest.ts#L15)
 
 ***
 
@@ -40,4 +40,4 @@ Defined in: [src/models/MembershipRequest.ts:15](https://github.com/PalisadoesFo
 
 \> **user**: `any`
 
-Defined in: [src/models/MembershipRequest.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/MembershipRequest.ts#L14)
+Defined in: [src/models/MembershipRequest.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/MembershipRequest.ts#L14)

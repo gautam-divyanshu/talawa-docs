@@ -8,7 +8,7 @@
 
 \> `const` **addOrganizationCustomField**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addOrganizationCustomField"`\]
 
-Defined in: [src/resolvers/Mutation/addOrganizationCustomField.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/addOrganizationCustomField.ts#L46)
+Defined in: [src/resolvers/Mutation/addOrganizationCustomField.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Mutation/addOrganizationCustomField.ts#L46)
 
 Mutation resolver to add a custom field to an organization.
 

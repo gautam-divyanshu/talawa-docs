@@ -8,7 +8,7 @@
 
 \> **transformToDefaultGraphQLConnection**\<`T0`, `T1`, `T2`\>(`__namedParameters`): [`DefaultGraphQLConnection`](../../generateDefaultGraphQLConnection/type-aliases/DefaultGraphQLConnection.md)\<`T2`\>
 
-Defined in: [src/utilities/graphQLConnection/transformToDefaultGraphQLConnection.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/transformToDefaultGraphQLConnection.ts#L53)
+Defined in: [src/utilities/graphQLConnection/transformToDefaultGraphQLConnection.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/graphQLConnection/transformToDefaultGraphQLConnection.ts#L53)
 
 This function is used to transform a list of objects to a standard graphQL connection object.
 

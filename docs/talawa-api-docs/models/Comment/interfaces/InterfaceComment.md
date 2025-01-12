@@ -6,7 +6,7 @@
 
 # Interface: InterfaceComment
 
-Defined in: [src/models/Comment.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Comment.ts#L12)
+Defined in: [src/models/Comment.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Comment.ts#L12)
 
 Represents a document for a comment in the MongoDB database.
 
@@ -16,7 +16,7 @@ Represents a document for a comment in the MongoDB database.
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/Comment.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Comment.ts#L13)
+Defined in: [src/models/Comment.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Comment.ts#L13)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/Comment.ts:13](https://github.com/PalisadoesFoundation/t
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/Comment.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Comment.ts#L15)
+Defined in: [src/models/Comment.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Comment.ts#L15)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/Comment.ts:15](https://github.com/PalisadoesFoundation/t
 
 \> **creatorId**: `any`
 
-Defined in: [src/models/Comment.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Comment.ts#L16)
+Defined in: [src/models/Comment.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Comment.ts#L16)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/Comment.ts:16](https://github.com/PalisadoesFoundation/t
 
 \> **likeCount**: `number`
 
-Defined in: [src/models/Comment.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Comment.ts#L20)
+Defined in: [src/models/Comment.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Comment.ts#L20)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/models/Comment.ts:20](https://github.com/PalisadoesFoundation/t
 
 \> **likedBy**: `any`[]
 
-Defined in: [src/models/Comment.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Comment.ts#L19)
+Defined in: [src/models/Comment.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Comment.ts#L19)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/models/Comment.ts:19](https://github.com/PalisadoesFoundation/t
 
 \> **postId**: `any`
 
-Defined in: [src/models/Comment.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Comment.ts#L18)
+Defined in: [src/models/Comment.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Comment.ts#L18)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/models/Comment.ts:18](https://github.com/PalisadoesFoundation/t
 
 \> **status**: `string`
 
-Defined in: [src/models/Comment.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Comment.ts#L21)
+Defined in: [src/models/Comment.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Comment.ts#L21)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/models/Comment.ts:21](https://github.com/PalisadoesFoundation/t
 
 \> **text**: `string`
 
-Defined in: [src/models/Comment.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Comment.ts#L14)
+Defined in: [src/models/Comment.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Comment.ts#L14)
 
 ***
 
@@ -80,4 +80,4 @@ Defined in: [src/models/Comment.ts:14](https://github.com/PalisadoesFoundation/t
 
 \> **updatedAt**: `Date`
 
-Defined in: [src/models/Comment.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Comment.ts#L17)
+Defined in: [src/models/Comment.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Comment.ts#L17)

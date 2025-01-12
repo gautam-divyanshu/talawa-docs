@@ -6,7 +6,7 @@
 
 # Interface: InterfaceUploadedFileResponse
 
-Defined in: [src/REST/services/file/uploadFile.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/services/file/uploadFile.ts#L17)
+Defined in: [src/REST/services/file/uploadFile.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/REST/services/file/uploadFile.ts#L17)
 
 ## Extends
 
@@ -18,7 +18,7 @@ Defined in: [src/REST/services/file/uploadFile.ts:17](https://github.com/Palisad
 
 \> `optional` **\_id**: `ObjectId`
 
-Defined in: [src/models/File.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L10)
+Defined in: [src/models/File.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L10)
 
 #### Inherited from
 
@@ -30,7 +30,7 @@ Defined in: [src/models/File.ts:10](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **archived**: `boolean`
 
-Defined in: [src/models/File.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L22)
+Defined in: [src/models/File.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L22)
 
 #### Inherited from
 
@@ -42,7 +42,7 @@ Defined in: [src/models/File.ts:22](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **archivedAt**: `Date`
 
-Defined in: [src/models/File.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L28)
+Defined in: [src/models/File.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L28)
 
 #### Inherited from
 
@@ -54,7 +54,7 @@ Defined in: [src/models/File.ts:28](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **backupStatus**: `string`
 
-Defined in: [src/models/File.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L24)
+Defined in: [src/models/File.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L24)
 
 #### Inherited from
 
@@ -66,7 +66,7 @@ Defined in: [src/models/File.ts:24](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **createdAt**: `Date`
 
-Defined in: [src/models/File.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L26)
+Defined in: [src/models/File.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L26)
 
 #### Inherited from
 
@@ -78,7 +78,7 @@ Defined in: [src/models/File.ts:26](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **encryption**: `boolean`
 
-Defined in: [src/models/File.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L21)
+Defined in: [src/models/File.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L21)
 
 #### Inherited from
 
@@ -90,7 +90,7 @@ Defined in: [src/models/File.ts:21](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **fileName**: `string`
 
-Defined in: [src/models/File.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L11)
+Defined in: [src/models/File.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L11)
 
 #### Inherited from
 
@@ -102,7 +102,7 @@ Defined in: [src/models/File.ts:11](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **hash**: `object`
 
-Defined in: [src/models/File.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L14)
+Defined in: [src/models/File.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L14)
 
 #### algorithm
 
@@ -122,7 +122,7 @@ Defined in: [src/models/File.ts:14](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **metadata**: `Record`\<`string`, `any`\>
 
-Defined in: [src/models/File.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L20)
+Defined in: [src/models/File.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L20)
 
 #### Inherited from
 
@@ -134,7 +134,7 @@ Defined in: [src/models/File.ts:20](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **mimeType**: `string`
 
-Defined in: [src/models/File.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L12)
+Defined in: [src/models/File.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L12)
 
 #### Inherited from
 
@@ -146,7 +146,7 @@ Defined in: [src/models/File.ts:12](https://github.com/PalisadoesFoundation/tala
 
 \> **objectKey**: `string`
 
-Defined in: [src/REST/services/file/uploadFile.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/services/file/uploadFile.ts#L18)
+Defined in: [src/REST/services/file/uploadFile.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/REST/services/file/uploadFile.ts#L18)
 
 ***
 
@@ -154,7 +154,7 @@ Defined in: [src/REST/services/file/uploadFile.ts:18](https://github.com/Palisad
 
 \> `optional` **referenceCount**: `number`
 
-Defined in: [src/models/File.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L19)
+Defined in: [src/models/File.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L19)
 
 #### Inherited from
 
@@ -166,7 +166,7 @@ Defined in: [src/models/File.ts:19](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **size**: `number`
 
-Defined in: [src/models/File.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L13)
+Defined in: [src/models/File.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L13)
 
 #### Inherited from
 
@@ -178,7 +178,7 @@ Defined in: [src/models/File.ts:13](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **status**: `"ACTIVE"` \| `"BLOCKED"` \| `"DELETED"`
 
-Defined in: [src/models/File.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L25)
+Defined in: [src/models/File.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L25)
 
 #### Inherited from
 
@@ -190,7 +190,7 @@ Defined in: [src/models/File.ts:25](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **updatedAt**: `Date`
 
-Defined in: [src/models/File.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L27)
+Defined in: [src/models/File.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L27)
 
 #### Inherited from
 
@@ -202,7 +202,7 @@ Defined in: [src/models/File.ts:27](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **uri**: `string`
 
-Defined in: [src/models/File.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L18)
+Defined in: [src/models/File.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L18)
 
 #### Inherited from
 
@@ -214,7 +214,7 @@ Defined in: [src/models/File.ts:18](https://github.com/PalisadoesFoundation/tala
 
 \> `optional` **visibility**: `"PRIVATE"` \| `"PUBLIC"`
 
-Defined in: [src/models/File.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/File.ts#L23)
+Defined in: [src/models/File.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/File.ts#L23)
 
 #### Inherited from
 

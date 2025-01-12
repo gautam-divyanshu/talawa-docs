@@ -8,7 +8,7 @@
 
 \> `const` **createVenue**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createVenue"`\]
 
-Defined in: [src/resolvers/Mutation/createVenue.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createVenue.ts#L40)
+Defined in: [src/resolvers/Mutation/createVenue.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Mutation/createVenue.ts#L40)
 
 Creates a new venue within an organization, if the user has appropriate permissions and the venue does not already exist.
 

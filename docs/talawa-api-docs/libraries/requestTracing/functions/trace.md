@@ -8,7 +8,7 @@
 
 \> **trace**\<`T`\>(`tracingId`, `method`): `Promise`\<`void`\>
 
-Defined in: [src/libraries/requestTracing.ts:81](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/requestTracing.ts#L81)
+Defined in: [src/libraries/requestTracing.ts:81](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/requestTracing.ts#L81)
 
 Runs a method within the context of a tracing ID. If a tracing ID is provided, it uses that ID;
 otherwise, it generates a new one.

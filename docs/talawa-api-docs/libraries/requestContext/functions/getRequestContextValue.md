@@ -8,7 +8,7 @@
 
 \> **getRequestContextValue**\<`T`\>(`key`): `T`
 
-Defined in: [src/libraries/requestContext.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/requestContext.ts#L26)
+Defined in: [src/libraries/requestContext.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/requestContext.ts#L26)
 
 Gets a value from the request context.
 

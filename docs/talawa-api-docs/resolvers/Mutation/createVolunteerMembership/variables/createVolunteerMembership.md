@@ -8,7 +8,7 @@
 
 \> `const` **createVolunteerMembership**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createVolunteerMembership"`\]
 
-Defined in: [src/resolvers/Mutation/createVolunteerMembership.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createVolunteerMembership.ts#L31)
+Defined in: [src/resolvers/Mutation/createVolunteerMembership.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Mutation/createVolunteerMembership.ts#L31)
 
 Creates a new event volunteer membership entry.
 

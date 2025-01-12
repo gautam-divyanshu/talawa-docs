@@ -8,7 +8,7 @@
 
 \> **isAuth**(`request`): [`InterfaceAuthData`](../interfaces/InterfaceAuthData.md)
 
-Defined in: [src/middleware/isAuth.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/middleware/isAuth.ts#L18)
+Defined in: [src/middleware/isAuth.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/middleware/isAuth.ts#L18)
 
 This function determines whether the user is authorised and whether the access token has expired.
 

@@ -8,7 +8,7 @@
 
 \> **createRecurringEventInstancesDuringQuery**(`organizationId`): `Promise`\<`void`\>
 
-Defined in: [src/helpers/event/createEventHelpers/createRecurringEventInstancesDuringQuery.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/createEventHelpers/createRecurringEventInstancesDuringQuery.ts#L32)
+Defined in: [src/helpers/event/createEventHelpers/createRecurringEventInstancesDuringQuery.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/helpers/event/createEventHelpers/createRecurringEventInstancesDuringQuery.ts#L32)
 
 Creates instances of recurring events up to a specified date during queries.
 

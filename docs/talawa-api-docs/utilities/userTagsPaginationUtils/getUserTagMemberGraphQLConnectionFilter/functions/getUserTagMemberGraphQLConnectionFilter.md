@@ -8,7 +8,7 @@
 
 \> **getUserTagMemberGraphQLConnectionFilter**(`__namedParameters`): `UserTagMemberGraphQLConnectionFilter`
 
-Defined in: [src/utilities/userTagsPaginationUtils/getUserTagMemberGraphQLConnectionFilter.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/userTagsPaginationUtils/getUserTagMemberGraphQLConnectionFilter.ts#L38)
+Defined in: [src/utilities/userTagsPaginationUtils/getUserTagMemberGraphQLConnectionFilter.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/userTagsPaginationUtils/getUserTagMemberGraphQLConnectionFilter.ts#L38)
 
 This function is used to get an object containing filtering logic.
 

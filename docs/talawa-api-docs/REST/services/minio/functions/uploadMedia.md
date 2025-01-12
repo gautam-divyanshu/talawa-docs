@@ -8,7 +8,7 @@
 
 \> **uploadMedia**(`bucketName`, `buffer`, `originalname`, `contentType`): `Promise`\<[`InterfaceUploadResult`](../interfaces/InterfaceUploadResult.md)\>
 
-Defined in: [src/REST/services/minio/index.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/REST/services/minio/index.ts#L43)
+Defined in: [src/REST/services/minio/index.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/REST/services/minio/index.ts#L43)
 
 Uploads a media file to a specified S3 bucket, calculating its hash for naming and uniqueness.
 

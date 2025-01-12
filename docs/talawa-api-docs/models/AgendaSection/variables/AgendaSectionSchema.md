@@ -8,7 +8,7 @@
 
 \> `const` **AgendaSectionSchema**: `Schema`\<`Model`, \{ `createdAt`: `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `string`; `items`: `ObjectId`[]; `relatedEvent`: `null` \| `ObjectId`; `sequence`: `number`; `updatedAt`: `Date`; \}, `Document`\<`unknown`, \{\}, `FlatRecord`\<\{ `createdAt`: `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `string`; `items`: `ObjectId`[]; `relatedEvent`: `null` \| `ObjectId`; `sequence`: `number`; `updatedAt`: `Date`; \}\>\> & `FlatRecord`\<\{ `createdAt`: `Date`; `createdBy`: `null` \| `ObjectId`; `description`: `string`; `items`: `ObjectId`[]; `relatedEvent`: `null` \| `ObjectId`; `sequence`: `number`; `updatedAt`: `Date`; \}\> & `object`\>
 
-Defined in: [src/models/AgendaSection.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/AgendaSection.ts#L34)
+Defined in: [src/models/AgendaSection.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaSection.ts#L34)
 
 This is the Mongoose schema for an agenda section.
 

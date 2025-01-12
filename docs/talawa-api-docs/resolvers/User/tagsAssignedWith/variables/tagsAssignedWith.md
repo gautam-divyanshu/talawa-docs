@@ -8,7 +8,7 @@
 
 \> `const` **tagsAssignedWith**: [`UserResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/UserResolvers.md)\[`"tagsAssignedWith"`\]
 
-Defined in: [src/resolvers/User/tagsAssignedWith.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/User/tagsAssignedWith.ts#L39)
+Defined in: [src/resolvers/User/tagsAssignedWith.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/User/tagsAssignedWith.ts#L39)
 
 Resolver function for the `tagsAssignedWith` field of a `User`.
 

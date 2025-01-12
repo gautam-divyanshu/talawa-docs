@@ -6,7 +6,7 @@
 
 # Interface: LongitudeScalarConfig
 
-Defined in: [src/types/generatedGraphQLTypes.ts:4514](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L4514)
+Defined in: [src/types/generatedGraphQLTypes.ts:4514](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L4514)
 
 ## Extends
 
@@ -66,7 +66,7 @@ Defined in: node\_modules/graphql/type/definition.d.ts:368
 
 \> **name**: `"Longitude"`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:4515](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L4515)
+Defined in: [src/types/generatedGraphQLTypes.ts:4515](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L4515)
 
 #### Overrides
 

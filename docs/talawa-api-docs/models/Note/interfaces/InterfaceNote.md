@@ -6,7 +6,7 @@
 
 # Interface: InterfaceNote
 
-Defined in: [src/models/Note.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Note.ts#L10)
+Defined in: [src/models/Note.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Note.ts#L10)
 
 Represents a note document in the database.
 
@@ -16,7 +16,7 @@ Represents a note document in the database.
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/Note.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Note.ts#L11)
+Defined in: [src/models/Note.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Note.ts#L11)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/Note.ts:11](https://github.com/PalisadoesFoundation/tala
 
 \> **agendaItemId**: `ObjectId`
 
-Defined in: [src/models/Note.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Note.ts#L17)
+Defined in: [src/models/Note.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Note.ts#L17)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/Note.ts:17](https://github.com/PalisadoesFoundation/tala
 
 \> **content**: `string`
 
-Defined in: [src/models/Note.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Note.ts#L12)
+Defined in: [src/models/Note.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Note.ts#L12)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/Note.ts:12](https://github.com/PalisadoesFoundation/tala
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/Note.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Note.ts#L15)
+Defined in: [src/models/Note.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Note.ts#L15)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/models/Note.ts:15](https://github.com/PalisadoesFoundation/tala
 
 \> **createdBy**: `PopulatedDoc`\<[`InterfaceUser`](../../User/interfaces/InterfaceUser.md) & `Document`\>
 
-Defined in: [src/models/Note.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Note.ts#L13)
+Defined in: [src/models/Note.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Note.ts#L13)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/models/Note.ts:13](https://github.com/PalisadoesFoundation/tala
 
 \> **updatedAt**: `Date`
 
-Defined in: [src/models/Note.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Note.ts#L16)
+Defined in: [src/models/Note.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Note.ts#L16)
 
 ***
 
@@ -64,4 +64,4 @@ Defined in: [src/models/Note.ts:16](https://github.com/PalisadoesFoundation/tala
 
 \> **updatedBy**: `PopulatedDoc`\<[`InterfaceUser`](../../User/interfaces/InterfaceUser.md) & `Document`\>
 
-Defined in: [src/models/Note.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Note.ts#L14)
+Defined in: [src/models/Note.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Note.ts#L14)

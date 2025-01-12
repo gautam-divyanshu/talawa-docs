@@ -6,7 +6,7 @@
 
 # Interface: InterfaceError
 
-Defined in: [src/libraries/errors/applicationError.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L4)
+Defined in: [src/libraries/errors/applicationError.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L4)
 
 Interface representing the structure of an error.
 
@@ -16,7 +16,7 @@ Interface representing the structure of an error.
 
 \> **code**: `null` \| `string`
 
-Defined in: [src/libraries/errors/applicationError.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L8)
+Defined in: [src/libraries/errors/applicationError.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L8)
 
 The error code, can be null
 
@@ -26,7 +26,7 @@ The error code, can be null
 
 \> **message**: `string`
 
-Defined in: [src/libraries/errors/applicationError.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L6)
+Defined in: [src/libraries/errors/applicationError.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L6)
 
 The error message
 
@@ -36,7 +36,7 @@ The error message
 
 \> `optional` **metadata**: `Record`\<`string`, `string`\>
 
-Defined in: [src/libraries/errors/applicationError.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L12)
+Defined in: [src/libraries/errors/applicationError.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L12)
 
 Optional additional metadata associated with the error
 
@@ -46,6 +46,6 @@ Optional additional metadata associated with the error
 
 \> **param**: `null` \| `string`
 
-Defined in: [src/libraries/errors/applicationError.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L10)
+Defined in: [src/libraries/errors/applicationError.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L10)
 
 The parameter associated with the error, can be null

@@ -8,7 +8,7 @@
 
 \> `const` **createUserTag**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"createUserTag"`\]
 
-Defined in: [src/resolvers/Mutation/createUserTag.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/createUserTag.ts#L46)
+Defined in: [src/resolvers/Mutation/createUserTag.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Mutation/createUserTag.ts#L46)
 
 Creates a new tag for an organization if the user is authorized to do so.
 

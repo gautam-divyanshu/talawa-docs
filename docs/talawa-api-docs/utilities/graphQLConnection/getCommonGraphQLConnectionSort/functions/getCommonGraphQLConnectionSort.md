@@ -8,7 +8,7 @@
 
 \> **getCommonGraphQLConnectionSort**(`__namedParameters`): `CommmonGraphQLConnectionSort`
 
-Defined in: [src/utilities/graphQLConnection/getCommonGraphQLConnectionSort.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/utilities/graphQLConnection/getCommonGraphQLConnectionSort.ts#L34)
+Defined in: [src/utilities/graphQLConnection/getCommonGraphQLConnectionSort.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/graphQLConnection/getCommonGraphQLConnectionSort.ts#L34)
 
 This function is used to get an object containing common mongoose sorting logic.
 

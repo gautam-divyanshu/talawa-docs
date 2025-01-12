@@ -6,7 +6,7 @@
 
 # Interface: InterfaceAuthenticatedRequest
 
-Defined in: [src/middleware/isAuth.ts:82](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/middleware/isAuth.ts#L82)
+Defined in: [src/middleware/isAuth.ts:82](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/middleware/isAuth.ts#L82)
 
 ## Extends
 
@@ -445,7 +445,7 @@ where "proxy2" is the furthest down-stream.
 
 \> `optional` **isAuth**: `boolean`
 
-Defined in: [src/middleware/isAuth.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/middleware/isAuth.ts#L83)
+Defined in: [src/middleware/isAuth.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/middleware/isAuth.ts#L83)
 
 ***
 
@@ -951,7 +951,7 @@ If "subdomain offset" is 3, req.subdomains is `["tobi"]`.
 
 \> `optional` **tokenExpired**: `boolean`
 
-Defined in: [src/middleware/isAuth.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/middleware/isAuth.ts#L85)
+Defined in: [src/middleware/isAuth.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/middleware/isAuth.ts#L85)
 
 ***
 
@@ -1053,7 +1053,7 @@ v0.1.90
 
 \> `optional` **userId**: `string`
 
-Defined in: [src/middleware/isAuth.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/middleware/isAuth.ts#L84)
+Defined in: [src/middleware/isAuth.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/middleware/isAuth.ts#L84)
 
 ***
 

@@ -8,7 +8,7 @@
 
 \> **findUserInCache**(`ids`): `Promise`\<([`InterfaceUser`](../../../../models/User/interfaces/InterfaceUser.md) \| `null`)[]\>
 
-Defined in: [src/services/UserCache/findUserInCache.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/services/UserCache/findUserInCache.ts#L12)
+Defined in: [src/services/UserCache/findUserInCache.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/services/UserCache/findUserInCache.ts#L12)
 
 Retrieves user data from cache based on provided IDs.
 

@@ -8,7 +8,7 @@
 
 \> **removeDanglingDocuments**(`recurrenceRuleId`, `baseRecurringEventId`, `session`): `Promise`\<`void`\>
 
-Defined in: [src/helpers/event/recurringEventHelpers/removeDanglingDocuments.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/removeDanglingDocuments.ts#L13)
+Defined in: [src/helpers/event/recurringEventHelpers/removeDanglingDocuments.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/helpers/event/recurringEventHelpers/removeDanglingDocuments.ts#L13)
 
 Removes dangling recurrence rule and base recurring event documents if they have no associated events.
 

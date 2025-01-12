@@ -8,7 +8,7 @@
 
 \> **parseCursor**(`__namedParameters`): [`ParseGraphQLConnectionCursorResult`](../../../../utilities/graphQLConnection/parseGraphQLConnectionArguments/type-aliases/ParseGraphQLConnectionCursorResult.md)\<`string`\>
 
-Defined in: [src/resolvers/UserTag/childTags.ts:127](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/UserTag/childTags.ts#L127)
+Defined in: [src/resolvers/UserTag/childTags.ts:127](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/UserTag/childTags.ts#L127)
 
 ## Parameters
 

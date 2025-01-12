@@ -8,7 +8,7 @@
 
 \> `const` **creator**: [`EventResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/EventResolvers.md)\[`"creator"`\]
 
-Defined in: [src/resolvers/Event/creator.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Event/creator.ts#L16)
+Defined in: [src/resolvers/Event/creator.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Event/creator.ts#L16)
 
 Resolver function for the `creator` field of an `Event`.
 

@@ -8,7 +8,7 @@
 
 \> `const` **markChatMessagesAsRead**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"markChatMessagesAsRead"`\]
 
-Defined in: [src/resolvers/Mutation/markChatMessagesAsRead.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/Mutation/markChatMessagesAsRead.ts#L20)
+Defined in: [src/resolvers/Mutation/markChatMessagesAsRead.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Mutation/markChatMessagesAsRead.ts#L20)
 
 This function enables to send message to direct chat.
 

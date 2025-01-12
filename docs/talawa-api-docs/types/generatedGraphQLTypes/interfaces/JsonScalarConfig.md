@@ -6,7 +6,7 @@
 
 # Interface: JsonScalarConfig
 
-Defined in: [src/types/generatedGraphQLTypes.ts:4489](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L4489)
+Defined in: [src/types/generatedGraphQLTypes.ts:4489](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L4489)
 
 ## Extends
 
@@ -66,7 +66,7 @@ Defined in: node\_modules/graphql/type/definition.d.ts:368
 
 \> **name**: `"JSON"`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:4490](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L4490)
+Defined in: [src/types/generatedGraphQLTypes.ts:4490](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L4490)
 
 #### Overrides
 

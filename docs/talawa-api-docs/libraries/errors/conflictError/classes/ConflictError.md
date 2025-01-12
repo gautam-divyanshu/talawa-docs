@@ -6,7 +6,7 @@
 
 # Class: ConflictError
 
-Defined in: [src/libraries/errors/conflictError.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/conflictError.ts#L7)
+Defined in: [src/libraries/errors/conflictError.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/conflictError.ts#L7)
 
 This class represents a conflict error. It extends the ApplicationError class
 and is used to handle situations where a conflicting entry is found.
@@ -21,7 +21,7 @@ and is used to handle situations where a conflicting entry is found.
 
 \> **new ConflictError**(`message`, `code`, `param`, `metadata`): [`ConflictError`](ConflictError.md)
 
-Defined in: [src/libraries/errors/conflictError.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/conflictError.ts#L15)
+Defined in: [src/libraries/errors/conflictError.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/conflictError.ts#L15)
 
 Creates an instance of ConflictError.
 
@@ -65,7 +65,7 @@ Additional metadata related to the error. Defaults to an empty object.
 
 \> **errors**: [`InterfaceError`](../../applicationError/interfaces/InterfaceError.md)[]
 
-Defined in: [src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L21)
+Defined in: [src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L21)
 
 An array of errors conforming to the InterfaceError interface
 
@@ -79,7 +79,7 @@ An array of errors conforming to the InterfaceError interface
 
 \> **httpCode**: `number`
 
-Defined in: [src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/libraries/errors/applicationError.ts#L23)
+Defined in: [src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L23)
 
 The HTTP status code associated with the error
 

@@ -6,7 +6,7 @@
 
 # Interface: InterfaceRecurringEvent
 
-Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L35)
+Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L35)
 
 ## Extends
 
@@ -18,7 +18,7 @@ Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInsta
 
 \> `optional` **admins**: `string`[]
 
-Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L40)
+Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L40)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInsta
 
 \> **allDay**: `boolean`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:798](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L798)
+Defined in: [src/types/generatedGraphQLTypes.ts:798](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L798)
 
 #### Inherited from
 
@@ -38,7 +38,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:798](https://github.com/Palisado
 
 \> `optional` **baseRecurringEventId**: `string`
 
-Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L38)
+Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L38)
 
 ***
 
@@ -46,7 +46,7 @@ Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInsta
 
 \> **createChat**: `boolean`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:799](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L799)
+Defined in: [src/types/generatedGraphQLTypes.ts:799](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L799)
 
 #### Inherited from
 
@@ -58,7 +58,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:799](https://github.com/Palisado
 
 \> `optional` **creatorId**: `string`
 
-Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L39)
+Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L39)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInsta
 
 \> **description**: `string`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:800](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L800)
+Defined in: [src/types/generatedGraphQLTypes.ts:800](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L800)
 
 #### Inherited from
 
@@ -78,7 +78,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:800](https://github.com/Palisado
 
 \> **endDate**: `any`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:801](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L801)
+Defined in: [src/types/generatedGraphQLTypes.ts:801](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L801)
 
 #### Inherited from
 
@@ -90,7 +90,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:801](https://github.com/Palisado
 
 \> `optional` **endTime**: `any`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:802](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L802)
+Defined in: [src/types/generatedGraphQLTypes.ts:802](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L802)
 
 #### Inherited from
 
@@ -102,7 +102,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:802](https://github.com/Palisado
 
 \> `optional` **images**: [`InputMaybe`](../../../../../types/generatedGraphQLTypes/type-aliases/InputMaybe.md)\<[`InputMaybe`](../../../../../types/generatedGraphQLTypes/type-aliases/InputMaybe.md)\<`string`\>[]\>
 
-Defined in: [src/types/generatedGraphQLTypes.ts:803](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L803)
+Defined in: [src/types/generatedGraphQLTypes.ts:803](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L803)
 
 #### Inherited from
 
@@ -114,7 +114,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:803](https://github.com/Palisado
 
 \> `optional` **isBaseRecurringEvent**: `boolean`
 
-Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L36)
+Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L36)
 
 ***
 
@@ -122,7 +122,7 @@ Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInsta
 
 \> **isPublic**: `boolean`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:804](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L804)
+Defined in: [src/types/generatedGraphQLTypes.ts:804](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L804)
 
 #### Inherited from
 
@@ -134,7 +134,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:804](https://github.com/Palisado
 
 \> **isRegisterable**: `boolean`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:805](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L805)
+Defined in: [src/types/generatedGraphQLTypes.ts:805](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L805)
 
 #### Inherited from
 
@@ -146,7 +146,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:805](https://github.com/Palisado
 
 \> `optional` **latitude**: `any`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:806](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L806)
+Defined in: [src/types/generatedGraphQLTypes.ts:806](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L806)
 
 #### Inherited from
 
@@ -158,7 +158,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:806](https://github.com/Palisado
 
 \> `optional` **location**: [`InputMaybe`](../../../../../types/generatedGraphQLTypes/type-aliases/InputMaybe.md)\<`string`\>
 
-Defined in: [src/types/generatedGraphQLTypes.ts:807](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L807)
+Defined in: [src/types/generatedGraphQLTypes.ts:807](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L807)
 
 #### Inherited from
 
@@ -170,7 +170,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:807](https://github.com/Palisado
 
 \> `optional` **longitude**: `any`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:808](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L808)
+Defined in: [src/types/generatedGraphQLTypes.ts:808](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L808)
 
 #### Inherited from
 
@@ -182,7 +182,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:808](https://github.com/Palisado
 
 \> `optional` **organization**: `string`
 
-Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L41)
+Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L41)
 
 ***
 
@@ -190,7 +190,7 @@ Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInsta
 
 \> **organizationId**: `string`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:809](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L809)
+Defined in: [src/types/generatedGraphQLTypes.ts:809](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L809)
 
 #### Inherited from
 
@@ -202,7 +202,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:809](https://github.com/Palisado
 
 \> `optional` **recurrenceRuleId**: `string`
 
-Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L37)
+Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/helpers/event/recurringEventHelpers/generateRecurringEventInstances.ts#L37)
 
 ***
 
@@ -210,7 +210,7 @@ Defined in: [src/helpers/event/recurringEventHelpers/generateRecurringEventInsta
 
 \> **recurring**: `boolean`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:810](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L810)
+Defined in: [src/types/generatedGraphQLTypes.ts:810](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L810)
 
 #### Inherited from
 
@@ -222,7 +222,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:810](https://github.com/Palisado
 
 \> **startDate**: `any`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:811](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L811)
+Defined in: [src/types/generatedGraphQLTypes.ts:811](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L811)
 
 #### Inherited from
 
@@ -234,7 +234,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:811](https://github.com/Palisado
 
 \> `optional` **startTime**: `any`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:812](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L812)
+Defined in: [src/types/generatedGraphQLTypes.ts:812](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L812)
 
 #### Inherited from
 
@@ -246,7 +246,7 @@ Defined in: [src/types/generatedGraphQLTypes.ts:812](https://github.com/Palisado
 
 \> **title**: `string`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:813](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/types/generatedGraphQLTypes.ts#L813)
+Defined in: [src/types/generatedGraphQLTypes.ts:813](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L813)
 
 #### Inherited from
 

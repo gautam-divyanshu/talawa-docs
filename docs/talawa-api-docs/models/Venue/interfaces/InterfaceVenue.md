@@ -6,7 +6,7 @@
 
 # Interface: InterfaceVenue
 
-Defined in: [src/models/Venue.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Venue.ts#L7)
+Defined in: [src/models/Venue.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Venue.ts#L7)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/models/Venue.ts:7](https://github.com/PalisadoesFoundation/tala
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/Venue.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Venue.ts#L8)
+Defined in: [src/models/Venue.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Venue.ts#L8)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/models/Venue.ts:8](https://github.com/PalisadoesFoundation/tala
 
 \> **capacity**: `number`
 
-Defined in: [src/models/Venue.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Venue.ts#L11)
+Defined in: [src/models/Venue.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Venue.ts#L11)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/models/Venue.ts:11](https://github.com/PalisadoesFoundation/tal
 
 \> **description**: `undefined` \| `null` \| `string`
 
-Defined in: [src/models/Venue.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Venue.ts#L10)
+Defined in: [src/models/Venue.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Venue.ts#L10)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/models/Venue.ts:10](https://github.com/PalisadoesFoundation/tal
 
 \> **imageUrl**: `undefined` \| `null` \| `string`
 
-Defined in: [src/models/Venue.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Venue.ts#L12)
+Defined in: [src/models/Venue.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Venue.ts#L12)
 
 ***
 
@@ -46,7 +46,7 @@ Defined in: [src/models/Venue.ts:12](https://github.com/PalisadoesFoundation/tal
 
 \> **name**: `string`
 
-Defined in: [src/models/Venue.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Venue.ts#L9)
+Defined in: [src/models/Venue.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Venue.ts#L9)
 
 ***
 
@@ -54,4 +54,4 @@ Defined in: [src/models/Venue.ts:9](https://github.com/PalisadoesFoundation/tala
 
 \> **organization**: `PopulatedDoc`\<[`InterfaceOrganization`](../../Organization/interfaces/InterfaceOrganization.md) & `Document`\>
 
-Defined in: [src/models/Venue.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/models/Venue.ts#L13)
+Defined in: [src/models/Venue.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Venue.ts#L13)

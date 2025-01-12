@@ -8,7 +8,7 @@
 
 \> `const` **posts**: [`UserResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/UserResolvers.md)\[`"posts"`\]
 
-Defined in: [src/resolvers/User/posts.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/resolvers/User/posts.ts#L30)
+Defined in: [src/resolvers/User/posts.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/User/posts.ts#L30)
 
 Resolver function to fetch and return posts created by a user from the database.
 This function implements cursor-based pagination using GraphQL connection arguments.

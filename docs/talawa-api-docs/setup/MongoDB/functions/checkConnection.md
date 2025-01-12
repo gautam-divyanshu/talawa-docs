@@ -8,7 +8,7 @@
 
 \> **checkConnection**(`url`): `Promise`\<`boolean`\>
 
-Defined in: [src/setup/MongoDB.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/setup/MongoDB.ts#L45)
+Defined in: [src/setup/MongoDB.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/setup/MongoDB.ts#L45)
 
 The `checkConnection` function attempts to establish a connection to a MongoDB instance using a provided URL.
 

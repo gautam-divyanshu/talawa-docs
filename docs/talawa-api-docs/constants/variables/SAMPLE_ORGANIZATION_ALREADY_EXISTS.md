@@ -8,4 +8,4 @@
 
 \> `const` **SAMPLE\_ORGANIZATION\_ALREADY\_EXISTS**: `Readonly`\<\{ `CODE`: `"sampleOrganization.duplicate"`; `DESC`: `"Sample Organization was already generated"`; `MESSAGE`: `"sampleOrganization.duplicate"`; `PARAM`: `"sampleOrganization"`; \}\>
 
-Defined in: [src/constants.ts:690](https://github.com/PalisadoesFoundation/talawa-api/blob/3600eaaf2193496324ea8e78d75780839e27cae4/src/constants.ts#L690)
+Defined in: [src/constants.ts:690](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L690)
