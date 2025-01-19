@@ -8,7 +8,7 @@
 
 \> **validateRecaptcha**(`string`): `boolean`
 
-Defined in: [src/setup/reCaptcha.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/setup/reCaptcha.ts#L7)
+Defined in: [src/setup/reCaptcha.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/setup/reCaptcha.ts#L7)
 
 The function validates whether a given string matches the pattern of a reCAPTCHA token.
 

@@ -8,7 +8,7 @@
 
 \> **CreateMemberPayloadResolvers**\<`ContextType`, `ParentType`\>: `object`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:4236](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L4236)
+Defined in: [src/types/generatedGraphQLTypes.ts:4236](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/types/generatedGraphQLTypes.ts#L4236)
 
 ## Type Parameters
 

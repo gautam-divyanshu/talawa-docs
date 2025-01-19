@@ -8,7 +8,7 @@
 
 \> `const` **replyTo**: [`ChatMessageResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/ChatMessageResolvers.md)\[`"replyTo"`\]
 
-Defined in: [src/resolvers/ChatMessage/replyTo.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/ChatMessage/replyTo.ts#L10)
+Defined in: [src/resolvers/ChatMessage/replyTo.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/ChatMessage/replyTo.ts#L10)
 
 This resolver function will fetch and return the message replied to specific to the chat from the database.
 

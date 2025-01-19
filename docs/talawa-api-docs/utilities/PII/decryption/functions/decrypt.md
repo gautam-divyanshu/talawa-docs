@@ -8,7 +8,7 @@
 
 \> **decrypt**(`encryptedText`, `key`, `iv`): `string`
 
-Defined in: [src/utilities/PII/decryption.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/PII/decryption.ts#L11)
+Defined in: [src/utilities/PII/decryption.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/PII/decryption.ts#L11)
 
 Decrypts the given encrypted text using AES-256-CBC decryption.
 

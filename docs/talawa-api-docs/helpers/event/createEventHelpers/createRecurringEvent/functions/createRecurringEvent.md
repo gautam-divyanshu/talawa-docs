@@ -8,7 +8,7 @@
 
 \> **createRecurringEvent**(`args`, `creatorId`, `organizationId`, `session`, `chat`): `Promise`\<[`InterfaceEvent`](../../../../../models/Event/interfaces/InterfaceEvent.md)\>
 
-Defined in: [src/helpers/event/createEventHelpers/createRecurringEvent.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/helpers/event/createEventHelpers/createRecurringEvent.ts#L35)
+Defined in: [src/helpers/event/createEventHelpers/createRecurringEvent.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/helpers/event/createEventHelpers/createRecurringEvent.ts#L35)
 
 Creates instances of a recurring event up to a specified end date.
 

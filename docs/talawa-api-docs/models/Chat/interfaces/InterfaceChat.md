@@ -6,7 +6,7 @@
 
 # Interface: InterfaceChat
 
-Defined in: [src/models/Chat.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L12)
+Defined in: [src/models/Chat.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L12)
 
 Interface representing a document for direct chat in MongoDB.
 
@@ -16,7 +16,7 @@ Interface representing a document for direct chat in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/Chat.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L13)
+Defined in: [src/models/Chat.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L13)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/Chat.ts:13](https://github.com/PalisadoesFoundation/tala
 
 \> **admins**: `any`[]
 
-Defined in: [src/models/Chat.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L22)
+Defined in: [src/models/Chat.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L22)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/Chat.ts:22](https://github.com/PalisadoesFoundation/tala
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/Chat.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L23)
+Defined in: [src/models/Chat.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L23)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/Chat.ts:23](https://github.com/PalisadoesFoundation/tala
 
 \> **creatorId**: `any`
 
-Defined in: [src/models/Chat.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L19)
+Defined in: [src/models/Chat.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L19)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/models/Chat.ts:19](https://github.com/PalisadoesFoundation/tala
 
 \> **image**: `string`
 
-Defined in: [src/models/Chat.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L16)
+Defined in: [src/models/Chat.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L16)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/models/Chat.ts:16](https://github.com/PalisadoesFoundation/tala
 
 \> **isGroup**: `boolean`
 
-Defined in: [src/models/Chat.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L14)
+Defined in: [src/models/Chat.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L14)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/models/Chat.ts:14](https://github.com/PalisadoesFoundation/tala
 
 \> **lastMessageId**: `string`
 
-Defined in: [src/models/Chat.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L25)
+Defined in: [src/models/Chat.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L25)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/models/Chat.ts:25](https://github.com/PalisadoesFoundation/tala
 
 \> **messages**: `any`[]
 
-Defined in: [src/models/Chat.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L18)
+Defined in: [src/models/Chat.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L18)
 
 ***
 
@@ -80,7 +80,7 @@ Defined in: [src/models/Chat.ts:18](https://github.com/PalisadoesFoundation/tala
 
 \> **name**: `string`
 
-Defined in: [src/models/Chat.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L15)
+Defined in: [src/models/Chat.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L15)
 
 ***
 
@@ -88,7 +88,7 @@ Defined in: [src/models/Chat.ts:15](https://github.com/PalisadoesFoundation/tala
 
 \> **organization**: `any`
 
-Defined in: [src/models/Chat.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L20)
+Defined in: [src/models/Chat.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L20)
 
 ***
 
@@ -96,7 +96,7 @@ Defined in: [src/models/Chat.ts:20](https://github.com/PalisadoesFoundation/tala
 
 \> **status**: `string`
 
-Defined in: [src/models/Chat.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L21)
+Defined in: [src/models/Chat.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L21)
 
 ***
 
@@ -104,7 +104,7 @@ Defined in: [src/models/Chat.ts:21](https://github.com/PalisadoesFoundation/tala
 
 \> **unseenMessagesByUsers**: `JSON`
 
-Defined in: [src/models/Chat.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L26)
+Defined in: [src/models/Chat.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L26)
 
 ***
 
@@ -112,7 +112,7 @@ Defined in: [src/models/Chat.ts:26](https://github.com/PalisadoesFoundation/tala
 
 \> **updatedAt**: `Date`
 
-Defined in: [src/models/Chat.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L24)
+Defined in: [src/models/Chat.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L24)
 
 ***
 
@@ -120,4 +120,4 @@ Defined in: [src/models/Chat.ts:24](https://github.com/PalisadoesFoundation/tala
 
 \> **users**: `any`[]
 
-Defined in: [src/models/Chat.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Chat.ts#L17)
+Defined in: [src/models/Chat.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Chat.ts#L17)

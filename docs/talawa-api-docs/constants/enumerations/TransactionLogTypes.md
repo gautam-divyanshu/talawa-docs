@@ -6,7 +6,7 @@
 
 # Enumeration: TransactionLogTypes
 
-Defined in: [src/constants.ts:847](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L847)
+Defined in: [src/constants.ts:847](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/constants.ts#L847)
 
 ## Enumeration Members
 
@@ -14,7 +14,7 @@ Defined in: [src/constants.ts:847](https://github.com/PalisadoesFoundation/talaw
 
 \> **CREATE**: `"CREATE"`
 
-Defined in: [src/constants.ts:848](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L848)
+Defined in: [src/constants.ts:848](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/constants.ts#L848)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/constants.ts:848](https://github.com/PalisadoesFoundation/talaw
 
 \> **DELETE**: `"DELETE"`
 
-Defined in: [src/constants.ts:850](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L850)
+Defined in: [src/constants.ts:850](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/constants.ts#L850)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/constants.ts:850](https://github.com/PalisadoesFoundation/talaw
 
 \> **UPDATE**: `"UPDATE"`
 
-Defined in: [src/constants.ts:849](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L849)
+Defined in: [src/constants.ts:849](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/constants.ts#L849)

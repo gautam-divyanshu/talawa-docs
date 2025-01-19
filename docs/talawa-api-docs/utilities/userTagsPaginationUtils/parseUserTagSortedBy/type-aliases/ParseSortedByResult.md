@@ -8,7 +8,7 @@
 
 \> **ParseSortedByResult**: `object`
 
-Defined in: [src/utilities/userTagsPaginationUtils/parseUserTagSortedBy.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/userTagsPaginationUtils/parseUserTagSortedBy.ts#L13)
+Defined in: [src/utilities/userTagsPaginationUtils/parseUserTagSortedBy.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/userTagsPaginationUtils/parseUserTagSortedBy.ts#L13)
 
 type of the sort object returned if the parsing is successful
 

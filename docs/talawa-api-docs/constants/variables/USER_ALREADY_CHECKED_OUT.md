@@ -8,4 +8,4 @@
 
 \> `const` **USER\_ALREADY\_CHECKED\_OUT**: `Readonly`\<\{ `CODE`: `"user.alreadyCheckedOut"`; `MESSAGE`: `"The user has already been checked out for this event."`; `PARAM`: `"user.alreadyCheckedOut"`; \}\>
 
-Defined in: [src/constants.ts:684](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L684)
+Defined in: [src/constants.ts:684](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/constants.ts#L684)

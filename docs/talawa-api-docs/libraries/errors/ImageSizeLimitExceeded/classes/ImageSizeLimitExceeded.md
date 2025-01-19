@@ -6,7 +6,7 @@
 
 # Class: ImageSizeLimitExceeded
 
-Defined in: [src/libraries/errors/ImageSizeLimitExceeded.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/ImageSizeLimitExceeded.ts#L7)
+Defined in: [src/libraries/errors/ImageSizeLimitExceeded.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/libraries/errors/ImageSizeLimitExceeded.ts#L7)
 
 This class represents an error indicating that the image size limit has been exceeded.
 It extends the ApplicationError class to handle and format the error information.
@@ -21,7 +21,7 @@ It extends the ApplicationError class to handle and format the error information
 
 \> **new ImageSizeLimitExceeded**(`message`, `code`, `param`, `metadata`): [`ImageSizeLimitExceeded`](ImageSizeLimitExceeded.md)
 
-Defined in: [src/libraries/errors/ImageSizeLimitExceeded.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/ImageSizeLimitExceeded.ts#L16)
+Defined in: [src/libraries/errors/ImageSizeLimitExceeded.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/libraries/errors/ImageSizeLimitExceeded.ts#L16)
 
 Creates an instance of ImageSizeLimitExceeded.
 
@@ -65,7 +65,7 @@ Optional additional metadata associated with the error (default is an empty obje
 
 \> **errors**: [`InterfaceError`](../../applicationError/interfaces/InterfaceError.md)[]
 
-Defined in: [src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L21)
+Defined in: [src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/libraries/errors/applicationError.ts#L21)
 
 An array of errors conforming to the InterfaceError interface
 
@@ -79,7 +79,7 @@ An array of errors conforming to the InterfaceError interface
 
 \> **httpCode**: `number`
 
-Defined in: [src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/errors/applicationError.ts#L23)
+Defined in: [src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/libraries/errors/applicationError.ts#L23)
 
 The HTTP status code associated with the error
 

@@ -8,7 +8,7 @@
 
 \> **default**(): `Promise`\<`void`\>
 
-Defined in: [src/config/plugins/loadPlugins.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/config/plugins/loadPlugins.ts#L31)
+Defined in: [src/config/plugins/loadPlugins.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/config/plugins/loadPlugins.ts#L31)
 
 Loads plugin data into the MongoDB database if it is not already present.
 

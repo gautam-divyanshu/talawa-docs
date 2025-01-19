@@ -6,7 +6,7 @@
 
 # Interface: InterfaceImageHash
 
-Defined in: [src/models/ImageHash.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ImageHash.ts#L10)
+Defined in: [src/models/ImageHash.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ImageHash.ts#L10)
 
 Interface representing a document for an image hash in the database (MongoDB).
 
@@ -16,7 +16,7 @@ Interface representing a document for an image hash in the database (MongoDB).
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/ImageHash.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ImageHash.ts#L11)
+Defined in: [src/models/ImageHash.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ImageHash.ts#L11)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/ImageHash.ts:11](https://github.com/PalisadoesFoundation
 
 \> **fileName**: `string`
 
-Defined in: [src/models/ImageHash.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ImageHash.ts#L13)
+Defined in: [src/models/ImageHash.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ImageHash.ts#L13)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/ImageHash.ts:13](https://github.com/PalisadoesFoundation
 
 \> **hashValue**: `string`
 
-Defined in: [src/models/ImageHash.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ImageHash.ts#L12)
+Defined in: [src/models/ImageHash.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ImageHash.ts#L12)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/ImageHash.ts:12](https://github.com/PalisadoesFoundation
 
 \> **numberOfUses**: `number`
 
-Defined in: [src/models/ImageHash.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ImageHash.ts#L14)
+Defined in: [src/models/ImageHash.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ImageHash.ts#L14)
 
 ***
 
@@ -48,4 +48,4 @@ Defined in: [src/models/ImageHash.ts:14](https://github.com/PalisadoesFoundation
 
 \> **status**: `string`
 
-Defined in: [src/models/ImageHash.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ImageHash.ts#L15)
+Defined in: [src/models/ImageHash.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ImageHash.ts#L15)

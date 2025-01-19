@@ -8,7 +8,7 @@
 
 \> **createFile**(`uploadResult`, `originalname`, `mimetype`, `size`): `Promise`\<[`InterfaceFile`](../../../../../models/File/interfaces/InterfaceFile.md)\>
 
-Defined in: [src/REST/services/file/createFile.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/REST/services/file/createFile.ts#L25)
+Defined in: [src/REST/services/file/createFile.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/REST/services/file/createFile.ts#L25)
 
 Creates or updates a file document in the database based on the upload result.
 

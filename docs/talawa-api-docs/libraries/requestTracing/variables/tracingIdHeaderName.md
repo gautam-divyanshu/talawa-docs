@@ -8,6 +8,6 @@
 
 \> `const` **tracingIdHeaderName**: `"X-Tracing-Id"` = `"X-Tracing-Id"`
 
-Defined in: [src/libraries/requestTracing.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/requestTracing.ts#L28)
+Defined in: [src/libraries/requestTracing.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/libraries/requestTracing.ts#L28)
 
 Name of the header where the tracing ID will be stored.

@@ -6,7 +6,7 @@
 
 # Class: TalawaGraphQLError
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:188](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/TalawaGraphQLError.ts#L188)
+Defined in: [src/utilities/TalawaGraphQLError.ts:188](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/TalawaGraphQLError.ts#L188)
 
 A custom class extended from the GraphQLError class to standardize the errors returned from talawa-api's
 graphQL resolvers. This standardization prevents the talawa-api contributers from returning undocumented,
@@ -49,7 +49,7 @@ export const bestFriend = async (parent) =\> \{
 
 \> **new TalawaGraphQLError**(`message`, `options`): [`TalawaGraphQLError`](TalawaGraphQLError.md)
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:189](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/TalawaGraphQLError.ts#L189)
+Defined in: [src/utilities/TalawaGraphQLError.ts:189](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/TalawaGraphQLError.ts#L189)
 
 #### Parameters
 

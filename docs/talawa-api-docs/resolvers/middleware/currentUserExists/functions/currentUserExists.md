@@ -8,7 +8,7 @@
 
 \> **currentUserExists**(): (`next`) =\> (`root`, `args`, `context`, `info`) =\> `Promise`\<`any`\>
 
-Defined in: [src/resolvers/middleware/currentUserExists.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/middleware/currentUserExists.ts#L21)
+Defined in: [src/resolvers/middleware/currentUserExists.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/middleware/currentUserExists.ts#L21)
 
 Middleware function to check if the current user exists in the database.
 

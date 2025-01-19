@@ -6,7 +6,7 @@
 
 # Interface: InterfaceDonation
 
-Defined in: [src/models/Donation.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Donation.ts#L10)
+Defined in: [src/models/Donation.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Donation.ts#L10)
 
 Interface representing a document for a donation in MongoDB.
 
@@ -16,7 +16,7 @@ Interface representing a document for a donation in MongoDB.
 
 \> **amount**: `number`
 
-Defined in: [src/models/Donation.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Donation.ts#L16)
+Defined in: [src/models/Donation.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Donation.ts#L16)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/Donation.ts:16](https://github.com/PalisadoesFoundation/
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/Donation.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Donation.ts#L17)
+Defined in: [src/models/Donation.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Donation.ts#L17)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/Donation.ts:17](https://github.com/PalisadoesFoundation/
 
 \> **nameOfOrg**: `string`
 
-Defined in: [src/models/Donation.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Donation.ts#L13)
+Defined in: [src/models/Donation.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Donation.ts#L13)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/Donation.ts:13](https://github.com/PalisadoesFoundation/
 
 \> **nameOfUser**: `string`
 
-Defined in: [src/models/Donation.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Donation.ts#L15)
+Defined in: [src/models/Donation.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Donation.ts#L15)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/models/Donation.ts:15](https://github.com/PalisadoesFoundation/
 
 \> **orgId**: `string` \| `ObjectId`
 
-Defined in: [src/models/Donation.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Donation.ts#L12)
+Defined in: [src/models/Donation.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Donation.ts#L12)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/models/Donation.ts:12](https://github.com/PalisadoesFoundation/
 
 \> **payPalId**: `string`
 
-Defined in: [src/models/Donation.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Donation.ts#L14)
+Defined in: [src/models/Donation.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Donation.ts#L14)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/models/Donation.ts:14](https://github.com/PalisadoesFoundation/
 
 \> **updatedAt**: `Date`
 
-Defined in: [src/models/Donation.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Donation.ts#L18)
+Defined in: [src/models/Donation.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Donation.ts#L18)
 
 ***
 
@@ -72,4 +72,4 @@ Defined in: [src/models/Donation.ts:18](https://github.com/PalisadoesFoundation/
 
 \> **userId**: `string` \| `ObjectId`
 
-Defined in: [src/models/Donation.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Donation.ts#L11)
+Defined in: [src/models/Donation.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Donation.ts#L11)

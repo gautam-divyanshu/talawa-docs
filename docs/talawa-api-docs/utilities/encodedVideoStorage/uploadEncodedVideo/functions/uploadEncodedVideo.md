@@ -8,7 +8,7 @@
 
 \> **uploadEncodedVideo**(`encodedVideoURL`, `previousVideoPath`?): `Promise`\<`string`\>
 
-Defined in: [src/utilities/encodedVideoStorage/uploadEncodedVideo.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/encodedVideoStorage/uploadEncodedVideo.ts#L19)
+Defined in: [src/utilities/encodedVideoStorage/uploadEncodedVideo.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/encodedVideoStorage/uploadEncodedVideo.ts#L19)
 
 Uploads an encoded video to the server.
 

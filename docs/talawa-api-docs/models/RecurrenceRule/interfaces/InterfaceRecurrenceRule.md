@@ -6,7 +6,7 @@
 
 # Interface: InterfaceRecurrenceRule
 
-Defined in: [src/models/RecurrenceRule.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L35)
+Defined in: [src/models/RecurrenceRule.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L35)
 
 Interface representing a document for a recurrence rule in the database (MongoDB).
 
@@ -16,7 +16,7 @@ Interface representing a document for a recurrence rule in the database (MongoDB
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/RecurrenceRule.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L36)
+Defined in: [src/models/RecurrenceRule.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L36)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/RecurrenceRule.ts:36](https://github.com/PalisadoesFound
 
 \> **baseRecurringEventId**: `any`
 
-Defined in: [src/models/RecurrenceRule.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L38)
+Defined in: [src/models/RecurrenceRule.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L38)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/RecurrenceRule.ts:38](https://github.com/PalisadoesFound
 
 \> **count**: `number`
 
-Defined in: [src/models/RecurrenceRule.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L45)
+Defined in: [src/models/RecurrenceRule.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L45)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/RecurrenceRule.ts:45](https://github.com/PalisadoesFound
 
 \> **frequency**: [`Frequency`](../enumerations/Frequency.md)
 
-Defined in: [src/models/RecurrenceRule.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L42)
+Defined in: [src/models/RecurrenceRule.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L42)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/models/RecurrenceRule.ts:42](https://github.com/PalisadoesFound
 
 \> **interval**: `number`
 
-Defined in: [src/models/RecurrenceRule.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L44)
+Defined in: [src/models/RecurrenceRule.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L44)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/models/RecurrenceRule.ts:44](https://github.com/PalisadoesFound
 
 \> **latestInstanceDate**: `Date`
 
-Defined in: [src/models/RecurrenceRule.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L47)
+Defined in: [src/models/RecurrenceRule.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L47)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/models/RecurrenceRule.ts:47](https://github.com/PalisadoesFound
 
 \> **organizationId**: `any`
 
-Defined in: [src/models/RecurrenceRule.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L37)
+Defined in: [src/models/RecurrenceRule.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L37)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/models/RecurrenceRule.ts:37](https://github.com/PalisadoesFound
 
 \> **recurrenceEndDate**: `Date`
 
-Defined in: [src/models/RecurrenceRule.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L41)
+Defined in: [src/models/RecurrenceRule.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L41)
 
 ***
 
@@ -80,7 +80,7 @@ Defined in: [src/models/RecurrenceRule.ts:41](https://github.com/PalisadoesFound
 
 \> **recurrenceRuleString**: `string`
 
-Defined in: [src/models/RecurrenceRule.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L39)
+Defined in: [src/models/RecurrenceRule.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L39)
 
 ***
 
@@ -88,7 +88,7 @@ Defined in: [src/models/RecurrenceRule.ts:39](https://github.com/PalisadoesFound
 
 \> **recurrenceStartDate**: `Date`
 
-Defined in: [src/models/RecurrenceRule.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L40)
+Defined in: [src/models/RecurrenceRule.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L40)
 
 ***
 
@@ -96,7 +96,7 @@ Defined in: [src/models/RecurrenceRule.ts:40](https://github.com/PalisadoesFound
 
 \> **weekDayOccurenceInMonth**: `number`
 
-Defined in: [src/models/RecurrenceRule.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L46)
+Defined in: [src/models/RecurrenceRule.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L46)
 
 ***
 
@@ -104,4 +104,4 @@ Defined in: [src/models/RecurrenceRule.ts:46](https://github.com/PalisadoesFound
 
 \> **weekDays**: [`WeekDays`](../enumerations/WeekDays.md)[]
 
-Defined in: [src/models/RecurrenceRule.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L43)
+Defined in: [src/models/RecurrenceRule.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L43)

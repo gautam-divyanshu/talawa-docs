@@ -6,7 +6,7 @@
 
 # Enumeration: Frequency
 
-Defined in: [src/models/RecurrenceRule.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L12)
+Defined in: [src/models/RecurrenceRule.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L12)
 
 Enumeration for recurrence frequencies.
 
@@ -16,7 +16,7 @@ Enumeration for recurrence frequencies.
 
 \> **DAILY**: `"DAILY"`
 
-Defined in: [src/models/RecurrenceRule.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L16)
+Defined in: [src/models/RecurrenceRule.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L16)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/RecurrenceRule.ts:16](https://github.com/PalisadoesFound
 
 \> **MONTHLY**: `"MONTHLY"`
 
-Defined in: [src/models/RecurrenceRule.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L14)
+Defined in: [src/models/RecurrenceRule.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L14)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/RecurrenceRule.ts:14](https://github.com/PalisadoesFound
 
 \> **WEEKLY**: `"WEEKLY"`
 
-Defined in: [src/models/RecurrenceRule.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L15)
+Defined in: [src/models/RecurrenceRule.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L15)
 
 ***
 
@@ -40,4 +40,4 @@ Defined in: [src/models/RecurrenceRule.ts:15](https://github.com/PalisadoesFound
 
 \> **YEARLY**: `"YEARLY"`
 
-Defined in: [src/models/RecurrenceRule.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/RecurrenceRule.ts#L13)
+Defined in: [src/models/RecurrenceRule.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/RecurrenceRule.ts#L13)

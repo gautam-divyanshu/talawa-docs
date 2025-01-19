@@ -6,7 +6,7 @@
 
 # Interface: InterfaceLanguage
 
-Defined in: [src/models/Language.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Language.ts#L52)
+Defined in: [src/models/Language.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Language.ts#L52)
 
 Interface representing a Language document in the database (MongoDB).
 
@@ -16,7 +16,7 @@ Interface representing a Language document in the database (MongoDB).
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/Language.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Language.ts#L53)
+Defined in: [src/models/Language.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Language.ts#L53)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/Language.ts:53](https://github.com/PalisadoesFoundation/
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/Language.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Language.ts#L56)
+Defined in: [src/models/Language.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Language.ts#L56)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/Language.ts:56](https://github.com/PalisadoesFoundation/
 
 \> **en**: `string`
 
-Defined in: [src/models/Language.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Language.ts#L54)
+Defined in: [src/models/Language.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Language.ts#L54)
 
 ***
 
@@ -40,4 +40,4 @@ Defined in: [src/models/Language.ts:54](https://github.com/PalisadoesFoundation/
 
 \> **translation**: `any`[]
 
-Defined in: [src/models/Language.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Language.ts#L55)
+Defined in: [src/models/Language.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Language.ts#L55)

@@ -8,7 +8,7 @@
 
 \> **createPost**(`req`, `res`): `Promise`\<`void`\>
 
-Defined in: [src/REST/controllers/mutation/createPost.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/REST/controllers/mutation/createPost.ts#L71)
+Defined in: [src/REST/controllers/mutation/createPost.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/REST/controllers/mutation/createPost.ts#L71)
 
 Creates a new post within an organization
 async

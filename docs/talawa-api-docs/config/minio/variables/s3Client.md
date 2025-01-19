@@ -8,7 +8,7 @@
 
 \> `const` **s3Client**: `S3Client`
 
-Defined in: [src/config/minio/index.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/config/minio/index.ts#L27)
+Defined in: [src/config/minio/index.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/config/minio/index.ts#L27)
 
 Initializes and exports an S3 client instance using AWS SDK for connecting to MinIO storage.
 

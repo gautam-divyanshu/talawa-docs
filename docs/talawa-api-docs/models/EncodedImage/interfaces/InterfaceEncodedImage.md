@@ -6,7 +6,7 @@
 
 # Interface: InterfaceEncodedImage
 
-Defined in: [src/models/EncodedImage.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/EncodedImage.ts#L10)
+Defined in: [src/models/EncodedImage.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/EncodedImage.ts#L10)
 
 Represents a document for an encoded image in the MongoDB database.
 
@@ -16,7 +16,7 @@ Represents a document for an encoded image in the MongoDB database.
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/EncodedImage.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/EncodedImage.ts#L11)
+Defined in: [src/models/EncodedImage.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/EncodedImage.ts#L11)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/EncodedImage.ts:11](https://github.com/PalisadoesFoundat
 
 \> **content**: `string`
 
-Defined in: [src/models/EncodedImage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/EncodedImage.ts#L13)
+Defined in: [src/models/EncodedImage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/EncodedImage.ts#L13)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/EncodedImage.ts:13](https://github.com/PalisadoesFoundat
 
 \> **fileName**: `string`
 
-Defined in: [src/models/EncodedImage.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/EncodedImage.ts#L12)
+Defined in: [src/models/EncodedImage.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/EncodedImage.ts#L12)
 
 ***
 
@@ -40,4 +40,4 @@ Defined in: [src/models/EncodedImage.ts:12](https://github.com/PalisadoesFoundat
 
 \> **numberOfUses**: `number`
 
-Defined in: [src/models/EncodedImage.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/EncodedImage.ts#L14)
+Defined in: [src/models/EncodedImage.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/EncodedImage.ts#L14)

@@ -8,7 +8,7 @@
 
 \> **getWhere**\<`T`\>(`where`): `FilterQuery`\<`T`\>
 
-Defined in: [src/resolvers/Query/helperFunctions/getWhere.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Query/helperFunctions/getWhere.ts#L34)
+Defined in: [src/resolvers/Query/helperFunctions/getWhere.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/Query/helperFunctions/getWhere.ts#L34)
 
 This function returns FilterQuery object which can be used to find out documents matching specific args as mentioned in `where`.
 When modifying this function, check if the arg to be added isn't present before, and place `where` argument

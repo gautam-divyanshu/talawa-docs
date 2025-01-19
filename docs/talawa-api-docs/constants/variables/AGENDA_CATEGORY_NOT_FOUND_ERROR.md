@@ -8,4 +8,4 @@
 
 \> `const` **AGENDA\_CATEGORY\_NOT\_FOUND\_ERROR**: `Readonly`\<\{ `CODE`: `"agendaCategory.notFound"`; `DESC`: `"Agenda category not found"`; `MESSAGE`: `"agendaCategory.notFound"`; `PARAM`: `"agendaCategory"`; \}\>
 
-Defined in: [src/constants.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L39)
+Defined in: [src/constants.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/constants.ts#L39)

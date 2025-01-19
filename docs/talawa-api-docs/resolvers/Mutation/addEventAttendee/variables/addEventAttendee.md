@@ -8,7 +8,7 @@
 
 \> `const` **addEventAttendee**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"addEventAttendee"`\]
 
-Defined in: [src/resolvers/Mutation/addEventAttendee.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Mutation/addEventAttendee.ts#L51)
+Defined in: [src/resolvers/Mutation/addEventAttendee.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/Mutation/addEventAttendee.ts#L51)
 
 Mutation resolver function to add a user as an attendee to an event.
 

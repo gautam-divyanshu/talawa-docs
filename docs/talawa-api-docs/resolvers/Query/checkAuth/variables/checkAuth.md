@@ -8,7 +8,7 @@
 
 \> `const` **checkAuth**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"checkAuth"`\]
 
-Defined in: [src/resolvers/Query/checkAuth.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Query/checkAuth.ts#L13)
+Defined in: [src/resolvers/Query/checkAuth.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/Query/checkAuth.ts#L13)
 
 This query determines whether or not the user exists in the database (MongoDB).
 

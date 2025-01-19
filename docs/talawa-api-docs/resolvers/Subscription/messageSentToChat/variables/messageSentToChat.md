@@ -8,7 +8,7 @@
 
 \> `const` **messageSentToChat**: [`SubscriptionResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/SubscriptionResolvers.md)\[`"messageSentToChat"`\]
 
-Defined in: [src/resolvers/Subscription/messageSentToChat.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Subscription/messageSentToChat.ts#L35)
+Defined in: [src/resolvers/Subscription/messageSentToChat.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/Subscription/messageSentToChat.ts#L35)
 
 This property included a `subscribe` method, which is used to
 subscribe the `receiver` and `sender` to receive Chat updates.

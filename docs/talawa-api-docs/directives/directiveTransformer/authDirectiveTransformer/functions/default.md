@@ -8,7 +8,7 @@
 
 \> **default**(`schema`, `directiveName`): `GraphQLSchema`
 
-Defined in: [src/directives/directiveTransformer/authDirectiveTransformer.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/directives/directiveTransformer/authDirectiveTransformer.ts#L22)
+Defined in: [src/directives/directiveTransformer/authDirectiveTransformer.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/directives/directiveTransformer/authDirectiveTransformer.ts#L22)
 
 A function to transform a GraphQL schema by adding authentication logic
 to the fields with the specified directive.

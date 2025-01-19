@@ -8,4 +8,4 @@
 
 \> `const` **ACTION\_ITEM\_CATEGORY\_NOT\_FOUND\_ERROR**: `Readonly`\<\{ `CODE`: `"actionItemCategory.notFound"`; `DESC`: `"ActionItemCategory not found"`; `MESSAGE`: `"actionItemCategory.notFound"`; `PARAM`: `"actionItemCategory"`; \}\>
 
-Defined in: [src/constants.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L18)
+Defined in: [src/constants.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/constants.ts#L18)

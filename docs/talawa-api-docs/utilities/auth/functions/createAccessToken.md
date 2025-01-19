@@ -8,7 +8,7 @@
 
 \> **createAccessToken**(`user`, `appUserProfile`): `Promise`\<`string`\>
 
-Defined in: [src/utilities/auth.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/auth.ts#L25)
+Defined in: [src/utilities/auth.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/auth.ts#L25)
 
 Creates an access token (JWT) for a user that expires in 40 minutes.
 The token contains user data and is signed with the access token secret.

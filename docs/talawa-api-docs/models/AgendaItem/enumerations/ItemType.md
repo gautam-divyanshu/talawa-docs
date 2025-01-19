@@ -6,7 +6,7 @@
 
 # Enumeration: ItemType
 
-Defined in: [src/models/AgendaItem.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L37)
+Defined in: [src/models/AgendaItem.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L37)
 
 Enumeration representing the types of agenda items.
 
@@ -16,7 +16,7 @@ Enumeration representing the types of agenda items.
 
 \> **Note**: `"Note"`
 
-Defined in: [src/models/AgendaItem.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L39)
+Defined in: [src/models/AgendaItem.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L39)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [src/models/AgendaItem.ts:39](https://github.com/PalisadoesFoundatio
 
 \> **Regular**: `"Regular"`
 
-Defined in: [src/models/AgendaItem.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L38)
+Defined in: [src/models/AgendaItem.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L38)

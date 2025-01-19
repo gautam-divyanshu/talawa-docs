@@ -8,7 +8,7 @@
 
 \> `const` **onPluginUpdate**: [`SubscriptionResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/SubscriptionResolvers.md)\[`"onPluginUpdate"`\]
 
-Defined in: [src/resolvers/Subscription/onPluginUpdate.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Subscription/onPluginUpdate.ts#L47)
+Defined in: [src/resolvers/Subscription/onPluginUpdate.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/Subscription/onPluginUpdate.ts#L47)
 
 This property included a `subscribe` method, which is used to
 subscribe the `current_user` to get updates for Group chats.

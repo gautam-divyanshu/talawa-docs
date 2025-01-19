@@ -6,7 +6,7 @@
 
 # Interface: InterfaceVolunteerMembership
 
-Defined in: [src/models/VolunteerMembership.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/VolunteerMembership.ts#L15)
+Defined in: [src/models/VolunteerMembership.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/VolunteerMembership.ts#L15)
 
 Represents a document for a volunteer membership in the MongoDB database.
 This interface defines the structure and types of data that a volunteer membership document will hold.
@@ -17,7 +17,7 @@ This interface defines the structure and types of data that a volunteer membersh
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/VolunteerMembership.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/VolunteerMembership.ts#L16)
+Defined in: [src/models/VolunteerMembership.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/VolunteerMembership.ts#L16)
 
 ***
 
@@ -25,7 +25,7 @@ Defined in: [src/models/VolunteerMembership.ts:16](https://github.com/Palisadoes
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/VolunteerMembership.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/VolunteerMembership.ts#L23)
+Defined in: [src/models/VolunteerMembership.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/VolunteerMembership.ts#L23)
 
 ***
 
@@ -33,7 +33,7 @@ Defined in: [src/models/VolunteerMembership.ts:23](https://github.com/Palisadoes
 
 \> **createdBy**: `any`
 
-Defined in: [src/models/VolunteerMembership.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/VolunteerMembership.ts#L21)
+Defined in: [src/models/VolunteerMembership.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/VolunteerMembership.ts#L21)
 
 ***
 
@@ -41,7 +41,7 @@ Defined in: [src/models/VolunteerMembership.ts:21](https://github.com/Palisadoes
 
 \> **event**: `any`
 
-Defined in: [src/models/VolunteerMembership.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/VolunteerMembership.ts#L19)
+Defined in: [src/models/VolunteerMembership.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/VolunteerMembership.ts#L19)
 
 ***
 
@@ -49,7 +49,7 @@ Defined in: [src/models/VolunteerMembership.ts:19](https://github.com/Palisadoes
 
 \> **group**: `any`
 
-Defined in: [src/models/VolunteerMembership.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/VolunteerMembership.ts#L18)
+Defined in: [src/models/VolunteerMembership.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/VolunteerMembership.ts#L18)
 
 ***
 
@@ -57,7 +57,7 @@ Defined in: [src/models/VolunteerMembership.ts:18](https://github.com/Palisadoes
 
 \> **status**: `"invited"` \| `"requested"` \| `"accepted"` \| `"rejected"`
 
-Defined in: [src/models/VolunteerMembership.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/VolunteerMembership.ts#L20)
+Defined in: [src/models/VolunteerMembership.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/VolunteerMembership.ts#L20)
 
 ***
 
@@ -65,7 +65,7 @@ Defined in: [src/models/VolunteerMembership.ts:20](https://github.com/Palisadoes
 
 \> **updatedAt**: `Date`
 
-Defined in: [src/models/VolunteerMembership.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/VolunteerMembership.ts#L24)
+Defined in: [src/models/VolunteerMembership.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/VolunteerMembership.ts#L24)
 
 ***
 
@@ -73,7 +73,7 @@ Defined in: [src/models/VolunteerMembership.ts:24](https://github.com/Palisadoes
 
 \> **updatedBy**: `any`
 
-Defined in: [src/models/VolunteerMembership.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/VolunteerMembership.ts#L22)
+Defined in: [src/models/VolunteerMembership.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/VolunteerMembership.ts#L22)
 
 ***
 
@@ -81,4 +81,4 @@ Defined in: [src/models/VolunteerMembership.ts:22](https://github.com/Palisadoes
 
 \> **volunteer**: `any`
 
-Defined in: [src/models/VolunteerMembership.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/VolunteerMembership.ts#L17)
+Defined in: [src/models/VolunteerMembership.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/VolunteerMembership.ts#L17)

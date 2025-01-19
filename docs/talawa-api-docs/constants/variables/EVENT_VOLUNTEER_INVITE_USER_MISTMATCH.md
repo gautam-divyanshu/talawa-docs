@@ -8,4 +8,4 @@
 
 \> `const` **EVENT\_VOLUNTEER\_INVITE\_USER\_MISTMATCH**: `Readonly`\<\{ `CODE`: `"eventVolunteer.userMismatch"`; `DESC`: `"Current User is not the user of Event Volunteer"`; `MESSAGE`: `"eventVolunteer.userMismatch"`; `PARAM`: `"eventVolunteers"`; \}\>
 
-Defined in: [src/constants.ts:664](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L664)
+Defined in: [src/constants.ts:664](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/constants.ts#L664)

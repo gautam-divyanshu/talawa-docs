@@ -6,7 +6,7 @@
 
 # Interface: InterfaceFeedback
 
-Defined in: [src/models/Feedback.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Feedback.ts#L12)
+Defined in: [src/models/Feedback.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Feedback.ts#L12)
 
 Represents a document for feedback in the MongoDB database.
 This interface defines the structure and types of data that a feedback document will hold.
@@ -17,7 +17,7 @@ This interface defines the structure and types of data that a feedback document 
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/Feedback.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Feedback.ts#L13)
+Defined in: [src/models/Feedback.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Feedback.ts#L13)
 
 ***
 
@@ -25,7 +25,7 @@ Defined in: [src/models/Feedback.ts:13](https://github.com/PalisadoesFoundation/
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/Feedback.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Feedback.ts#L17)
+Defined in: [src/models/Feedback.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Feedback.ts#L17)
 
 ***
 
@@ -33,7 +33,7 @@ Defined in: [src/models/Feedback.ts:17](https://github.com/PalisadoesFoundation/
 
 \> **eventId**: `any`
 
-Defined in: [src/models/Feedback.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Feedback.ts#L14)
+Defined in: [src/models/Feedback.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Feedback.ts#L14)
 
 ***
 
@@ -41,7 +41,7 @@ Defined in: [src/models/Feedback.ts:14](https://github.com/PalisadoesFoundation/
 
 \> **rating**: `number`
 
-Defined in: [src/models/Feedback.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Feedback.ts#L15)
+Defined in: [src/models/Feedback.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Feedback.ts#L15)
 
 ***
 
@@ -49,7 +49,7 @@ Defined in: [src/models/Feedback.ts:15](https://github.com/PalisadoesFoundation/
 
 \> **review**: `null` \| `string`
 
-Defined in: [src/models/Feedback.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Feedback.ts#L16)
+Defined in: [src/models/Feedback.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Feedback.ts#L16)
 
 ***
 
@@ -57,4 +57,4 @@ Defined in: [src/models/Feedback.ts:16](https://github.com/PalisadoesFoundation/
 
 \> **updatedAt**: `Date`
 
-Defined in: [src/models/Feedback.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/Feedback.ts#L18)
+Defined in: [src/models/Feedback.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/Feedback.ts#L18)

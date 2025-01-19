@@ -6,7 +6,7 @@
 
 # Interface: InterfaceJwtTokenPayload
 
-Defined in: [src/utilities/auth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/auth.ts#L9)
+Defined in: [src/utilities/auth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/auth.ts#L9)
 
 Interface representing the payload of a JWT token.
 
@@ -16,7 +16,7 @@ Interface representing the payload of a JWT token.
 
 \> **email**: `string`
 
-Defined in: [src/utilities/auth.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/auth.ts#L14)
+Defined in: [src/utilities/auth.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/auth.ts#L14)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/utilities/auth.ts:14](https://github.com/PalisadoesFoundation/t
 
 \> **firstName**: `string`
 
-Defined in: [src/utilities/auth.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/auth.ts#L12)
+Defined in: [src/utilities/auth.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/auth.ts#L12)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/utilities/auth.ts:12](https://github.com/PalisadoesFoundation/t
 
 \> **lastName**: `string`
 
-Defined in: [src/utilities/auth.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/auth.ts#L13)
+Defined in: [src/utilities/auth.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/auth.ts#L13)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/utilities/auth.ts:13](https://github.com/PalisadoesFoundation/t
 
 \> **tokenVersion**: `number`
 
-Defined in: [src/utilities/auth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/auth.ts#L10)
+Defined in: [src/utilities/auth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/auth.ts#L10)
 
 ***
 
@@ -48,4 +48,4 @@ Defined in: [src/utilities/auth.ts:10](https://github.com/PalisadoesFoundation/t
 
 \> **userId**: `string`
 
-Defined in: [src/utilities/auth.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/auth.ts#L11)
+Defined in: [src/utilities/auth.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/auth.ts#L11)

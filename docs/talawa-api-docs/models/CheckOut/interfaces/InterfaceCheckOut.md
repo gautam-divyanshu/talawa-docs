@@ -6,7 +6,7 @@
 
 # Interface: InterfaceCheckOut
 
-Defined in: [src/models/CheckOut.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckOut.ts#L16)
+Defined in: [src/models/CheckOut.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/CheckOut.ts#L16)
 
 Interface representing a document for a check-out record in MongoDB.
 
@@ -16,7 +16,7 @@ Interface representing a document for a check-out record in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/CheckOut.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckOut.ts#L17)
+Defined in: [src/models/CheckOut.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/CheckOut.ts#L17)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/CheckOut.ts:17](https://github.com/PalisadoesFoundation/
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/CheckOut.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckOut.ts#L20)
+Defined in: [src/models/CheckOut.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/CheckOut.ts#L20)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/CheckOut.ts:20](https://github.com/PalisadoesFoundation/
 
 \> **eventAttendeeId**: `any`
 
-Defined in: [src/models/CheckOut.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckOut.ts#L18)
+Defined in: [src/models/CheckOut.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/CheckOut.ts#L18)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/CheckOut.ts:18](https://github.com/PalisadoesFoundation/
 
 \> **time**: `Date`
 
-Defined in: [src/models/CheckOut.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckOut.ts#L19)
+Defined in: [src/models/CheckOut.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/CheckOut.ts#L19)
 
 ***
 
@@ -48,4 +48,4 @@ Defined in: [src/models/CheckOut.ts:19](https://github.com/PalisadoesFoundation/
 
 \> **updatedAt**: `Date`
 
-Defined in: [src/models/CheckOut.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/CheckOut.ts#L21)
+Defined in: [src/models/CheckOut.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/CheckOut.ts#L21)

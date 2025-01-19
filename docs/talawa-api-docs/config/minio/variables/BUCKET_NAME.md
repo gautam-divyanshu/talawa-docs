@@ -8,7 +8,7 @@
 
 \> `const` **BUCKET\_NAME**: `undefined` \| `string` = `process.env.MINIO_BUCKET`
 
-Defined in: [src/config/minio/index.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/config/minio/index.ts#L47)
+Defined in: [src/config/minio/index.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/config/minio/index.ts#L47)
 
 The name of the bucket used in the MinIO storage, defined via an environment variable.
 

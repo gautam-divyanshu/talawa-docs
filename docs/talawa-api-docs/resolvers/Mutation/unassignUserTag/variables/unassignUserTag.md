@@ -8,7 +8,7 @@
 
 \> `const` **unassignUserTag**: [`MutationResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/MutationResolvers.md)\[`"unassignUserTag"`\]
 
-Defined in: [src/resolvers/Mutation/unassignUserTag.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Mutation/unassignUserTag.ts#L47)
+Defined in: [src/resolvers/Mutation/unassignUserTag.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/Mutation/unassignUserTag.ts#L47)
 
 Unassigns a tag from a user in an organization.
 

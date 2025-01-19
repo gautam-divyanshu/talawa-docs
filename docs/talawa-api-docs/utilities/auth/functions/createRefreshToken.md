@@ -8,7 +8,7 @@
 
 \> **createRefreshToken**(`user`, `appUserProfile`): `string`
 
-Defined in: [src/utilities/auth.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/utilities/auth.ts#L60)
+Defined in: [src/utilities/auth.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/utilities/auth.ts#L60)
 
 Creates a refresh token (JWT) for a user that expires in 30 days.
 The token contains user data and is signed with the refresh token secret.

@@ -8,7 +8,7 @@
 
 \> `const` **RECURRENCE\_WEEKDAYS\_MAPPING**: `object`
 
-Defined in: [src/constants.ts:830](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L830)
+Defined in: [src/constants.ts:830](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/constants.ts#L830)
 
 ## Type declaration
 

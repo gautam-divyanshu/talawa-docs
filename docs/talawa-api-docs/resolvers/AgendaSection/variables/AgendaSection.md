@@ -8,7 +8,7 @@
 
 \> `const` **AgendaSection**: [`AgendaSectionResolvers`](../../../types/generatedGraphQLTypes/type-aliases/AgendaSectionResolvers.md)
 
-Defined in: [src/resolvers/AgendaSection/index.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/AgendaSection/index.ts#L17)
+Defined in: [src/resolvers/AgendaSection/index.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/AgendaSection/index.ts#L17)
 
 Resolver function for the `AgendaSection` type.
 

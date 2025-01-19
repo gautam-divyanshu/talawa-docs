@@ -8,4 +8,4 @@
 
 \> `const` **COMMUNITY\_NOT\_FOUND\_ERROR**: `Readonly`\<\{ `CODE`: `"community.notFound"`; `DESC`: `"Community not found"`; `MESSAGE`: `"community.notFound"`; `PARAM`: `"community"`; \}\>
 
-Defined in: [src/constants.ts:74](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/constants.ts#L74)
+Defined in: [src/constants.ts:74](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/constants.ts#L74)

@@ -8,7 +8,7 @@
 
 \> **compareTime**(`time1`, `time2`): `string`
 
-Defined in: [src/libraries/validators/compareTime.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/libraries/validators/compareTime.ts#L8)
+Defined in: [src/libraries/validators/compareTime.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/libraries/validators/compareTime.ts#L8)
 
 Compares two times and returns a message if the first time is later than the second time.
 

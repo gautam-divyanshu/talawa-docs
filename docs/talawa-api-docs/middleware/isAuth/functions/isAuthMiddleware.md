@@ -8,7 +8,7 @@
 
 \> **isAuthMiddleware**(`req`, `res`, `next`): `void`
 
-Defined in: [src/middleware/isAuth.ts:110](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/middleware/isAuth.ts#L110)
+Defined in: [src/middleware/isAuth.ts:110](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/middleware/isAuth.ts#L110)
 
 Middleware for REST APIs to authenticate users based on the JWT token in the Authorization header.
 

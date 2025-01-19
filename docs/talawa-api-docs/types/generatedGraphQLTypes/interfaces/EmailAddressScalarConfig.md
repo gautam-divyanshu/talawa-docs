@@ -6,7 +6,7 @@
 
 # Interface: EmailAddressScalarConfig
 
-Defined in: [src/types/generatedGraphQLTypes.ts:4281](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L4281)
+Defined in: [src/types/generatedGraphQLTypes.ts:4281](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/types/generatedGraphQLTypes.ts#L4281)
 
 ## Extends
 
@@ -66,7 +66,7 @@ Defined in: node\_modules/graphql/type/definition.d.ts:368
 
 \> **name**: `"EmailAddress"`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:4282](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L4282)
+Defined in: [src/types/generatedGraphQLTypes.ts:4282](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/types/generatedGraphQLTypes.ts#L4282)
 
 #### Overrides
 

@@ -6,7 +6,7 @@
 
 # Interface: InterfaceOrganizationTagUser
 
-Defined in: [src/models/OrganizationTagUser.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/OrganizationTagUser.ts#L11)
+Defined in: [src/models/OrganizationTagUser.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/OrganizationTagUser.ts#L11)
 
 Interface representing a document for an Organization Tag User in the database (MongoDB).
 
@@ -16,7 +16,7 @@ Interface representing a document for an Organization Tag User in the database (
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/OrganizationTagUser.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/OrganizationTagUser.ts#L12)
+Defined in: [src/models/OrganizationTagUser.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/OrganizationTagUser.ts#L12)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/OrganizationTagUser.ts:12](https://github.com/Palisadoes
 
 \> **name**: `string`
 
-Defined in: [src/models/OrganizationTagUser.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/OrganizationTagUser.ts#L15)
+Defined in: [src/models/OrganizationTagUser.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/OrganizationTagUser.ts#L15)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/OrganizationTagUser.ts:15](https://github.com/Palisadoes
 
 \> **organizationId**: `any`
 
-Defined in: [src/models/OrganizationTagUser.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/OrganizationTagUser.ts#L13)
+Defined in: [src/models/OrganizationTagUser.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/OrganizationTagUser.ts#L13)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/OrganizationTagUser.ts:13](https://github.com/Palisadoes
 
 \> **parentTagId**: `any`
 
-Defined in: [src/models/OrganizationTagUser.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/OrganizationTagUser.ts#L14)
+Defined in: [src/models/OrganizationTagUser.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/OrganizationTagUser.ts#L14)
 
 ***
 
@@ -48,4 +48,4 @@ Defined in: [src/models/OrganizationTagUser.ts:14](https://github.com/Palisadoes
 
 \> **tagColor**: `string`
 
-Defined in: [src/models/OrganizationTagUser.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/OrganizationTagUser.ts#L16)
+Defined in: [src/models/OrganizationTagUser.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/OrganizationTagUser.ts#L16)

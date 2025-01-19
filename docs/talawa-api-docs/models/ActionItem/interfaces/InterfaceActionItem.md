@@ -6,7 +6,7 @@
 
 # Interface: InterfaceActionItem
 
-Defined in: [src/models/ActionItem.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L16)
+Defined in: [src/models/ActionItem.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L16)
 
 Interface representing a database document for ActionItem in MongoDB.
 
@@ -16,7 +16,7 @@ Interface representing a database document for ActionItem in MongoDB.
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/ActionItem.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L17)
+Defined in: [src/models/ActionItem.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L17)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/ActionItem.ts:17](https://github.com/PalisadoesFoundatio
 
 \> **actionItemCategory**: `any`
 
-Defined in: [src/models/ActionItem.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L23)
+Defined in: [src/models/ActionItem.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L23)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/ActionItem.ts:23](https://github.com/PalisadoesFoundatio
 
 \> **allottedHours**: `null` \| `number`
 
-Defined in: [src/models/ActionItem.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L32)
+Defined in: [src/models/ActionItem.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L32)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/ActionItem.ts:32](https://github.com/PalisadoesFoundatio
 
 \> **assignee**: `any`
 
-Defined in: [src/models/ActionItem.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L18)
+Defined in: [src/models/ActionItem.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L18)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/models/ActionItem.ts:18](https://github.com/PalisadoesFoundatio
 
 \> **assigneeGroup**: `any`
 
-Defined in: [src/models/ActionItem.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L19)
+Defined in: [src/models/ActionItem.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L19)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/models/ActionItem.ts:19](https://github.com/PalisadoesFoundatio
 
 \> **assigneeType**: `"User"` \| `"EventVolunteerGroup"` \| `"EventVolunteer"`
 
-Defined in: [src/models/ActionItem.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L21)
+Defined in: [src/models/ActionItem.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L21)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/models/ActionItem.ts:21](https://github.com/PalisadoesFoundatio
 
 \> **assigneeUser**: `any`
 
-Defined in: [src/models/ActionItem.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L20)
+Defined in: [src/models/ActionItem.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L20)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/models/ActionItem.ts:20](https://github.com/PalisadoesFoundatio
 
 \> **assigner**: `any`
 
-Defined in: [src/models/ActionItem.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L22)
+Defined in: [src/models/ActionItem.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L22)
 
 ***
 
@@ -80,7 +80,7 @@ Defined in: [src/models/ActionItem.ts:22](https://github.com/PalisadoesFoundatio
 
 \> **assignmentDate**: `Date`
 
-Defined in: [src/models/ActionItem.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L28)
+Defined in: [src/models/ActionItem.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L28)
 
 ***
 
@@ -88,7 +88,7 @@ Defined in: [src/models/ActionItem.ts:28](https://github.com/PalisadoesFoundatio
 
 \> **completionDate**: `Date`
 
-Defined in: [src/models/ActionItem.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L30)
+Defined in: [src/models/ActionItem.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L30)
 
 ***
 
@@ -96,7 +96,7 @@ Defined in: [src/models/ActionItem.ts:30](https://github.com/PalisadoesFoundatio
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/ActionItem.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L36)
+Defined in: [src/models/ActionItem.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L36)
 
 ***
 
@@ -104,7 +104,7 @@ Defined in: [src/models/ActionItem.ts:36](https://github.com/PalisadoesFoundatio
 
 \> **creator**: `any`
 
-Defined in: [src/models/ActionItem.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L35)
+Defined in: [src/models/ActionItem.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L35)
 
 ***
 
@@ -112,7 +112,7 @@ Defined in: [src/models/ActionItem.ts:35](https://github.com/PalisadoesFoundatio
 
 \> **dueDate**: `Date`
 
-Defined in: [src/models/ActionItem.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L29)
+Defined in: [src/models/ActionItem.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L29)
 
 ***
 
@@ -120,7 +120,7 @@ Defined in: [src/models/ActionItem.ts:29](https://github.com/PalisadoesFoundatio
 
 \> **event**: `any`
 
-Defined in: [src/models/ActionItem.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L34)
+Defined in: [src/models/ActionItem.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L34)
 
 ***
 
@@ -128,7 +128,7 @@ Defined in: [src/models/ActionItem.ts:34](https://github.com/PalisadoesFoundatio
 
 \> **isCompleted**: `boolean`
 
-Defined in: [src/models/ActionItem.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L31)
+Defined in: [src/models/ActionItem.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L31)
 
 ***
 
@@ -136,7 +136,7 @@ Defined in: [src/models/ActionItem.ts:31](https://github.com/PalisadoesFoundatio
 
 \> **organization**: `any`
 
-Defined in: [src/models/ActionItem.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L33)
+Defined in: [src/models/ActionItem.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L33)
 
 ***
 
@@ -144,7 +144,7 @@ Defined in: [src/models/ActionItem.ts:33](https://github.com/PalisadoesFoundatio
 
 \> **postCompletionNotes**: `string`
 
-Defined in: [src/models/ActionItem.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L27)
+Defined in: [src/models/ActionItem.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L27)
 
 ***
 
@@ -152,7 +152,7 @@ Defined in: [src/models/ActionItem.ts:27](https://github.com/PalisadoesFoundatio
 
 \> **preCompletionNotes**: `string`
 
-Defined in: [src/models/ActionItem.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L26)
+Defined in: [src/models/ActionItem.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L26)
 
 ***
 
@@ -160,4 +160,4 @@ Defined in: [src/models/ActionItem.ts:26](https://github.com/PalisadoesFoundatio
 
 \> **updatedAt**: `Date`
 
-Defined in: [src/models/ActionItem.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/ActionItem.ts#L37)
+Defined in: [src/models/ActionItem.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/ActionItem.ts#L37)

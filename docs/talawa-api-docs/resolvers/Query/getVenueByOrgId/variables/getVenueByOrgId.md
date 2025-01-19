@@ -8,7 +8,7 @@
 
 \> `const` **getVenueByOrgId**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"getVenueByOrgId"`\]
 
-Defined in: [src/resolvers/Query/getVenueByOrgId.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Query/getVenueByOrgId.ts#L27)
+Defined in: [src/resolvers/Query/getVenueByOrgId.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/Query/getVenueByOrgId.ts#L27)
 
 Retrieves venues associated with a specific organization, with optional filtering and sorting.
 

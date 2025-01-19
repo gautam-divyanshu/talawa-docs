@@ -6,7 +6,7 @@
 
 # Interface: InterfaceAgendaItem
 
-Defined in: [src/models/AgendaItem.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L14)
+Defined in: [src/models/AgendaItem.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L14)
 
 Represents a document for an agenda item in the MongoDB database.
 
@@ -16,7 +16,7 @@ Represents a document for an agenda item in the MongoDB database.
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/AgendaItem.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L15)
+Defined in: [src/models/AgendaItem.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L15)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/AgendaItem.ts:15](https://github.com/PalisadoesFoundatio
 
 \> `optional` **attachments**: `string`[]
 
-Defined in: [src/models/AgendaItem.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L19)
+Defined in: [src/models/AgendaItem.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L19)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/AgendaItem.ts:19](https://github.com/PalisadoesFoundatio
 
 \> `optional` **categories**: `any`[]
 
-Defined in: [src/models/AgendaItem.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L25)
+Defined in: [src/models/AgendaItem.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L25)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/AgendaItem.ts:25](https://github.com/PalisadoesFoundatio
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/AgendaItem.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L28)
+Defined in: [src/models/AgendaItem.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L28)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/models/AgendaItem.ts:28](https://github.com/PalisadoesFoundatio
 
 \> **createdBy**: `any`
 
-Defined in: [src/models/AgendaItem.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L20)
+Defined in: [src/models/AgendaItem.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L20)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/models/AgendaItem.ts:20](https://github.com/PalisadoesFoundatio
 
 \> `optional` **description**: `string`
 
-Defined in: [src/models/AgendaItem.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L17)
+Defined in: [src/models/AgendaItem.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L17)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/models/AgendaItem.ts:17](https://github.com/PalisadoesFoundatio
 
 \> **duration**: `string`
 
-Defined in: [src/models/AgendaItem.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L18)
+Defined in: [src/models/AgendaItem.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L18)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/models/AgendaItem.ts:18](https://github.com/PalisadoesFoundatio
 
 \> **itemType**: [`ItemType`](../enumerations/ItemType.md)
 
-Defined in: [src/models/AgendaItem.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L27)
+Defined in: [src/models/AgendaItem.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L27)
 
 ***
 
@@ -80,7 +80,7 @@ Defined in: [src/models/AgendaItem.ts:27](https://github.com/PalisadoesFoundatio
 
 \> **notes**: `any`[]
 
-Defined in: [src/models/AgendaItem.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L31)
+Defined in: [src/models/AgendaItem.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L31)
 
 ***
 
@@ -88,7 +88,7 @@ Defined in: [src/models/AgendaItem.ts:31](https://github.com/PalisadoesFoundatio
 
 \> **organization**: `any`
 
-Defined in: [src/models/AgendaItem.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L30)
+Defined in: [src/models/AgendaItem.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L30)
 
 ***
 
@@ -96,7 +96,7 @@ Defined in: [src/models/AgendaItem.ts:30](https://github.com/PalisadoesFoundatio
 
 \> **relatedEvent**: `any`
 
-Defined in: [src/models/AgendaItem.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L24)
+Defined in: [src/models/AgendaItem.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L24)
 
 ***
 
@@ -104,7 +104,7 @@ Defined in: [src/models/AgendaItem.ts:24](https://github.com/PalisadoesFoundatio
 
 \> **sequence**: `number`
 
-Defined in: [src/models/AgendaItem.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L26)
+Defined in: [src/models/AgendaItem.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L26)
 
 ***
 
@@ -112,7 +112,7 @@ Defined in: [src/models/AgendaItem.ts:26](https://github.com/PalisadoesFoundatio
 
 \> **title**: `string`
 
-Defined in: [src/models/AgendaItem.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L16)
+Defined in: [src/models/AgendaItem.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L16)
 
 ***
 
@@ -120,7 +120,7 @@ Defined in: [src/models/AgendaItem.ts:16](https://github.com/PalisadoesFoundatio
 
 \> **updatedAt**: `Date`
 
-Defined in: [src/models/AgendaItem.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L29)
+Defined in: [src/models/AgendaItem.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L29)
 
 ***
 
@@ -128,7 +128,7 @@ Defined in: [src/models/AgendaItem.ts:29](https://github.com/PalisadoesFoundatio
 
 \> **updatedBy**: `any`
 
-Defined in: [src/models/AgendaItem.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L21)
+Defined in: [src/models/AgendaItem.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L21)
 
 ***
 
@@ -136,7 +136,7 @@ Defined in: [src/models/AgendaItem.ts:21](https://github.com/PalisadoesFoundatio
 
 \> `optional` **urls**: `string`[]
 
-Defined in: [src/models/AgendaItem.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L22)
+Defined in: [src/models/AgendaItem.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L22)
 
 ***
 
@@ -144,4 +144,4 @@ Defined in: [src/models/AgendaItem.ts:22](https://github.com/PalisadoesFoundatio
 
 \> `optional` **users**: `any`[]
 
-Defined in: [src/models/AgendaItem.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/AgendaItem.ts#L23)
+Defined in: [src/models/AgendaItem.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/AgendaItem.ts#L23)

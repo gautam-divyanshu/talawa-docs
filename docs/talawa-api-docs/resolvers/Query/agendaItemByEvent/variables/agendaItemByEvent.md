@@ -8,7 +8,7 @@
 
 \> `const` **agendaItemByEvent**: [`QueryResolvers`](../../../../types/generatedGraphQLTypes/type-aliases/QueryResolvers.md)\[`"agendaItemByEvent"`\]
 
-Defined in: [src/resolvers/Query/agendaItemByEvent.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/resolvers/Query/agendaItemByEvent.ts#L10)
+Defined in: [src/resolvers/Query/agendaItemByEvent.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/resolvers/Query/agendaItemByEvent.ts#L10)
 
 This query will fetch all items for the organization from database.
 

@@ -6,7 +6,7 @@
 
 # Interface: UrlScalarConfig
 
-Defined in: [src/types/generatedGraphQLTypes.ts:4952](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L4952)
+Defined in: [src/types/generatedGraphQLTypes.ts:4952](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/types/generatedGraphQLTypes.ts#L4952)
 
 ## Extends
 
@@ -66,7 +66,7 @@ Defined in: node\_modules/graphql/type/definition.d.ts:368
 
 \> **name**: `"URL"`
 
-Defined in: [src/types/generatedGraphQLTypes.ts:4953](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/types/generatedGraphQLTypes.ts#L4953)
+Defined in: [src/types/generatedGraphQLTypes.ts:4953](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/types/generatedGraphQLTypes.ts#L4953)
 
 #### Overrides
 

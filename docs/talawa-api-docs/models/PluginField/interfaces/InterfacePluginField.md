@@ -6,7 +6,7 @@
 
 # Interface: InterfacePluginField
 
-Defined in: [src/models/PluginField.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/PluginField.ts#L10)
+Defined in: [src/models/PluginField.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/PluginField.ts#L10)
 
 Interface representing a document for a Plugin Field in the database (MongoDB).
 
@@ -16,7 +16,7 @@ Interface representing a document for a Plugin Field in the database (MongoDB).
 
 \> **\_id**: `ObjectId`
 
-Defined in: [src/models/PluginField.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/PluginField.ts#L11)
+Defined in: [src/models/PluginField.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/PluginField.ts#L11)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/models/PluginField.ts:11](https://github.com/PalisadoesFoundati
 
 \> **createdAt**: `Date`
 
-Defined in: [src/models/PluginField.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/PluginField.ts#L15)
+Defined in: [src/models/PluginField.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/PluginField.ts#L15)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/models/PluginField.ts:15](https://github.com/PalisadoesFoundati
 
 \> **key**: `string`
 
-Defined in: [src/models/PluginField.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/PluginField.ts#L12)
+Defined in: [src/models/PluginField.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/PluginField.ts#L12)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/models/PluginField.ts:12](https://github.com/PalisadoesFoundati
 
 \> **status**: `string`
 
-Defined in: [src/models/PluginField.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/PluginField.ts#L14)
+Defined in: [src/models/PluginField.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/PluginField.ts#L14)
 
 ***
 
@@ -48,4 +48,4 @@ Defined in: [src/models/PluginField.ts:14](https://github.com/PalisadoesFoundati
 
 \> **value**: `string`
 
-Defined in: [src/models/PluginField.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/25207c53554ba20e613226862dea483f0b67a696/src/models/PluginField.ts#L13)
+Defined in: [src/models/PluginField.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/33412350fcbc7b376cab529f8a291f46d0165828/src/models/PluginField.ts#L13)
