@@ -23,7 +23,7 @@ mode - The mode of the modal.
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L31)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L31)
 
 ***
 
@@ -37,7 +37,7 @@ mode - The mode of the modal.
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L28)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L28)
 
 ***
 
@@ -47,7 +47,7 @@ mode - The mode of the modal.
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L27)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L27)
 
 ***
 
@@ -57,7 +57,7 @@ mode - The mode of the modal.
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L32)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L32)
 
 ***
 
@@ -67,7 +67,7 @@ mode - The mode of the modal.
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L30)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L30)
 
 ***
 
@@ -81,4 +81,4 @@ mode - The mode of the modal.
 
 #### Defined in
 
-[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L29)
+[src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/ActionItemCategories/CategoryModal.tsx#L29)

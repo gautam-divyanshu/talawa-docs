@@ -20,4 +20,4 @@
 
 ## Defined in
 
-[src/screens/OrganizationActionItems/testObject.mocks.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/testObject.mocks.ts#L11)
+[src/screens/OrganizationActionItems/testObject.mocks.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/testObject.mocks.ts#L11)

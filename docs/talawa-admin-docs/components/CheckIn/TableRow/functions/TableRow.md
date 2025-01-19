@@ -27,4 +27,4 @@ JSX.Element - The rendered TableRow component.
 
 ## Defined in
 
-[src/components/CheckIn/TableRow.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/CheckIn/TableRow.tsx#L19)
+[src/components/CheckIn/TableRow.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/CheckIn/TableRow.tsx#L19)

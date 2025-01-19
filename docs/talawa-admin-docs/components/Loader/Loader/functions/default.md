@@ -22,4 +22,4 @@ JSX element for a loading spinner.
 
 ## Defined in
 
-[src/components/Loader/Loader.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/Loader/Loader.tsx#L17)
+[src/components/Loader/Loader.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/Loader/Loader.tsx#L17)

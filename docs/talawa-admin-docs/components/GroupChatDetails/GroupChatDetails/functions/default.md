@@ -22,4 +22,4 @@ The rendered component.
 
 ## Defined in
 
-[src/components/GroupChatDetails/GroupChatDetails.tsx:120](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/GroupChatDetails/GroupChatDetails.tsx#L120)
+[src/components/GroupChatDetails/GroupChatDetails.tsx:120](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/GroupChatDetails/GroupChatDetails.tsx#L120)

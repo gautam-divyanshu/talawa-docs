@@ -19,4 +19,4 @@ The JSX element representing the Super Admin screen layout.
 
 ## Defined in
 
-[src/components/SuperAdminScreen/SuperAdminScreen.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/SuperAdminScreen/SuperAdminScreen.tsx#L15)
+[src/components/SuperAdminScreen/SuperAdminScreen.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/SuperAdminScreen/SuperAdminScreen.tsx#L15)

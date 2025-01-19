@@ -34,7 +34,7 @@ A promise that resolves to the installed plugins data in JSON format.
 
 #### Defined in
 
-[src/components/AddOn/support/services/Plugin.helper.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddOn/support/services/Plugin.helper.ts#L21)
+[src/components/AddOn/support/services/Plugin.helper.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddOn/support/services/Plugin.helper.ts#L21)
 
 ***
 
@@ -52,7 +52,7 @@ A promise that resolves to the store data in JSON format.
 
 #### Defined in
 
-[src/components/AddOn/support/services/Plugin.helper.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddOn/support/services/Plugin.helper.ts#L11)
+[src/components/AddOn/support/services/Plugin.helper.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddOn/support/services/Plugin.helper.ts#L11)
 
 ***
 
@@ -76,4 +76,4 @@ An array of objects containing the name and URL of each enabled plugin.
 
 #### Defined in
 
-[src/components/AddOn/support/services/Plugin.helper.ts:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddOn/support/services/Plugin.helper.ts#L32)
+[src/components/AddOn/support/services/Plugin.helper.ts:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddOn/support/services/Plugin.helper.ts#L32)

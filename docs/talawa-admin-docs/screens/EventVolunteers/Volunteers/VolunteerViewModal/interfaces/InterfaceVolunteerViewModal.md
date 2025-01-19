@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L22)
+[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L22)
 
 ***
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L21)
+[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L21)
 
 ***
 
@@ -38,4 +38,4 @@
 
 #### Defined in
 
-[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L23)
+[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L23)

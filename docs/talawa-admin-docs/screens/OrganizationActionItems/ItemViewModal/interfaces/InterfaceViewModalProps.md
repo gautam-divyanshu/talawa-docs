@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/ItemViewModal.tsx#L15)
+[src/screens/OrganizationActionItems/ItemViewModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemViewModal.tsx#L15)
 
 ***
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/ItemViewModal.tsx#L14)
+[src/screens/OrganizationActionItems/ItemViewModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemViewModal.tsx#L14)
 
 ***
 
@@ -38,4 +38,4 @@
 
 #### Defined in
 
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/screens/OrganizationActionItems/ItemViewModal.tsx#L16)
+[src/screens/OrganizationActionItems/ItemViewModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemViewModal.tsx#L16)

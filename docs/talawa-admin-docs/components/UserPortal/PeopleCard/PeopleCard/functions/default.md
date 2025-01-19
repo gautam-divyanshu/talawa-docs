@@ -31,4 +31,4 @@ JSX.Element representing a card with the person's details.
 
 ## Defined in
 
-[src/components/UserPortal/PeopleCard/PeopleCard.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L30)
+[src/components/UserPortal/PeopleCard/PeopleCard.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L30)

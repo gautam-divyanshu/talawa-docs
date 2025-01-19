@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[src/components/EventListCard/EventListCardProps.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/EventListCard/EventListCardProps.ts#L4)
+[src/components/EventListCard/EventListCardProps.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCardProps.ts#L4)

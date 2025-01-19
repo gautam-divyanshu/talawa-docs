@@ -24,4 +24,4 @@ A JSX element containing the UI for the add-on store.
 
 ## Defined in
 
-[src/components/AddOn/core/AddOnStore/AddOnStore.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/7ce0153a763ef9db8b66934a4a3bc9a990edf51b/src/components/AddOn/core/AddOnStore/AddOnStore.tsx#L37)
+[src/components/AddOn/core/AddOnStore/AddOnStore.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddOn/core/AddOnStore/AddOnStore.tsx#L37)
