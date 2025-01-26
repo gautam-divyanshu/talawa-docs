@@ -31,13 +31,11 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the user exists
-2.If the user has appUserProfile
-3. If the organization exists
-4. If the user is a part of the organization.
-5. If the event is recurring, create the recurring event instances.
-6. If the event is non-recurring, create a single event.
+2. If the organization exists
+3. If the user is a part of the organization.
 
 #### Defined in
 
-[src/resolvers/Mutation/createEvent.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/createEvent.ts#L44)
+[src/resolvers/Mutation/createEvent.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/createEvent.ts#L30)

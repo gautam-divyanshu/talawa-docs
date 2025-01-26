@@ -31,6 +31,7 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the group chat exists
 2. If the organization exists
 3. If the user trying to add the user is an admin of organization
@@ -39,4 +40,4 @@ The following checks are done:
 
 #### Defined in
 
-[src/resolvers/Mutation/addUserToGroupChat.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/addUserToGroupChat.ts#L28)
+[src/resolvers/Mutation/addUserToGroupChat.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/addUserToGroupChat.ts#L27)

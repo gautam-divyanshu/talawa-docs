@@ -20,9 +20,9 @@
 
 #### Defined in
 
-[src/utilities/mailer.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/mailer.ts#L14)
+[src/utilities/mailer.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/mailer.ts#L14)
 
-___
+---
 
 ### emailTo
 
@@ -30,9 +30,9 @@ ___
 
 #### Defined in
 
-[src/utilities/mailer.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/mailer.ts#L12)
+[src/utilities/mailer.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/mailer.ts#L12)
 
-___
+---
 
 ### subject
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/utilities/mailer.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/mailer.ts#L13)
+[src/utilities/mailer.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/mailer.ts#L13)

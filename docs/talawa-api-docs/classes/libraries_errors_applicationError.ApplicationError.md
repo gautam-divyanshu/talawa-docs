@@ -58,11 +58,11 @@ This class is responsible for finding the application errors. It adds those erro
 
 #### Parameters
 
-| Name | Type | Default value |
-| :------ | :------ | :------ |
-| `errors` | [`InterfaceError`](../interfaces/libraries_errors_applicationError.InterfaceError.md)[] | `undefined` |
-| `httpCode` | `number` | `422` |
-| `message` | `string` | `"Error"` |
+| Name       | Type                                                                                    | Default value |
+| :--------- | :-------------------------------------------------------------------------------------- | :------------ |
+| `errors`   | [`InterfaceError`](../interfaces/libraries_errors_applicationError.InterfaceError.md)[] | `undefined`   |
+| `httpCode` | `number`                                                                                | `422`         |
+| `message`  | `string`                                                                                | `"Error"`     |
 
 #### Returns
 
@@ -74,7 +74,7 @@ Error.constructor
 
 #### Defined in
 
-[src/libraries/errors/applicationError.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/errors/applicationError.ts#L14)
+[src/libraries/errors/applicationError.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/errors/applicationError.ts#L14)
 
 ## Properties
 
@@ -84,9 +84,9 @@ Error.constructor
 
 #### Defined in
 
-[src/libraries/errors/applicationError.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/errors/applicationError.ts#L11)
+[src/libraries/errors/applicationError.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/errors/applicationError.ts#L11)
 
-___
+---
 
 ### httpCode
 
@@ -94,9 +94,9 @@ ___
 
 #### Defined in
 
-[src/libraries/errors/applicationError.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/errors/applicationError.ts#L12)
+[src/libraries/errors/applicationError.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/errors/applicationError.ts#L12)
 
-___
+---
 
 ### message
 
@@ -108,9 +108,9 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1077
+node_modules/typescript/lib/lib.es5.d.ts:1076
 
-___
+---
 
 ### name
 
@@ -122,9 +122,9 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1076
+node_modules/typescript/lib/lib.es5.d.ts:1075
 
-___
+---
 
 ### stack
 
@@ -136,9 +136,9 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1078
+node_modules/typescript/lib/lib.es5.d.ts:1077
 
-___
+---
 
 ### prepareStackTrace
 
@@ -154,16 +154,22 @@ https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 ▸ (`err`, `stackTraces`): `any`
 
+Optional override for formatting stack traces
+
 ##### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `err` | `Error` |
+| Name          | Type         |
+| :------------ | :----------- |
+| `err`         | `Error`      |
 | `stackTraces` | `CallSite`[] |
 
 ##### Returns
 
 `any`
+
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 #### Inherited from
 
@@ -173,7 +179,7 @@ Error.prepareStackTrace
 
 node_modules/@types/node/globals.d.ts:28
 
-___
+---
 
 ### stackTraceLimit
 
@@ -197,9 +203,9 @@ Create .stack property on a target object
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `targetObject` | `object` |
+| Name              | Type       |
+| :---------------- | :--------- |
+| `targetObject`    | `object`   |
 | `constructorOpt?` | `Function` |
 
 #### Returns

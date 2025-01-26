@@ -31,11 +31,11 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the user exists
-2.If the user has appProfile or not (if not, then the user is not a superadmin).
-3. If the user is the SUPERADMIN of the organization.
-4. If the user to be removed exists.
+2. If the user is the SUPERADMIN of the organization.
+3. If the user to be removed exists.
 
 #### Defined in
 
-[src/resolvers/Mutation/rejectAdmin.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/e5f7a9d/src/resolvers/Mutation/rejectAdmin.ts#L22)
+[src/resolvers/Mutation/rejectAdmin.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/rejectAdmin.ts#L17)

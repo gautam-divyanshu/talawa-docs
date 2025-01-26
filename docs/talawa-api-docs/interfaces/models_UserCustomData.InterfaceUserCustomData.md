@@ -23,9 +23,9 @@ This is an interface representing a document for custom field in the database(Mo
 
 #### Defined in
 
-[src/models/UserCustomData.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/UserCustomData.ts#L9)
+[src/models/UserCustomData.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/UserCustomData.ts#L8)
 
-___
+---
 
 ### organizationId
 
@@ -33,9 +33,9 @@ ___
 
 #### Defined in
 
-[src/models/UserCustomData.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/UserCustomData.ts#L10)
+[src/models/UserCustomData.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/UserCustomData.ts#L9)
 
-___
+---
 
 ### userId
 
@@ -43,9 +43,9 @@ ___
 
 #### Defined in
 
-[src/models/UserCustomData.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/UserCustomData.ts#L13)
+[src/models/UserCustomData.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/UserCustomData.ts#L11)
 
-___
+---
 
 ### values
 
@@ -53,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/models/UserCustomData.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/UserCustomData.ts#L12)
+[src/models/UserCustomData.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/UserCustomData.ts#L10)

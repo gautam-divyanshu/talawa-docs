@@ -16,8 +16,8 @@
 
 ### Message
 
-• `Const` **Message**: `Model`\<[`InterfaceMessage`](../interfaces/models_Message.InterfaceMessage.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceMessage`](../interfaces/models_Message.InterfaceMessage.md)\> & [`InterfaceMessage`](../interfaces/models_Message.InterfaceMessage.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **Message**: `Model`\<[`InterfaceMessage`](../interfaces/models_Message.InterfaceMessage.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/Message.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Message.ts#L73)
+[src/models/Message.ts:70](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Message.ts#L70)

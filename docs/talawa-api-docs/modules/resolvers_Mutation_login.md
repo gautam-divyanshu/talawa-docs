@@ -27,9 +27,10 @@ payload provided with the request
 **`Remarks`**
 
 The following checks are done:
+
 1. If the user exists
 2. If the password is valid
 
 #### Defined in
 
-[src/resolvers/Mutation/login.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/login.ts#L25)
+[src/resolvers/Mutation/login.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/login.ts#L25)

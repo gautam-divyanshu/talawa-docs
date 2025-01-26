@@ -11,7 +11,7 @@ This is an interface that represents a database document.
 ### Properties
 
 - [createdAt](models_Language.InterfaceLanguageModel.md#createdat)
-- [lang\_code](models_Language.InterfaceLanguageModel.md#lang_code)
+- [lang_code](models_Language.InterfaceLanguageModel.md#lang_code)
 - [value](models_Language.InterfaceLanguageModel.md#value)
 - [verified](models_Language.InterfaceLanguageModel.md#verified)
 
@@ -23,19 +23,19 @@ This is an interface that represents a database document.
 
 #### Defined in
 
-[src/models/Language.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Language.ts#L11)
+[src/models/Language.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Language.ts#L10)
 
-___
+---
 
-### lang\_code
+### lang_code
 
-• **lang\_code**: `string`
+• **lang_code**: `string`
 
 #### Defined in
 
-[src/models/Language.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Language.ts#L8)
+[src/models/Language.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Language.ts#L7)
 
-___
+---
 
 ### value
 
@@ -43,9 +43,9 @@ ___
 
 #### Defined in
 
-[src/models/Language.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Language.ts#L9)
+[src/models/Language.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Language.ts#L8)
 
-___
+---
 
 ### verified
 
@@ -53,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/models/Language.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Language.ts#L10)
+[src/models/Language.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Language.ts#L9)

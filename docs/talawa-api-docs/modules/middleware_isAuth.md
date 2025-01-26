@@ -22,8 +22,8 @@ This function determines whether the user is authorised and whether the access t
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type                                                                                   |
+| :-------- | :------------------------------------------------------------------------------------- |
 | `request` | `Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\> |
 
 #### Returns
@@ -34,4 +34,4 @@ Returns `authData` object with `isAuth`, `expired` and `userId` properties.
 
 #### Defined in
 
-[src/middleware/isAuth.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/middleware/isAuth.ts#L17)
+[src/middleware/isAuth.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/middleware/isAuth.ts#L17)

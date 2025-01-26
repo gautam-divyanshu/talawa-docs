@@ -16,10 +16,10 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `encodedVideoURL` | `string` |
-| `previousVideoPath?` | ``null`` \| `string` |
+| Name                 | Type               |
+| :------------------- | :----------------- |
+| `encodedVideoURL`    | `string`           |
+| `previousVideoPath?` | `null` \| `string` |
 
 #### Returns
 
@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/utilities/encodedVideoStorage/uploadEncodedVideo.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/encodedVideoStorage/uploadEncodedVideo.ts#L11)
+[src/utilities/encodedVideoStorage/uploadEncodedVideo.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/encodedVideoStorage/uploadEncodedVideo.ts#L11)

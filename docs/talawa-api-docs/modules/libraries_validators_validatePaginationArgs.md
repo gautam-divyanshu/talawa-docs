@@ -16,8 +16,8 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name   | Type                                                                            |
+| :----- | :------------------------------------------------------------------------------ |
 | `args` | [`CursorPaginationInput`](types_generatedGraphQLTypes.md#cursorpaginationinput) |
 
 #### Returns
@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/libraries/validators/validatePaginationArgs.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/53234da/src/libraries/validators/validatePaginationArgs.ts#L7)
+[src/libraries/validators/validatePaginationArgs.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/validators/validatePaginationArgs.ts#L7)

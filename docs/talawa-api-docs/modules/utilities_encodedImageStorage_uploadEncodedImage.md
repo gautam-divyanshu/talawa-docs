@@ -16,10 +16,10 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `encodedImageURL` | `string` |
-| `previousImagePath?` | ``null`` \| `string` |
+| Name                 | Type               |
+| :------------------- | :----------------- |
+| `encodedImageURL`    | `string`           |
+| `previousImagePath?` | `null` \| `string` |
 
 #### Returns
 
@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/utilities/encodedImageStorage/uploadEncodedImage.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/encodedImageStorage/uploadEncodedImage.ts#L26)
+[src/utilities/encodedImageStorage/uploadEncodedImage.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/encodedImageStorage/uploadEncodedImage.ts#L26)

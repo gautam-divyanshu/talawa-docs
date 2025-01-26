@@ -20,9 +20,9 @@
 
 #### Defined in
 
-[src/middleware/isAuth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/middleware/isAuth.ts#L9)
+[src/middleware/isAuth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/middleware/isAuth.ts#L9)
 
-___
+---
 
 ### isAuth
 
@@ -30,9 +30,9 @@ ___
 
 #### Defined in
 
-[src/middleware/isAuth.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/middleware/isAuth.ts#L8)
+[src/middleware/isAuth.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/middleware/isAuth.ts#L8)
 
-___
+---
 
 ### userId
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/middleware/isAuth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/middleware/isAuth.ts#L10)
+[src/middleware/isAuth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/middleware/isAuth.ts#L10)

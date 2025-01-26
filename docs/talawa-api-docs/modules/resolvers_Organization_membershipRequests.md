@@ -20,10 +20,6 @@ This resolver function will fetch and return the list of Membership requests for
 
 An object that is the return value of the resolver for this field's parent.
 
-**`Param`**
-
-An object that contains relevant data to perform the query.
-
 #### Defined in
 
-[src/resolvers/Organization/membershipRequests.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Organization/membershipRequests.ts#L9)
+[src/resolvers/Organization/membershipRequests.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Organization/membershipRequests.ts#L8)

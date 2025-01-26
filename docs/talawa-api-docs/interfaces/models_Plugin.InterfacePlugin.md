@@ -24,9 +24,9 @@ This is an interface that represents a database(MongoDB) document for Plugin.
 
 #### Defined in
 
-[src/models/Plugin.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Plugin.ts#L8)
+[src/models/Plugin.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Plugin.ts#L7)
 
-___
+---
 
 ### pluginCreatedBy
 
@@ -34,9 +34,9 @@ ___
 
 #### Defined in
 
-[src/models/Plugin.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Plugin.ts#L10)
+[src/models/Plugin.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Plugin.ts#L9)
 
-___
+---
 
 ### pluginDesc
 
@@ -44,9 +44,9 @@ ___
 
 #### Defined in
 
-[src/models/Plugin.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Plugin.ts#L11)
+[src/models/Plugin.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Plugin.ts#L10)
 
-___
+---
 
 ### pluginName
 
@@ -54,9 +54,9 @@ ___
 
 #### Defined in
 
-[src/models/Plugin.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Plugin.ts#L9)
+[src/models/Plugin.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Plugin.ts#L8)
 
-___
+---
 
 ### uninstalledOrgs
 
@@ -64,4 +64,4 @@ ___
 
 #### Defined in
 
-[src/models/Plugin.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Plugin.ts#L12)
+[src/models/Plugin.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Plugin.ts#L11)

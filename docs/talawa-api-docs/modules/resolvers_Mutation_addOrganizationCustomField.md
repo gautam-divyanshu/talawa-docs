@@ -31,12 +31,12 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the user exists
-2. If the user has appProfile
-3. If the organization exists.
-4. If the user is an admin for the organization.
-5. If the required name and value was provided for the new custom field
+2. If the organization exists.
+3. If the user is an admin for the organization.
+4. If the required name and value was provided for the new custom field
 
 #### Defined in
 
-[src/resolvers/Mutation/addOrganizationCustomField.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/addOrganizationCustomField.ts#L37)
+[src/resolvers/Mutation/addOrganizationCustomField.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/addOrganizationCustomField.ts#L25)

@@ -9,7 +9,6 @@
 ### Properties
 
 - [\_id](models_TagUser.InterfaceTagUser.md#_id)
-- [tagColor](models_TagUser.InterfaceTagUser.md#tagcolor)
 - [tagId](models_TagUser.InterfaceTagUser.md#tagid)
 - [userId](models_TagUser.InterfaceTagUser.md#userid)
 
@@ -21,19 +20,9 @@
 
 #### Defined in
 
-[src/models/TagUser.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/TagUser.ts#L8)
+[src/models/TagUser.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/TagUser.ts#L7)
 
-___
-
-### tagColor
-
-• **tagColor**: `any`
-
-#### Defined in
-
-[src/models/TagUser.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/TagUser.ts#L11)
-
-___
+---
 
 ### tagId
 
@@ -41,9 +30,9 @@ ___
 
 #### Defined in
 
-[src/models/TagUser.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/TagUser.ts#L10)
+[src/models/TagUser.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/TagUser.ts#L9)
 
-___
+---
 
 ### userId
 
@@ -51,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/models/TagUser.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/TagUser.ts#L9)
+[src/models/TagUser.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/TagUser.ts#L8)

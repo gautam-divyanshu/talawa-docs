@@ -16,8 +16,8 @@
 
 ### EncodedImage
 
-• `Const` **EncodedImage**: `Model`\<[`InterfaceEncodedImage`](../interfaces/models_EncodedImage.InterfaceEncodedImage.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceEncodedImage`](../interfaces/models_EncodedImage.InterfaceEncodedImage.md)\> & [`InterfaceEncodedImage`](../interfaces/models_EncodedImage.InterfaceEncodedImage.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **EncodedImage**: `Model`\<[`InterfaceEncodedImage`](../interfaces/models_EncodedImage.InterfaceEncodedImage.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/EncodedImage.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/EncodedImage.ts#L41)
+[src/models/EncodedImage.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/EncodedImage.ts#L38)

@@ -16,8 +16,8 @@
 
 ### DirectChatMessage
 
-• `Const` **DirectChatMessage**: `Model`\<[`InterfaceDirectChatMessage`](../interfaces/models_DirectChatMessage.InterfaceDirectChatMessage.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceDirectChatMessage`](../interfaces/models_DirectChatMessage.InterfaceDirectChatMessage.md)\> & [`InterfaceDirectChatMessage`](../interfaces/models_DirectChatMessage.InterfaceDirectChatMessage.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **DirectChatMessage**: `Model`\<[`InterfaceDirectChatMessage`](../interfaces/models_DirectChatMessage.InterfaceDirectChatMessage.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/DirectChatMessage.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/DirectChatMessage.ts#L71)
+[src/models/DirectChatMessage.ts:68](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/DirectChatMessage.ts#L68)

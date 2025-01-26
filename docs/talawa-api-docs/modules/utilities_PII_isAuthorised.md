@@ -16,10 +16,10 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name             | Type                                          |
+| :--------------- | :-------------------------------------------- |
 | `requestingUser` | [`User`](types_generatedGraphQLTypes.md#user) |
-| `requestedUser` | [`User`](types_generatedGraphQLTypes.md#user) |
+| `requestedUser`  | [`User`](types_generatedGraphQLTypes.md#user) |
 
 #### Returns
 
@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/utilities/PII/isAuthorised.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/PII/isAuthorised.ts#L3)
+[src/utilities/PII/isAuthorised.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/PII/isAuthorised.ts#L3)

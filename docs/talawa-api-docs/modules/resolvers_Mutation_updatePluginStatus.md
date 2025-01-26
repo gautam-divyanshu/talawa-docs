@@ -22,7 +22,7 @@ parent of current request
 
 **`Param`**
 
-payload provided with the request contains _id of the plugin and orgID of the org that wants to change it's status.
+payload provided with the request contains \_id of the plugin and orgID of the org that wants to change it's status.
 
 **`Param`**
 
@@ -30,4 +30,4 @@ context of entire application
 
 #### Defined in
 
-[src/resolvers/Mutation/updatePluginStatus.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/updatePluginStatus.ts#L15)
+[src/resolvers/Mutation/updatePluginStatus.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/updatePluginStatus.ts#L16)

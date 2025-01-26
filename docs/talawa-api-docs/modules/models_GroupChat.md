@@ -16,8 +16,8 @@
 
 ### GroupChat
 
-• `Const` **GroupChat**: `Model`\<[`InterfaceGroupChat`](../interfaces/models_GroupChat.InterfaceGroupChat.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceGroupChat`](../interfaces/models_GroupChat.InterfaceGroupChat.md)\> & [`InterfaceGroupChat`](../interfaces/models_GroupChat.InterfaceGroupChat.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **GroupChat**: `Model`\<[`InterfaceGroupChat`](../interfaces/models_GroupChat.InterfaceGroupChat.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/GroupChat.ts:79](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChat.ts#L79)
+[src/models/GroupChat.ts:76](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChat.ts#L76)

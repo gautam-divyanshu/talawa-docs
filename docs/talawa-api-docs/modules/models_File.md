@@ -16,8 +16,8 @@
 
 ### File
 
-• `Const` **File**: `Model`\<[`InterfaceFile`](../interfaces/models_File.InterfaceFile.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceFile`](../interfaces/models_File.InterfaceFile.md)\> & [`InterfaceFile`](../interfaces/models_File.InterfaceFile.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **File**: `Model`\<[`InterfaceFile`](../interfaces/models_File.InterfaceFile.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/File.ts:68](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/File.ts#L68)
+[src/models/File.ts:65](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/File.ts#L65)

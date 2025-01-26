@@ -20,10 +20,10 @@ Else, allow the file to get uploaded.
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `oldImagePath` | ``null`` \| `string` | Path of image |
-| `newImagePath` | `string` | Does image belong to an item |
+| Name           | Type               | Description                  |
+| :------------- | :----------------- | :--------------------------- |
+| `oldImagePath` | `null` \| `string` | Path of image                |
+| `newImagePath` | `string`           | Does image belong to an item |
 
 #### Returns
 
@@ -33,4 +33,4 @@ file name.
 
 #### Defined in
 
-[src/utilities/imageAlreadyInDbCheck.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/imageAlreadyInDbCheck.ts#L16)
+[src/utilities/imageAlreadyInDbCheck.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/imageAlreadyInDbCheck.ts#L16)

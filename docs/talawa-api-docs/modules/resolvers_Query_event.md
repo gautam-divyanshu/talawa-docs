@@ -14,7 +14,7 @@
 
 • `Const` **event**: [`QueryResolvers`](types_generatedGraphQLTypes.md#queryresolvers)[``"event"``]
 
-This query will fetch the event with _id === args.id from the database.
+This query will fetch the event with `ACTIVE` status from database.
 
 **`Param`**
 
@@ -29,4 +29,4 @@ You can learn about GraphQL `Resolvers`
 
 #### Defined in
 
-[src/resolvers/Query/event.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Query/event.ts#L13)
+[src/resolvers/Query/event.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Query/event.ts#L13)

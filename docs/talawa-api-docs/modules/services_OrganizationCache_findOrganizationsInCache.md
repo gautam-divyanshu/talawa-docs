@@ -12,18 +12,18 @@
 
 ### findOrganizationsInCache
 
-▸ **findOrganizationsInCache**(`ids`): `Promise`\<([`InterfaceOrganization`](../interfaces/models_Organization.InterfaceOrganization.md) \| ``null``)[]\>
+▸ **findOrganizationsInCache**(`ids`): `Promise`\<([`InterfaceOrganization`](../interfaces/models_Organization.InterfaceOrganization.md) \| `null`)[]\>
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name  | Type       |
+| :---- | :--------- |
 | `ids` | `string`[] |
 
 #### Returns
 
-`Promise`\<([`InterfaceOrganization`](../interfaces/models_Organization.InterfaceOrganization.md) \| ``null``)[]\>
+`Promise`\<([`InterfaceOrganization`](../interfaces/models_Organization.InterfaceOrganization.md) \| `null`)[]\>
 
 #### Defined in
 
-[src/services/OrganizationCache/findOrganizationsInCache.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/services/OrganizationCache/findOrganizationsInCache.ts#L6)
+[src/services/OrganizationCache/findOrganizationsInCache.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/services/OrganizationCache/findOrganizationsInCache.ts#L6)

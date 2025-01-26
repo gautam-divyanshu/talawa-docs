@@ -16,14 +16,14 @@
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `colorize_logs` | `undefined` \| `string` |
-| `defaultLocale` | `string` |
-| `env` | `undefined` \| `string` |
-| `log_level` | `undefined` \| `string` |
-| `supportedLocales` | `string`[] |
+| Name               | Type                    |
+| :----------------- | :---------------------- |
+| `colorize_logs`    | `undefined` \| `string` |
+| `defaultLocale`    | `string`                |
+| `env`              | `undefined` \| `string` |
+| `log_level`        | `undefined` \| `string` |
+| `supportedLocales` | `string`[]              |
 
 #### Defined in
 
-[src/config/appConfig.ts:1](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/config/appConfig.ts#L1)
+[src/config/appConfig.ts:1](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/config/appConfig.ts#L1)

@@ -4,7 +4,7 @@
 
 [models/Comment](../modules/models_Comment.md).InterfaceComment
 
-This is an interface representing a document for a comment in the database - (MongoDB).
+This is an interface representing a document for a comment in the database(MongoDB).
 
 ## Table of contents
 
@@ -28,9 +28,9 @@ This is an interface representing a document for a comment in the database - (Mo
 
 #### Defined in
 
-[src/models/Comment.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Comment.ts#L10)
+[src/models/Comment.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Comment.ts#L9)
 
-___
+---
 
 ### createdAt
 
@@ -38,9 +38,9 @@ ___
 
 #### Defined in
 
-[src/models/Comment.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Comment.ts#L12)
+[src/models/Comment.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Comment.ts#L11)
 
-___
+---
 
 ### creatorId
 
@@ -48,9 +48,9 @@ ___
 
 #### Defined in
 
-[src/models/Comment.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Comment.ts#L13)
+[src/models/Comment.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Comment.ts#L12)
 
-___
+---
 
 ### likeCount
 
@@ -58,9 +58,9 @@ ___
 
 #### Defined in
 
-[src/models/Comment.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Comment.ts#L17)
+[src/models/Comment.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Comment.ts#L16)
 
-___
+---
 
 ### likedBy
 
@@ -68,9 +68,9 @@ ___
 
 #### Defined in
 
-[src/models/Comment.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Comment.ts#L16)
+[src/models/Comment.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Comment.ts#L15)
 
-___
+---
 
 ### postId
 
@@ -78,9 +78,9 @@ ___
 
 #### Defined in
 
-[src/models/Comment.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Comment.ts#L15)
+[src/models/Comment.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Comment.ts#L14)
 
-___
+---
 
 ### status
 
@@ -88,9 +88,9 @@ ___
 
 #### Defined in
 
-[src/models/Comment.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Comment.ts#L18)
+[src/models/Comment.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Comment.ts#L17)
 
-___
+---
 
 ### text
 
@@ -98,9 +98,9 @@ ___
 
 #### Defined in
 
-[src/models/Comment.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Comment.ts#L11)
+[src/models/Comment.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Comment.ts#L10)
 
-___
+---
 
 ### updatedAt
 
@@ -108,4 +108,4 @@ ___
 
 #### Defined in
 
-[src/models/Comment.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Comment.ts#L14)
+[src/models/Comment.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Comment.ts#L13)

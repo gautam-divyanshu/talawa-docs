@@ -31,6 +31,7 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the event exists
 2. If the organization exists
 3. If the user exists
@@ -38,4 +39,4 @@ The following checks are done:
 
 #### Defined in
 
-[src/resolvers/Mutation/adminRemoveEvent.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/65069df/src/resolvers/Mutation/adminRemoveEvent.ts#L28)
+[src/resolvers/Mutation/adminRemoveEvent.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/adminRemoveEvent.ts#L27)

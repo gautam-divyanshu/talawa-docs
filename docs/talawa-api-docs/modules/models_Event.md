@@ -16,8 +16,8 @@
 
 ### Event
 
-• `Const` **Event**: `Model`\<[`InterfaceEvent`](../interfaces/models_Event.InterfaceEvent.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceEvent`](../interfaces/models_Event.InterfaceEvent.md)\> & [`InterfaceEvent`](../interfaces/models_Event.InterfaceEvent.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **Event**: `Model`\<[`InterfaceEvent`](../interfaces/models_Event.InterfaceEvent.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/Event.ts:203](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Event.ts#L203)
+[src/models/Event.ts:168](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Event.ts#L168)

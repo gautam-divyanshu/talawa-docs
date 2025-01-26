@@ -6,13 +6,13 @@
 
 ## Type parameters
 
-| Name | Type |
-| :------ | :------ |
-| `TResult` | `TResult` |
-| `TKey` | extends `string` |
-| `TParent` | `TParent` |
-| `TContext` | `TContext` |
-| `TArgs` | `TArgs` |
+| Name       | Type             |
+| :--------- | :--------------- |
+| `TResult`  | `TResult`        |
+| `TKey`     | extends `string` |
+| `TParent`  | `TParent`        |
+| `TContext` | `TContext`       |
+| `TArgs`    | `TArgs`          |
 
 ## Table of contents
 
@@ -29,9 +29,9 @@
 
 #### Defined in
 
-[src/types/generatedGraphQLTypes.ts:3121](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/types/generatedGraphQLTypes.ts#L3121)
+[src/types/generatedGraphQLTypes.ts:2009](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/types/generatedGraphQLTypes.ts#L2009)
 
-___
+---
 
 ### subscribe
 
@@ -39,4 +39,4 @@ ___
 
 #### Defined in
 
-[src/types/generatedGraphQLTypes.ts:3120](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/types/generatedGraphQLTypes.ts#L3120)
+[src/types/generatedGraphQLTypes.ts:2008](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/types/generatedGraphQLTypes.ts#L2008)

@@ -19,10 +19,10 @@ third argument.
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name  | Type                                                                                                        |
+| :---- | :---------------------------------------------------------------------------------------------------------- |
 | `req` | `IncomingMessage` \| `Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\> |
-| `res` | `ServerResponse`\<`IncomingMessage`\> \| `Response`\<`any`, `Record`\<`string`, `any`\>, `number`\> |
+| `res` | `ServerResponse`\<`IncomingMessage`\> \| `Response`\<`any`, `Record`\<`string`, `any`\>, `number`\>         |
 
 #### Returns
 
@@ -30,17 +30,17 @@ third argument.
 
 #### Defined in
 
-[src/app.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/app.ts#L13)
+[src/app.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/app.ts#L15)
 
 ▸ **default**(`req`, `res`, `next`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `req` | `Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\> |
-| `res` | `Response`\<`any`, `Record`\<`string`, `any`\>, `number`\> |
-| `next` | `NextFunction` |
+| Name   | Type                                                                                   |
+| :----- | :------------------------------------------------------------------------------------- |
+| `req`  | `Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\> |
+| `res`  | `Response`\<`any`, `Record`\<`string`, `any`\>, `number`\>                             |
+| `next` | `NextFunction`                                                                         |
 
 #### Returns
 
@@ -48,4 +48,4 @@ third argument.
 
 #### Defined in
 
-[src/app.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/app.ts#L13)
+[src/app.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/app.ts#L15)

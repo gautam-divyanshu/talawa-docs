@@ -31,6 +31,7 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the organization exists
 2. If the organization required user registration
 3. If the user exists
@@ -38,4 +39,4 @@ The following checks are done:
 
 #### Defined in
 
-[src/resolvers/Mutation/joinPublicOrganization.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/joinPublicOrganization.ts#L28)
+[src/resolvers/Mutation/joinPublicOrganization.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/joinPublicOrganization.ts#L25)

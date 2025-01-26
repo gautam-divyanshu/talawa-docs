@@ -16,8 +16,8 @@
 
 ### PluginField
 
-• `Const` **PluginField**: `Model`\<[`InterfacePluginField`](../interfaces/models_PluginField.InterfacePluginField.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfacePluginField`](../interfaces/models_PluginField.InterfacePluginField.md)\> & [`InterfacePluginField`](../interfaces/models_PluginField.InterfacePluginField.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **PluginField**: `Model`\<[`InterfacePluginField`](../interfaces/models_PluginField.InterfacePluginField.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/PluginField.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/PluginField.ts#L48)
+[src/models/PluginField.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/PluginField.ts#L45)

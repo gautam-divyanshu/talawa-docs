@@ -31,10 +31,11 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the current user exists
 2. If the organization exists
 3. If the user trying to add the image is an admin of organization
 
 #### Defined in
 
-[src/resolvers/Mutation/addOrganizationImage.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/addOrganizationImage.ts#L23)
+[src/resolvers/Mutation/addOrganizationImage.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/addOrganizationImage.ts#L21)

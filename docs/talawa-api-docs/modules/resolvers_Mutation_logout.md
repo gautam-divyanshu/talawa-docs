@@ -31,8 +31,9 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the user exists
 
 #### Defined in
 
-[src/resolvers/Mutation/logout.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/logout.ts#L13)
+[src/resolvers/Mutation/logout.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/logout.ts#L13)

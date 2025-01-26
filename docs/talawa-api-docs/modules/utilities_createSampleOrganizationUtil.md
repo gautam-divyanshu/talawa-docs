@@ -24,9 +24,9 @@
 
 #### Defined in
 
-[src/utilities/createSampleOrganizationUtil.ts:217](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/createSampleOrganizationUtil.ts#L217)
+[src/utilities/createSampleOrganizationUtil.ts:215](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/createSampleOrganizationUtil.ts#L215)
 
-___
+---
 
 ### generateEventData
 
@@ -34,10 +34,10 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `users` | [`InterfaceUser`](../interfaces/models_User.InterfaceUser.md)[] |
-| `organizationId` | `string` |
+| Name             | Type                                                            |
+| :--------------- | :-------------------------------------------------------------- |
+| `users`          | [`InterfaceUser`](../interfaces/models_User.InterfaceUser.md)[] |
+| `organizationId` | `string`                                                        |
 
 #### Returns
 
@@ -45,9 +45,9 @@ ___
 
 #### Defined in
 
-[src/utilities/createSampleOrganizationUtil.ts:74](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/createSampleOrganizationUtil.ts#L74)
+[src/utilities/createSampleOrganizationUtil.ts:64](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/createSampleOrganizationUtil.ts#L64)
 
-___
+---
 
 ### generatePostData
 
@@ -55,10 +55,10 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `users` | [`InterfaceUser`](../interfaces/models_User.InterfaceUser.md)[] |
-| `organizationId` | `string` |
+| Name             | Type                                                            |
+| :--------------- | :-------------------------------------------------------------- |
+| `users`          | [`InterfaceUser`](../interfaces/models_User.InterfaceUser.md)[] |
+| `organizationId` | `string`                                                        |
 
 #### Returns
 
@@ -66,9 +66,9 @@ ___
 
 #### Defined in
 
-[src/utilities/createSampleOrganizationUtil.ts:130](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/createSampleOrganizationUtil.ts#L130)
+[src/utilities/createSampleOrganizationUtil.ts:128](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/createSampleOrganizationUtil.ts#L128)
 
-___
+---
 
 ### generateRandomPlugins
 
@@ -76,10 +76,10 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `numberOfPlugins` | `number` |
-| `users` | `string`[] |
+| Name              | Type       |
+| :---------------- | :--------- |
+| `numberOfPlugins` | `number`   |
+| `users`           | `string`[] |
 
 #### Returns
 
@@ -87,25 +87,25 @@ ___
 
 #### Defined in
 
-[src/utilities/createSampleOrganizationUtil.ts:187](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/createSampleOrganizationUtil.ts#L187)
+[src/utilities/createSampleOrganizationUtil.ts:185](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/createSampleOrganizationUtil.ts#L185)
 
-___
+---
 
 ### generateUserData
 
-▸ **generateUserData**(`organizationId`, `userType`): `Promise`\<\{ `appUserProfile`: `Document`\<`unknown`, \{\}, [`InterfaceAppUserProfile`](../interfaces/models_AppUserProfile.InterfaceAppUserProfile.md)\> & [`InterfaceAppUserProfile`](../interfaces/models_AppUserProfile.InterfaceAppUserProfile.md) & `Required`\<\{ `_id`: `ObjectId`  \}\> ; `user`: `Document`\<`unknown`, \{\}, [`InterfaceUser`](../interfaces/models_User.InterfaceUser.md)\> & [`InterfaceUser`](../interfaces/models_User.InterfaceUser.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>  \}\>
+▸ **generateUserData**(`organizationId`, `userType`): `Promise`\<[`InterfaceUser`](../interfaces/models_User.InterfaceUser.md) & `Document`\<`any`, `any`, [`InterfaceUser`](../interfaces/models_User.InterfaceUser.md)\>\>
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name             | Type     |
+| :--------------- | :------- |
 | `organizationId` | `string` |
-| `userType` | `string` |
+| `userType`       | `string` |
 
 #### Returns
 
-`Promise`\<\{ `appUserProfile`: `Document`\<`unknown`, \{\}, [`InterfaceAppUserProfile`](../interfaces/models_AppUserProfile.InterfaceAppUserProfile.md)\> & [`InterfaceAppUserProfile`](../interfaces/models_AppUserProfile.InterfaceAppUserProfile.md) & `Required`\<\{ `_id`: `ObjectId`  \}\> ; `user`: `Document`\<`unknown`, \{\}, [`InterfaceUser`](../interfaces/models_User.InterfaceUser.md)\> & [`InterfaceUser`](../interfaces/models_User.InterfaceUser.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>  \}\>
+`Promise`\<[`InterfaceUser`](../interfaces/models_User.InterfaceUser.md) & `Document`\<`any`, `any`, [`InterfaceUser`](../interfaces/models_User.InterfaceUser.md)\>\>
 
 #### Defined in
 
-[src/utilities/createSampleOrganizationUtil.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/createSampleOrganizationUtil.ts#L17)
+[src/utilities/createSampleOrganizationUtil.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/createSampleOrganizationUtil.ts#L10)

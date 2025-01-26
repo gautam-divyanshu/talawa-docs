@@ -33,9 +33,9 @@ This is an interface that represents a database(MongoDB) document for Post.
 
 #### Defined in
 
-[src/models/Post.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L11)
+[src/models/Post.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L10)
 
-___
+---
 
 ### commentCount
 
@@ -43,9 +43,9 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L12)
+[src/models/Post.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L11)
 
-___
+---
 
 ### createdAt
 
@@ -53,9 +53,9 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L13)
+[src/models/Post.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L12)
 
-___
+---
 
 ### creatorId
 
@@ -63,19 +63,19 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L14)
+[src/models/Post.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L13)
 
-___
+---
 
 ### imageUrl
 
-• **imageUrl**: `undefined` \| ``null`` \| `string`
+• **imageUrl**: `undefined` \| `null` \| `string`
 
 #### Defined in
 
-[src/models/Post.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L15)
+[src/models/Post.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L14)
 
-___
+---
 
 ### likeCount
 
@@ -83,9 +83,9 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L16)
+[src/models/Post.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L15)
 
-___
+---
 
 ### likedBy
 
@@ -93,9 +93,9 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L17)
+[src/models/Post.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L16)
 
-___
+---
 
 ### organization
 
@@ -103,9 +103,9 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L18)
+[src/models/Post.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L17)
 
-___
+---
 
 ### pinned
 
@@ -113,9 +113,9 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L19)
+[src/models/Post.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L18)
 
-___
+---
 
 ### status
 
@@ -123,9 +123,9 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L20)
+[src/models/Post.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L19)
 
-___
+---
 
 ### text
 
@@ -133,9 +133,9 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L21)
+[src/models/Post.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L20)
 
-___
+---
 
 ### title
 
@@ -143,9 +143,9 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L22)
+[src/models/Post.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L21)
 
-___
+---
 
 ### updatedAt
 
@@ -153,14 +153,14 @@ ___
 
 #### Defined in
 
-[src/models/Post.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L23)
+[src/models/Post.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L22)
 
-___
+---
 
 ### videoUrl
 
-• **videoUrl**: `undefined` \| ``null`` \| `string`
+• **videoUrl**: `undefined` \| `null` \| `string`
 
 #### Defined in
 
-[src/models/Post.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Post.ts#L24)
+[src/models/Post.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Post.ts#L23)

@@ -18,9 +18,9 @@ If the current user is an admin of the organisation, this function returns `true
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `userId` | `string` \| `ObjectId` | Current user id. |
+| Name           | Type                                                                                  | Description                                        |
+| :------------- | :------------------------------------------------------------------------------------ | :------------------------------------------------- |
+| `userId`       | `string` \| `ObjectId`                                                                | Current user id.                                   |
 | `organization` | [`InterfaceOrganization`](../interfaces/models_Organization.InterfaceOrganization.md) | Organization data of `InterfaceOrganization` type. |
 
 #### Returns
@@ -35,4 +35,4 @@ This is a utility method.
 
 #### Defined in
 
-[src/utilities/adminCheck.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/adminCheck.ts#L15)
+[src/utilities/adminCheck.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/adminCheck.ts#L14)

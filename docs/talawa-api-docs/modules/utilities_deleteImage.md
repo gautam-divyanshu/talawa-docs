@@ -20,9 +20,9 @@ After deleting the image, the number of uses of the hashed image are decremented
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `imageToBeDeleted` | `string` | Path of image |
+| Name                    | Type     | Description                  |
+| :---------------------- | :------- | :--------------------------- |
+| `imageToBeDeleted`      | `string` | Path of image                |
 | `imageBelongingToItem?` | `string` | Does image belong to an item |
 
 #### Returns
@@ -31,4 +31,4 @@ After deleting the image, the number of uses of the hashed image are decremented
 
 #### Defined in
 
-[src/utilities/deleteImage.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/deleteImage.ts#L12)
+[src/utilities/deleteImage.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/deleteImage.ts#L12)

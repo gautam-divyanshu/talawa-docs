@@ -12,7 +12,6 @@
 - [name](models_OrganizationTagUser.InterfaceOrganizationTagUser.md#name)
 - [organizationId](models_OrganizationTagUser.InterfaceOrganizationTagUser.md#organizationid)
 - [parentTagId](models_OrganizationTagUser.InterfaceOrganizationTagUser.md#parenttagid)
-- [tagColor](models_OrganizationTagUser.InterfaceOrganizationTagUser.md#tagcolor)
 
 ## Properties
 
@@ -22,9 +21,9 @@
 
 #### Defined in
 
-[src/models/OrganizationTagUser.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/OrganizationTagUser.ts#L7)
+[src/models/OrganizationTagUser.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/OrganizationTagUser.ts#L6)
 
-___
+---
 
 ### name
 
@@ -32,9 +31,9 @@ ___
 
 #### Defined in
 
-[src/models/OrganizationTagUser.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/OrganizationTagUser.ts#L10)
+[src/models/OrganizationTagUser.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/OrganizationTagUser.ts#L9)
 
-___
+---
 
 ### organizationId
 
@@ -42,9 +41,9 @@ ___
 
 #### Defined in
 
-[src/models/OrganizationTagUser.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/OrganizationTagUser.ts#L8)
+[src/models/OrganizationTagUser.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/OrganizationTagUser.ts#L7)
 
-___
+---
 
 ### parentTagId
 
@@ -52,14 +51,4 @@ ___
 
 #### Defined in
 
-[src/models/OrganizationTagUser.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/OrganizationTagUser.ts#L9)
-
-___
-
-### tagColor
-
-• **tagColor**: `string`
-
-#### Defined in
-
-[src/models/OrganizationTagUser.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/OrganizationTagUser.ts#L11)
+[src/models/OrganizationTagUser.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/OrganizationTagUser.ts#L8)

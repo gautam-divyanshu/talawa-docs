@@ -20,8 +20,8 @@ This query will fetch all action items for an organization from database.
 
 **`Param`**
 
-An object that contains `organizationId` which is the _id of the Organization.
+An object that contains `organizationId` which is the \_id of the Organization.
 
 #### Defined in
 
-[src/resolvers/Query/actionItemsByOrganization.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Query/actionItemsByOrganization.ts#L12)
+[src/resolvers/Query/actionItemsByOrganization.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Query/actionItemsByOrganization.ts#L9)

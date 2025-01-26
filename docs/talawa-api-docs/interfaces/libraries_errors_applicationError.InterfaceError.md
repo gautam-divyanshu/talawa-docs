@@ -17,13 +17,13 @@
 
 ### code
 
-• **code**: ``null`` \| `string`
+• **code**: `null` \| `string`
 
 #### Defined in
 
-[src/libraries/errors/applicationError.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/errors/applicationError.ts#L3)
+[src/libraries/errors/applicationError.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/errors/applicationError.ts#L3)
 
-___
+---
 
 ### message
 
@@ -31,24 +31,24 @@ ___
 
 #### Defined in
 
-[src/libraries/errors/applicationError.ts:2](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/errors/applicationError.ts#L2)
+[src/libraries/errors/applicationError.ts:2](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/errors/applicationError.ts#L2)
 
-___
+---
 
 ### metadata
 
-• `Optional` **metadata**: `Record`\<`string`, `string`\>
+• `Optional` **metadata**: `Record`\<`any`, `any`\>
 
 #### Defined in
 
-[src/libraries/errors/applicationError.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/errors/applicationError.ts#L5)
+[src/libraries/errors/applicationError.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/errors/applicationError.ts#L5)
 
-___
+---
 
 ### param
 
-• **param**: ``null`` \| `string`
+• **param**: `null` \| `string`
 
 #### Defined in
 
-[src/libraries/errors/applicationError.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/errors/applicationError.ts#L4)
+[src/libraries/errors/applicationError.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/errors/applicationError.ts#L4)

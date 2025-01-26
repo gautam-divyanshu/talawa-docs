@@ -31,10 +31,11 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the user exists.
 2. If the organization exists
 3. If the user is the admin of the organization.
 
 #### Defined in
 
-[src/resolvers/Mutation/removeOrganizationImage.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/removeOrganizationImage.ts#L23)
+[src/resolvers/Mutation/removeOrganizationImage.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/removeOrganizationImage.ts#L22)

@@ -4,7 +4,7 @@
 
 [models/Advertisement](../modules/models_Advertisement.md).InterfaceAdvertisement
 
-This is an interface, that represents database - (MongoDB) document for Advertisement.
+This is an interface that represents a database(MongoDB) document for Advertisement.
 
 ## Table of contents
 
@@ -14,9 +14,9 @@ This is an interface, that represents database - (MongoDB) document for Advertis
 - [createdAt](models_Advertisement.InterfaceAdvertisement.md#createdat)
 - [creatorId](models_Advertisement.InterfaceAdvertisement.md#creatorid)
 - [endDate](models_Advertisement.InterfaceAdvertisement.md#enddate)
-- [mediaUrl](models_Advertisement.InterfaceAdvertisement.md#mediaurl)
+- [link](models_Advertisement.InterfaceAdvertisement.md#link)
 - [name](models_Advertisement.InterfaceAdvertisement.md#name)
-- [organizationId](models_Advertisement.InterfaceAdvertisement.md#organizationid)
+- [orgId](models_Advertisement.InterfaceAdvertisement.md#orgid)
 - [startDate](models_Advertisement.InterfaceAdvertisement.md#startdate)
 - [type](models_Advertisement.InterfaceAdvertisement.md#type)
 - [updatedAt](models_Advertisement.InterfaceAdvertisement.md#updatedat)
@@ -25,13 +25,13 @@ This is an interface, that represents database - (MongoDB) document for Advertis
 
 ### \_id
 
-• **\_id**: `string`
+• **\_id**: `ObjectId`
 
 #### Defined in
 
-[src/models/Advertisement.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Advertisement.ts#L10)
+[src/models/Advertisement.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Advertisement.ts#L8)
 
-___
+---
 
 ### createdAt
 
@@ -39,19 +39,19 @@ ___
 
 #### Defined in
 
-[src/models/Advertisement.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Advertisement.ts#L18)
+[src/models/Advertisement.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Advertisement.ts#L16)
 
-___
+---
 
 ### creatorId
 
-• **creatorId**: `any`
+• **creatorId**: `PopulatedDoc`\<[`InterfaceUser`](models_User.InterfaceUser.md) & `Document`\>
 
 #### Defined in
 
-[src/models/Advertisement.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Advertisement.ts#L14)
+[src/models/Advertisement.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Advertisement.ts#L11)
 
-___
+---
 
 ### endDate
 
@@ -59,19 +59,19 @@ ___
 
 #### Defined in
 
-[src/models/Advertisement.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Advertisement.ts#L17)
+[src/models/Advertisement.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Advertisement.ts#L15)
 
-___
+---
 
-### mediaUrl
+### link
 
-• **mediaUrl**: `string`
+• **link**: `string`
 
 #### Defined in
 
-[src/models/Advertisement.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Advertisement.ts#L13)
+[src/models/Advertisement.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Advertisement.ts#L12)
 
-___
+---
 
 ### name
 
@@ -79,19 +79,19 @@ ___
 
 #### Defined in
 
-[src/models/Advertisement.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Advertisement.ts#L12)
+[src/models/Advertisement.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Advertisement.ts#L10)
 
-___
+---
 
-### organizationId
+### orgId
 
-• **organizationId**: `any`
+• **orgId**: `string`
 
 #### Defined in
 
-[src/models/Advertisement.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Advertisement.ts#L11)
+[src/models/Advertisement.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Advertisement.ts#L9)
 
-___
+---
 
 ### startDate
 
@@ -99,19 +99,19 @@ ___
 
 #### Defined in
 
-[src/models/Advertisement.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Advertisement.ts#L16)
+[src/models/Advertisement.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Advertisement.ts#L14)
 
-___
+---
 
 ### type
 
-• **type**: ``"POPUP"`` \| ``"MENU"`` \| ``"BANNER"``
+• **type**: `"POPUP"` \| `"MENU"` \| `"BANNER"`
 
 #### Defined in
 
-[src/models/Advertisement.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Advertisement.ts#L15)
+[src/models/Advertisement.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Advertisement.ts#L13)
 
-___
+---
 
 ### updatedAt
 
@@ -119,4 +119,4 @@ ___
 
 #### Defined in
 
-[src/models/Advertisement.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Advertisement.ts#L19)
+[src/models/Advertisement.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Advertisement.ts#L17)

@@ -16,8 +16,8 @@
 
 ### Feedback
 
-• `Const` **Feedback**: `Model`\<[`InterfaceFeedback`](../interfaces/models_Feedback.InterfaceFeedback.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceFeedback`](../interfaces/models_Feedback.InterfaceFeedback.md)\> & [`InterfaceFeedback`](../interfaces/models_Feedback.InterfaceFeedback.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **Feedback**: `Model`\<[`InterfaceFeedback`](../interfaces/models_Feedback.InterfaceFeedback.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/Feedback.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Feedback.ts#L49)
+[src/models/Feedback.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Feedback.ts#L46)

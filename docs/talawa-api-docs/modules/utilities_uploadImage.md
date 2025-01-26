@@ -12,19 +12,27 @@
 
 ### uploadImage
 
-▸ **uploadImage**(`newImageFile`, `oldImagePath`): `Promise`\<\{ `imageAlreadyInDbPath`: `string` ; `newImagePath`: `string`  \}\>
+▸ **uploadImage**(`newImageFile`, `oldImagePath`): `Promise`\<\{ `imageAlreadyInDbPath`: `string` ; `newImagePath`: `string` \}\>
+
+This function uploads the new image and deletes the previously uploaded image if exists.
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `newImageFile` | `TypeNewImageFile` |
-| `oldImagePath` | ``null`` \| `string` |
+| Name           | Type               | Description                                |
+| :------------- | :----------------- | :----------------------------------------- |
+| `newImageFile` | `any`              | File of a new Image with `any` type.       |
+| `oldImagePath` | `null` \| `string` | File of a current Image. It can be `null`. |
 
 #### Returns
 
-`Promise`\<\{ `imageAlreadyInDbPath`: `string` ; `newImagePath`: `string`  \}\>
+`Promise`\<\{ `imageAlreadyInDbPath`: `string` ; `newImagePath`: `string` \}\>
+
+Path of an uploaded image.
+
+**`Remarks`**
+
+This is a utility method.
 
 #### Defined in
 
-[src/utilities/uploadImage.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/uploadImage.ts#L22)
+[src/utilities/uploadImage.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/uploadImage.ts#L16)

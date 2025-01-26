@@ -12,18 +12,18 @@
 
 ### findCommentsInCache
 
-▸ **findCommentsInCache**(`ids`): `Promise`\<([`InterfaceComment`](../interfaces/models_Comment.InterfaceComment.md) \| ``null``)[]\>
+▸ **findCommentsInCache**(`ids`): `Promise`\<([`InterfaceComment`](../interfaces/models_Comment.InterfaceComment.md) \| `null`)[]\>
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name  | Type       |
+| :---- | :--------- |
 | `ids` | `string`[] |
 
 #### Returns
 
-`Promise`\<([`InterfaceComment`](../interfaces/models_Comment.InterfaceComment.md) \| ``null``)[]\>
+`Promise`\<([`InterfaceComment`](../interfaces/models_Comment.InterfaceComment.md) \| `null`)[]\>
 
 #### Defined in
 
-[src/services/CommentCache/findCommentsInCache.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/services/CommentCache/findCommentsInCache.ts#L6)
+[src/services/CommentCache/findCommentsInCache.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/services/CommentCache/findCommentsInCache.ts#L6)

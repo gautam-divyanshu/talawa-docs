@@ -16,8 +16,8 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name           | Type                                                                                  |
+| :------------- | :------------------------------------------------------------------------------------ |
 | `organization` | [`InterfaceOrganization`](../interfaces/models_Organization.InterfaceOrganization.md) |
 
 #### Returns
@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/services/OrganizationCache/deleteOrganizationFromCache.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/services/OrganizationCache/deleteOrganizationFromCache.ts#L4)
+[src/services/OrganizationCache/deleteOrganizationFromCache.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/services/OrganizationCache/deleteOrganizationFromCache.ts#L4)

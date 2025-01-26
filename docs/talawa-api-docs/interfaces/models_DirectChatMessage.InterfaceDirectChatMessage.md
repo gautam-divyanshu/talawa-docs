@@ -27,9 +27,9 @@ This is an interface representing a document for a direct chat message in the da
 
 #### Defined in
 
-[src/models/DirectChatMessage.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/DirectChatMessage.ts#L10)
+[src/models/DirectChatMessage.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/DirectChatMessage.ts#L9)
 
-___
+---
 
 ### createdAt
 
@@ -37,9 +37,9 @@ ___
 
 #### Defined in
 
-[src/models/DirectChatMessage.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/DirectChatMessage.ts#L16)
+[src/models/DirectChatMessage.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/DirectChatMessage.ts#L15)
 
-___
+---
 
 ### directChatMessageBelongsTo
 
@@ -47,9 +47,9 @@ ___
 
 #### Defined in
 
-[src/models/DirectChatMessage.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/DirectChatMessage.ts#L11)
+[src/models/DirectChatMessage.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/DirectChatMessage.ts#L10)
 
-___
+---
 
 ### messageContent
 
@@ -57,9 +57,9 @@ ___
 
 #### Defined in
 
-[src/models/DirectChatMessage.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/DirectChatMessage.ts#L14)
+[src/models/DirectChatMessage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/DirectChatMessage.ts#L13)
 
-___
+---
 
 ### receiver
 
@@ -67,9 +67,9 @@ ___
 
 #### Defined in
 
-[src/models/DirectChatMessage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/DirectChatMessage.ts#L13)
+[src/models/DirectChatMessage.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/DirectChatMessage.ts#L12)
 
-___
+---
 
 ### sender
 
@@ -77,9 +77,9 @@ ___
 
 #### Defined in
 
-[src/models/DirectChatMessage.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/DirectChatMessage.ts#L12)
+[src/models/DirectChatMessage.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/DirectChatMessage.ts#L11)
 
-___
+---
 
 ### status
 
@@ -87,9 +87,9 @@ ___
 
 #### Defined in
 
-[src/models/DirectChatMessage.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/DirectChatMessage.ts#L15)
+[src/models/DirectChatMessage.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/DirectChatMessage.ts#L14)
 
-___
+---
 
 ### updatedAt
 
@@ -97,4 +97,4 @@ ___
 
 #### Defined in
 
-[src/models/DirectChatMessage.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/DirectChatMessage.ts#L17)
+[src/models/DirectChatMessage.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/DirectChatMessage.ts#L16)

@@ -4,7 +4,7 @@
 
 [models/ActionItemCategory](../modules/models_ActionItemCategory.md).InterfaceActionItemCategory
 
-This is an interface that represents a database(MongoDB) document for ActionItemCategory (~Test Check).
+This is an interface that represents a database(MongoDB) document for ActionItemCategory.
 
 ## Table of contents
 
@@ -26,9 +26,9 @@ This is an interface that represents a database(MongoDB) document for ActionItem
 
 #### Defined in
 
-[src/models/ActionItemCategory.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItemCategory.ts#L11)
+[src/models/ActionItemCategory.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItemCategory.ts#L11)
 
-___
+---
 
 ### createdAt
 
@@ -36,9 +36,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItemCategory.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItemCategory.ts#L16)
+[src/models/ActionItemCategory.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItemCategory.ts#L16)
 
-___
+---
 
 ### creatorId
 
@@ -46,9 +46,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItemCategory.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItemCategory.ts#L15)
+[src/models/ActionItemCategory.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItemCategory.ts#L15)
 
-___
+---
 
 ### isDisabled
 
@@ -56,9 +56,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItemCategory.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItemCategory.ts#L14)
+[src/models/ActionItemCategory.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItemCategory.ts#L14)
 
-___
+---
 
 ### name
 
@@ -66,9 +66,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItemCategory.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItemCategory.ts#L12)
+[src/models/ActionItemCategory.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItemCategory.ts#L12)
 
-___
+---
 
 ### organizationId
 
@@ -76,9 +76,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItemCategory.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItemCategory.ts#L13)
+[src/models/ActionItemCategory.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItemCategory.ts#L13)
 
-___
+---
 
 ### updatedAt
 
@@ -86,4 +86,4 @@ ___
 
 #### Defined in
 
-[src/models/ActionItemCategory.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItemCategory.ts#L17)
+[src/models/ActionItemCategory.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItemCategory.ts#L17)

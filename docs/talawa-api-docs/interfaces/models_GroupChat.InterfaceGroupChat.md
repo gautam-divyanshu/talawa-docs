@@ -28,9 +28,9 @@ This is an interface representing a document for a group chat in the database(Mo
 
 #### Defined in
 
-[src/models/GroupChat.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChat.ts#L11)
+[src/models/GroupChat.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChat.ts#L10)
 
-___
+---
 
 ### createdAt
 
@@ -38,9 +38,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChat.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChat.ts#L16)
+[src/models/GroupChat.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChat.ts#L15)
 
-___
+---
 
 ### creatorId
 
@@ -48,9 +48,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChat.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChat.ts#L15)
+[src/models/GroupChat.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChat.ts#L14)
 
-___
+---
 
 ### messages
 
@@ -58,9 +58,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChat.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChat.ts#L14)
+[src/models/GroupChat.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChat.ts#L13)
 
-___
+---
 
 ### organization
 
@@ -68,9 +68,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChat.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChat.ts#L18)
+[src/models/GroupChat.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChat.ts#L17)
 
-___
+---
 
 ### status
 
@@ -78,9 +78,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChat.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChat.ts#L19)
+[src/models/GroupChat.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChat.ts#L18)
 
-___
+---
 
 ### title
 
@@ -88,9 +88,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChat.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChat.ts#L12)
+[src/models/GroupChat.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChat.ts#L11)
 
-___
+---
 
 ### updatedAt
 
@@ -98,9 +98,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChat.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChat.ts#L17)
+[src/models/GroupChat.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChat.ts#L16)
 
-___
+---
 
 ### users
 
@@ -108,4 +108,4 @@ ___
 
 #### Defined in
 
-[src/models/GroupChat.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChat.ts#L13)
+[src/models/GroupChat.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChat.ts#L12)

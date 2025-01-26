@@ -17,8 +17,8 @@
 
 ### Language
 
-• `Const` **Language**: `Model`\<[`InterfaceLanguage`](../interfaces/models_Language.InterfaceLanguage.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceLanguage`](../interfaces/models_Language.InterfaceLanguage.md)\> & [`InterfaceLanguage`](../interfaces/models_Language.InterfaceLanguage.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **Language**: `Model`\<[`InterfaceLanguage`](../interfaces/models_Language.InterfaceLanguage.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/Language.ts:80](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Language.ts#L80)
+[src/models/Language.ts:77](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Language.ts#L77)

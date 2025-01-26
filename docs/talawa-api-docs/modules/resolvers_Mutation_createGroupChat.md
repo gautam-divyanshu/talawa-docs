@@ -31,9 +31,10 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the user exists
 2. If the organization exists
 
 #### Defined in
 
-[src/resolvers/Mutation/createGroupChat.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/createGroupChat.ts#L20)
+[src/resolvers/Mutation/createGroupChat.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/createGroupChat.ts#L20)

@@ -16,28 +16,28 @@
 
 ### CREATE
 
-• **CREATE** = ``"CREATE"``
+• **CREATE** = `"CREATE"`
 
 #### Defined in
 
-[src/constants.ts:780](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L780)
+[src/constants.ts:528](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L528)
 
-___
+---
 
 ### DELETE
 
-• **DELETE** = ``"DELETE"``
+• **DELETE** = `"DELETE"`
 
 #### Defined in
 
-[src/constants.ts:782](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L782)
+[src/constants.ts:530](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L530)
 
-___
+---
 
 ### UPDATE
 
-• **UPDATE** = ``"UPDATE"``
+• **UPDATE** = `"UPDATE"`
 
 #### Defined in
 
-[src/constants.ts:781](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L781)
+[src/constants.ts:529](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L529)

@@ -4,7 +4,7 @@
 
 [models/ActionItem](../modules/models_ActionItem.md).InterfaceActionItem
 
-This is an interface that represents a database(MongoDB) document for ActionItem [test change].
+This is an interface that represents a database(MongoDB) document for ActionItem [test check].
 
 ## Table of contents
 
@@ -33,9 +33,9 @@ This is an interface that represents a database(MongoDB) document for ActionItem
 
 #### Defined in
 
-[src/models/ActionItem.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L13)
+[src/models/ActionItem.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L13)
 
-___
+---
 
 ### actionItemCategoryId
 
@@ -43,9 +43,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L16)
+[src/models/ActionItem.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L16)
 
-___
+---
 
 ### assigneeId
 
@@ -53,9 +53,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L14)
+[src/models/ActionItem.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L14)
 
-___
+---
 
 ### assignerId
 
@@ -63,9 +63,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L15)
+[src/models/ActionItem.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L15)
 
-___
+---
 
 ### assignmentDate
 
@@ -73,9 +73,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L19)
+[src/models/ActionItem.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L19)
 
-___
+---
 
 ### completionDate
 
@@ -83,9 +83,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L21)
+[src/models/ActionItem.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L21)
 
-___
+---
 
 ### createdAt
 
@@ -93,9 +93,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L25)
+[src/models/ActionItem.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L25)
 
-___
+---
 
 ### creatorId
 
@@ -103,9 +103,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L24)
+[src/models/ActionItem.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L24)
 
-___
+---
 
 ### dueDate
 
@@ -113,9 +113,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L20)
+[src/models/ActionItem.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L20)
 
-___
+---
 
 ### eventId
 
@@ -123,9 +123,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L23)
+[src/models/ActionItem.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L23)
 
-___
+---
 
 ### isCompleted
 
@@ -133,9 +133,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L22)
+[src/models/ActionItem.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L22)
 
-___
+---
 
 ### postCompletionNotes
 
@@ -143,9 +143,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L18)
+[src/models/ActionItem.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L18)
 
-___
+---
 
 ### preCompletionNotes
 
@@ -153,9 +153,9 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L17)
+[src/models/ActionItem.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L17)
 
-___
+---
 
 ### updatedAt
 
@@ -163,4 +163,4 @@ ___
 
 #### Defined in
 
-[src/models/ActionItem.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/ActionItem.ts#L26)
+[src/models/ActionItem.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/ActionItem.ts#L26)

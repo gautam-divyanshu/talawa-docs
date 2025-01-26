@@ -27,9 +27,10 @@ payload provided with the request
 **`Remarks`**
 
 The following checks are done:
+
 1. If the language exists
 2. If the translation already exists.
 
 #### Defined in
 
-[src/resolvers/Mutation/addLanguageTranslation.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/addLanguageTranslation.ts#L15)
+[src/resolvers/Mutation/addLanguageTranslation.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/addLanguageTranslation.ts#L14)

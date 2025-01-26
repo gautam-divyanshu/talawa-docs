@@ -16,8 +16,8 @@
 
 ### CheckIn
 
-• `Const` **CheckIn**: `Model`\<[`InterfaceCheckIn`](../interfaces/models_CheckIn.InterfaceCheckIn.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceCheckIn`](../interfaces/models_CheckIn.InterfaceCheckIn.md)\> & [`InterfaceCheckIn`](../interfaces/models_CheckIn.InterfaceCheckIn.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **CheckIn**: `Model`\<[`InterfaceCheckIn`](../interfaces/models_CheckIn.InterfaceCheckIn.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/CheckIn.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/CheckIn.ts#L57)
+[src/models/CheckIn.ts:64](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/CheckIn.ts#L64)

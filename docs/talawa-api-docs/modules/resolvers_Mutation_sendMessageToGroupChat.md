@@ -31,10 +31,11 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the group chat exists.
 2. If the user exists
 3. If the group chat contains the user.
 
 #### Defined in
 
-[src/resolvers/Mutation/sendMessageToGroupChat.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/sendMessageToGroupChat.ts#L20)
+[src/resolvers/Mutation/sendMessageToGroupChat.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/sendMessageToGroupChat.ts#L20)

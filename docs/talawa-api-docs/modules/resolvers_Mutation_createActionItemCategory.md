@@ -31,6 +31,7 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the User exists
 2. If the Organization exists
 3. Is the User is Authorized
@@ -38,4 +39,4 @@ The following checks are done:
 
 #### Defined in
 
-[src/resolvers/Mutation/createActionItemCategory.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/createActionItemCategory.ts#L30)
+[src/resolvers/Mutation/createActionItemCategory.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/createActionItemCategory.ts#L27)

@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/utilities/reuploadDuplicateCheck.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/reuploadDuplicateCheck.ts#L15)
+[src/utilities/reuploadDuplicateCheck.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/reuploadDuplicateCheck.ts#L15)
 
 ## Functions
 
@@ -33,10 +33,10 @@ attempting to re-upload the same profile photo or organisation image.
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `oldImagePath` | ``null`` \| [`TypeImagePath`](utilities_reuploadDuplicateCheck.md#typeimagepath) | Path of a current Org/User image of `type: TypeImagePath`. |
-| `newImagePath` | [`TypeImagePath`](utilities_reuploadDuplicateCheck.md#typeimagepath) | Path of a new image of `type: TypeImagePath`. |
+| Name           | Type                                                                           | Description                                                |
+| :------------- | :----------------------------------------------------------------------------- | :--------------------------------------------------------- |
+| `oldImagePath` | `null` \| [`TypeImagePath`](utilities_reuploadDuplicateCheck.md#typeimagepath) | Path of a current Org/User image of `type: TypeImagePath`. |
+| `newImagePath` | [`TypeImagePath`](utilities_reuploadDuplicateCheck.md#typeimagepath)           | Path of a new image of `type: TypeImagePath`.              |
 
 #### Returns
 
@@ -50,4 +50,4 @@ This is a utility method.
 
 #### Defined in
 
-[src/utilities/reuploadDuplicateCheck.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/reuploadDuplicateCheck.ts#L43)
+[src/utilities/reuploadDuplicateCheck.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/reuploadDuplicateCheck.ts#L42)

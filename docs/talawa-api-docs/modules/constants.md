@@ -6,1105 +6,703 @@
 
 ### Enumerations
 
-- [EventVolunteerResponse](../enums/constants.EventVolunteerResponse.md)
 - [TransactionLogTypes](../enums/constants.TransactionLogTypes.md)
 
 ### Variables
 
-- [ACCESS\_TOKEN\_SECRET](constants.md#access_token_secret)
-- [ACTION\_ITEM\_CATEGORY\_ALREADY\_EXISTS](constants.md#action_item_category_already_exists)
-- [ACTION\_ITEM\_CATEGORY\_IS\_DISABLED](constants.md#action_item_category_is_disabled)
-- [ACTION\_ITEM\_CATEGORY\_NOT\_FOUND\_ERROR](constants.md#action_item_category_not_found_error)
-- [ACTION\_ITEM\_NOT\_FOUND\_ERROR](constants.md#action_item_not_found_error)
-- [ADMIN\_CANNOT\_CHANGE\_ITS\_ROLE](constants.md#admin_cannot_change_its_role)
-- [ADMIN\_CHANGING\_ROLE\_OF\_CREATOR](constants.md#admin_changing_role_of_creator)
-- [ADMIN\_REMOVING\_ADMIN](constants.md#admin_removing_admin)
-- [ADMIN\_REMOVING\_CREATOR](constants.md#admin_removing_creator)
-- [ADVERTISEMENT\_NOT\_FOUND\_ERROR](constants.md#advertisement_not_found_error)
-- [AGENDA\_CATEGORY\_NOT\_FOUND\_ERROR](constants.md#agenda_category_not_found_error)
-- [AGENDA\_ITEM\_CREATION\_ERROR](constants.md#agenda_item_creation_error)
-- [AGENDA\_ITEM\_NOT\_FOUND\_ERROR](constants.md#agenda_item_not_found_error)
-- [AGENDA\_SECTION\_NOT\_FOUND\_ERROR](constants.md#agenda_section_not_found_error)
-- [ATTENDEE\_NOT\_FOUND](constants.md#attendee_not_found)
-- [BASE\_RECURRING\_EVENT\_NOT\_FOUND](constants.md#base_recurring_event_not_found)
-- [BASE\_URL](constants.md#base_url)
-- [CHAT\_NOT\_FOUND\_ERROR](constants.md#chat_not_found_error)
-- [COMMENT\_NOT\_FOUND\_ERROR](constants.md#comment_not_found_error)
-- [COMMUNITY\_LOGO\_NOT\_MISSING\_IN\_ARGS](constants.md#community_logo_not_missing_in_args)
-- [CUSTOM\_DATA\_NOT\_FOUND](constants.md#custom_data_not_found)
-- [CUSTOM\_FIELD\_NAME\_MISSING](constants.md#custom_field_name_missing)
-- [CUSTOM\_FIELD\_NOT\_FOUND](constants.md#custom_field_not_found)
-- [CUSTOM\_FIELD\_TYPE\_MISSING](constants.md#custom_field_type_missing)
-- [DEFAULT\_COMMUNITY](constants.md#default_community)
-- [EMAIL\_ALREADY\_EXISTS\_ERROR](constants.md#email_already_exists_error)
-- [END\_DATE\_VALIDATION\_ERROR](constants.md#end_date_validation_error)
-- [ERROR\_IN\_SENDING\_MAIL](constants.md#error_in_sending_mail)
-- [EVENT\_NOT\_FOUND\_ERROR](constants.md#event_not_found_error)
-- [EVENT\_VOLUNTEER\_GROUP\_NOT\_FOUND\_ERROR](constants.md#event_volunteer_group_not_found_error)
-- [EVENT\_VOLUNTEER\_INVITE\_USER\_MISTMATCH](constants.md#event_volunteer_invite_user_mistmatch)
-- [EVENT\_VOLUNTEER\_NOT\_FOUND\_ERROR](constants.md#event_volunteer_not_found_error)
-- [FEEDBACK\_ALREADY\_SUBMITTED](constants.md#feedback_already_submitted)
-- [FIELD\_NON\_EMPTY\_ERROR](constants.md#field_non_empty_error)
-- [FUNDRAISING\_CAMPAIGN\_ALREADY\_ADDED](constants.md#fundraising_campaign_already_added)
-- [FUNDRAISING\_CAMPAIGN\_ALREADY\_EXISTS](constants.md#fundraising_campaign_already_exists)
-- [FUNDRAISING\_CAMPAIGN\_NOT\_FOUND\_ERROR](constants.md#fundraising_campaign_not_found_error)
-- [FUNDRAISING\_CAMPAIGN\_PLEDGE\_ALREADY\_EXISTS](constants.md#fundraising_campaign_pledge_already_exists)
-- [FUNDRAISING\_CAMPAIGN\_PLEDGE\_NOT\_FOUND\_ERROR](constants.md#fundraising_campaign_pledge_not_found_error)
-- [FUND\_ALREADY\_EXISTS](constants.md#fund_already_exists)
-- [FUND\_NOT\_FOUND\_ERROR](constants.md#fund_not_found_error)
-- [IMAGE\_SIZE\_LIMIT\_KB](constants.md#image_size_limit_kb)
-- [INCORRECT\_TAG\_INPUT](constants.md#incorrect_tag_input)
-- [INPUT\_NOT\_FOUND\_ERROR](constants.md#input_not_found_error)
-- [INTERNAL\_SERVER\_ERROR](constants.md#internal_server_error)
-- [INVALID\_CREDENTIALS\_ERROR](constants.md#invalid_credentials_error)
-- [INVALID\_FILE\_TYPE](constants.md#invalid_file_type)
-- [INVALID\_OTP](constants.md#invalid_otp)
-- [INVALID\_REFRESH\_TOKEN\_ERROR](constants.md#invalid_refresh_token_error)
-- [INVALID\_ROLE\_TYPE](constants.md#invalid_role_type)
-- [INVALID\_TAG\_INPUT](constants.md#invalid_tag_input)
-- [IN\_PRODUCTION](constants.md#in_production)
-- [LAST\_RESORT\_SUPERADMIN\_EMAIL](constants.md#last_resort_superadmin_email)
-- [LENGTH\_VALIDATION\_ERROR](constants.md#length_validation_error)
+- [ACCESS_TOKEN_SECRET](constants.md#access_token_secret)
+- [ACTION_ITEM_CATEGORY_ALREADY_EXISTS](constants.md#action_item_category_already_exists)
+- [ACTION_ITEM_CATEGORY_NOT_FOUND_ERROR](constants.md#action_item_category_not_found_error)
+- [ACTION_ITEM_NOT_FOUND_ERROR](constants.md#action_item_not_found_error)
+- [ADMIN_CANNOT_CHANGE_ITS_ROLE](constants.md#admin_cannot_change_its_role)
+- [ADMIN_CHANGING_ROLE_OF_CREATOR](constants.md#admin_changing_role_of_creator)
+- [ADMIN_REMOVING_ADMIN](constants.md#admin_removing_admin)
+- [ADMIN_REMOVING_CREATOR](constants.md#admin_removing_creator)
+- [ADVERTISEMENT_NOT_FOUND_ERROR](constants.md#advertisement_not_found_error)
+- [BASE_URL](constants.md#base_url)
+- [CHAT_NOT_FOUND_ERROR](constants.md#chat_not_found_error)
+- [COMMENT_NOT_FOUND_ERROR](constants.md#comment_not_found_error)
+- [CUSTOM_DATA_NOT_FOUND](constants.md#custom_data_not_found)
+- [CUSTOM_FIELD_NAME_MISSING](constants.md#custom_field_name_missing)
+- [CUSTOM_FIELD_NOT_FOUND](constants.md#custom_field_not_found)
+- [CUSTOM_FIELD_TYPE_MISSING](constants.md#custom_field_type_missing)
+- [EMAIL_ALREADY_EXISTS_ERROR](constants.md#email_already_exists_error)
+- [END_DATE_VALIDATION_ERROR](constants.md#end_date_validation_error)
+- [ERROR_IN_SENDING_MAIL](constants.md#error_in_sending_mail)
+- [EVENT_NOT_FOUND_ERROR](constants.md#event_not_found_error)
+- [FEEDBACK_ALREADY_SUBMITTED](constants.md#feedback_already_submitted)
+- [FIELD_NON_EMPTY_ERROR](constants.md#field_non_empty_error)
+- [IMAGE_SIZE_LIMIT_KB](constants.md#image_size_limit_kb)
+- [INCORRECT_TAG_INPUT](constants.md#incorrect_tag_input)
+- [INPUT_NOT_FOUND_ERROR](constants.md#input_not_found_error)
+- [INTERNAL_SERVER_ERROR](constants.md#internal_server_error)
+- [INVALID_CREDENTIALS_ERROR](constants.md#invalid_credentials_error)
+- [INVALID_FILE_TYPE](constants.md#invalid_file_type)
+- [INVALID_OTP](constants.md#invalid_otp)
+- [INVALID_REFRESH_TOKEN_ERROR](constants.md#invalid_refresh_token_error)
+- [INVALID_ROLE_TYPE](constants.md#invalid_role_type)
+- [INVALID_TAG_INPUT](constants.md#invalid_tag_input)
+- [IN_PRODUCTION](constants.md#in_production)
+- [LAST_RESORT_SUPERADMIN_EMAIL](constants.md#last_resort_superadmin_email)
+- [LENGTH_VALIDATION_ERROR](constants.md#length_validation_error)
 - [LOG](constants.md#log)
-- [LOG\_PATH](constants.md#log_path)
-- [MAIL\_PASSWORD](constants.md#mail_password)
-- [MAIL\_USERNAME](constants.md#mail_username)
-- [MAXIMUM\_FETCH\_LIMIT](constants.md#maximum_fetch_limit)
-- [MAXIMUM\_IMAGE\_SIZE\_LIMIT\_KB](constants.md#maximum_image_size_limit_kb)
-- [MEMBERSHIP\_REQUEST\_ALREADY\_EXISTS](constants.md#membership_request_already_exists)
-- [MEMBERSHIP\_REQUEST\_NOT\_FOUND\_ERROR](constants.md#membership_request_not_found_error)
-- [MEMBER\_NOT\_FOUND\_ERROR](constants.md#member_not_found_error)
-- [MILLISECONDS\_IN\_A\_WEEK](constants.md#milliseconds_in_a_week)
-- [MONGO\_DB\_URL](constants.md#mongo_db_url)
-- [NOTE\_NOT\_FOUND\_ERROR](constants.md#note_not_found_error)
-- [NO\_CHANGE\_IN\_TAG\_NAME](constants.md#no_change_in_tag_name)
-- [ORGANIZATION\_IMAGE\_NOT\_FOUND\_ERROR](constants.md#organization_image_not_found_error)
-- [ORGANIZATION\_MEMBER\_NOT\_FOUND\_ERROR](constants.md#organization_member_not_found_error)
-- [ORGANIZATION\_NOT\_AUTHORIZED\_ERROR](constants.md#organization_not_authorized_error)
-- [ORGANIZATION\_NOT\_FOUND\_ERROR](constants.md#organization_not_found_error)
-- [PLEASE\_PROVIDE\_TITLE](constants.md#please_provide_title)
-- [PLUGIN\_NOT\_FOUND](constants.md#plugin_not_found)
-- [POST\_NEEDS\_TO\_BE\_PINNED](constants.md#post_needs_to_be_pinned)
-- [POST\_NOT\_FOUND\_ERROR](constants.md#post_not_found_error)
-- [PRELOGIN\_IMAGERY\_FIELD\_EMPTY](constants.md#prelogin_imagery_field_empty)
-- [RECAPTCHA\_SECRET\_KEY](constants.md#recaptcha_secret_key)
-- [RECURRENCE\_FREQUENCIES](constants.md#recurrence_frequencies)
-- [RECURRENCE\_RULE\_NOT\_FOUND](constants.md#recurrence_rule_not_found)
-- [RECURRENCE\_WEEKDAYS](constants.md#recurrence_weekdays)
-- [RECURRENCE\_WEEKDAYS\_MAPPING](constants.md#recurrence_weekdays_mapping)
-- [RECURRING\_EVENT\_INSTANCES\_DAILY\_LIMIT](constants.md#recurring_event_instances_daily_limit)
-- [RECURRING\_EVENT\_INSTANCES\_MONTHLY\_LIMIT](constants.md#recurring_event_instances_monthly_limit)
-- [RECURRING\_EVENT\_INSTANCES\_QUERY\_LIMIT](constants.md#recurring_event_instances_query_limit)
-- [RECURRING\_EVENT\_INSTANCES\_WEEKLY\_LIMIT](constants.md#recurring_event_instances_weekly_limit)
-- [RECURRING\_EVENT\_INSTANCES\_YEARLY\_LIMIT](constants.md#recurring_event_instances_yearly_limit)
-- [REDIS\_HOST](constants.md#redis_host)
-- [REDIS\_PASSWORD](constants.md#redis_password)
-- [REDIS\_PORT](constants.md#redis_port)
-- [REFRESH\_TOKEN\_SECRET](constants.md#refresh_token_secret)
-- [REGEX\_VALIDATION\_ERROR](constants.md#regex_validation_error)
-- [REGISTRANT\_ALREADY\_EXIST\_ERROR](constants.md#registrant_already_exist_error)
-- [SAME\_FILE\_ERROR](constants.md#same_file_error)
-- [SAMPLE\_ORGANIZATION\_ALREADY\_EXISTS](constants.md#sample_organization_already_exists)
-- [SERVER\_PORT](constants.md#server_port)
-- [SMTP\_OPTIONS](constants.md#smtp_options)
-- [START\_DATE\_VALIDATION\_ERROR](constants.md#start_date_validation_error)
-- [STATUS\_ACTIVE](constants.md#status_active)
-- [SUPERADMIN\_CANT\_CHANGE\_OWN\_ROLE](constants.md#superadmin_cant_change_own_role)
-- [TAG\_ALREADY\_EXISTS](constants.md#tag_already_exists)
-- [TAG\_NOT\_FOUND](constants.md#tag_not_found)
-- [TRANSLATION\_ALREADY\_PRESENT\_ERROR](constants.md#translation_already_present_error)
-- [UNAUTHENTICATED\_ERROR](constants.md#unauthenticated_error)
-- [UNAUTHORIZED\_REMOVE\_AGENDA\_ITEM\_ERROR](constants.md#unauthorized_remove_agenda_item_error)
-- [UNAUTHORIZED\_REMOVE\_NOTE\_ERROR](constants.md#unauthorized_remove_note_error)
-- [UNAUTHORIZED\_UPDATE\_AGENDA\_ITEM\_ERROR](constants.md#unauthorized_update_agenda_item_error)
-- [UNAUTHORIZED\_UPDATE\_NOTE\_ERROR](constants.md#unauthorized_update_note_error)
+- [LOG_PATH](constants.md#log_path)
+- [MAIL_PASSWORD](constants.md#mail_password)
+- [MAIL_USERNAME](constants.md#mail_username)
+- [MAXIMUM_FETCH_LIMIT](constants.md#maximum_fetch_limit)
+- [MAXIMUM_IMAGE_SIZE_LIMIT_KB](constants.md#maximum_image_size_limit_kb)
+- [MEMBERSHIP_REQUEST_ALREADY_EXISTS](constants.md#membership_request_already_exists)
+- [MEMBERSHIP_REQUEST_NOT_FOUND_ERROR](constants.md#membership_request_not_found_error)
+- [MEMBER_NOT_FOUND_ERROR](constants.md#member_not_found_error)
+- [MILLISECONDS_IN_A_WEEK](constants.md#milliseconds_in_a_week)
+- [MONGO_DB_URL](constants.md#mongo_db_url)
+- [NO_CHANGE_IN_TAG_NAME](constants.md#no_change_in_tag_name)
+- [ORGANIZATION_IMAGE_NOT_FOUND_ERROR](constants.md#organization_image_not_found_error)
+- [ORGANIZATION_MEMBER_NOT_FOUND_ERROR](constants.md#organization_member_not_found_error)
+- [ORGANIZATION_NOT_AUTHORIZED_ERROR](constants.md#organization_not_authorized_error)
+- [ORGANIZATION_NOT_FOUND_ERROR](constants.md#organization_not_found_error)
+- [PLEASE_PROVIDE_TITLE](constants.md#please_provide_title)
+- [PLUGIN_NOT_FOUND](constants.md#plugin_not_found)
+- [POST_NEEDS_TO_BE_PINNED](constants.md#post_needs_to_be_pinned)
+- [POST_NOT_FOUND_ERROR](constants.md#post_not_found_error)
+- [RECAPTCHA_SECRET_KEY](constants.md#recaptcha_secret_key)
+- [REDIS_HOST](constants.md#redis_host)
+- [REDIS_PASSWORD](constants.md#redis_password)
+- [REDIS_PORT](constants.md#redis_port)
+- [REFRESH_TOKEN_SECRET](constants.md#refresh_token_secret)
+- [REGEX_VALIDATION_ERROR](constants.md#regex_validation_error)
+- [REGISTRANT_ALREADY_EXIST_ERROR](constants.md#registrant_already_exist_error)
+- [SAME_FILE_ERROR](constants.md#same_file_error)
+- [SAMPLE_ORGANIZATION_ALREADY_EXISTS](constants.md#sample_organization_already_exists)
+- [SMTP_OPTIONS](constants.md#smtp_options)
+- [START_DATE_VALIDATION_ERROR](constants.md#start_date_validation_error)
+- [STATUS_ACTIVE](constants.md#status_active)
+- [SUPERADMIN_CANT_CHANGE_OWN_ROLE](constants.md#superadmin_cant_change_own_role)
+- [TAG_ALREADY_EXISTS](constants.md#tag_already_exists)
+- [TAG_NOT_FOUND](constants.md#tag_not_found)
+- [TRANSLATION_ALREADY_PRESENT_ERROR](constants.md#translation_already_present_error)
+- [UNAUTHENTICATED_ERROR](constants.md#unauthenticated_error)
 - [URL](constants.md#url)
-- [USER\_ALREADY\_CHECKED\_IN](constants.md#user_already_checked_in)
-- [USER\_ALREADY\_CHECKED\_OUT](constants.md#user_already_checked_out)
-- [USER\_ALREADY\_HAS\_TAG](constants.md#user_already_has_tag)
-- [USER\_ALREADY\_INVITED\_FOR\_EVENT](constants.md#user_already_invited_for_event)
-- [USER\_ALREADY\_MEMBER\_ERROR](constants.md#user_already_member_error)
-- [USER\_ALREADY\_REGISTERED\_FOR\_EVENT](constants.md#user_already_registered_for_event)
-- [USER\_ALREADY\_UNREGISTERED\_ERROR](constants.md#user_already_unregistered_error)
-- [USER\_BLOCKING\_SELF](constants.md#user_blocking_self)
-- [USER\_DOES\_NOT\_BELONG\_TO\_TAGS\_ORGANIZATION](constants.md#user_does_not_belong_to_tags_organization)
-- [USER\_DOES\_NOT\_HAVE\_THE\_TAG](constants.md#user_does_not_have_the_tag)
-- [USER\_FAMILY\_MIN\_MEMBERS\_ERROR\_CODE](constants.md#user_family_min_members_error_code)
-- [USER\_FAMILY\_NOT\_FOUND\_ERROR](constants.md#user_family_not_found_error)
-- [USER\_NOT\_AUTHORIZED\_ADMIN](constants.md#user_not_authorized_admin)
-- [USER\_NOT\_AUTHORIZED\_ERROR](constants.md#user_not_authorized_error)
-- [USER\_NOT\_AUTHORIZED\_SUPERADMIN](constants.md#user_not_authorized_superadmin)
-- [USER\_NOT\_AUTHORIZED\_TO\_CREATE\_TAG](constants.md#user_not_authorized_to_create_tag)
-- [USER\_NOT\_AUTHORIZED\_TO\_PIN](constants.md#user_not_authorized_to_pin)
-- [USER\_NOT\_CHECKED\_IN](constants.md#user_not_checked_in)
-- [USER\_NOT\_FOUND\_ERROR](constants.md#user_not_found_error)
-- [USER\_NOT\_MADE\_PLEDGE\_ERROR](constants.md#user_not_made_pledge_error)
-- [USER\_NOT\_MEMBER\_FOR\_ORGANIZATION](constants.md#user_not_member_for_organization)
-- [USER\_NOT\_ORGANIZATION\_ADMIN](constants.md#user_not_organization_admin)
-- [USER\_NOT\_REGISTERED\_FOR\_EVENT](constants.md#user_not_registered_for_event)
-- [USER\_PROFILE\_IMAGE\_NOT\_FOUND\_ERROR](constants.md#user_profile_image_not_found_error)
-- [USER\_REMOVING\_SELF](constants.md#user_removing_self)
-- [USER\_TO\_BE\_REMOVED\_NOT\_FOUND\_ERROR](constants.md#user_to_be_removed_not_found_error)
-- [VENUE\_ALREADY\_EXISTS\_ERROR](constants.md#venue_already_exists_error)
-- [VENUE\_ALREADY\_SCHEDULED](constants.md#venue_already_scheduled)
-- [VENUE\_NAME\_MISSING\_ERROR](constants.md#venue_name_missing_error)
-- [VENUE\_NOT\_FOUND\_ERROR](constants.md#venue_not_found_error)
+- [USER_ALREADY_CHECKED_IN](constants.md#user_already_checked_in)
+- [USER_ALREADY_HAS_TAG](constants.md#user_already_has_tag)
+- [USER_ALREADY_MEMBER_ERROR](constants.md#user_already_member_error)
+- [USER_ALREADY_REGISTERED_FOR_EVENT](constants.md#user_already_registered_for_event)
+- [USER_ALREADY_UNREGISTERED_ERROR](constants.md#user_already_unregistered_error)
+- [USER_BLOCKING_SELF](constants.md#user_blocking_self)
+- [USER_DOES_NOT_BELONG_TO_TAGS_ORGANIZATION](constants.md#user_does_not_belong_to_tags_organization)
+- [USER_DOES_NOT_HAVE_THE_TAG](constants.md#user_does_not_have_the_tag)
+- [USER_NOT_AUTHORIZED_ADMIN](constants.md#user_not_authorized_admin)
+- [USER_NOT_AUTHORIZED_ERROR](constants.md#user_not_authorized_error)
+- [USER_NOT_AUTHORIZED_SUPERADMIN](constants.md#user_not_authorized_superadmin)
+- [USER_NOT_AUTHORIZED_TO_CREATE_TAG](constants.md#user_not_authorized_to_create_tag)
+- [USER_NOT_AUTHORIZED_TO_PIN](constants.md#user_not_authorized_to_pin)
+- [USER_NOT_CHECKED_IN](constants.md#user_not_checked_in)
+- [USER_NOT_FOUND_ERROR](constants.md#user_not_found_error)
+- [USER_NOT_MEMBER_FOR_ORGANIZATION](constants.md#user_not_member_for_organization)
+- [USER_NOT_ORGANIZATION_ADMIN](constants.md#user_not_organization_admin)
+- [USER_NOT_REGISTERED_FOR_EVENT](constants.md#user_not_registered_for_event)
+- [USER_PROFILE_IMAGE_NOT_FOUND_ERROR](constants.md#user_profile_image_not_found_error)
+- [USER_REMOVING_SELF](constants.md#user_removing_self)
+- [USER_TO_BE_REMOVED_NOT_FOUND_ERROR](constants.md#user_to_be_removed_not_found_error)
+- [VOLUNTEER_NOT_FOUND_ERROR](constants.md#volunteer_not_found_error)
+- [VOLUNTEER_NOT_MEMBER_ERROR](constants.md#volunteer_not_member_error)
 - [iv](constants.md#iv)
 - [key](constants.md#key)
 
 ## Variables
 
-### ACCESS\_TOKEN\_SECRET
+### ACCESS_TOKEN_SECRET
 
-• `Const` **ACCESS\_TOKEN\_SECRET**: `undefined` \| `string` = `ENV.ACCESS_TOKEN_SECRET`
+• `Const` **ACCESS_TOKEN_SECRET**: `undefined` \| `string` = `ENV.ACCESS_TOKEN_SECRET`
 
 #### Defined in
 
-[src/constants.ts:707](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L707)
+[src/constants.ts:490](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L490)
 
-___
+---
 
-### ACTION\_ITEM\_CATEGORY\_ALREADY\_EXISTS
+### ACTION_ITEM_CATEGORY_ALREADY_EXISTS
 
-• `Const` **ACTION\_ITEM\_CATEGORY\_ALREADY\_EXISTS**: `Object`
+• `Const` **ACTION_ITEM_CATEGORY_ALREADY_EXISTS**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L25)
+[src/constants.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L24)
 
-___
+---
 
-### ACTION\_ITEM\_CATEGORY\_IS\_DISABLED
+### ACTION_ITEM_CATEGORY_NOT_FOUND_ERROR
 
-• `Const` **ACTION\_ITEM\_CATEGORY\_IS\_DISABLED**: `Object`
+• `Const` **ACTION_ITEM_CATEGORY_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L32)
+[src/constants.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L17)
 
-___
+---
 
-### ACTION\_ITEM\_CATEGORY\_NOT\_FOUND\_ERROR
+### ACTION_ITEM_NOT_FOUND_ERROR
 
-• `Const` **ACTION\_ITEM\_CATEGORY\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **ACTION_ITEM_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L18)
+[src/constants.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L10)
 
-___
+---
 
-### ACTION\_ITEM\_NOT\_FOUND\_ERROR
+### ADMIN_CANNOT_CHANGE_ITS_ROLE
 
-• `Const` **ACTION\_ITEM\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **ADMIN_CANNOT_CHANGE_ITS_ROLE**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L11)
+[src/constants.ts:254](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L254)
 
-___
+---
 
-### ADMIN\_CANNOT\_CHANGE\_ITS\_ROLE
+### ADMIN_CHANGING_ROLE_OF_CREATOR
 
-• `Const` **ADMIN\_CANNOT\_CHANGE\_ITS\_ROLE**: `Object`
+• `Const` **ADMIN_CHANGING_ROLE_OF_CREATOR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:386](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L386)
+[src/constants.ts:247](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L247)
 
-___
+---
 
-### ADMIN\_CHANGING\_ROLE\_OF\_CREATOR
+### ADMIN_REMOVING_ADMIN
 
-• `Const` **ADMIN\_CHANGING\_ROLE\_OF\_CREATOR**: `Object`
+• `Const` **ADMIN_REMOVING_ADMIN**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:379](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L379)
+[src/constants.ts:235](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L235)
 
-___
+---
 
-### ADMIN\_REMOVING\_ADMIN
+### ADMIN_REMOVING_CREATOR
 
-• `Const` **ADMIN\_REMOVING\_ADMIN**: `Object`
+• `Const` **ADMIN_REMOVING_CREATOR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:367](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L367)
+[src/constants.ts:241](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L241)
 
-___
+---
 
-### ADMIN\_REMOVING\_CREATOR
+### ADVERTISEMENT_NOT_FOUND_ERROR
 
-• `Const` **ADMIN\_REMOVING\_CREATOR**: `Object`
+• `Const` **ADVERTISEMENT_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:373](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L373)
+[src/constants.ts:340](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L340)
 
-___
+---
 
-### ADVERTISEMENT\_NOT\_FOUND\_ERROR
+### BASE_URL
 
-• `Const` **ADVERTISEMENT\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **BASE_URL**: `string`
+
+#### Defined in
+
+[src/constants.ts:488](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L488)
+
+---
+
+### CHAT_NOT_FOUND_ERROR
+
+• `Const` **CHAT_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:472](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L472)
+[src/constants.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L31)
 
-___
+---
 
-### AGENDA\_CATEGORY\_NOT\_FOUND\_ERROR
+### COMMENT_NOT_FOUND_ERROR
 
-• `Const` **AGENDA\_CATEGORY\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **COMMENT_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L39)
+[src/constants.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L37)
 
-___
+---
 
-### AGENDA\_ITEM\_CREATION\_ERROR
+### CUSTOM_DATA_NOT_FOUND
 
-• `Const` **AGENDA\_ITEM\_CREATION\_ERROR**: `Object`
+• `Const` **CUSTOM_DATA_NOT_FOUND**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:529](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L529)
+[src/constants.ts:460](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L460)
 
-___
+---
 
-### AGENDA\_ITEM\_NOT\_FOUND\_ERROR
+### CUSTOM_FIELD_NAME_MISSING
 
-• `Const` **AGENDA\_ITEM\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **CUSTOM_FIELD_NAME_MISSING**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:523](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L523)
+[src/constants.ts:472](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L472)
 
-___
+---
 
-### AGENDA\_SECTION\_NOT\_FOUND\_ERROR
+### CUSTOM_FIELD_NOT_FOUND
 
-• `Const` **AGENDA\_SECTION\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **CUSTOM_FIELD_NOT_FOUND**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:535](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L535)
+[src/constants.ts:466](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L466)
 
-___
+---
 
-### ATTENDEE\_NOT\_FOUND
+### CUSTOM_FIELD_TYPE_MISSING
 
-• `Const` **ATTENDEE\_NOT\_FOUND**: `Object`
+• `Const` **CUSTOM_FIELD_TYPE_MISSING**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:686](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L686)
+[src/constants.ts:478](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L478)
 
-___
+---
 
-### BASE\_RECURRING\_EVENT\_NOT\_FOUND
+### EMAIL_ALREADY_EXISTS_ERROR
 
-• `Const` **BASE\_RECURRING\_EVENT\_NOT\_FOUND**: `Object`
+• `Const` **EMAIL_ALREADY_EXISTS_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L46)
+[src/constants.ts:426](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L426)
 
-___
+---
 
-### BASE\_URL
+### END_DATE_VALIDATION_ERROR
 
-• `Const` **BASE\_URL**: `string`
-
-#### Defined in
-
-[src/constants.ts:703](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L703)
-
-___
-
-### CHAT\_NOT\_FOUND\_ERROR
-
-• `Const` **CHAT\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **END_DATE_VALIDATION_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L53)
+[src/constants.ts:155](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L155)
 
-___
+---
 
-### COMMENT\_NOT\_FOUND\_ERROR
+### ERROR_IN_SENDING_MAIL
 
-• `Const` **COMMENT\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **ERROR_IN_SENDING_MAIL**: `"Error in sending mail"`
+
+#### Defined in
+
+[src/constants.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L43)
+
+---
+
+### EVENT_NOT_FOUND_ERROR
+
+• `Const` **EVENT_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:74](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L74)
+[src/constants.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L44)
 
-___
+---
 
-### COMMUNITY\_LOGO\_NOT\_MISSING\_IN\_ARGS
+### FEEDBACK_ALREADY_SUBMITTED
 
-• `Const` **COMMUNITY\_LOGO\_NOT\_MISSING\_IN\_ARGS**: `Object`
+• `Const` **FEEDBACK_ALREADY_SUBMITTED**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:81](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L81)
+[src/constants.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L51)
 
-___
+---
 
-### CUSTOM\_DATA\_NOT\_FOUND
+### FIELD_NON_EMPTY_ERROR
 
-• `Const` **CUSTOM\_DATA\_NOT\_FOUND**: `Object`
+• `Const` **FIELD_NON_EMPTY_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:662](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L662)
+[src/constants.ts:167](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L167)
 
-___
+---
 
-### CUSTOM\_FIELD\_NAME\_MISSING
+### IMAGE_SIZE_LIMIT_KB
 
-• `Const` **CUSTOM\_FIELD\_NAME\_MISSING**: `Object`
+• `Const` **IMAGE_SIZE_LIMIT_KB**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:674](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L674)
+[src/constants.ts:124](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L124)
 
-___
+---
 
-### CUSTOM\_FIELD\_NOT\_FOUND
+### INCORRECT_TAG_INPUT
 
-• `Const` **CUSTOM\_FIELD\_NOT\_FOUND**: `Object`
+• `Const` **INCORRECT_TAG_INPUT**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:668](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L668)
+[src/constants.ts:299](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L299)
 
-___
+---
 
-### CUSTOM\_FIELD\_TYPE\_MISSING
+### INPUT_NOT_FOUND_ERROR
 
-• `Const` **CUSTOM\_FIELD\_TYPE\_MISSING**: `Object`
+• `Const` **INPUT_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:680](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L680)
+[src/constants.ts:346](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L346)
 
-___
+---
 
-### DEFAULT\_COMMUNITY
+### INTERNAL_SERVER_ERROR
 
-• `Const` **DEFAULT\_COMMUNITY**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `description` | `string` |
-| `name` | `string` |
-
-#### Defined in
-
-[src/constants.ts:790](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L790)
-
-___
-
-### EMAIL\_ALREADY\_EXISTS\_ERROR
-
-• `Const` **EMAIL\_ALREADY\_EXISTS\_ERROR**: `Object`
+• `Const` **INTERNAL_SERVER_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:615](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L615)
+[src/constants.ts:143](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L143)
 
-___
+---
 
-### END\_DATE\_VALIDATION\_ERROR
+### INVALID_CREDENTIALS_ERROR
 
-• `Const` **END\_DATE\_VALIDATION\_ERROR**: `Object`
+• `Const` **INVALID_CREDENTIALS_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:269](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L269)
+[src/constants.ts:406](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L406)
 
-___
+---
 
-### ERROR\_IN\_SENDING\_MAIL
+### INVALID_FILE_TYPE
 
-• `Const` **ERROR\_IN\_SENDING\_MAIL**: ``"Error in sending mail"``
-
-#### Defined in
-
-[src/constants.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L88)
-
-___
-
-### EVENT\_NOT\_FOUND\_ERROR
-
-• `Const` **EVENT\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **INVALID_FILE_TYPE**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:90](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L90)
+[src/constants.ts:118](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L118)
 
-___
+---
 
-### EVENT\_VOLUNTEER\_GROUP\_NOT\_FOUND\_ERROR
+### INVALID_OTP
 
-• `Const` **EVENT\_VOLUNTEER\_GROUP\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **INVALID_OTP**: `"Invalid OTP"`
+
+#### Defined in
+
+[src/constants.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L57)
+
+---
+
+### INVALID_REFRESH_TOKEN_ERROR
+
+• `Const` **INVALID_REFRESH_TOKEN_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:629](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L629)
+[src/constants.ts:412](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L412)
 
-___
+---
 
-### EVENT\_VOLUNTEER\_INVITE\_USER\_MISTMATCH
+### INVALID_ROLE_TYPE
 
-• `Const` **EVENT\_VOLUNTEER\_INVITE\_USER\_MISTMATCH**: `Object`
+• `Const` **INVALID_ROLE_TYPE**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:636](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L636)
+[src/constants.ts:130](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L130)
 
-___
+---
 
-### EVENT\_VOLUNTEER\_NOT\_FOUND\_ERROR
+### INVALID_TAG_INPUT
 
-• `Const` **EVENT\_VOLUNTEER\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **INVALID_TAG_INPUT**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:622](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L622)
+[src/constants.ts:292](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L292)
 
-___
+---
 
-### FEEDBACK\_ALREADY\_SUBMITTED
+### IN_PRODUCTION
 
-• `Const` **FEEDBACK\_ALREADY\_SUBMITTED**: `Object`
+• `Const` **IN_PRODUCTION**: `boolean`
+
+#### Defined in
+
+[src/constants.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L59)
+
+---
+
+### LAST_RESORT_SUPERADMIN_EMAIL
+
+• `Const` **LAST_RESORT_SUPERADMIN_EMAIL**: `undefined` \| `string` = `process.env.LAST_RESORT_SUPERADMIN_EMAIL`
+
+#### Defined in
+
+[src/constants.ts:502](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L502)
+
+---
+
+### LENGTH_VALIDATION_ERROR
+
+• `Const` **LENGTH_VALIDATION_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:97](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L97)
+[src/constants.ts:174](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L174)
 
-___
-
-### FIELD\_NON\_EMPTY\_ERROR
-
-• `Const` **FIELD\_NON\_EMPTY\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:281](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L281)
-
-___
-
-### FUNDRAISING\_CAMPAIGN\_ALREADY\_ADDED
-
-• `Const` **FUNDRAISING\_CAMPAIGN\_ALREADY\_ADDED**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:120](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L120)
-
-___
-
-### FUNDRAISING\_CAMPAIGN\_ALREADY\_EXISTS
-
-• `Const` **FUNDRAISING\_CAMPAIGN\_ALREADY\_EXISTS**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:114](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L114)
-
-___
-
-### FUNDRAISING\_CAMPAIGN\_NOT\_FOUND\_ERROR
-
-• `Const` **FUNDRAISING\_CAMPAIGN\_NOT\_FOUND\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:108](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L108)
-
-___
-
-### FUNDRAISING\_CAMPAIGN\_PLEDGE\_ALREADY\_EXISTS
-
-• `Const` **FUNDRAISING\_CAMPAIGN\_PLEDGE\_ALREADY\_EXISTS**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:132](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L132)
-
-___
-
-### FUNDRAISING\_CAMPAIGN\_PLEDGE\_NOT\_FOUND\_ERROR
-
-• `Const` **FUNDRAISING\_CAMPAIGN\_PLEDGE\_NOT\_FOUND\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:126](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L126)
-
-___
-
-### FUND\_ALREADY\_EXISTS
-
-• `Const` **FUND\_ALREADY\_EXISTS**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:102](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L102)
-
-___
-
-### FUND\_NOT\_FOUND\_ERROR
-
-• `Const` **FUND\_NOT\_FOUND\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:138](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L138)
-
-___
-
-### IMAGE\_SIZE\_LIMIT\_KB
-
-• `Const` **IMAGE\_SIZE\_LIMIT\_KB**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:238](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L238)
-
-___
-
-### INCORRECT\_TAG\_INPUT
-
-• `Const` **INCORRECT\_TAG\_INPUT**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:431](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L431)
-
-___
-
-### INPUT\_NOT\_FOUND\_ERROR
-
-• `Const` **INPUT\_NOT\_FOUND\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:478](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L478)
-
-___
-
-### INTERNAL\_SERVER\_ERROR
-
-• `Const` **INTERNAL\_SERVER\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:257](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L257)
-
-___
-
-### INVALID\_CREDENTIALS\_ERROR
-
-• `Const` **INVALID\_CREDENTIALS\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:595](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L595)
-
-___
-
-### INVALID\_FILE\_TYPE
-
-• `Const` **INVALID\_FILE\_TYPE**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:232](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L232)
-
-___
-
-### INVALID\_OTP
-
-• `Const` **INVALID\_OTP**: ``"Invalid OTP"``
-
-#### Defined in
-
-[src/constants.ts:144](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L144)
-
-___
-
-### INVALID\_REFRESH\_TOKEN\_ERROR
-
-• `Const` **INVALID\_REFRESH\_TOKEN\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:601](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L601)
-
-___
-
-### INVALID\_ROLE\_TYPE
-
-• `Const` **INVALID\_ROLE\_TYPE**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:244](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L244)
-
-___
-
-### INVALID\_TAG\_INPUT
-
-• `Const` **INVALID\_TAG\_INPUT**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:424](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L424)
-
-___
-
-### IN\_PRODUCTION
-
-• `Const` **IN\_PRODUCTION**: `boolean`
-
-#### Defined in
-
-[src/constants.ts:146](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L146)
-
-___
-
-### LAST\_RESORT\_SUPERADMIN\_EMAIL
-
-• `Const` **LAST\_RESORT\_SUPERADMIN\_EMAIL**: `undefined` \| `string` = `process.env.LAST_RESORT_SUPERADMIN_EMAIL`
-
-#### Defined in
-
-[src/constants.ts:719](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L719)
-
-___
-
-### LENGTH\_VALIDATION\_ERROR
-
-• `Const` **LENGTH\_VALIDATION\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:288](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L288)
-
-___
+---
 
 ### LOG
 
@@ -1112,1361 +710,992 @@ ___
 
 #### Defined in
 
-[src/constants.ts:775](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L775)
+[src/constants.ts:523](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L523)
 
-___
+---
 
-### LOG\_PATH
+### LOG_PATH
 
-• `Const` **LOG\_PATH**: `undefined` \| `string` = `ENV.LOG_PATH`
-
-#### Defined in
-
-[src/constants.ts:777](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L777)
-
-___
-
-### MAIL\_PASSWORD
-
-• `Const` **MAIL\_PASSWORD**: `undefined` \| `string` = `ENV.MAIL_PASSWORD`
+• `Const` **LOG_PATH**: `undefined` \| `string` = `ENV.LOG_PATH`
 
 #### Defined in
 
-[src/constants.ts:717](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L717)
+[src/constants.ts:525](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L525)
 
-___
+---
 
-### MAIL\_USERNAME
+### MAIL_PASSWORD
 
-• `Const` **MAIL\_USERNAME**: `undefined` \| `string` = `ENV.MAIL_USERNAME`
-
-#### Defined in
-
-[src/constants.ts:715](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L715)
-
-___
-
-### MAXIMUM\_FETCH\_LIMIT
-
-• `Const` **MAXIMUM\_FETCH\_LIMIT**: ``100``
+• `Const` **MAIL_PASSWORD**: `undefined` \| `string` = `ENV.MAIL_PASSWORD`
 
 #### Defined in
 
-[src/constants.ts:699](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L699)
+[src/constants.ts:500](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L500)
 
-___
+---
 
-### MAXIMUM\_IMAGE\_SIZE\_LIMIT\_KB
+### MAIL_USERNAME
 
-• `Const` **MAXIMUM\_IMAGE\_SIZE\_LIMIT\_KB**: ``20000``
+• `Const` **MAIL_USERNAME**: `undefined` \| `string` = `ENV.MAIL_USERNAME`
 
 #### Defined in
 
-[src/constants.ts:701](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L701)
+[src/constants.ts:498](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L498)
 
-___
+---
 
-### MEMBERSHIP\_REQUEST\_ALREADY\_EXISTS
+### MAXIMUM_FETCH_LIMIT
 
-• `Const` **MEMBERSHIP\_REQUEST\_ALREADY\_EXISTS**: `Object`
+• `Const` **MAXIMUM_FETCH_LIMIT**: `100`
+
+#### Defined in
+
+[src/constants.ts:484](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L484)
+
+---
+
+### MAXIMUM_IMAGE_SIZE_LIMIT_KB
+
+• `Const` **MAXIMUM_IMAGE_SIZE_LIMIT_KB**: `20000`
+
+#### Defined in
+
+[src/constants.ts:486](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L486)
+
+---
+
+### MEMBERSHIP_REQUEST_ALREADY_EXISTS
+
+• `Const` **MEMBERSHIP_REQUEST_ALREADY_EXISTS**: `"Membership Request already exists"`
+
+#### Defined in
+
+[src/constants.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L72)
+
+---
+
+### MEMBERSHIP_REQUEST_NOT_FOUND_ERROR
+
+• `Const` **MEMBERSHIP_REQUEST_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:160](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L160)
+[src/constants.ts:66](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L66)
 
-___
+---
 
-### MEMBERSHIP\_REQUEST\_NOT\_FOUND\_ERROR
+### MEMBER_NOT_FOUND_ERROR
 
-• `Const` **MEMBERSHIP\_REQUEST\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **MEMBER_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:153](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L153)
+[src/constants.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L60)
 
-___
+---
 
-### MEMBER\_NOT\_FOUND\_ERROR
+### MILLISECONDS_IN_A_WEEK
 
-• `Const` **MEMBER\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **MILLISECONDS_IN_A_WEEK**: `number`
+
+#### Defined in
+
+[src/constants.ts:518](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L518)
+
+---
+
+### MONGO_DB_URL
+
+• `Const` **MONGO_DB_URL**: `undefined` \| `string` = `ENV.MONGO_DB_URL`
+
+#### Defined in
+
+[src/constants.ts:494](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L494)
+
+---
+
+### NO_CHANGE_IN_TAG_NAME
+
+• `Const` **NO_CHANGE_IN_TAG_NAME**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:147](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L147)
+[src/constants.ts:305](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L305)
 
-___
+---
 
-### MILLISECONDS\_IN\_A\_WEEK
+### ORGANIZATION_IMAGE_NOT_FOUND_ERROR
 
-• `Const` **MILLISECONDS\_IN\_A\_WEEK**: `number`
-
-#### Defined in
-
-[src/constants.ts:735](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L735)
-
-___
-
-### MONGO\_DB\_URL
-
-• `Const` **MONGO\_DB\_URL**: `undefined` \| `string` = `ENV.MONGO_DB_URL`
-
-#### Defined in
-
-[src/constants.ts:711](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L711)
-
-___
-
-### NOTE\_NOT\_FOUND\_ERROR
-
-• `Const` **NOTE\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **ORGANIZATION_IMAGE_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:541](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L541)
+[src/constants.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L93)
 
-___
+---
 
-### NO\_CHANGE\_IN\_TAG\_NAME
+### ORGANIZATION_MEMBER_NOT_FOUND_ERROR
 
-• `Const` **NO\_CHANGE\_IN\_TAG\_NAME**: `Object`
+• `Const` **ORGANIZATION_MEMBER_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:437](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L437)
+[src/constants.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L75)
 
-___
+---
 
-### ORGANIZATION\_IMAGE\_NOT\_FOUND\_ERROR
+### ORGANIZATION_NOT_AUTHORIZED_ERROR
 
-• `Const` **ORGANIZATION\_IMAGE\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **ORGANIZATION_NOT_AUTHORIZED_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:207](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L207)
+[src/constants.ts:81](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L81)
 
-___
+---
 
-### ORGANIZATION\_MEMBER\_NOT\_FOUND\_ERROR
+### ORGANIZATION_NOT_FOUND_ERROR
 
-• `Const` **ORGANIZATION\_MEMBER\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **ORGANIZATION_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:167](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L167)
+[src/constants.ts:87](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L87)
 
-___
+---
 
-### ORGANIZATION\_NOT\_AUTHORIZED\_ERROR
+### PLEASE_PROVIDE_TITLE
 
-• `Const` **ORGANIZATION\_NOT\_AUTHORIZED\_ERROR**: `Object`
+• `Const` **PLEASE_PROVIDE_TITLE**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:173](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L173)
+[src/constants.ts:266](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L266)
 
-___
+---
 
-### ORGANIZATION\_NOT\_FOUND\_ERROR
+### PLUGIN_NOT_FOUND
 
-• `Const` **ORGANIZATION\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **PLUGIN_NOT_FOUND**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:179](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L179)
+[src/constants.ts:99](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L99)
 
-___
+---
 
-### PLEASE\_PROVIDE\_TITLE
+### POST_NEEDS_TO_BE_PINNED
 
-• `Const` **PLEASE\_PROVIDE\_TITLE**: `Object`
+• `Const` **POST_NEEDS_TO_BE_PINNED**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:398](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L398)
+[src/constants.ts:260](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L260)
 
-___
+---
 
-### PLUGIN\_NOT\_FOUND
+### POST_NOT_FOUND_ERROR
 
-• `Const` **PLUGIN\_NOT\_FOUND**: `Object`
+• `Const` **POST_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:213](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L213)
+[src/constants.ts:105](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L105)
 
-___
+---
 
-### POST\_NEEDS\_TO\_BE\_PINNED
+### RECAPTCHA_SECRET_KEY
 
-• `Const` **POST\_NEEDS\_TO\_BE\_PINNED**: `Object`
+• `Const` **RECAPTCHA_SECRET_KEY**: `undefined` \| `string` = `ENV.RECAPTCHA_SECRET_KEY`
+
+#### Defined in
+
+[src/constants.ts:496](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L496)
+
+---
+
+### REDIS_HOST
+
+• `Const` **REDIS_HOST**: `string`
+
+#### Defined in
+
+[src/constants.ts:514](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L514)
+
+---
+
+### REDIS_PASSWORD
+
+• `Const` **REDIS_PASSWORD**: `undefined` \| `string` = `process.env.REDIS_PASSWORD`
+
+#### Defined in
+
+[src/constants.ts:516](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L516)
+
+---
+
+### REDIS_PORT
+
+• `Const` **REDIS_PORT**: `number`
+
+#### Defined in
+
+[src/constants.ts:515](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L515)
+
+---
+
+### REFRESH_TOKEN_SECRET
+
+• `Const` **REFRESH_TOKEN_SECRET**: `undefined` \| `string` = `ENV.REFRESH_TOKEN_SECRET`
+
+#### Defined in
+
+[src/constants.ts:492](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L492)
+
+---
+
+### REGEX_VALIDATION_ERROR
+
+• `Const` **REGEX_VALIDATION_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:392](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L392)
+[src/constants.ts:180](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L180)
 
-___
+---
 
-### POST\_NOT\_FOUND\_ERROR
+### REGISTRANT_ALREADY_EXIST_ERROR
 
-• `Const` **POST\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **REGISTRANT_ALREADY_EXIST_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:219](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L219)
+[src/constants.ts:111](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L111)
 
-___
+---
 
-### PRELOGIN\_IMAGERY\_FIELD\_EMPTY
+### SAME_FILE_ERROR
 
-• `Const` **PRELOGIN\_IMAGERY\_FIELD\_EMPTY**: `Object`
+• `Const` **SAME_FILE_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:693](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L693)
+[src/constants.ts:137](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L137)
 
-___
+---
 
-### RECAPTCHA\_SECRET\_KEY
+### SAMPLE_ORGANIZATION_ALREADY_EXISTS
 
-• `Const` **RECAPTCHA\_SECRET\_KEY**: `undefined` \| `string` = `ENV.RECAPTCHA_SECRET_KEY`
-
-#### Defined in
-
-[src/constants.ts:713](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L713)
-
-___
-
-### RECURRENCE\_FREQUENCIES
-
-• `Const` **RECURRENCE\_FREQUENCIES**: `string`[]
-
-#### Defined in
-
-[src/constants.ts:738](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L738)
-
-___
-
-### RECURRENCE\_RULE\_NOT\_FOUND
-
-• `Const` **RECURRENCE\_RULE\_NOT\_FOUND**: `Object`
+• `Const` **SAMPLE_ORGANIZATION_ALREADY_EXISTS**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:186](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L186)
+[src/constants.ts:453](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L453)
 
-___
+---
 
-### RECURRENCE\_WEEKDAYS
+### SMTP_OPTIONS
 
-• `Const` **RECURRENCE\_WEEKDAYS**: `string`[]
-
-#### Defined in
-
-[src/constants.ts:752](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L752)
-
-___
-
-### RECURRENCE\_WEEKDAYS\_MAPPING
-
-• `Const` **RECURRENCE\_WEEKDAYS\_MAPPING**: `Object`
+• `Const` **SMTP_OPTIONS**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `FRIDAY` | `string` |
-| `MONDAY` | `string` |
-| `SATURDAY` | `string` |
-| `SUNDAY` | `string` |
-| `THURSDAY` | `string` |
-| `TUESDAY` | `string` |
-| `WEDNESDAY` | `string` |
-
-#### Defined in
-
-[src/constants.ts:762](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L762)
-
-___
-
-### RECURRING\_EVENT\_INSTANCES\_DAILY\_LIMIT
-
-• `Const` **RECURRING\_EVENT\_INSTANCES\_DAILY\_LIMIT**: ``1``
-
-#### Defined in
-
-[src/constants.ts:741](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L741)
-
-___
-
-### RECURRING\_EVENT\_INSTANCES\_MONTHLY\_LIMIT
-
-• `Const` **RECURRING\_EVENT\_INSTANCES\_MONTHLY\_LIMIT**: ``5``
-
-#### Defined in
-
-[src/constants.ts:743](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L743)
-
-___
-
-### RECURRING\_EVENT\_INSTANCES\_QUERY\_LIMIT
-
-• `Const` **RECURRING\_EVENT\_INSTANCES\_QUERY\_LIMIT**: ``1``
-
-#### Defined in
-
-[src/constants.ts:749](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L749)
-
-___
-
-### RECURRING\_EVENT\_INSTANCES\_WEEKLY\_LIMIT
-
-• `Const` **RECURRING\_EVENT\_INSTANCES\_WEEKLY\_LIMIT**: ``2``
-
-#### Defined in
-
-[src/constants.ts:742](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L742)
-
-___
-
-### RECURRING\_EVENT\_INSTANCES\_YEARLY\_LIMIT
-
-• `Const` **RECURRING\_EVENT\_INSTANCES\_YEARLY\_LIMIT**: ``10``
-
-#### Defined in
-
-[src/constants.ts:744](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L744)
-
-___
-
-### REDIS\_HOST
-
-• `Const` **REDIS\_HOST**: `string`
-
-#### Defined in
-
-[src/constants.ts:731](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L731)
-
-___
-
-### REDIS\_PASSWORD
-
-• `Const` **REDIS\_PASSWORD**: `undefined` \| `string` = `process.env.REDIS_PASSWORD`
-
-#### Defined in
-
-[src/constants.ts:733](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L733)
-
-___
-
-### REDIS\_PORT
-
-• `Const` **REDIS\_PORT**: `number`
-
-#### Defined in
-
-[src/constants.ts:732](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L732)
-
-___
-
-### REFRESH\_TOKEN\_SECRET
-
-• `Const` **REFRESH\_TOKEN\_SECRET**: `undefined` \| `string` = `ENV.REFRESH_TOKEN_SECRET`
-
-#### Defined in
-
-[src/constants.ts:709](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L709)
-
-___
-
-### REGEX\_VALIDATION\_ERROR
-
-• `Const` **REGEX\_VALIDATION\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:300](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L300)
-
-___
-
-### REGISTRANT\_ALREADY\_EXIST\_ERROR
-
-• `Const` **REGISTRANT\_ALREADY\_EXIST\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:225](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L225)
-
-___
-
-### SAME\_FILE\_ERROR
-
-• `Const` **SAME\_FILE\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:251](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L251)
-
-___
-
-### SAMPLE\_ORGANIZATION\_ALREADY\_EXISTS
-
-• `Const` **SAMPLE\_ORGANIZATION\_ALREADY\_EXISTS**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:655](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L655)
-
-___
-
-### SERVER\_PORT
-
-• `Const` **SERVER\_PORT**: `undefined` \| `string` = `ENV.SERVER_PORT`
-
-#### Defined in
-
-[src/constants.ts:705](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L705)
-
-___
-
-### SMTP\_OPTIONS
-
-• `Const` **SMTP\_OPTIONS**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `IS_SMTP` | `boolean` |
-| `SMTP_HOST` | `undefined` \| `string` |
+| Name            | Type                    |
+| :-------------- | :---------------------- |
+| `IS_SMTP`       | `boolean`               |
+| `SMTP_HOST`     | `undefined` \| `string` |
 | `SMTP_PASSWORD` | `undefined` \| `string` |
-| `SMTP_PORT` | `undefined` \| `string` |
-| `SMTP_SSL_TLS` | `boolean` |
+| `SMTP_PORT`     | `undefined` \| `string` |
+| `SMTP_SSL_TLS`  | `boolean`               |
 | `SMTP_USERNAME` | `undefined` \| `string` |
 
 #### Defined in
 
-[src/constants.ts:722](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L722)
+[src/constants.ts:505](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L505)
 
-___
+---
 
-### START\_DATE\_VALIDATION\_ERROR
+### START_DATE_VALIDATION_ERROR
 
-• `Const` **START\_DATE\_VALIDATION\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:275](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L275)
-
-___
-
-### STATUS\_ACTIVE
-
-• `Const` **STATUS\_ACTIVE**: ``"ACTIVE"``
-
-#### Defined in
-
-[src/constants.ts:483](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L483)
-
-___
-
-### SUPERADMIN\_CANT\_CHANGE\_OWN\_ROLE
-
-• `Const` **SUPERADMIN\_CANT\_CHANGE\_OWN\_ROLE**: `Object`
+• `Const` **START_DATE_VALIDATION_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:583](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L583)
+[src/constants.ts:161](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L161)
 
-___
+---
 
-### TAG\_ALREADY\_EXISTS
+### STATUS_ACTIVE
 
-• `Const` **TAG\_ALREADY\_EXISTS**: `Object`
+• `Const` **STATUS_ACTIVE**: `"ACTIVE"`
+
+#### Defined in
+
+[src/constants.ts:351](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L351)
+
+---
+
+### SUPERADMIN_CANT_CHANGE_OWN_ROLE
+
+• `Const` **SUPERADMIN_CANT_CHANGE_OWN_ROLE**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:444](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L444)
+[src/constants.ts:394](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L394)
 
-___
+---
 
-### TAG\_NOT\_FOUND
+### TAG_ALREADY_EXISTS
 
-• `Const` **TAG\_NOT\_FOUND**: `Object`
+• `Const` **TAG_ALREADY_EXISTS**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:411](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L411)
+[src/constants.ts:312](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L312)
 
-___
+---
 
-### TRANSLATION\_ALREADY\_PRESENT\_ERROR
+### TAG_NOT_FOUND
 
-• `Const` **TRANSLATION\_ALREADY\_PRESENT\_ERROR**: `Object`
+• `Const` **TAG_NOT_FOUND**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:589](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L589)
+[src/constants.ts:279](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L279)
 
-___
+---
 
-### UNAUTHENTICATED\_ERROR
+### TRANSLATION_ALREADY_PRESENT_ERROR
 
-• `Const` **UNAUTHENTICATED\_ERROR**: `Object`
+• `Const` **TRANSLATION_ALREADY_PRESENT_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:263](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L263)
+[src/constants.ts:400](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L400)
 
-___
+---
 
-### UNAUTHORIZED\_REMOVE\_AGENDA\_ITEM\_ERROR
+### UNAUTHENTICATED_ERROR
 
-• `Const` **UNAUTHORIZED\_REMOVE\_AGENDA\_ITEM\_ERROR**: `Object`
+• `Const` **UNAUTHENTICATED_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:509](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L509)
+[src/constants.ts:149](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L149)
 
-___
-
-### UNAUTHORIZED\_REMOVE\_NOTE\_ERROR
-
-• `Const` **UNAUTHORIZED\_REMOVE\_NOTE\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:547](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L547)
-
-___
-
-### UNAUTHORIZED\_UPDATE\_AGENDA\_ITEM\_ERROR
-
-• `Const` **UNAUTHORIZED\_UPDATE\_AGENDA\_ITEM\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:516](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L516)
-
-___
-
-### UNAUTHORIZED\_UPDATE\_NOTE\_ERROR
-
-• `Const` **UNAUTHORIZED\_UPDATE\_NOTE\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:553](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L553)
-
-___
+---
 
 ### URL
 
-• `Const` **URL**: ``"http://localhost:4000/graphql"`` \| ``"http://calico.palisadoes.org/talawa/graphql"``
+• `Const` **URL**: `"http://localhost:4000/graphql"` \| `"http://calico.palisadoes.org/talawa/graphql"`
 
 #### Defined in
 
-[src/constants.ts:485](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L485)
+[src/constants.ts:353](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L353)
 
-___
+---
 
-### USER\_ALREADY\_CHECKED\_IN
+### USER_ALREADY_CHECKED_IN
 
-• `Const` **USER\_ALREADY\_CHECKED\_IN**: `Object`
+• `Const` **USER_ALREADY_CHECKED_IN**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:643](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L643)
+[src/constants.ts:447](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L447)
 
-___
+---
 
-### USER\_ALREADY\_CHECKED\_OUT
+### USER_ALREADY_HAS_TAG
 
-• `Const` **USER\_ALREADY\_CHECKED\_OUT**: `Object`
+• `Const` **USER_ALREADY_HAS_TAG**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:649](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L649)
+[src/constants.ts:326](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L326)
 
-___
+---
 
-### USER\_ALREADY\_HAS\_TAG
+### USER_ALREADY_MEMBER_ERROR
 
-• `Const` **USER\_ALREADY\_HAS\_TAG**: `Object`
+• `Const` **USER_ALREADY_MEMBER_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:458](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L458)
+[src/constants.ts:358](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L358)
 
-___
+---
 
-### USER\_ALREADY\_INVITED\_FOR\_EVENT
+### USER_ALREADY_REGISTERED_FOR_EVENT
 
-• `Const` **USER\_ALREADY\_INVITED\_FOR\_EVENT**: `Object`
+• `Const` **USER_ALREADY_REGISTERED_FOR_EVENT**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:330](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L330)
+[src/constants.ts:198](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L198)
 
-___
+---
 
-### USER\_ALREADY\_MEMBER\_ERROR
+### USER_ALREADY_UNREGISTERED_ERROR
 
-• `Const` **USER\_ALREADY\_MEMBER\_ERROR**: `Object`
+• `Const` **USER_ALREADY_UNREGISTERED_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:490](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L490)
+[src/constants.ts:364](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L364)
 
-___
+---
 
-### USER\_ALREADY\_REGISTERED\_FOR\_EVENT
+### USER_BLOCKING_SELF
 
-• `Const` **USER\_ALREADY\_REGISTERED\_FOR\_EVENT**: `Object`
+• `Const` **USER_BLOCKING_SELF**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:324](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L324)
+[src/constants.ts:222](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L222)
 
-___
+---
 
-### USER\_ALREADY\_UNREGISTERED\_ERROR
+### USER_DOES_NOT_BELONG_TO_TAGS_ORGANIZATION
 
-• `Const` **USER\_ALREADY\_UNREGISTERED\_ERROR**: `Object`
+• `Const` **USER_DOES_NOT_BELONG_TO_TAGS_ORGANIZATION**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:496](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L496)
+[src/constants.ts:285](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L285)
 
-___
+---
 
-### USER\_BLOCKING\_SELF
+### USER_DOES_NOT_HAVE_THE_TAG
 
-• `Const` **USER\_BLOCKING\_SELF**: `Object`
+• `Const` **USER_DOES_NOT_HAVE_THE_TAG**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:354](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L354)
+[src/constants.ts:333](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L333)
 
-___
+---
 
-### USER\_DOES\_NOT\_BELONG\_TO\_TAGS\_ORGANIZATION
+### USER_NOT_AUTHORIZED_ADMIN
 
-• `Const` **USER\_DOES\_NOT\_BELONG\_TO\_TAGS\_ORGANIZATION**: `Object`
+• `Const` **USER_NOT_AUTHORIZED_ADMIN**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:417](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L417)
+[src/constants.ts:192](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L192)
 
-___
+---
 
-### USER\_DOES\_NOT\_HAVE\_THE\_TAG
+### USER_NOT_AUTHORIZED_ERROR
 
-• `Const` **USER\_DOES\_NOT\_HAVE\_THE\_TAG**: `Object`
+• `Const` **USER_NOT_AUTHORIZED_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:465](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L465)
+[src/constants.ts:370](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L370)
 
-___
+---
 
-### USER\_FAMILY\_MIN\_MEMBERS\_ERROR\_CODE
+### USER_NOT_AUTHORIZED_SUPERADMIN
 
-• `Const` **USER\_FAMILY\_MIN\_MEMBERS\_ERROR\_CODE**: `Object`
+• `Const` **USER_NOT_AUTHORIZED_SUPERADMIN**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:294](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L294)
+[src/constants.ts:186](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L186)
 
-___
+---
 
-### USER\_FAMILY\_NOT\_FOUND\_ERROR
+### USER_NOT_AUTHORIZED_TO_CREATE_TAG
 
-• `Const` **USER\_FAMILY\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **USER_NOT_AUTHORIZED_TO_CREATE_TAG**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:306](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L306)
+[src/constants.ts:319](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L319)
 
-___
+---
 
-### USER\_NOT\_AUTHORIZED\_ADMIN
+### USER_NOT_AUTHORIZED_TO_PIN
 
-• `Const` **USER\_NOT\_AUTHORIZED\_ADMIN**: `Object`
+• `Const` **USER_NOT_AUTHORIZED_TO_PIN**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:318](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L318)
+[src/constants.ts:272](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L272)
 
-___
+---
 
-### USER\_NOT\_AUTHORIZED\_ERROR
+### USER_NOT_CHECKED_IN
 
-• `Const` **USER\_NOT\_AUTHORIZED\_ERROR**: `Object`
+• `Const` **USER_NOT_CHECKED_IN**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:502](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L502)
+[src/constants.ts:210](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L210)
 
-___
+---
 
-### USER\_NOT\_AUTHORIZED\_SUPERADMIN
+### USER_NOT_FOUND_ERROR
 
-• `Const` **USER\_NOT\_AUTHORIZED\_SUPERADMIN**: `Object`
+• `Const` **USER_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:312](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L312)
+[src/constants.ts:376](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L376)
 
-___
+---
 
-### USER\_NOT\_AUTHORIZED\_TO\_CREATE\_TAG
+### USER_NOT_MEMBER_FOR_ORGANIZATION
 
-• `Const` **USER\_NOT\_AUTHORIZED\_TO\_CREATE\_TAG**: `Object`
+• `Const` **USER_NOT_MEMBER_FOR_ORGANIZATION**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:451](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L451)
+[src/constants.ts:382](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L382)
 
-___
+---
 
-### USER\_NOT\_AUTHORIZED\_TO\_PIN
+### USER_NOT_ORGANIZATION_ADMIN
 
-• `Const` **USER\_NOT\_AUTHORIZED\_TO\_PIN**: `Object`
+• `Const` **USER_NOT_ORGANIZATION_ADMIN**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:404](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L404)
+[src/constants.ts:216](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L216)
 
-___
+---
 
-### USER\_NOT\_CHECKED\_IN
+### USER_NOT_REGISTERED_FOR_EVENT
 
-• `Const` **USER\_NOT\_CHECKED\_IN**: `Object`
+• `Const` **USER_NOT_REGISTERED_FOR_EVENT**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:342](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L342)
+[src/constants.ts:204](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L204)
 
-___
+---
 
-### USER\_NOT\_FOUND\_ERROR
+### USER_PROFILE_IMAGE_NOT_FOUND_ERROR
 
-• `Const` **USER\_NOT\_FOUND\_ERROR**: `Object`
+• `Const` **USER_PROFILE_IMAGE_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:559](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L559)
+[src/constants.ts:419](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L419)
 
-___
+---
 
-### USER\_NOT\_MADE\_PLEDGE\_ERROR
+### USER_REMOVING_SELF
 
-• `Const` **USER\_NOT\_MADE\_PLEDGE\_ERROR**: `Object`
+• `Const` **USER_REMOVING_SELF**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:565](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L565)
+[src/constants.ts:228](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L228)
 
-___
+---
 
-### USER\_NOT\_MEMBER\_FOR\_ORGANIZATION
+### USER_TO_BE_REMOVED_NOT_FOUND_ERROR
 
-• `Const` **USER\_NOT\_MEMBER\_FOR\_ORGANIZATION**: `Object`
+• `Const` **USER_TO_BE_REMOVED_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:571](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L571)
+[src/constants.ts:388](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L388)
 
-___
+---
 
-### USER\_NOT\_ORGANIZATION\_ADMIN
+### VOLUNTEER_NOT_FOUND_ERROR
 
-• `Const` **USER\_NOT\_ORGANIZATION\_ADMIN**: `Object`
+• `Const` **VOLUNTEER_NOT_FOUND_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:348](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L348)
+[src/constants.ts:433](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L433)
 
-___
+---
 
-### USER\_NOT\_REGISTERED\_FOR\_EVENT
+### VOLUNTEER_NOT_MEMBER_ERROR
 
-• `Const` **USER\_NOT\_REGISTERED\_FOR\_EVENT**: `Object`
+• `Const` **VOLUNTEER_NOT_MEMBER_ERROR**: `Object`
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
+| Name      | Type     |
+| :-------- | :------- |
+| `CODE`    | `string` |
+| `DESC`    | `string` |
 | `MESSAGE` | `string` |
-| `PARAM` | `string` |
+| `PARAM`   | `string` |
 
 #### Defined in
 
-[src/constants.ts:336](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L336)
+[src/constants.ts:440](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L440)
 
-___
-
-### USER\_PROFILE\_IMAGE\_NOT\_FOUND\_ERROR
-
-• `Const` **USER\_PROFILE\_IMAGE\_NOT\_FOUND\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:608](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L608)
-
-___
-
-### USER\_REMOVING\_SELF
-
-• `Const` **USER\_REMOVING\_SELF**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:360](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L360)
-
-___
-
-### USER\_TO\_BE\_REMOVED\_NOT\_FOUND\_ERROR
-
-• `Const` **USER\_TO\_BE\_REMOVED\_NOT\_FOUND\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:577](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L577)
-
-___
-
-### VENUE\_ALREADY\_EXISTS\_ERROR
-
-• `Const` **VENUE\_ALREADY\_EXISTS\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L60)
-
-___
-
-### VENUE\_ALREADY\_SCHEDULED
-
-• `Const` **VENUE\_ALREADY\_SCHEDULED**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:200](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L200)
-
-___
-
-### VENUE\_NAME\_MISSING\_ERROR
-
-• `Const` **VENUE\_NAME\_MISSING\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:193](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L193)
-
-___
-
-### VENUE\_NOT\_FOUND\_ERROR
-
-• `Const` **VENUE\_NOT\_FOUND\_ERROR**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `CODE` | `string` |
-| `DESC` | `string` |
-| `MESSAGE` | `string` |
-| `PARAM` | `string` |
-
-#### Defined in
-
-[src/constants.ts:67](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L67)
-
-___
+---
 
 ### iv
 
@@ -2474,9 +1703,9 @@ ___
 
 #### Defined in
 
-[src/constants.ts:773](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L773)
+[src/constants.ts:521](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L521)
 
-___
+---
 
 ### key
 
@@ -2484,4 +1713,4 @@ ___
 
 #### Defined in
 
-[src/constants.ts:772](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/constants.ts#L772)
+[src/constants.ts:520](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/constants.ts#L520)

@@ -12,18 +12,18 @@
 
 ### currentUserExists
 
-▸ **currentUserExists**(): (`next`: (`root`: `any`, `args`: `any`, `context`: `any`, `info`: `any`) =\> `any`) =\> (`root`: `any`, `args`: `any`, `context`: \{ `userId`: `any`  \}, `info`: `any`) =\> `Promise`\<`any`\>
+▸ **currentUserExists**(): (`next`: (`root`: `any`, `args`: `any`, `context`: `any`, `info`: `any`) =\> `any`) =\> (`root`: `any`, `args`: `any`, `context`: \{ `userId`: `any` \}, `info`: `any`) =\> `Promise`\<`any`\>
 
 #### Returns
 
 `fn`
 
-▸ (`next`): (`root`: `any`, `args`: `any`, `context`: \{ `userId`: `any`  \}, `info`: `any`) =\> `Promise`\<`any`\>
+▸ (`next`): (`root`: `any`, `args`: `any`, `context`: \{ `userId`: `any` \}, `info`: `any`) =\> `Promise`\<`any`\>
 
 ##### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name   | Type                                                                      |
+| :----- | :------------------------------------------------------------------------ |
 | `next` | (`root`: `any`, `args`: `any`, `context`: `any`, `info`: `any`) =\> `any` |
 
 ##### Returns
@@ -34,13 +34,13 @@
 
 ##### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `root` | `any` |
-| `args` | `any` |
-| `context` | `Object` |
-| `context.userId` | `any` |
-| `info` | `any` |
+| Name             | Type     |
+| :--------------- | :------- |
+| `root`           | `any`    |
+| `args`           | `any`    |
+| `context`        | `Object` |
+| `context.userId` | `any`    |
+| `info`           | `any`    |
 
 ##### Returns
 
@@ -48,4 +48,4 @@
 
 #### Defined in
 
-[src/resolvers/middleware/currentUserExists.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/middleware/currentUserExists.ts#L9)
+[src/resolvers/middleware/currentUserExists.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/middleware/currentUserExists.ts#L8)

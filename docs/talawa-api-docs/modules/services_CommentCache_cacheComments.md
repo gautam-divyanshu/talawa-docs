@@ -16,8 +16,8 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name       | Type                                                                     |
+| :--------- | :----------------------------------------------------------------------- |
 | `comments` | [`InterfaceComment`](../interfaces/models_Comment.InterfaceComment.md)[] |
 
 #### Returns
@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/services/CommentCache/cacheComments.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/services/CommentCache/cacheComments.ts#L6)
+[src/services/CommentCache/cacheComments.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/services/CommentCache/cacheComments.ts#L6)

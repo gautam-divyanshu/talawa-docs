@@ -31,6 +31,7 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the group chat exists.
 2. If the organization exists
 3. If the user is the admin of the organization.
@@ -38,4 +39,4 @@ The following checks are done:
 
 #### Defined in
 
-[src/resolvers/Mutation/removeUserFromGroupChat.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/removeUserFromGroupChat.ts#L25)
+[src/resolvers/Mutation/removeUserFromGroupChat.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/removeUserFromGroupChat.ts#L24)

@@ -22,8 +22,8 @@ This function sends emails to the specified user using the node mailer module.
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name         | Type                                                                           |
+| :----------- | :----------------------------------------------------------------------------- |
 | `mailFields` | [`InterfaceMailFields`](../interfaces/utilities_mailer.InterfaceMailFields.md) |
 
 #### Returns
@@ -38,4 +38,4 @@ This is a utility method.
 
 #### Defined in
 
-[src/utilities/mailer.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/mailer.ts#L24)
+[src/utilities/mailer.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/mailer.ts#L24)

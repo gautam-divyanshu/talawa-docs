@@ -23,9 +23,9 @@
 
 #### Defined in
 
-[src/models/CheckIn.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/CheckIn.ts#L14)
+[src/models/CheckIn.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/CheckIn.ts#L13)
 
-___
+---
 
 ### createdAt
 
@@ -33,9 +33,9 @@ ___
 
 #### Defined in
 
-[src/models/CheckIn.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/CheckIn.ts#L18)
+[src/models/CheckIn.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/CheckIn.ts#L19)
 
-___
+---
 
 ### eventAttendeeId
 
@@ -43,9 +43,9 @@ ___
 
 #### Defined in
 
-[src/models/CheckIn.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/CheckIn.ts#L15)
+[src/models/CheckIn.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/CheckIn.ts#L14)
 
-___
+---
 
 ### feedbackSubmitted
 
@@ -53,9 +53,9 @@ ___
 
 #### Defined in
 
-[src/models/CheckIn.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/CheckIn.ts#L17)
+[src/models/CheckIn.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/CheckIn.ts#L18)
 
-___
+---
 
 ### time
 
@@ -63,9 +63,9 @@ ___
 
 #### Defined in
 
-[src/models/CheckIn.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/CheckIn.ts#L16)
+[src/models/CheckIn.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/CheckIn.ts#L15)
 
-___
+---
 
 ### updatedAt
 
@@ -73,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/models/CheckIn.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/CheckIn.ts#L19)
+[src/models/CheckIn.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/CheckIn.ts#L20)

@@ -16,8 +16,8 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name     | Type                                                               |
+| :------- | :----------------------------------------------------------------- |
 | `events` | [`InterfaceEvent`](../interfaces/models_Event.InterfaceEvent.md)[] |
 
 #### Returns
@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/services/EventCache/cacheEvents.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/services/EventCache/cacheEvents.ts#L6)
+[src/services/EventCache/cacheEvents.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/services/EventCache/cacheEvents.ts#L6)

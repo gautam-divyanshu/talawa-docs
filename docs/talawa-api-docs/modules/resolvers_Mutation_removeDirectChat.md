@@ -31,10 +31,11 @@ context of entire application
 **`Remarks`**
 
 The following checks are done:
+
 1. If the organization exists
 2. If the chat exists
 3. If the user is an admin of the organization.
 
 #### Defined in
 
-[src/resolvers/Mutation/removeDirectChat.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/removeDirectChat.ts#L22)
+[src/resolvers/Mutation/removeDirectChat.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/removeDirectChat.ts#L22)

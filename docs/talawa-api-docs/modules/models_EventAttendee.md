@@ -16,8 +16,8 @@
 
 ### EventAttendee
 
-• `Const` **EventAttendee**: `Model`\<[`InterfaceEventAttendee`](../interfaces/models_EventAttendee.InterfaceEventAttendee.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceEventAttendee`](../interfaces/models_EventAttendee.InterfaceEventAttendee.md)\> & [`InterfaceEventAttendee`](../interfaces/models_EventAttendee.InterfaceEventAttendee.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **EventAttendee**: `Model`\<[`InterfaceEventAttendee`](../interfaces/models_EventAttendee.InterfaceEventAttendee.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/EventAttendee.ts:78](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/EventAttendee.ts#L78)
+[src/models/EventAttendee.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/EventAttendee.ts#L39)

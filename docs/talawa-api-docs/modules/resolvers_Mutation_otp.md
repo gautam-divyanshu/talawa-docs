@@ -27,8 +27,9 @@ payload provided with the request
 **`Remarks`**
 
 The following checks are done:
+
 1. If the user exists
 
 #### Defined in
 
-[src/resolvers/Mutation/otp.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Mutation/otp.ts#L16)
+[src/resolvers/Mutation/otp.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Mutation/otp.ts#L16)

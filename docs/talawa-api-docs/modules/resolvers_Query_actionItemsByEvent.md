@@ -20,8 +20,8 @@ This query will fetch all action items for an event from database.
 
 **`Param`**
 
-An object that contains `eventId` which is the _id of the Event.
+An object that contains `eventId` which is the \_id of the Event.
 
 #### Defined in
 
-[src/resolvers/Query/actionItemsByEvent.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/resolvers/Query/actionItemsByEvent.ts#L9)
+[src/resolvers/Query/actionItemsByEvent.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/resolvers/Query/actionItemsByEvent.ts#L9)

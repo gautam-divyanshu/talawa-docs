@@ -16,11 +16,11 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name   | Type     |
+| :----- | :------- |
 | `text` | `string` |
-| `key` | `string` |
-| `iv` | `string` |
+| `key`  | `string` |
+| `iv`   | `string` |
 
 #### Returns
 
@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/utilities/PII/encryption.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/PII/encryption.ts#L4)
+[src/utilities/PII/encryption.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/PII/encryption.ts#L4)

@@ -26,9 +26,9 @@ This is an interface that represents a database(MongoDB) document for Group Chat
 
 #### Defined in
 
-[src/models/GroupChatMessage.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChatMessage.ts#L10)
+[src/models/GroupChatMessage.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChatMessage.ts#L9)
 
-___
+---
 
 ### createdAt
 
@@ -36,9 +36,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChatMessage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChatMessage.ts#L13)
+[src/models/GroupChatMessage.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChatMessage.ts#L12)
 
-___
+---
 
 ### groupChatMessageBelongsTo
 
@@ -46,9 +46,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChatMessage.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChatMessage.ts#L11)
+[src/models/GroupChatMessage.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChatMessage.ts#L10)
 
-___
+---
 
 ### messageContent
 
@@ -56,9 +56,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChatMessage.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChatMessage.ts#L15)
+[src/models/GroupChatMessage.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChatMessage.ts#L14)
 
-___
+---
 
 ### sender
 
@@ -66,9 +66,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChatMessage.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChatMessage.ts#L12)
+[src/models/GroupChatMessage.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChatMessage.ts#L11)
 
-___
+---
 
 ### status
 
@@ -76,9 +76,9 @@ ___
 
 #### Defined in
 
-[src/models/GroupChatMessage.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChatMessage.ts#L16)
+[src/models/GroupChatMessage.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChatMessage.ts#L15)
 
-___
+---
 
 ### updatedAt
 
@@ -86,4 +86,4 @@ ___
 
 #### Defined in
 
-[src/models/GroupChatMessage.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/GroupChatMessage.ts#L14)
+[src/models/GroupChatMessage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChatMessage.ts#L13)

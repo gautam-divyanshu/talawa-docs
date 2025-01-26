@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/libraries/requestContext.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/requestContext.ts#L6)
+[src/libraries/requestContext.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/requestContext.ts#L8)
 
 ## Functions
 
@@ -37,13 +37,13 @@
 #### Type parameters
 
 | Name |
-| :------ |
-| `T` |
+| :--- |
+| `T`  |
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name  | Type     |
+| :---- | :------- |
 | `key` | `string` |
 
 #### Returns
@@ -52,9 +52,9 @@
 
 #### Defined in
 
-[src/libraries/requestContext.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/requestContext.ts#L14)
+[src/libraries/requestContext.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/requestContext.ts#L19)
 
-___
+---
 
 ### init
 
@@ -63,13 +63,13 @@ ___
 #### Type parameters
 
 | Name |
-| :------ |
-| `T` |
+| :--- |
+| `T`  |
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type                          |
+| :-------- | :---------------------------- |
 | `options` | `InterfaceInitOptions`\<`T`\> |
 
 #### Returns
@@ -78,9 +78,9 @@ ___
 
 #### Defined in
 
-[src/libraries/requestContext.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/requestContext.ts#L38)
+[src/libraries/requestContext.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/requestContext.ts#L45)
 
-___
+---
 
 ### middleware
 
@@ -94,11 +94,11 @@ ___
 
 ##### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `req` | `Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\> |
-| `res` | `Response`\<`any`, `Record`\<`string`, `any`\>\> |
-| `next` | `NextFunction` |
+| Name   | Type                                                                                   |
+| :----- | :------------------------------------------------------------------------------------- |
+| `req`  | `Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\> |
+| `res`  | `Response`\<`any`, `Record`\<`string`, `any`\>\>                                       |
+| `next` | `NextFunction`                                                                         |
 
 ##### Returns
 
@@ -106,9 +106,9 @@ ___
 
 #### Defined in
 
-[src/libraries/requestContext.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/requestContext.ts#L23)
+[src/libraries/requestContext.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/requestContext.ts#L28)
 
-___
+---
 
 ### setRequestContext
 
@@ -116,8 +116,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name  | Type  |
+| :---- | :---- |
 | `obj` | `any` |
 
 #### Returns
@@ -126,9 +126,9 @@ ___
 
 #### Defined in
 
-[src/libraries/requestContext.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/requestContext.ts#L18)
+[src/libraries/requestContext.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/requestContext.ts#L23)
 
-___
+---
 
 ### setRequestContextValue
 
@@ -137,15 +137,15 @@ ___
 #### Type parameters
 
 | Name |
-| :------ |
-| `T` |
+| :--- |
+| `T`  |
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `key` | `string` |
-| `value` | `T` |
+| Name    | Type     |
+| :------ | :------- |
+| `key`   | `string` |
+| `value` | `T`      |
 
 #### Returns
 
@@ -153,9 +153,9 @@ ___
 
 #### Defined in
 
-[src/libraries/requestContext.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/requestContext.ts#L10)
+[src/libraries/requestContext.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/requestContext.ts#L14)
 
-___
+---
 
 ### translate
 
@@ -163,8 +163,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type  |
+| :-------- | :---- |
 | `...args` | `any` |
 
 #### Returns
@@ -173,9 +173,9 @@ ___
 
 #### Defined in
 
-[src/libraries/requestContext.ts:68](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/requestContext.ts#L68)
+[src/libraries/requestContext.ts:62](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/requestContext.ts#L62)
 
-___
+---
 
 ### translatePlural
 
@@ -183,8 +183,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type  |
+| :-------- | :---- |
 | `...args` | `any` |
 
 #### Returns
@@ -193,4 +193,4 @@ ___
 
 #### Defined in
 
-[src/libraries/requestContext.ts:76](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/requestContext.ts#L76)
+[src/libraries/requestContext.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/requestContext.ts#L71)

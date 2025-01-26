@@ -16,8 +16,8 @@
 
 ### SampleData
 
-• `Const` **SampleData**: `Model`\<[`InterfaceSampleData`](../interfaces/models_SampleData.InterfaceSampleData.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceSampleData`](../interfaces/models_SampleData.InterfaceSampleData.md)\> & [`InterfaceSampleData`](../interfaces/models_SampleData.InterfaceSampleData.md) & \{ `_id`: `ObjectId`  \}, `any`\>
+• `Const` **SampleData**: `Model`\<[`InterfaceSampleData`](../interfaces/models_SampleData.InterfaceSampleData.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/SampleData.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/SampleData.ts#L33)
+[src/models/SampleData.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/SampleData.ts#L24)

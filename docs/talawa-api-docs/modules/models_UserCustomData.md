@@ -16,8 +16,8 @@
 
 ### UserCustomData
 
-• `Const` **UserCustomData**: `Model`\<[`InterfaceUserCustomData`](../interfaces/models_UserCustomData.InterfaceUserCustomData.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceUserCustomData`](../interfaces/models_UserCustomData.InterfaceUserCustomData.md)\> & [`InterfaceUserCustomData`](../interfaces/models_UserCustomData.InterfaceUserCustomData.md) & `Required`\<\{ `_id`: `string`  \}\>, `any`\>
+• `Const` **UserCustomData**: `Model`\<[`InterfaceUserCustomData`](../interfaces/models_UserCustomData.InterfaceUserCustomData.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/UserCustomData.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/UserCustomData.ts#L47)
+[src/models/UserCustomData.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/UserCustomData.ts#L43)

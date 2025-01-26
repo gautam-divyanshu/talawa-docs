@@ -22,9 +22,9 @@
 
 #### Defined in
 
-[src/utilities/auth.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/auth.ts#L11)
+[src/utilities/auth.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/auth.ts#L11)
 
-___
+---
 
 ### firstName
 
@@ -32,9 +32,9 @@ ___
 
 #### Defined in
 
-[src/utilities/auth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/auth.ts#L9)
+[src/utilities/auth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/auth.ts#L9)
 
-___
+---
 
 ### lastName
 
@@ -42,9 +42,9 @@ ___
 
 #### Defined in
 
-[src/utilities/auth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/auth.ts#L10)
+[src/utilities/auth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/auth.ts#L10)
 
-___
+---
 
 ### tokenVersion
 
@@ -52,9 +52,9 @@ ___
 
 #### Defined in
 
-[src/utilities/auth.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/auth.ts#L7)
+[src/utilities/auth.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/auth.ts#L7)
 
-___
+---
 
 ### userId
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/utilities/auth.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/utilities/auth.ts#L8)
+[src/utilities/auth.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/utilities/auth.ts#L8)

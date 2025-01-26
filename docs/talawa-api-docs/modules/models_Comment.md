@@ -16,8 +16,8 @@
 
 ### Comment
 
-• `Const` **Comment**: `Model`\<[`InterfaceComment`](../interfaces/models_Comment.InterfaceComment.md), \{\}, \{\}, \{\}, `Document`\<`unknown`, \{\}, [`InterfaceComment`](../interfaces/models_Comment.InterfaceComment.md)\> & [`InterfaceComment`](../interfaces/models_Comment.InterfaceComment.md) & `Required`\<\{ `_id`: `ObjectId`  \}\>, `any`\>
+• `Const` **Comment**: `Model`\<[`InterfaceComment`](../interfaces/models_Comment.InterfaceComment.md), \{\}, \{\}\>
 
 #### Defined in
 
-[src/models/Comment.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/models/Comment.ts#L75)
+[src/models/Comment.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Comment.ts#L72)

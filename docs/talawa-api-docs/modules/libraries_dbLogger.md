@@ -29,27 +29,27 @@
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `model` | `string` |
-| `query?` | `string` |
+| Name        | Type     |
+| :---------- | :------- |
+| `model`     | `string` |
+| `query?`    | `string` |
 | `timestamp` | `string` |
-| `type` | `string` |
-| `update?` | `string` |
+| `type`      | `string` |
+| `update?`   | `string` |
 
 #### Defined in
 
-[src/libraries/dbLogger.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/dbLogger.ts#L5)
+[src/libraries/dbLogger.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/dbLogger.ts#L5)
 
 ## Variables
 
 ### default
 
-• **default**: `winston.Logger` \| ``null`` = `null`
+• **default**: `winston.Logger` \| `null` = `null`
 
 #### Defined in
 
-[src/libraries/dbLogger.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/dbLogger.ts#L13)
+[src/libraries/dbLogger.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/dbLogger.ts#L13)
 
 ## Functions
 
@@ -59,16 +59,16 @@
 
 #### Type parameters
 
-| Name | Type |
-| :------ | :------ |
-| `T` | extends `Document`\<`any`, `any`, `any`\> |
+| Name | Type                                      |
+| :--- | :---------------------------------------- |
+| `T`  | extends `Document`\<`any`, `any`, `any`\> |
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `schema` | `Schema`\<`T`, `Model`\<`T`, `any`, `any`, `any`, `IfAny`\<`T`, `any`, `Document`\<`unknown`, `any`, `T`\> & `Require_id`\<`T`\>\>, `any`\>, \{\}, \{\}, \{\}, \{\}, `DefaultSchemaOptions`, `ObtainDocumentType`\<`any`, `T`, `ResolveSchemaOptions`\<`DefaultSchemaOptions`\>\>, `IfAny`\<`FlatRecord`\<`ObtainDocumentType`\<`any`, `T`, `ResolveSchemaOptions`\<`DefaultSchemaOptions`\>\>\>, `any`, `Document`\<`unknown`, \{\}, `FlatRecord`\<`ObtainDocumentType`\<`any`, `T`, `ResolveSchemaOptions`\<`DefaultSchemaOptions`\>\>\>\> & `Require_id`\<`FlatRecord`\<`ObtainDocumentType`\<`any`, `T`, `ResolveSchemaOptions`\<`DefaultSchemaOptions`\>\>\>\>\>\> |
-| `modelName` | `string` |
+| Name        | Type                                                             |
+| :---------- | :--------------------------------------------------------------- |
+| `schema`    | `Schema`\<`T`, `Model`\<`T`, `any`, `any`\>, `undefined`, \{\}\> |
+| `modelName` | `string`                                                         |
 
 #### Returns
 
@@ -76,4 +76,4 @@
 
 #### Defined in
 
-[src/libraries/dbLogger.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/dbLogger.ts#L40)
+[src/libraries/dbLogger.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/dbLogger.ts#L40)

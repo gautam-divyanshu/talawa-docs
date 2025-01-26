@@ -16,19 +16,19 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `str` | `string` |
+| Name        | Type     |
+| :---------- | :------- |
+| `str`       | `string` |
 | `maxLength` | `number` |
 
 #### Returns
 
 `Object`
 
-| Name | Type |
-| :------ | :------ |
+| Name                  | Type      |
+| :-------------------- | :-------- |
 | `isLessThanMaxLength` | `boolean` |
 
 #### Defined in
 
-[src/libraries/validators/validateString.ts:1](https://github.com/PalisadoesFoundation/talawa-api/blob/9fa6a1c/src/libraries/validators/validateString.ts#L1)
+[src/libraries/validators/validateString.ts:1](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/libraries/validators/validateString.ts#L1)
