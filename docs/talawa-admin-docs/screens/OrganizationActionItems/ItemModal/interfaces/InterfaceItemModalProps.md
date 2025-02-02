@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/OrganizationActionItems/ItemModal](../README.md) / InterfaceItemModalProps
-
 # Interface: InterfaceItemModalProps
+
+Defined in: [src/screens/OrganizationActionItems/ItemModal.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemModal.tsx#L52)
 
 Props for the `ItemModal` component.
 
@@ -12,11 +12,9 @@ Props for the `ItemModal` component.
 
 ### actionItem
 
-> **actionItem**: `null` \| `InterfaceActionItemInfo`
+> **actionItem**: `InterfaceActionItemInfo`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemModal.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemModal.tsx#L58)
+Defined in: [src/screens/OrganizationActionItems/ItemModal.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemModal.tsx#L58)
 
 ***
 
@@ -24,13 +22,11 @@ Props for the `ItemModal` component.
 
 > **actionItemsRefetch**: () => `void`
 
+Defined in: [src/screens/OrganizationActionItems/ItemModal.tsx:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemModal.tsx#L57)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemModal.tsx:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemModal.tsx#L57)
 
 ***
 
@@ -38,19 +34,15 @@ Props for the `ItemModal` component.
 
 > **editMode**: `boolean`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemModal.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemModal.tsx#L59)
+Defined in: [src/screens/OrganizationActionItems/ItemModal.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemModal.tsx#L59)
 
 ***
 
 ### eventId
 
-> **eventId**: `undefined` \| `string`
+> **eventId**: `string`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemModal.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemModal.tsx#L56)
+Defined in: [src/screens/OrganizationActionItems/ItemModal.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemModal.tsx#L56)
 
 ***
 
@@ -58,13 +50,11 @@ Props for the `ItemModal` component.
 
 > **hide**: () => `void`
 
+Defined in: [src/screens/OrganizationActionItems/ItemModal.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemModal.tsx#L54)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemModal.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemModal.tsx#L54)
 
 ***
 
@@ -72,9 +62,7 @@ Props for the `ItemModal` component.
 
 > **isOpen**: `boolean`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemModal.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemModal.tsx#L53)
+Defined in: [src/screens/OrganizationActionItems/ItemModal.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemModal.tsx#L53)
 
 ***
 
@@ -82,6 +70,4 @@ Props for the `ItemModal` component.
 
 > **orgId**: `string`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemModal.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemModal.tsx#L55)
+Defined in: [src/screens/OrganizationActionItems/ItemModal.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemModal.tsx#L55)

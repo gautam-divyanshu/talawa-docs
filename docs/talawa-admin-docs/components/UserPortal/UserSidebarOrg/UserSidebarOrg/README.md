@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/UserPortal/UserSidebarOrg/UserSidebarOrg
-
 # components/UserPortal/UserSidebarOrg/UserSidebarOrg
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceUserSidebarOrgProps](interfaces/InterfaceUserSidebarOrgProps.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

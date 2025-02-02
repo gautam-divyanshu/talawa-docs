@@ -1,20 +1,24 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/FundCampaignPledge/PledgeDeleteModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/screens/FundCampaignPledge/PledgeDeleteModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/FundCampaignPledge/PledgeDeleteModal.tsx#L42)
+
 A modal dialog for confirming the deletion of a pledge.
 
 ## Parameters
 
-• **props**: [`InterfaceDeletePledgeModal`](../interfaces/InterfaceDeletePledgeModal.md)
+### props
 
-• **deprecatedLegacyContext?**: `any`
+[`InterfaceDeletePledgeModal`](../interfaces/InterfaceDeletePledgeModal.md)
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -40,7 +44,3 @@ The modal includes:
 - A footer with "Yes" and "No" buttons to confirm or cancel the deletion.
 
 The `deletePledge` mutation is used to perform the deletion operation.
-
-## Defined in
-
-[src/screens/FundCampaignPledge/PledgeDeleteModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/FundCampaignPledge/PledgeDeleteModal.tsx#L42)

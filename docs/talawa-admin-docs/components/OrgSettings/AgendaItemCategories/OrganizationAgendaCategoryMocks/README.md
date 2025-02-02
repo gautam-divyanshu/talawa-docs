@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryMocks
-
 # components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryMocks
 
-## Index
-
-### Variables
+## Variables
 
 - [MOCKS](variables/MOCKS.md)

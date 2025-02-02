@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../../modules.md) / [screens/UserPortal/Volunteer/Groups/Groups](../README.md) / default
 
 # Function: default()
 
 > **default**(): `JSX.Element`
+
+Defined in: [src/screens/UserPortal/Volunteer/Groups/Groups.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Volunteer/Groups/Groups.tsx#L72)
 
 Component for managing volunteer groups for an event.
 This component allows users to view, filter, sort, and create action items. It also provides a modal for creating and editing action items.
@@ -17,6 +17,19 @@ This component allows users to view, filter, sort, and create action items. It a
 
 The rendered component.
 
-## Defined in
+## CSS Strategy Explanation:
 
-[src/screens/UserPortal/Volunteer/Groups/Groups.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Volunteer/Groups/Groups.tsx#L55)
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.searchButton`
+
+For more details on the reusable classes, refer to the global CSS file.

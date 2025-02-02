@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/Pagination/Pagination](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `JSX.Element`
+
+Defined in: [src/components/Pagination/Pagination.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/Pagination/Pagination.tsx#L30)
 
 Pagination component for navigating between pages in a table.
 
@@ -16,7 +16,9 @@ buttons are controlled based on the current page and the total number of items.
 
 ## Parameters
 
-• **props**: `InterfaceTablePaginationActionsProps`
+### props
+
+`InterfaceTablePaginationActionsProps`
 
 Component properties.
 
@@ -25,7 +27,3 @@ Component properties.
 `JSX.Element`
 
 The rendered component.
-
-## Defined in
-
-[src/components/Pagination/Pagination.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/Pagination/Pagination.tsx#L30)

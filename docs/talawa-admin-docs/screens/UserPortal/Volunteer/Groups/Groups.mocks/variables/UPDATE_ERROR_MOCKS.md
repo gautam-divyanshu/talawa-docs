@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../../modules.md) / [screens/UserPortal/Volunteer/Groups/Groups.mocks](../README.md) / UPDATE\_ERROR\_MOCKS
-
 # Variable: UPDATE\_ERROR\_MOCKS
 
-> `const` **UPDATE\_ERROR\_MOCKS**: (`object` \| `object` \| `object`)[]
+> `const` **UPDATE\_ERROR\_MOCKS**: (\{ `error`: `undefined`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `data`: `undefined`; `id`: `undefined`; `status`: `undefined`; `where`: \{ `eventId`: `string`; `groupId`: `string`; `status`: `string`; \}; \}; \}; `result`: \{ `data`: \{ `getVolunteerMembership`: `object`[]; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `data`: `undefined`; `id`: `string`; `status`: `string`; `where`: `undefined`; \}; \}; `result`: `undefined`; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `data`: \{ `description`: `string`; `eventId`: `string`; `name`: `string`; `volunteersRequired`: `number`; \}; `id`: `string`; `status`: `undefined`; `where`: `undefined`; \}; \}; `result`: `undefined`; \})[]
 
-## Defined in
-
-[src/screens/UserPortal/Volunteer/Groups/Groups.mocks.ts:425](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Volunteer/Groups/Groups.mocks.ts#L425)
+Defined in: [src/screens/UserPortal/Volunteer/Groups/Groups.mocks.ts:425](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Volunteer/Groups/Groups.mocks.ts#L425)

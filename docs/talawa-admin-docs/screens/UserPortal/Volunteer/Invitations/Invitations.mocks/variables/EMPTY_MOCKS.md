@@ -1,13 +1,51 @@
-[**talawa-admin**](../../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../../modules.md) / [screens/UserPortal/Volunteer/Invitations/Invitations.mocks](../README.md) / EMPTY\_MOCKS
 
 # Variable: EMPTY\_MOCKS
 
 > `const` **EMPTY\_MOCKS**: `object`[]
 
-## Defined in
+Defined in: [src/screens/UserPortal/Volunteer/Invitations/Invitations.mocks.ts:189](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Volunteer/Invitations/Invitations.mocks.ts#L189)
 
-[src/screens/UserPortal/Volunteer/Invitations/Invitations.mocks.ts:189](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Volunteer/Invitations/Invitations.mocks.ts#L189)
+## Type declaration
+
+### request
+
+> **request**: `object`
+
+#### request.query
+
+> **query**: `DocumentNode` = `USER_VOLUNTEER_MEMBERSHIP`
+
+#### request.variables
+
+> **variables**: `object`
+
+#### request.variables.where
+
+> **where**: `object`
+
+#### request.variables.where.filter
+
+> **filter**: `any` = `null`
+
+#### request.variables.where.status
+
+> **status**: `string` = `'invited'`
+
+#### request.variables.where.userId
+
+> **userId**: `string` = `'userId'`
+
+### result
+
+> **result**: `object`
+
+#### result.data
+
+> **data**: `object`
+
+#### result.data.getVolunteerMembership
+
+> **getVolunteerMembership**: `any`[] = `[]`

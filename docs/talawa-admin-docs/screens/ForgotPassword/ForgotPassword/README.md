@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/ForgotPassword/ForgotPassword
-
 # screens/ForgotPassword/ForgotPassword
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

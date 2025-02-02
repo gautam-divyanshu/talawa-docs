@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/EventVolunteers/VolunteerContainer](../README.md) / default
 
 # Function: default()
 
 > **default**(): `JSX.Element`
+
+Defined in: [src/screens/EventVolunteers/VolunteerContainer.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/EventVolunteers/VolunteerContainer.tsx#L18)
 
 Container Component for Volunteer or VolunteerGroups as per selection.
 
@@ -17,7 +17,3 @@ This component allows users switch between Volunteers and VolunteerGroups.
 `JSX.Element`
 
 The rendered component.
-
-## Defined in
-
-[src/screens/EventVolunteers/VolunteerContainer.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/VolunteerContainer.tsx#L18)

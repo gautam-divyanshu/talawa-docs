@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../modules.md) / [components/EventManagement/EventAttendance/InterfaceEvents](../README.md) / InterfaceMember
-
 # Interface: InterfaceMember
+
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L13)
 
 ## Properties
 
@@ -12,9 +12,7 @@
 
 > **\_\_typename**: `string`
 
-#### Defined in
-
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L23)
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L23)
 
 ***
 
@@ -22,9 +20,7 @@
 
 > **\_id**: `string`
 
-#### Defined in
-
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L24)
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L24)
 
 ***
 
@@ -32,9 +28,7 @@
 
 > **birthDate**: `Date`
 
-#### Defined in
-
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L22)
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L22)
 
 ***
 
@@ -42,19 +36,15 @@
 
 > **createdAt**: `string`
 
-#### Defined in
-
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L14)
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L14)
 
 ***
 
 ### email
 
-> **email**: \`$\{string\}@$\{string\}.$\{string\}\`
+> **email**: `` `${string}@${string}.${string}` ``
 
-#### Defined in
-
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L17)
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L17)
 
 ***
 
@@ -62,9 +52,11 @@
 
 > `optional` **eventsAttended**: `object`[]
 
-#### Defined in
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L19)
 
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L19)
+#### \_id
+
+> **\_id**: `string`
 
 ***
 
@@ -72,9 +64,7 @@
 
 > **firstName**: `string`
 
-#### Defined in
-
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L15)
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L15)
 
 ***
 
@@ -82,9 +72,7 @@
 
 > **gender**: `string`
 
-#### Defined in
-
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L18)
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L18)
 
 ***
 
@@ -92,9 +80,7 @@
 
 > **lastName**: `string`
 
-#### Defined in
-
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L16)
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L16)
 
 ***
 
@@ -102,10 +88,8 @@
 
 > **tagsAssignedWith**: `object`
 
+Defined in: [src/components/EventManagement/EventAttendance/InterfaceEvents.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L25)
+
 #### edges
 
 > **edges**: `object`[]
-
-#### Defined in
-
-[src/components/EventManagement/EventAttendance/InterfaceEvents.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/InterfaceEvents.ts#L25)

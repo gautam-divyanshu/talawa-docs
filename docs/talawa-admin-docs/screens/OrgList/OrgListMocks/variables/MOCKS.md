@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/OrgList/OrgListMocks](../README.md) / MOCKS
-
 # Variable: MOCKS
 
-> `const` **MOCKS**: (`object` \| `object` \| `object` \| `object`)[]
+> `const` **MOCKS**: (\{ `request`: \{ `notifyOnNetworkStatusChange`: `boolean`; `query`: `DocumentNode`; `variables`: \{ `address`: `undefined`; `description`: `undefined`; `filter`: `string`; `first`: `number`; `image`: `undefined`; `name`: `undefined`; `orderBy`: `string`; `skip`: `number`; `userId`: `undefined`; `userRegistrationRequired`: `undefined`; `visibleInSearch`: `undefined`; \}; \}; `result`: \{ `data`: \{ `createOrganization`: `undefined`; `createSampleOrganization`: `undefined`; `organizationsConnection`: `InterfaceOrgConnectionInfoType`[]; `user`: `undefined`; \}; \}; \} \| \{ `request`: \{ `notifyOnNetworkStatusChange`: `undefined`; `query`: `DocumentNode`; `variables`: \{ `address`: `undefined`; `description`: `undefined`; `filter`: `undefined`; `first`: `undefined`; `image`: `undefined`; `name`: `undefined`; `orderBy`: `undefined`; `skip`: `undefined`; `userId`: `string`; `userRegistrationRequired`: `undefined`; `visibleInSearch`: `undefined`; \}; \}; `result`: \{ `data`: \{ `createOrganization`: `undefined`; `createSampleOrganization`: `undefined`; `organizationsConnection`: `undefined`; `user`: `InterfaceUserType`; \}; \}; \} \| \{ `request`: \{ `notifyOnNetworkStatusChange`: `undefined`; `query`: `DocumentNode`; `variables`: `undefined`; \}; `result`: \{ `data`: \{ `createOrganization`: `undefined`; `createSampleOrganization`: \{ `id`: `string`; `name`: `string`; \}; `organizationsConnection`: `undefined`; `user`: `undefined`; \}; \}; \} \| \{ `request`: \{ `notifyOnNetworkStatusChange`: `undefined`; `query`: `DocumentNode`; `variables`: \{ `address`: \{ `city`: `string`; `countryCode`: `string`; `dependentLocality`: `string`; `line1`: `string`; `line2`: `string`; `postalCode`: `string`; `sortingCode`: `string`; `state`: `string`; \}; `description`: `string`; `filter`: `undefined`; `first`: `undefined`; `image`: `string`; `name`: `string`; `orderBy`: `undefined`; `skip`: `undefined`; `userId`: `undefined`; `userRegistrationRequired`: `boolean`; `visibleInSearch`: `boolean`; \}; \}; `result`: \{ `data`: \{ `createOrganization`: \{ `_id`: `string`; \}; `createSampleOrganization`: `undefined`; `organizationsConnection`: `undefined`; `user`: `undefined`; \}; \}; \})[]
 
-## Defined in
-
-[src/screens/OrgList/OrgListMocks.ts:94](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrgList/OrgListMocks.ts#L94)
+Defined in: [src/screens/OrgList/OrgListMocks.ts:94](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrgList/OrgListMocks.ts#L94)

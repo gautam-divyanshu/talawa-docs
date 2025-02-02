@@ -1,21 +1,25 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/OrgSettings/ActionItemCategories/OrgActionItemCategories](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+
+Defined in: [src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx#L61)
 
 Represents the component for managing organization action item categories.
 This component allows creating, updating, enabling, and disabling action item categories.
 
 ## Parameters
 
-• **props**: `InterfaceActionItemCategoryProps`
+### props
 
-• **deprecatedLegacyContext?**: `any`
+`InterfaceActionItemCategoryProps`
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -26,7 +30,3 @@ This component allows creating, updating, enabling, and disabling action item ca
 ## Returns
 
 `ReactNode`
-
-## Defined in
-
-[src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx#L61)

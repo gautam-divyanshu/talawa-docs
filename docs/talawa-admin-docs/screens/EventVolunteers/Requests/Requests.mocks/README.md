@@ -1,14 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / screens/EventVolunteers/Requests/Requests.mocks
-
 # screens/EventVolunteers/Requests/Requests.mocks
 
-## Index
-
-### Variables
+## Variables
 
 - [EMPTY\_MOCKS](variables/EMPTY_MOCKS.md)
 - [ERROR\_MOCKS](variables/ERROR_MOCKS.md)

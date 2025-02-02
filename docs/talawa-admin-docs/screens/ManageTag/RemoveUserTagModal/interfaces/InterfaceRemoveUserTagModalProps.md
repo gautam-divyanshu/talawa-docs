@@ -1,12 +1,31 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/ManageTag/RemoveUserTagModal](../README.md) / InterfaceRemoveUserTagModalProps
-
 # Interface: InterfaceRemoveUserTagModalProps
 
+Defined in: [src/screens/ManageTag/RemoveUserTagModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/ManageTag/RemoveUserTagModal.tsx#L29)
+
 Remove UserTag Modal component for the Manage Tag screen.
+
+## CSS Strategy Explanation:
+
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.modalHeader`
+- `.removeButton`
+- `.addButton`
+
+For more details on the reusable classes, refer to the global CSS file.
 
 ## Properties
 
@@ -14,13 +33,11 @@ Remove UserTag Modal component for the Manage Tag screen.
 
 > **handleRemoveUserTag**: () => `Promise`\<`void`\>
 
+Defined in: [src/screens/ManageTag/RemoveUserTagModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/ManageTag/RemoveUserTagModal.tsx#L32)
+
 #### Returns
 
 `Promise`\<`void`\>
-
-#### Defined in
-
-[src/screens/ManageTag/RemoveUserTagModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/ManageTag/RemoveUserTagModal.tsx#L12)
 
 ***
 
@@ -28,29 +45,23 @@ Remove UserTag Modal component for the Manage Tag screen.
 
 > **removeUserTagModalIsOpen**: `boolean`
 
-#### Defined in
-
-[src/screens/ManageTag/RemoveUserTagModal.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/ManageTag/RemoveUserTagModal.tsx#L10)
+Defined in: [src/screens/ManageTag/RemoveUserTagModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/ManageTag/RemoveUserTagModal.tsx#L30)
 
 ***
 
 ### t
 
-> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
+> **t**: `TFunction`\<`"manageTag"`\>
 
-#### Defined in
-
-[src/screens/ManageTag/RemoveUserTagModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/ManageTag/RemoveUserTagModal.tsx#L13)
+Defined in: [src/screens/ManageTag/RemoveUserTagModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/ManageTag/RemoveUserTagModal.tsx#L33)
 
 ***
 
 ### tCommon
 
-> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
+> **tCommon**: `TFunction`\<`"common"`\>
 
-#### Defined in
-
-[src/screens/ManageTag/RemoveUserTagModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/ManageTag/RemoveUserTagModal.tsx#L14)
+Defined in: [src/screens/ManageTag/RemoveUserTagModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/ManageTag/RemoveUserTagModal.tsx#L34)
 
 ***
 
@@ -58,10 +69,8 @@ Remove UserTag Modal component for the Manage Tag screen.
 
 > **toggleRemoveUserTagModal**: () => `void`
 
+Defined in: [src/screens/ManageTag/RemoveUserTagModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/ManageTag/RemoveUserTagModal.tsx#L31)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/ManageTag/RemoveUserTagModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/ManageTag/RemoveUserTagModal.tsx#L11)

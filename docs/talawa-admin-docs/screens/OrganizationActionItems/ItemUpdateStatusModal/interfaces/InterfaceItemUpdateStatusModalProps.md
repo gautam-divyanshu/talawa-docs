@@ -1,10 +1,28 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/OrganizationActionItems/ItemUpdateStatusModal](../README.md) / InterfaceItemUpdateStatusModalProps
-
 # Interface: InterfaceItemUpdateStatusModalProps
+
+Defined in: [src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx#L31)
+
+## CSS Strategy Explanation:
+
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.addButton`
+- `.removeButton`
+
+For more details on the reusable classes, refer to the global CSS file.
 
 ## Properties
 
@@ -12,9 +30,7 @@
 
 > **actionItem**: `InterfaceActionItemInfo`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx#L15)
+Defined in: [src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx#L35)
 
 ***
 
@@ -22,13 +38,11 @@
 
 > **actionItemsRefetch**: () => `void`
 
+Defined in: [src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx#L34)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx#L14)
 
 ***
 
@@ -36,13 +50,11 @@
 
 > **hide**: () => `void`
 
+Defined in: [src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx#L33)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx#L13)
 
 ***
 
@@ -50,6 +62,4 @@
 
 > **isOpen**: `boolean`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx#L12)
+Defined in: [src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemUpdateStatusModal.tsx#L32)

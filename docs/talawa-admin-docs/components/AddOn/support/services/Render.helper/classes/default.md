@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../../modules.md) / [components/AddOn/support/services/Render.helper](../README.md) / default
-
 # Class: default
+
+Defined in: [src/components/AddOn/support/services/Render.helper.ts:1](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddOn/support/services/Render.helper.ts#L1)
 
 ## Constructors
 

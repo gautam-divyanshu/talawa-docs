@@ -1,13 +1,63 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/ManageTag/ManageTagMocks](../README.md) / MOCKS\_ERROR\_ASSIGNED\_MEMBERS
 
 # Variable: MOCKS\_ERROR\_ASSIGNED\_MEMBERS
 
 > `const` **MOCKS\_ERROR\_ASSIGNED\_MEMBERS**: `object`[]
 
-## Defined in
+Defined in: [src/screens/ManageTag/ManageTagMocks.ts:320](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/ManageTag/ManageTagMocks.ts#L320)
 
-[src/screens/ManageTag/ManageTagMocks.ts:320](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/ManageTag/ManageTagMocks.ts#L320)
+## Type declaration
+
+### error
+
+> **error**: `Error`
+
+### request
+
+> **request**: `object`
+
+#### request.query
+
+> **query**: `DocumentNode` = `USER_TAGS_ASSIGNED_MEMBERS`
+
+#### request.variables
+
+> **variables**: `object`
+
+#### request.variables.first
+
+> **first**: `number` = `TAGS_QUERY_DATA_CHUNK_SIZE`
+
+#### request.variables.id
+
+> **id**: `string` = `'1'`
+
+#### request.variables.sortedBy
+
+> **sortedBy**: `object`
+
+#### request.variables.sortedBy.id
+
+> **id**: `string` = `'DESCENDING'`
+
+#### request.variables.where
+
+> **where**: `object`
+
+#### request.variables.where.firstName
+
+> **firstName**: `object`
+
+#### request.variables.where.firstName.starts\_with
+
+> **starts\_with**: `string` = `''`
+
+#### request.variables.where.lastName
+
+> **lastName**: `object`
+
+#### request.variables.where.lastName.starts\_with
+
+> **starts\_with**: `string` = `''`

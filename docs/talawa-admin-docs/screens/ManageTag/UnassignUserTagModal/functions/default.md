@@ -1,18 +1,22 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/ManageTag/UnassignUserTagModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/ManageTag/UnassignUserTagModal.tsx#L36)
+
 ## Parameters
 
-• **props**: [`InterfaceUnassignUserTagModalProps`](../interfaces/InterfaceUnassignUserTagModalProps.md)
+### props
 
-• **deprecatedLegacyContext?**: `any`
+[`InterfaceUnassignUserTagModalProps`](../interfaces/InterfaceUnassignUserTagModalProps.md)
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -23,7 +27,3 @@
 ## Returns
 
 `ReactNode`
-
-## Defined in
-
-[src/screens/ManageTag/UnassignUserTagModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/ManageTag/UnassignUserTagModal.tsx#L17)

@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/TableLoader/TableLoader](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `Element`
+
+Defined in: [src/components/TableLoader/TableLoader.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/TableLoader/TableLoader.tsx#L23)
 
 The TableLoader component displays a loading skeleton for tables.
 It shows a specified number of rows and columns as placeholders
@@ -14,7 +14,9 @@ with a shimmering effect to indicate loading content.
 
 ## Parameters
 
-• **props**: [`InterfaceTableLoader`](../interfaces/InterfaceTableLoader.md)
+### props
+
+[`InterfaceTableLoader`](../interfaces/InterfaceTableLoader.md)
 
 The properties for the TableLoader component.
 
@@ -23,7 +25,3 @@ The properties for the TableLoader component.
 `Element`
 
 The JSX element representing the table loader.
-
-## Defined in
-
-[src/components/TableLoader/TableLoader.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/TableLoader/TableLoader.tsx#L23)

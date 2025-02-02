@@ -1,20 +1,24 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/OrganizationActionItems/ItemViewModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/screens/OrganizationActionItems/ItemViewModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemViewModal.tsx#L32)
+
 A modal dialog for viewing action item details.
 
 ## Parameters
 
-• **props**: [`InterfaceViewModalProps`](../interfaces/InterfaceViewModalProps.md)
+### props
 
-• **deprecatedLegacyContext?**: `any`
+[`InterfaceViewModalProps`](../interfaces/InterfaceViewModalProps.md)
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -30,7 +34,3 @@ The rendered modal component.
 
 The `ItemViewModal` component displays all the fields of an action item in a modal dialog.
 It includes fields for assignee, assigner, category, pre and post completion notes, assignment date, due date, completion date, and event.
-
-## Defined in
-
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemViewModal.tsx#L32)

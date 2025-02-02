@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/OrgSettings/ActionItemCategories/CategoryModal
-
 # components/OrgSettings/ActionItemCategories/CategoryModal
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceActionItemCategoryModal](interfaces/InterfaceActionItemCategoryModal.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

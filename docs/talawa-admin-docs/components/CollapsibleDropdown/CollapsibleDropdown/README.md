@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/CollapsibleDropdown/CollapsibleDropdown
-
 # components/CollapsibleDropdown/CollapsibleDropdown
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceCollapsibleDropdown](interfaces/InterfaceCollapsibleDropdown.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

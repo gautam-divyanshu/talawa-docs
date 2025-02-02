@@ -1,20 +1,24 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [screens/ManageTag/ManageTagMockComponents/MockTagActions](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx#L8)
+
 Component that mocks the TagActions component for the Manage Tag screen.
 
 ## Parameters
 
-• **props**: [`InterfaceTagActionsProps`](../../../../../components/TagActions/TagActions/interfaces/InterfaceTagActionsProps.md)
+### props
 
-• **deprecatedLegacyContext?**: `any`
+[`InterfaceTagActionsProps`](../../../../../components/TagActions/TagActions/interfaces/InterfaceTagActionsProps.md)
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -25,7 +29,3 @@ Component that mocks the TagActions component for the Manage Tag screen.
 ## Returns
 
 `ReactNode`
-
-## Defined in
-
-[src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/ManageTag/ManageTagMockComponents/MockTagActions.tsx#L8)

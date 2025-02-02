@@ -1,21 +1,19 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/MemberDetail/MemberDetail](../README.md) / getLanguageName
 
 # Function: getLanguageName()
 
 > **getLanguageName**(`code`): `string`
 
+Defined in: [src/screens/MemberDetail/MemberDetail.tsx:744](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/MemberDetail/MemberDetail.tsx#L744)
+
 ## Parameters
 
-• **code**: `string`
+### code
+
+`string`
 
 ## Returns
 
 `string`
-
-## Defined in
-
-[src/screens/MemberDetail/MemberDetail.tsx:752](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/MemberDetail/MemberDetail.tsx#L752)

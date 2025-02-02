@@ -1,20 +1,24 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/FundCampaignPledge/PledgeModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/screens/FundCampaignPledge/PledgeModal.tsx:89](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/FundCampaignPledge/PledgeModal.tsx#L89)
+
 A modal dialog for creating or editing a pledge.
 
 ## Parameters
 
-• **props**: [`InterfacePledgeModal`](../interfaces/InterfacePledgeModal.md)
+### props
 
-• **deprecatedLegacyContext?**: `any`
+[`InterfacePledgeModal`](../interfaces/InterfacePledgeModal.md)
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -46,6 +50,19 @@ On form submission, the component either:
 
 Success or error messages are displayed using toast notifications based on the result of the mutation.
 
-## Defined in
+## CSS Strategy Explanation:
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/FundCampaignPledge/PledgeModal.tsx#L72)
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.addButton`
+
+For more details on the reusable classes, refer to the global CSS file.

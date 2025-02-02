@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / screens/UserPortal/Campaigns/PledgeModal
-
 # screens/UserPortal/Campaigns/PledgeModal
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfacePledgeModal](interfaces/InterfacePledgeModal.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

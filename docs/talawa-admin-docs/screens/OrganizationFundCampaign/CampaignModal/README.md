@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/OrganizationFundCampaign/CampaignModal
-
 # screens/OrganizationFundCampaign/CampaignModal
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceCampaignModal](interfaces/InterfaceCampaignModal.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

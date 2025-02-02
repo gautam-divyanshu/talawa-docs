@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [screens/UserPortal/Pledges/Pledges](../README.md) / default
 
 # Function: default()
 
 > **default**(): `Element`
+
+Defined in: [src/screens/UserPortal/Pledges/Pledges.tsx:89](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Pledges/Pledges.tsx#L89)
 
 The `Pledges` component is responsible for rendering a user's pledges within a campaign.
 It fetches pledges data using Apollo Client's `useQuery` hook and displays the data
@@ -29,6 +29,21 @@ Key functionalities include:
 
 The rendered Pledges component.
 
-## Defined in
+## CSS Strategy Explanation:
 
-[src/screens/UserPortal/Pledges/Pledges.tsx:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Pledges/Pledges.tsx#L70)
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.editButton`
+- `.searchButton`
+- `.btnsBlock`
+
+For more details on the reusable classes, refer to the global CSS file.

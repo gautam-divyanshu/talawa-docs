@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [components/EventListCard/EventListCard](../README.md) / InterfaceEventListCardProps
-
 # Interface: InterfaceEventListCardProps
+
+Defined in: [src/components/EventListCard/EventListCard.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L11)
 
 Props for the EventListCard component.
 
@@ -14,15 +14,15 @@ Props for the EventListCard component.
 
 > **allDay**: `boolean`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L23)
+Defined in: [src/components/EventListCard/EventListCard.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L23)
 
 ***
 
 ### creator?
 
 > `optional` **creator**: `object`
+
+Defined in: [src/components/EventListCard/EventListCard.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L32)
 
 #### \_id
 
@@ -36,29 +36,21 @@ Props for the EventListCard component.
 
 > **lastName**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L32)
-
 ***
 
 ### endDate
 
 > **endDate**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L20)
+Defined in: [src/components/EventListCard/EventListCard.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L20)
 
 ***
 
 ### endTime
 
-> **endTime**: `null` \| `string`
+> **endTime**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L22)
+Defined in: [src/components/EventListCard/EventListCard.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L22)
 
 ***
 
@@ -66,9 +58,7 @@ Props for the EventListCard component.
 
 > **eventDescription**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L18)
+Defined in: [src/components/EventListCard/EventListCard.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L18)
 
 ***
 
@@ -76,9 +66,7 @@ Props for the EventListCard component.
 
 > **eventLocation**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L16)
+Defined in: [src/components/EventListCard/EventListCard.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L16)
 
 ***
 
@@ -86,9 +74,7 @@ Props for the EventListCard component.
 
 > **eventName**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L17)
+Defined in: [src/components/EventListCard/EventListCard.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L17)
 
 ***
 
@@ -96,9 +82,7 @@ Props for the EventListCard component.
 
 > **id**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L15)
+Defined in: [src/components/EventListCard/EventListCard.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L15)
 
 ***
 
@@ -106,9 +90,7 @@ Props for the EventListCard component.
 
 > **isPublic**: `boolean`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L27)
+Defined in: [src/components/EventListCard/EventListCard.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L27)
 
 ***
 
@@ -116,9 +98,7 @@ Props for the EventListCard component.
 
 > **isRecurringEventException**: `boolean`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L26)
+Defined in: [src/components/EventListCard/EventListCard.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L26)
 
 ***
 
@@ -126,9 +106,7 @@ Props for the EventListCard component.
 
 > **isRegisterable**: `boolean`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L28)
+Defined in: [src/components/EventListCard/EventListCard.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L28)
 
 ***
 
@@ -136,19 +114,15 @@ Props for the EventListCard component.
 
 > **key**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L14)
+Defined in: [src/components/EventListCard/EventListCard.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L14)
 
 ***
 
 ### recurrenceRule
 
-> **recurrenceRule**: `null` \| `InterfaceRecurrenceRule`
+> **recurrenceRule**: `InterfaceRecurrenceRule`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L25)
+Defined in: [src/components/EventListCard/EventListCard.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L25)
 
 ***
 
@@ -156,9 +130,7 @@ Props for the EventListCard component.
 
 > **recurring**: `boolean`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L24)
+Defined in: [src/components/EventListCard/EventListCard.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L24)
 
 ***
 
@@ -166,13 +138,11 @@ Props for the EventListCard component.
 
 > `optional` **refetchEvents**: () => `void`
 
+Defined in: [src/components/EventListCard/EventListCard.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L12)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L12)
 
 ***
 
@@ -180,9 +150,11 @@ Props for the EventListCard component.
 
 > `optional` **registrants**: `object`[]
 
-#### Defined in
+Defined in: [src/components/EventListCard/EventListCard.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L29)
 
-[src/components/EventListCard/EventListCard.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L29)
+#### \_id
+
+> **\_id**: `string`
 
 ***
 
@@ -190,19 +162,15 @@ Props for the EventListCard component.
 
 > **startDate**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L19)
+Defined in: [src/components/EventListCard/EventListCard.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L19)
 
 ***
 
 ### startTime
 
-> **startTime**: `null` \| `string`
+> **startTime**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L21)
+Defined in: [src/components/EventListCard/EventListCard.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L21)
 
 ***
 
@@ -210,6 +178,4 @@ Props for the EventListCard component.
 
 > `optional` **userRole**: `string`
 
-#### Defined in
-
-[src/components/EventListCard/EventListCard.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCard.tsx#L13)
+Defined in: [src/components/EventListCard/EventListCard.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCard.tsx#L13)

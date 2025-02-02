@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/CheckIn/tagTemplate
-
 # components/CheckIn/tagTemplate
 
-## Index
-
-### Variables
+## Variables
 
 - [tagTemplate](variables/tagTemplate.md)

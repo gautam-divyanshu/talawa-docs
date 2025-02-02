@@ -1,20 +1,24 @@
-[**talawa-admin**](../../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../../modules.md) / [screens/UserPortal/Volunteer/Groups/GroupModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L71)
+
 A modal dialog for creating or editing a volunteer group.
 
 ## Parameters
 
-• **props**: [`InterfaceGroupModal`](../interfaces/InterfaceGroupModal.md)
+### props
 
-• **deprecatedLegacyContext?**: `any`
+[`InterfaceGroupModal`](../interfaces/InterfaceGroupModal.md)
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -43,7 +47,3 @@ On form submission, the component either:
 - Calls `updateVoluneerGroup` mutation to update an existing group, or
 
 Success or error messages are displayed using toast notifications based on the result of the mutation.
-
-## Defined in
-
-[src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L71)

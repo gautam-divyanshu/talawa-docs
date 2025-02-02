@@ -1,13 +1,47 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/Leaderboard/Leaderboard.mocks](../README.md) / ERROR\_MOCKS
 
 # Variable: ERROR\_MOCKS
 
 > `const` **ERROR\_MOCKS**: `object`[]
 
-## Defined in
+Defined in: [src/screens/Leaderboard/Leaderboard.mocks.ts:183](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/Leaderboard/Leaderboard.mocks.ts#L183)
 
-[src/screens/Leaderboard/Leaderboard.mocks.ts:183](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/Leaderboard/Leaderboard.mocks.ts#L183)
+## Type declaration
+
+### error
+
+> **error**: `Error`
+
+### request
+
+> **request**: `object`
+
+#### request.query
+
+> **query**: `DocumentNode` = `VOLUNTEER_RANKING`
+
+#### request.variables
+
+> **variables**: `object`
+
+#### request.variables.orgId
+
+> **orgId**: `string` = `'orgId'`
+
+#### request.variables.where
+
+> **where**: `object`
+
+#### request.variables.where.nameContains
+
+> **nameContains**: `string` = `''`
+
+#### request.variables.where.orderBy
+
+> **orderBy**: `string` = `'hours_DESC'`
+
+#### request.variables.where.timeFrame
+
+> **timeFrame**: `string` = `'allTime'`

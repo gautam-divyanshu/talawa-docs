@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [components/UsersTableItem/UserTableItemMocks](../README.md) / MOCKS\_UPDATE
-
 # Variable: MOCKS\_UPDATE
 
-> `const` **MOCKS\_UPDATE**: (`object` \| `object`)[]
+> `const` **MOCKS\_UPDATE**: (\{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `organizationId`: `string`; `role`: `string`; `userId`: `string`; \}; \}; `result`: `undefined`; \} \| \{ `error`: `undefined`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `organizationId`: `string`; `role`: `string`; `userId`: `string`; \}; \}; `result`: \{ `data`: \{ `updateUserRoleInOrganization`: \{ `_id`: `string`; \}; \}; \}; \})[]
 
-## Defined in
-
-[src/components/UsersTableItem/UserTableItemMocks.ts:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/UsersTableItem/UserTableItemMocks.ts#L55)
+Defined in: [src/components/UsersTableItem/UserTableItemMocks.ts:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/UsersTableItem/UserTableItemMocks.ts#L55)

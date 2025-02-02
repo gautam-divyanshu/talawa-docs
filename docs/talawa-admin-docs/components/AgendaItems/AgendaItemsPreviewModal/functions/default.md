@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/AgendaItems/AgendaItemsPreviewModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+
+Defined in: [src/components/AgendaItems/AgendaItemsPreviewModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AgendaItems/AgendaItemsPreviewModal.tsx#L41)
 
 Modal component for previewing details of an agenda item.
 Displays the details of the selected agenda item, including its categories, title, description, duration, creator, URLs, and attachments.
@@ -14,9 +14,13 @@ Also provides options to update or delete the agenda item.
 
 ## Parameters
 
-• **props**: `InterfaceAgendaItemsPreviewModalProps`
+### props
 
-• **deprecatedLegacyContext?**: `any`
+`InterfaceAgendaItemsPreviewModalProps`
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -27,7 +31,3 @@ Also provides options to update or delete the agenda item.
 ## Returns
 
 `ReactNode`
-
-## Defined in
-
-[src/components/AgendaItems/AgendaItemsPreviewModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AgendaItems/AgendaItemsPreviewModal.tsx#L41)

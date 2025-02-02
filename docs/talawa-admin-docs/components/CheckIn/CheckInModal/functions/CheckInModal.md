@@ -1,26 +1,24 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/CheckIn/CheckInModal](../README.md) / CheckInModal
 
 # Function: CheckInModal()
 
 > **CheckInModal**(`__namedParameters`): `Element`
+
+Defined in: [src/components/CheckIn/CheckInModal.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/CheckIn/CheckInModal.tsx#L26)
 
 Modal component for managing event check-ins. Displays a list of attendees
 and their check-in statuses, allowing for filtering by user name.
 
 ## Parameters
 
-• **\_\_namedParameters**: [`InterfaceModalProp`](../../types/interfaces/InterfaceModalProp.md)
+### \_\_namedParameters
+
+[`InterfaceModalProp`](../../types/interfaces/InterfaceModalProp.md)
 
 ## Returns
 
 `Element`
 
 JSX.Element - The rendered modal component.
-
-## Defined in
-
-[src/components/CheckIn/CheckInModal.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/CheckIn/CheckInModal.tsx#L26)

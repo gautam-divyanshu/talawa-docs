@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / screens/EventVolunteers/Volunteers/VolunteerCreateModal
-
 # screens/EventVolunteers/Volunteers/VolunteerCreateModal
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceVolunteerCreateModal](interfaces/InterfaceVolunteerCreateModal.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/plugins/DummyPlugin2/DummyPlugin2](../README.md) / default
 
 # Function: default()
 
 > **default**(): `JSX.Element`
+
+Defined in: [src/components/plugins/DummyPlugin2/DummyPlugin2.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/plugins/DummyPlugin2/DummyPlugin2.tsx#L10)
 
 A placeholder component for demonstration or testing purposes.
 It renders an empty `div` element.
@@ -17,7 +17,3 @@ or properties.
 ## Returns
 
 `JSX.Element`
-
-## Defined in
-
-[src/components/plugins/DummyPlugin2/DummyPlugin2.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/plugins/DummyPlugin2/DummyPlugin2.tsx#L10)

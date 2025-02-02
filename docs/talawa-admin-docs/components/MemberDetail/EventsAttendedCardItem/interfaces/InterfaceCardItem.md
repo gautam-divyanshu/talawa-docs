@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [components/MemberDetail/EventsAttendedCardItem](../README.md) / InterfaceCardItem
-
 # Interface: InterfaceCardItem
+
+Defined in: [src/components/MemberDetail/EventsAttendedCardItem.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/MemberDetail/EventsAttendedCardItem.tsx#L16)
 
 Card component to display individual event attendance information
 Shows event details including title, date, location and organization
@@ -35,9 +35,7 @@ Event location
 
 > `optional` **creator**: `string`
 
-#### Defined in
-
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/MemberDetail/EventsAttendedCardItem.tsx#L20)
+Defined in: [src/components/MemberDetail/EventsAttendedCardItem.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/MemberDetail/EventsAttendedCardItem.tsx#L20)
 
 ***
 
@@ -45,9 +43,7 @@ Event location
 
 > `optional` **eventId**: `string`
 
-#### Defined in
-
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/MemberDetail/EventsAttendedCardItem.tsx#L22)
+Defined in: [src/components/MemberDetail/EventsAttendedCardItem.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/MemberDetail/EventsAttendedCardItem.tsx#L22)
 
 ***
 
@@ -55,9 +51,7 @@ Event location
 
 > `optional` **location**: `string`
 
-#### Defined in
-
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/MemberDetail/EventsAttendedCardItem.tsx#L21)
+Defined in: [src/components/MemberDetail/EventsAttendedCardItem.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/MemberDetail/EventsAttendedCardItem.tsx#L21)
 
 ***
 
@@ -65,9 +59,7 @@ Event location
 
 > `optional` **orgId**: `string`
 
-#### Defined in
-
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/MemberDetail/EventsAttendedCardItem.tsx#L23)
+Defined in: [src/components/MemberDetail/EventsAttendedCardItem.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/MemberDetail/EventsAttendedCardItem.tsx#L23)
 
 ***
 
@@ -75,9 +67,7 @@ Event location
 
 > `optional` **startdate**: `string`
 
-#### Defined in
-
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/MemberDetail/EventsAttendedCardItem.tsx#L19)
+Defined in: [src/components/MemberDetail/EventsAttendedCardItem.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/MemberDetail/EventsAttendedCardItem.tsx#L19)
 
 ***
 
@@ -85,9 +75,7 @@ Event location
 
 > `optional` **time**: `string`
 
-#### Defined in
-
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/MemberDetail/EventsAttendedCardItem.tsx#L18)
+Defined in: [src/components/MemberDetail/EventsAttendedCardItem.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/MemberDetail/EventsAttendedCardItem.tsx#L18)
 
 ***
 
@@ -95,6 +83,4 @@ Event location
 
 > **title**: `string`
 
-#### Defined in
-
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/MemberDetail/EventsAttendedCardItem.tsx#L17)
+Defined in: [src/components/MemberDetail/EventsAttendedCardItem.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/MemberDetail/EventsAttendedCardItem.tsx#L17)

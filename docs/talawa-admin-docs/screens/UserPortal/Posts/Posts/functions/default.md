@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [screens/UserPortal/Posts/Posts](../README.md) / default
 
 # Function: default()
 
 > **default**(): `JSX.Element`
+
+Defined in: [src/screens/UserPortal/Posts/Posts.tsx:130](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Posts/Posts.tsx#L130)
 
 `home` component displays the main feed for a user, including posts, promoted content, and options to create a new post.
 
@@ -18,6 +18,20 @@ It utilizes Apollo Client for fetching and managing data through GraphQL queries
 
 JSX.Element - The rendered `home` component.
 
-## Defined in
+## CSS Strategy Explanation:
 
-[src/screens/UserPortal/Posts/Posts.tsx:111](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Posts/Posts.tsx#L111)
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.inputField`
+- `.addButton`
+
+For more details on the reusable classes, refer to the global CSS file.

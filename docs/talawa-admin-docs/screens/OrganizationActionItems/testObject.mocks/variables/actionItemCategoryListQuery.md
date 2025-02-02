@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/OrganizationActionItems/testObject.mocks](../README.md) / actionItemCategoryListQuery
 
 # Variable: actionItemCategoryListQuery
 
 > `const` **actionItemCategoryListQuery**: `object`
+
+Defined in: [src/screens/OrganizationActionItems/testObject.mocks.ts:408](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/testObject.mocks.ts#L408)
 
 ## Type declaration
 
@@ -14,23 +14,23 @@
 
 > **request**: `object`
 
-### request.query
+#### request.query
 
 > **query**: `DocumentNode` = `ACTION_ITEM_CATEGORY_LIST`
 
-### request.variables
+#### request.variables
 
 > **variables**: `object`
 
-### request.variables.organizationId
+#### request.variables.organizationId
 
 > **organizationId**: `string` = `'orgId'`
 
-### request.variables.where
+#### request.variables.where
 
 > **where**: `object`
 
-### request.variables.where.is\_disabled
+#### request.variables.where.is\_disabled
 
 > **is\_disabled**: `boolean` = `false`
 
@@ -38,14 +38,10 @@
 
 > **result**: `object`
 
-### result.data
+#### result.data
 
 > **data**: `object`
 
-### result.data.actionItemCategoriesByOrganization
+#### result.data.actionItemCategoriesByOrganization
 
-> **actionItemCategoriesByOrganization**: (`object` \| `object`)[]
-
-## Defined in
-
-[src/screens/OrganizationActionItems/testObject.mocks.ts:408](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/testObject.mocks.ts#L408)
+> **actionItemCategoriesByOrganization**: (\{ `_id`: `string`; `createdAt`: `string`; `creator`: \{ `_id`: `string`; `firstName`: `string`; `lastName`: `string`; \}; `isDisabled`: `boolean`; `name`: `string`; \} \| \{ `_id`: `undefined`; `createdAt`: `string`; `creator`: \{ `_id`: `undefined`; `firstName`: `string`; `lastName`: `string`; \}; `isDisabled`: `boolean`; `name`: `string`; \})[]

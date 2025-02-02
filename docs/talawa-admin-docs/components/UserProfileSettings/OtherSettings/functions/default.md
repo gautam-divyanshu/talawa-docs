@@ -1,21 +1,23 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/UserProfileSettings/OtherSettings](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+
+Defined in: [src/components/UserProfileSettings/OtherSettings.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/UserProfileSettings/OtherSettings.tsx#L13)
 
 OtherSettings component displays a card with settings options such as changing the language.
 It includes a label and a dropdown for selecting a different language.
 
 ## Parameters
 
-• **props**
+### props
 
-• **deprecatedLegacyContext?**: `any`
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -28,7 +30,3 @@ It includes a label and a dropdown for selecting a different language.
 `ReactNode`
 
 The JSX element for the other settings card.
-
-## Defined in
-
-[src/components/UserProfileSettings/OtherSettings.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/UserProfileSettings/OtherSettings.tsx#L13)

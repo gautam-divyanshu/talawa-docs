@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / screens/UserPortal/Donate/Donate
-
 # screens/UserPortal/Donate/Donate
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceDonationCardProps](interfaces/InterfaceDonationCardProps.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

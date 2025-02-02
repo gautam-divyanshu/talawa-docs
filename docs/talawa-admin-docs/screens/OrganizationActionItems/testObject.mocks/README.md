@@ -1,14 +1,10 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/OrganizationActionItems/testObject.mocks
-
 # screens/OrganizationActionItems/testObject.mocks
 
-## Index
-
-### Variables
+## Variables
 
 - [actionItemCategory1](variables/actionItemCategory1.md)
 - [actionItemCategory2](variables/actionItemCategory2.md)

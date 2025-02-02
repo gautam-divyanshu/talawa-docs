@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../modules.md) / components/AddOn/core/AddOnRegister/AddOnRegister
-
 # components/AddOn/core/AddOnRegister/AddOnRegister
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

@@ -1,14 +1,10 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/EventCalendar/constants
-
 # components/EventCalendar/constants
 
-## Index
-
-### Variables
+## Variables
 
 - [holidays](variables/holidays.md)
 - [hours](variables/hours.md)

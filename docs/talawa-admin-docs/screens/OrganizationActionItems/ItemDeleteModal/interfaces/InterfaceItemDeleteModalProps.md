@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/OrganizationActionItems/ItemDeleteModal](../README.md) / InterfaceItemDeleteModalProps
-
 # Interface: InterfaceItemDeleteModalProps
+
+Defined in: [src/screens/OrganizationActionItems/ItemDeleteModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L13)
 
 Props for the `ItemDeleteModal` component.
 
@@ -12,11 +12,9 @@ Props for the `ItemDeleteModal` component.
 
 ### actionItem
 
-> **actionItem**: `null` \| `InterfaceActionItemInfo`
+> **actionItem**: `InterfaceActionItemInfo`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L16)
+Defined in: [src/screens/OrganizationActionItems/ItemDeleteModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L16)
 
 ***
 
@@ -24,13 +22,11 @@ Props for the `ItemDeleteModal` component.
 
 > **actionItemsRefetch**: () => `void`
 
+Defined in: [src/screens/OrganizationActionItems/ItemDeleteModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L17)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L17)
 
 ***
 
@@ -38,13 +34,11 @@ Props for the `ItemDeleteModal` component.
 
 > **hide**: () => `void`
 
+Defined in: [src/screens/OrganizationActionItems/ItemDeleteModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L15)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L15)
 
 ***
 
@@ -52,6 +46,4 @@ Props for the `ItemDeleteModal` component.
 
 > **isOpen**: `boolean`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L14)
+Defined in: [src/screens/OrganizationActionItems/ItemDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemDeleteModal.tsx#L14)

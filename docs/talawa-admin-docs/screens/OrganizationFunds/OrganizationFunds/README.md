@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/OrganizationFunds/OrganizationFunds
-
 # screens/OrganizationFunds/OrganizationFunds
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

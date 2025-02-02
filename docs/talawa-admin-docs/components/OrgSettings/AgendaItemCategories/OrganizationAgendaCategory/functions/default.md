@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategory](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+
+Defined in: [src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategory.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategory.tsx#L31)
 
 Component for managing and displaying agenda item categories within an organization.
 
@@ -14,9 +14,13 @@ This component allows users to view, create, and manage agenda item categories. 
 
 ## Parameters
 
-• **props**: `InterfaceAgendaCategoryProps`
+### props
 
-• **deprecatedLegacyContext?**: `any`
+`InterfaceAgendaCategoryProps`
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -29,7 +33,3 @@ This component allows users to view, create, and manage agenda item categories. 
 `ReactNode`
 
 The rendered component.
-
-## Defined in
-
-[src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategory.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategory.tsx#L31)

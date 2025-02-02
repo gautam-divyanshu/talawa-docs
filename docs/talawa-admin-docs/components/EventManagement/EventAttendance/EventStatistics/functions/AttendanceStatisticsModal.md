@@ -1,21 +1,25 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/EventManagement/EventAttendance/EventStatistics](../README.md) / AttendanceStatisticsModal
 
 # Function: AttendanceStatisticsModal()
 
 > **AttendanceStatisticsModal**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+
+Defined in: [src/components/EventManagement/EventAttendance/EventStatistics.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/EventStatistics.tsx#L50)
 
 Component to display statistical information about event attendance
 Shows metrics like total attendees, filtering options, and attendance trends
 
 ## Parameters
 
-• **props**: [`InterfaceAttendanceStatisticsModalProps`](../../InterfaceEvents/interfaces/InterfaceAttendanceStatisticsModalProps.md)
+### props
 
-• **deprecatedLegacyContext?**: `any`
+[`InterfaceAttendanceStatisticsModalProps`](../../InterfaceEvents/interfaces/InterfaceAttendanceStatisticsModalProps.md)
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -28,7 +32,3 @@ Shows metrics like total attendees, filtering options, and attendance trends
 `ReactNode`
 
 JSX element with event statistics dashboard
-
-## Defined in
-
-[src/components/EventManagement/EventAttendance/EventStatistics.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/EventStatistics.tsx#L50)

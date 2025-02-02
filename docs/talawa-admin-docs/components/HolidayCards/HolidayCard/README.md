@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/HolidayCards/HolidayCard
-
 # components/HolidayCards/HolidayCard
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

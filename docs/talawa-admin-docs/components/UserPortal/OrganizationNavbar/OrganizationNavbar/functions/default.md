@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/UserPortal/OrganizationNavbar/OrganizationNavbar](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `JSX.Element`
+
+Defined in: [src/components/UserPortal/OrganizationNavbar/OrganizationNavbar.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/UserPortal/OrganizationNavbar/OrganizationNavbar.tsx#L44)
 
 Displays the organization navbar with navigation options, user settings, and language selection.
 
@@ -18,7 +18,9 @@ The navbar includes:
 
 ## Parameters
 
-• **props**: `InterfaceNavbarProps`
+### props
+
+`InterfaceNavbarProps`
 
 The properties for the navbar.
 
@@ -27,7 +29,3 @@ The properties for the navbar.
 `JSX.Element`
 
 The organization navbar component.
-
-## Defined in
-
-[src/components/UserPortal/OrganizationNavbar/OrganizationNavbar.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/UserPortal/OrganizationNavbar/OrganizationNavbar.tsx#L44)

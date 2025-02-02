@@ -1,26 +1,32 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/AgendaCategory/AgendaCategoryContainer](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `JSX.Element`
 
+Defined in: [src/components/AgendaCategory/AgendaCategoryContainer.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AgendaCategory/AgendaCategoryContainer.tsx#L34)
+
 Component for displaying and managing agenda item categories.
 
 ## Parameters
 
-• **props**
+### props
 
 Contains agenda category data and functions for data management.
 
-• **props.agendaCategoryConnection**: `"Organization"`
+#### agendaCategoryConnection
 
-• **props.agendaCategoryData**: `undefined` \| `InterfaceAgendaItemCategoryInfo`[]
+`"Organization"`
 
-• **props.agendaCategoryRefetch**
+#### agendaCategoryData
+
+`InterfaceAgendaItemCategoryInfo`[]
+
+#### agendaCategoryRefetch
+
+() => `void`
 
 ## Returns
 
@@ -37,7 +43,3 @@ A JSX element that renders agenda item categories with options to preview, edit,
   agendaCategoryRefetch={refetch}
 />
 ```
-
-## Defined in
-
-[src/components/AgendaCategory/AgendaCategoryContainer.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AgendaCategory/AgendaCategoryContainer.tsx#L34)

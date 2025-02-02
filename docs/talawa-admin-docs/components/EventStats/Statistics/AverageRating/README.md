@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/EventStats/Statistics/AverageRating
-
 # components/EventStats/Statistics/AverageRating
 
-## Index
-
-### Functions
+## Functions
 
 - [AverageRating](functions/AverageRating.md)

@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / screens/EventVolunteers/Requests/Requests
-
 # screens/EventVolunteers/Requests/Requests
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

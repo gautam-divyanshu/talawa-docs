@@ -1,18 +1,22 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/UserPortal/UserProfile/EventsAttendedByUser](../README.md) / EventsAttendedByUser
 
 # Function: EventsAttendedByUser()
 
 > **EventsAttendedByUser**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/components/UserPortal/UserProfile/EventsAttendedByUser.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/UserPortal/UserProfile/EventsAttendedByUser.tsx#L31)
+
 ## Parameters
 
-• **props**: `InterfaceUser`
+### props
 
-• **deprecatedLegacyContext?**: `any`
+`InterfaceUser`
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -23,7 +27,3 @@
 ## Returns
 
 `ReactNode`
-
-## Defined in
-
-[src/components/UserPortal/UserProfile/EventsAttendedByUser.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/UserPortal/UserProfile/EventsAttendedByUser.tsx#L31)

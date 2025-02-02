@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/Venues/VenueModal
-
 # components/Venues/VenueModal
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceVenueModalProps](interfaces/InterfaceVenueModalProps.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

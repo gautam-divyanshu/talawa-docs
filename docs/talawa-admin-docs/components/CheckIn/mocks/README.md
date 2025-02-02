@@ -1,14 +1,10 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/CheckIn/mocks
-
 # components/CheckIn/mocks
 
-## Index
-
-### Variables
+## Variables
 
 - [checkInMutationSuccess](variables/checkInMutationSuccess.md)
 - [checkInMutationUnsuccess](variables/checkInMutationUnsuccess.md)

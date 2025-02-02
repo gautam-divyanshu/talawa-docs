@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [components/RequestsTableItem/RequestsTableItem](../README.md) / InterfaceRequestsListItem
-
 # Interface: InterfaceRequestsListItem
+
+Defined in: [src/components/RequestsTableItem/RequestsTableItem.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/RequestsTableItem/RequestsTableItem.tsx#L16)
 
 Represents a membership request in the requests table.
 
@@ -14,15 +14,15 @@ Represents a membership request in the requests table.
 
 > **\_id**: `string`
 
-#### Defined in
-
-[src/components/RequestsTableItem/RequestsTableItem.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/RequestsTableItem/RequestsTableItem.tsx#L17)
+Defined in: [src/components/RequestsTableItem/RequestsTableItem.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/RequestsTableItem/RequestsTableItem.tsx#L17)
 
 ***
 
 ### user
 
 > **user**: `object`
+
+Defined in: [src/components/RequestsTableItem/RequestsTableItem.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/RequestsTableItem/RequestsTableItem.tsx#L18)
 
 #### email
 
@@ -35,7 +35,3 @@ Represents a membership request in the requests table.
 #### lastName
 
 > **lastName**: `string`
-
-#### Defined in
-
-[src/components/RequestsTableItem/RequestsTableItem.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/RequestsTableItem/RequestsTableItem.tsx#L18)

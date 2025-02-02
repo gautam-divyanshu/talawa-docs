@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/OrgListCard/useDebounce
-
 # components/OrgListCard/useDebounce
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

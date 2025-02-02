@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../modules.md) / components/AddOn/support/services/Plugin.helper
-
 # components/AddOn/support/services/Plugin.helper
 
-## Index
-
-### Classes
+## Classes
 
 - [default](classes/default.md)

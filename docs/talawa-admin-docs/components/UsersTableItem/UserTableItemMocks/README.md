@@ -1,14 +1,10 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/UsersTableItem/UserTableItemMocks
-
 # components/UsersTableItem/UserTableItemMocks
 
-## Index
-
-### Variables
+## Variables
 
 - [MOCKS](variables/MOCKS.md)
 - [MOCKS\_UPDATE](variables/MOCKS_UPDATE.md)

@@ -1,14 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/UserPortal/UserProfile/UserAddressFields
-
 # components/UserPortal/UserProfile/UserAddressFields
 
-## Index
-
-### Functions
+## Functions
 
 - [UserAddressFields](functions/UserAddressFields.md)
 

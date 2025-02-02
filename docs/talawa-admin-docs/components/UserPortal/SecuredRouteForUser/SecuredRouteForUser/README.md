@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/UserPortal/SecuredRouteForUser/SecuredRouteForUser
-
 # components/UserPortal/SecuredRouteForUser/SecuredRouteForUser
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

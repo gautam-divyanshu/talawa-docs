@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/OrgListCard/OrgListCard](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `JSX.Element`
+
+Defined in: [src/components/OrgListCard/OrgListCard.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/OrgListCard/OrgListCard.tsx#L38)
 
 Component for displaying a list card for an organization
 
@@ -16,7 +16,9 @@ to manage the organization, navigating to the organization's dashboard.
 
 ## Parameters
 
-• **props**: [`InterfaceOrgListCardProps`](../interfaces/InterfaceOrgListCardProps.md)
+### props
+
+[`InterfaceOrgListCardProps`](../interfaces/InterfaceOrgListCardProps.md)
 
 The properties passed to the component
 
@@ -25,7 +27,3 @@ The properties passed to the component
 `JSX.Element`
 
 JSX.Element representing an organization list card
-
-## Defined in
-
-[src/components/OrgListCard/OrgListCard.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgListCard/OrgListCard.tsx#L38)

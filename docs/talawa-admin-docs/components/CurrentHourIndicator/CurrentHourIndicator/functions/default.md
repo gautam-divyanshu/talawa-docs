@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/CurrentHourIndicator/CurrentHourIndicator](../README.md) / default
 
 # Function: default()
 
 > **default**(): `Element`
+
+Defined in: [src/components/CurrentHourIndicator/CurrentHourIndicator.tsx:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/CurrentHourIndicator/CurrentHourIndicator.tsx#L9)
 
 A component that displays an indicator for the current hour.
 
@@ -15,7 +15,3 @@ A component that displays an indicator for the current hour.
 `Element`
 
 JSX.Element - The rendered component showing the current hour indicator.
-
-## Defined in
-
-[src/components/CurrentHourIndicator/CurrentHourIndicator.tsx:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/CurrentHourIndicator/CurrentHourIndicator.tsx#L9)

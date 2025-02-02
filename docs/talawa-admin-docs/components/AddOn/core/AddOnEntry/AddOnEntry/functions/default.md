@@ -1,18 +1,20 @@
-[**talawa-admin**](../../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../../modules.md) / [components/AddOn/core/AddOnEntry/AddOnEntry](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `JSX.Element`
 
+Defined in: [src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx#L63)
+
 A React component that represents an add-on entry, displaying its details and allowing installation or uninstallation.
 
 ## Parameters
 
-• **props**: `InterfaceAddOnEntryProps`
+### props
+
+`InterfaceAddOnEntryProps`
 
 The properties for the component.
 
@@ -37,7 +39,20 @@ A JSX element containing the add-on entry.
   getInstalledPlugins={() => {}}
 />
 ```
+## CSS Strategy Explanation:
 
-## Defined in
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
 
-[src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx#L46)
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.addButton`
+- `.removeButton`
+
+For more details on the reusable classes, refer to the global CSS file.

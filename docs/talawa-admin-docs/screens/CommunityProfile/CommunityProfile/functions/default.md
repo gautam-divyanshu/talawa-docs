@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/CommunityProfile/CommunityProfile](../README.md) / default
 
 # Function: default()
 
 > **default**(): `Element`
+
+Defined in: [src/screens/CommunityProfile/CommunityProfile.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/CommunityProfile/CommunityProfile.tsx#L59)
 
 `CommunityProfile` component allows users to view and update their community profile details.
 
@@ -27,6 +27,21 @@ JSX.Element - The `CommunityProfile` component.
 <CommunityProfile />
 ```
 
-## Defined in
+## CSS Strategy Explanation:
 
-[src/screens/CommunityProfile/CommunityProfile.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/CommunityProfile/CommunityProfile.tsx#L40)
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.inputField`
+- `.outlineButton`
+- `.addButton`
+
+For more details on the reusable classes, refer to the global CSS file.

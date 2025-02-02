@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/CheckIn/CheckInModal
-
 # components/CheckIn/CheckInModal
 
-## Index
-
-### Functions
+## Functions
 
 - [CheckInModal](functions/CheckInModal.md)

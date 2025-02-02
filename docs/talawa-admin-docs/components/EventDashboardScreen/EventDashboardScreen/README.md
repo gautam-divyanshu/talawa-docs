@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/EventDashboardScreen/EventDashboardScreen
-
 # components/EventDashboardScreen/EventDashboardScreen
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

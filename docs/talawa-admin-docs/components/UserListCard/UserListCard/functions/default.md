@@ -1,19 +1,21 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/UserListCard/UserListCard](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `JSX.Element`
+
+Defined in: [src/components/UserListCard/UserListCard.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/UserListCard/UserListCard.tsx#L27)
 
 The UserListCard component allows for adding a user as an admin in a specific organization.
 It uses a button to trigger a mutation for updating the user's role.
 
 ## Parameters
 
-• **props**: `InterfaceUserListCardProps`
+### props
+
+`InterfaceUserListCardProps`
 
 The properties for the UserListCard component.
 
@@ -22,7 +24,3 @@ The properties for the UserListCard component.
 `JSX.Element`
 
 The JSX element representing the user list card.
-
-## Defined in
-
-[src/components/UserListCard/UserListCard.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/UserListCard/UserListCard.tsx#L27)

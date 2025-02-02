@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../modules.md) / screens/UserPortal/Volunteer/Groups/GroupModal
-
 # screens/UserPortal/Volunteer/Groups/GroupModal
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceGroupModal](interfaces/InterfaceGroupModal.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

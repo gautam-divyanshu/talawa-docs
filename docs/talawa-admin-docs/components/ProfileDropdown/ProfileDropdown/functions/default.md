@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/ProfileDropdown/ProfileDropdown](../README.md) / default
 
 # Function: default()
 
 > **default**(): `Element`
+
+Defined in: [src/components/ProfileDropdown/ProfileDropdown.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/ProfileDropdown/ProfileDropdown.tsx#L24)
 
 Renders a profile dropdown menu for the user.
 
@@ -22,7 +22,3 @@ and their role (SuperAdmin, Admin, or User). It provides options to view the pro
 `Element`
 
 JSX.Element - The profile dropdown menu.
-
-## Defined in
-
-[src/components/ProfileDropdown/ProfileDropdown.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/ProfileDropdown/ProfileDropdown.tsx#L24)

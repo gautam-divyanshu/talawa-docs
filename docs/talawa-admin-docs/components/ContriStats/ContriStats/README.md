@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/ContriStats/ContriStats
-
 # components/ContriStats/ContriStats
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

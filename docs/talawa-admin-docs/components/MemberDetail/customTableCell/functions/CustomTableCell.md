@@ -1,22 +1,26 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/MemberDetail/customTableCell](../README.md) / CustomTableCell
 
 # Function: CustomTableCell()
 
 > **CustomTableCell**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/components/MemberDetail/customTableCell.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/MemberDetail/customTableCell.tsx#L13)
+
 Custom table cell component to display event details
 
 ## Parameters
 
-• **props**
+### props
 
-• **props.eventId**: `string`
+#### eventId
 
-• **deprecatedLegacyContext?**: `any`
+`string`
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -29,7 +33,3 @@ Custom table cell component to display event details
 `ReactNode`
 
 TableRow component with event information
-
-## Defined in
-
-[src/components/MemberDetail/customTableCell.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/MemberDetail/customTableCell.tsx#L13)

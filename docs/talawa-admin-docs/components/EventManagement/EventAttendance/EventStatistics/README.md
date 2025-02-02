@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/EventManagement/EventAttendance/EventStatistics
-
 # components/EventManagement/EventAttendance/EventStatistics
 
-## Index
-
-### Functions
+## Functions
 
 - [AttendanceStatisticsModal](functions/AttendanceStatisticsModal.md)

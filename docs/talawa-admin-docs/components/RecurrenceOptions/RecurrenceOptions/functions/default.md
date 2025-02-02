@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/RecurrenceOptions/RecurrenceOptions](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+
+Defined in: [src/components/RecurrenceOptions/RecurrenceOptions.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/RecurrenceOptions/RecurrenceOptions.tsx#L49)
 
 Renders a dropdown menu for selecting recurrence options.
 
@@ -24,11 +24,15 @@ The displayed recurrence rule text is truncated if it exceeds a specified length
 
 ## Parameters
 
-• **props**: `InterfaceRecurrenceOptionsProps`
+### props
+
+`InterfaceRecurrenceOptionsProps`
 
 The properties to configure the recurrence options dropdown.
 
-• **deprecatedLegacyContext?**: `any`
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -41,7 +45,3 @@ The properties to configure the recurrence options dropdown.
 `ReactNode`
 
 JSX.Element - The recurrence options dropdown and the custom recurrence modal.
-
-## Defined in
-
-[src/components/RecurrenceOptions/RecurrenceOptions.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/RecurrenceOptions/RecurrenceOptions.tsx#L49)

@@ -1,14 +1,10 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../modules.md) / components/OrgSettings/General/OrgUpdate/OrgUpdateMocks
-
 # components/OrgSettings/General/OrgUpdate/OrgUpdateMocks
 
-## Index
-
-### Variables
+## Variables
 
 - [MOCKS](variables/MOCKS.md)
 - [MOCKS\_ERROR\_ORGLIST](variables/MOCKS_ERROR_ORGLIST.md)

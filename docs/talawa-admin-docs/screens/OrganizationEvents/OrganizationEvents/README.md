@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/OrganizationEvents/OrganizationEvents
-
 # screens/OrganizationEvents/OrganizationEvents
 
-## Index
-
-### Enumerations
+## Enumerations
 
 - [ViewType](enumerations/ViewType.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

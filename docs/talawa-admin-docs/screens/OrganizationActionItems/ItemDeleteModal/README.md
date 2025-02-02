@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/OrganizationActionItems/ItemDeleteModal
-
 # screens/OrganizationActionItems/ItemDeleteModal
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceItemDeleteModalProps](interfaces/InterfaceItemDeleteModalProps.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

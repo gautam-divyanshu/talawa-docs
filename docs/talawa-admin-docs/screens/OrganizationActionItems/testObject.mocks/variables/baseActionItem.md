@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/OrganizationActionItems/testObject.mocks](../README.md) / baseActionItem
 
 # Variable: baseActionItem
 
 > `const` **baseActionItem**: `object`
+
+Defined in: [src/screens/OrganizationActionItems/testObject.mocks.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/testObject.mocks.ts#L21)
 
 ## Type declaration
 
@@ -14,19 +14,19 @@
 
 > **assigner**: `object`
 
-### assigner.\_id
+#### assigner.\_id
 
 > **\_id**: `string` = `'userId'`
 
-### assigner.firstName
+#### assigner.firstName
 
 > **firstName**: `string` = `'Wilt'`
 
-### assigner.image
+#### assigner.image
 
-> **image**: `null` = `null`
+> **image**: `any` = `null`
 
-### assigner.lastName
+#### assigner.lastName
 
 > **lastName**: `string` = `'Shepherd'`
 
@@ -34,26 +34,22 @@
 
 > **creator**: `object`
 
-### creator.\_\_typename
+#### creator.\_\_typename
 
 > **\_\_typename**: `string` = `'User'`
 
-### creator.\_id
+#### creator.\_id
 
 > **\_id**: `string` = `'userId'`
 
-### creator.firstName
+#### creator.firstName
 
 > **firstName**: `string` = `'Wilt'`
 
-### creator.image
+#### creator.image
 
-> **image**: `null` = `null`
+> **image**: `any` = `null`
 
-### creator.lastName
+#### creator.lastName
 
 > **lastName**: `string` = `'Shepherd'`
-
-## Defined in
-
-[src/screens/OrganizationActionItems/testObject.mocks.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/testObject.mocks.ts#L21)

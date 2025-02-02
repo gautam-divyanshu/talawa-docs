@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/OrganizationActionItems/testObject.mocks](../README.md) / memberListQuery
 
 # Variable: memberListQuery
 
 > `const` **memberListQuery**: `object`
+
+Defined in: [src/screens/OrganizationActionItems/testObject.mocks.ts:184](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/testObject.mocks.ts#L184)
 
 ## Type declaration
 
@@ -14,15 +14,15 @@
 
 > **request**: `object`
 
-### request.query
+#### request.query
 
 > **query**: `DocumentNode` = `MEMBERS_LIST`
 
-### request.variables
+#### request.variables
 
 > **variables**: `object`
 
-### request.variables.id
+#### request.variables.id
 
 > **id**: `string` = `'orgId'`
 
@@ -30,14 +30,10 @@
 
 > **result**: `object`
 
-### result.data
+#### result.data
 
 > **data**: `object`
 
-### result.data.organizations
+#### result.data.organizations
 
 > **organizations**: `object`[]
-
-## Defined in
-
-[src/screens/OrganizationActionItems/testObject.mocks.ts:184](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/testObject.mocks.ts#L184)

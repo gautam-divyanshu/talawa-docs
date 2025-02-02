@@ -1,20 +1,24 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/OrgSettings/AgendaItemCategories/AgendaCategoryCreateModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/components/OrgSettings/AgendaItemCategories/AgendaCategoryCreateModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryCreateModal.tsx#L38)
+
 AgendaCategoryCreateModal component is used to create the agenda category details like name, description
 
 ## Parameters
 
-• **props**: `InterfaceAgendaCategoryCreateModalProps`
+### props
 
-• **deprecatedLegacyContext?**: `any`
+`InterfaceAgendaCategoryCreateModalProps`
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -27,7 +31,3 @@ AgendaCategoryCreateModal component is used to create the agenda category detail
 `ReactNode`
 
 returns the AgendaCategoryCreateModal component
-
-## Defined in
-
-[src/components/OrgSettings/AgendaItemCategories/AgendaCategoryCreateModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryCreateModal.tsx#L38)

@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/TableLoader/TableLoader
-
 # components/TableLoader/TableLoader
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceTableLoader](interfaces/InterfaceTableLoader.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

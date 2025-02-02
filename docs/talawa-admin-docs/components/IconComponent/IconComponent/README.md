@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/IconComponent/IconComponent
-
 # components/IconComponent/IconComponent
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceIconComponent](interfaces/InterfaceIconComponent.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

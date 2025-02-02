@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/OrganizationEvents/OrganizationEvents](../README.md) / ViewType
-
 # Enumeration: ViewType
+
+Defined in: [src/screens/OrganizationEvents/OrganizationEvents.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationEvents/OrganizationEvents.tsx#L37)
 
 ## Enumeration Members
 
@@ -12,9 +12,7 @@
 
 > **DAY**: `"Day"`
 
-#### Defined in
-
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationEvents/OrganizationEvents.tsx#L38)
+Defined in: [src/screens/OrganizationEvents/OrganizationEvents.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationEvents/OrganizationEvents.tsx#L38)
 
 ***
 
@@ -22,9 +20,7 @@
 
 > **MONTH**: `"Month View"`
 
-#### Defined in
-
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationEvents/OrganizationEvents.tsx#L39)
+Defined in: [src/screens/OrganizationEvents/OrganizationEvents.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationEvents/OrganizationEvents.tsx#L39)
 
 ***
 
@@ -32,6 +28,4 @@
 
 > **YEAR**: `"Year View"`
 
-#### Defined in
-
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationEvents/OrganizationEvents.tsx#L40)
+Defined in: [src/screens/OrganizationEvents/OrganizationEvents.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationEvents/OrganizationEvents.tsx#L40)

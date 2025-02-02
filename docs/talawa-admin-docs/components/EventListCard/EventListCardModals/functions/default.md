@@ -1,19 +1,21 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/EventListCard/EventListCardModals](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `JSX.Element`
+
+Defined in: [src/components/EventListCard/EventListCardModals.tsx:93](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCardModals.tsx#L93)
 
 The `EventListCardModals` component displays the modals related to events, such as viewing,
 updating, and deleting events.
 
 ## Parameters
 
-• **props**: `InterfaceEventListCardModalProps`
+### props
+
+`InterfaceEventListCardModalProps`
 
 The properties for the component.
 
@@ -22,7 +24,3 @@ The properties for the component.
 `JSX.Element`
 
 A JSX element containing the event modals.
-
-## Defined in
-
-[src/components/EventListCard/EventListCardModals.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCardModals.tsx#L72)

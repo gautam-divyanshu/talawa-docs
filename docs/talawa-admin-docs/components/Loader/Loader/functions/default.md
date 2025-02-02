@@ -1,25 +1,23 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/Loader/Loader](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `Element`
 
+Defined in: [src/components/Loader/Loader.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/Loader/Loader.tsx#L17)
+
 Loader component for displaying a loading spinner.
 
 ## Parameters
 
-• **props**: `InterfaceLoaderProps`
+### props
+
+`InterfaceLoaderProps`
 
 ## Returns
 
 `Element`
 
 JSX element for a loading spinner.
-
-## Defined in
-
-[src/components/Loader/Loader.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/Loader/Loader.tsx#L17)

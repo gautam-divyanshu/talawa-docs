@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/RecurrenceOptions/RecurrenceOptions
-
 # components/RecurrenceOptions/RecurrenceOptions
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

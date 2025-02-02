@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/OrgListCard/OrgListCard
-
 # components/OrgListCard/OrgListCard
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceOrgListCardProps](interfaces/InterfaceOrgListCardProps.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/OrgList/OrgListMocks](../README.md) / MOCKS\_EMPTY
-
 # Variable: MOCKS\_EMPTY
 
-> `const` **MOCKS\_EMPTY**: (`object` \| `object`)[]
+> `const` **MOCKS\_EMPTY**: (\{ `request`: \{ `notifyOnNetworkStatusChange`: `boolean`; `query`: `DocumentNode`; `variables`: \{ `filter`: `string`; `first`: `number`; `orderBy`: `string`; `skip`: `number`; `userId`: `undefined`; \}; \}; `result`: \{ `data`: \{ `organizationsConnection`: `any`[]; `user`: `undefined`; \}; \}; \} \| \{ `request`: \{ `notifyOnNetworkStatusChange`: `undefined`; `query`: `DocumentNode`; `variables`: \{ `filter`: `undefined`; `first`: `undefined`; `orderBy`: `undefined`; `skip`: `undefined`; `userId`: `string`; \}; \}; `result`: \{ `data`: \{ `organizationsConnection`: `undefined`; `user`: `InterfaceUserType`; \}; \}; \})[]
 
-## Defined in
-
-[src/screens/OrgList/OrgListMocks.ts:164](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrgList/OrgListMocks.ts#L164)
+Defined in: [src/screens/OrgList/OrgListMocks.ts:164](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrgList/OrgListMocks.ts#L164)

@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/OrganizationPeople/MockDataTypes](../README.md) / TestMock
 
 # Type Alias: TestMock
 
 > **TestMock**: `object`
+
+Defined in: [src/screens/OrganizationPeople/MockDataTypes.ts:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationPeople/MockDataTypes.ts#L34)
 
 ## Type declaration
 
@@ -22,63 +22,63 @@
 
 > **request**: `object`
 
-### request.query
+#### request.query
 
 > **query**: `DocumentNode`
 
-### request.variables
+#### request.variables
 
 > **variables**: `object`
 
-### request.variables.email?
+#### request.variables.email?
 
 > `optional` **email**: `string`
 
-### request.variables.firstName?
+#### request.variables.firstName?
 
 > `optional` **firstName**: `string`
 
-### request.variables.firstName\_contains?
+#### request.variables.firstName\_contains?
 
 > `optional` **firstName\_contains**: `string`
 
-### request.variables.firstNameContains?
+#### request.variables.firstNameContains?
 
 > `optional` **firstNameContains**: `string`
 
-### request.variables.id?
+#### request.variables.id?
 
 > `optional` **id**: `string`
 
-### request.variables.id\_not\_in?
+#### request.variables.id\_not\_in?
 
 > `optional` **id\_not\_in**: `string`[]
 
-### request.variables.lastName?
+#### request.variables.lastName?
 
 > `optional` **lastName**: `string`
 
-### request.variables.lastName\_contains?
+#### request.variables.lastName\_contains?
 
 > `optional` **lastName\_contains**: `string`
 
-### request.variables.lastNameContains?
+#### request.variables.lastNameContains?
 
 > `optional` **lastNameContains**: `string`
 
-### request.variables.orgid?
+#### request.variables.orgid?
 
 > `optional` **orgid**: `string`
 
-### request.variables.orgId?
+#### request.variables.orgId?
 
 > `optional` **orgId**: `string`
 
-### request.variables.password?
+#### request.variables.password?
 
 > `optional` **password**: `string`
 
-### request.variables.userid?
+#### request.variables.userid?
 
 > `optional` **userid**: `string`
 
@@ -86,70 +86,66 @@
 
 > **result**: `object`
 
-### result.\_\_typename?
+#### result.\_\_typename?
 
 > `optional` **\_\_typename**: `string`
 
-### result.data
+#### result.data
 
 > **data**: `object`
 
-### result.data.\_\_typename?
+#### result.data.\_\_typename?
 
 > `optional` **\_\_typename**: `string`
 
-### result.data.createMember?
+#### result.data.createMember?
 
 > `optional` **createMember**: `object`
 
-### result.data.createMember.\_\_typename
+#### result.data.createMember.\_\_typename
 
 > **\_\_typename**: `string`
 
-### result.data.createMember.\_id
+#### result.data.createMember.\_id
 
 > **\_id**: `string`
 
-### result.data.organizations?
+#### result.data.organizations?
 
 > `optional` **organizations**: `InterfaceQueryOrganizationsListObject`[]
 
-### result.data.organizationsMemberConnection?
+#### result.data.organizationsMemberConnection?
 
 > `optional` **organizationsMemberConnection**: `object`
 
-### result.data.organizationsMemberConnection.edges?
+#### result.data.organizationsMemberConnection.edges?
 
 > `optional` **edges**: `Edge`[]
 
-### result.data.organizationsMemberConnection.user?
+#### result.data.organizationsMemberConnection.user?
 
 > `optional` **user**: `Edge`[]
 
-### result.data.signUp?
+#### result.data.signUp?
 
 > `optional` **signUp**: `object`
 
-### result.data.signUp.accessToken?
+#### result.data.signUp.accessToken?
 
 > `optional` **accessToken**: `string`
 
-### result.data.signUp.refreshToken?
+#### result.data.signUp.refreshToken?
 
 > `optional` **refreshToken**: `string`
 
-### result.data.signUp.user?
+#### result.data.signUp.user?
 
 > `optional` **user**: `object`
 
-### result.data.signUp.user.\_id
+#### result.data.signUp.user.\_id
 
 > **\_id**: `string`
 
-### result.data.users?
+#### result.data.users?
 
 > `optional` **users**: `object`[]
-
-## Defined in
-
-[src/screens/OrganizationPeople/MockDataTypes.ts:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationPeople/MockDataTypes.ts#L34)

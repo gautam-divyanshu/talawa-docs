@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/OrganizationActionItems/ItemViewModal
-
 # screens/OrganizationActionItems/ItemViewModal
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceViewModalProps](interfaces/InterfaceViewModalProps.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

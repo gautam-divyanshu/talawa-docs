@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [screens/UserPortal/Donate/Donate](../README.md) / default
 
 # Function: default()
 
 > **default**(): `JSX.Element`
+
+Defined in: [src/screens/UserPortal/Donate/Donate.tsx:84](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Donate/Donate.tsx#L84)
 
 `donate` component allows users to make donations to an organization and view their previous donations.
 
@@ -35,6 +35,21 @@ It includes:
 
 The rendered component.
 
-## Defined in
+## CSS Strategy Explanation:
 
-[src/screens/UserPortal/Donate/Donate.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Donate/Donate.tsx#L65)
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.inputField`
+- `.searchButton`
+- `.addButton`
+
+For more details on the reusable classes, refer to the global CSS file.

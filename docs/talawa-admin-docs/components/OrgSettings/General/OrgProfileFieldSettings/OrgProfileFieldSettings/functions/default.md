@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../../modules.md) / [components/OrgSettings/General/OrgProfileFieldSettings/OrgProfileFieldSettings](../README.md) / default
 
 # Function: default()
 
 > **default**(): `Element`
+
+Defined in: [src/components/OrgSettings/General/OrgProfileFieldSettings/OrgProfileFieldSettings.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/OrgSettings/General/OrgProfileFieldSettings/OrgProfileFieldSettings.tsx#L26)
 
 Component for managing organization profile field settings
 
@@ -18,7 +18,3 @@ It displays existing custom fields and provides a form to add new fields.
 `Element`
 
 JSX.Element representing the organization profile field settings
-
-## Defined in
-
-[src/components/OrgSettings/General/OrgProfileFieldSettings/OrgProfileFieldSettings.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/General/OrgProfileFieldSettings/OrgProfileFieldSettings.tsx#L26)

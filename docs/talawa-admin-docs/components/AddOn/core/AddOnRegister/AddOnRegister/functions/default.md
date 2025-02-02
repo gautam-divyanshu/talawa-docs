@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../../modules.md) / [components/AddOn/core/AddOnRegister/AddOnRegister](../README.md) / default
 
 # Function: default()
 
 > **default**(`__namedParameters`): `JSX.Element`
+
+Defined in: [src/components/AddOn/core/AddOnRegister/AddOnRegister.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddOn/core/AddOnRegister/AddOnRegister.tsx#L38)
 
 A React component for registering a new add-on plugin.
 
@@ -19,14 +19,12 @@ This component:
 
 ## Parameters
 
-• **\_\_namedParameters**: `InterfaceAddOnRegisterProps`
+### \_\_namedParameters
+
+`InterfaceAddOnRegisterProps`
 
 ## Returns
 
 `JSX.Element`
 
 A JSX element containing the button and modal for plugin registration.
-
-## Defined in
-
-[src/components/AddOn/core/AddOnRegister/AddOnRegister.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddOn/core/AddOnRegister/AddOnRegister.tsx#L38)

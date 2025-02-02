@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [components/AgendaCategory/AgendaCategoryContainerMocks](../README.md) / MOCKS
-
 # Variable: MOCKS
 
-> `const` **MOCKS**: (`object` \| `object`)[]
+> `const` **MOCKS**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `deleteAgendaCategoryId`: `undefined`; `input`: \{ `description`: `string`; `name`: `string`; \}; `updateAgendaCategoryId`: `string`; \}; \}; `result`: \{ `data`: \{ `deleteAgendaCategory`: `undefined`; `updateAgendaCategory`: \{ `_id`: `string`; \}; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `deleteAgendaCategoryId`: `string`; `input`: `undefined`; `updateAgendaCategoryId`: `undefined`; \}; \}; `result`: \{ `data`: \{ `deleteAgendaCategory`: \{ `_id`: `string`; \}; `updateAgendaCategory`: `undefined`; \}; \}; \})[]
 
-## Defined in
-
-[src/components/AgendaCategory/AgendaCategoryContainerMocks.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AgendaCategory/AgendaCategoryContainerMocks.ts#L6)
+Defined in: [src/components/AgendaCategory/AgendaCategoryContainerMocks.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AgendaCategory/AgendaCategoryContainerMocks.ts#L6)

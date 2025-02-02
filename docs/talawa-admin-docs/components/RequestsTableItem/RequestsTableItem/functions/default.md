@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/RequestsTableItem/RequestsTableItem](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `Element`
+
+Defined in: [src/components/RequestsTableItem/RequestsTableItem.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/RequestsTableItem/RequestsTableItem.tsx#L45)
 
 Renders a table row item for a membership request.
 
@@ -16,7 +16,9 @@ toast notifications.
 
 ## Parameters
 
-• **props**: `Props`
+### props
+
+`Props`
 
 The props object containing request details, index, and state reset function.
 
@@ -25,7 +27,3 @@ The props object containing request details, index, and state reset function.
 `Element`
 
 The JSX element representing the RequestsTableItem.
-
-## Defined in
-
-[src/components/RequestsTableItem/RequestsTableItem.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/RequestsTableItem/RequestsTableItem.tsx#L45)

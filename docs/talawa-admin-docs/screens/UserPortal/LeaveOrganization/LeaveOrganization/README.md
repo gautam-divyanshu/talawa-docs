@@ -1,18 +1,14 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / screens/UserPortal/LeaveOrganization/LeaveOrganization
-
 # screens/UserPortal/LeaveOrganization/LeaveOrganization
 
-## Index
-
-### Variables
+## Variables
 
 - [userEmail](variables/userEmail.md)
 - [userId](variables/userId.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

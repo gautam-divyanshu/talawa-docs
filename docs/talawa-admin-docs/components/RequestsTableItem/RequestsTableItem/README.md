@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/RequestsTableItem/RequestsTableItem
-
 # components/RequestsTableItem/RequestsTableItem
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceRequestsListItem](interfaces/InterfaceRequestsListItem.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

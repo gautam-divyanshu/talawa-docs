@@ -1,13 +1,31 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/EventListCard/EventListCardMocks](../README.md) / ERROR\_MOCKS
 
 # Variable: ERROR\_MOCKS
 
 > `const` **ERROR\_MOCKS**: `object`[]
 
-## Defined in
+Defined in: [src/components/EventListCard/EventListCardMocks.ts:191](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventListCard/EventListCardMocks.ts#L191)
 
-[src/components/EventListCard/EventListCardMocks.ts:191](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventListCard/EventListCardMocks.ts#L191)
+## Type declaration
+
+### error
+
+> **error**: `Error`
+
+### request
+
+> **request**: `object`
+
+#### request.query
+
+> **query**: `DocumentNode` = `DELETE_EVENT_MUTATION`
+
+#### request.variables
+
+> **variables**: `object`
+
+#### request.variables.id
+
+> **id**: `string` = `'1'`

@@ -1,27 +1,23 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [components/LeftDrawer/LeftDrawer](../README.md) / InterfaceLeftDrawerProps
-
 # Interface: InterfaceLeftDrawerProps
+
+Defined in: [src/components/LeftDrawer/LeftDrawer.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/LeftDrawer/LeftDrawer.tsx#L13)
 
 ## Properties
 
 ### hideDrawer
 
-> **hideDrawer**: `null` \| `boolean`
+> **hideDrawer**: `boolean`
 
-#### Defined in
-
-[src/components/LeftDrawer/LeftDrawer.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/LeftDrawer/LeftDrawer.tsx#L13)
+Defined in: [src/components/LeftDrawer/LeftDrawer.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/LeftDrawer/LeftDrawer.tsx#L14)
 
 ***
 
 ### setHideDrawer
 
-> **setHideDrawer**: `Dispatch`\<`SetStateAction`\<`null` \| `boolean`\>\>
+> **setHideDrawer**: `Dispatch`\<`SetStateAction`\<`boolean`\>\>
 
-#### Defined in
-
-[src/components/LeftDrawer/LeftDrawer.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/LeftDrawer/LeftDrawer.tsx#L14)
+Defined in: [src/components/LeftDrawer/LeftDrawer.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/LeftDrawer/LeftDrawer.tsx#L15)

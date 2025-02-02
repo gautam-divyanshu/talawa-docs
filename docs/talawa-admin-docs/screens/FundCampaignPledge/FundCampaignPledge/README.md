@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/FundCampaignPledge/FundCampaignPledge
-
 # screens/FundCampaignPledge/FundCampaignPledge
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

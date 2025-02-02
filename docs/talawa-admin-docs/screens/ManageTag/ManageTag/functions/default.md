@@ -1,19 +1,33 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/ManageTag/ManageTag](../README.md) / default
 
 # Function: default()
 
 > **default**(): `JSX.Element`
 
+Defined in: [src/screens/ManageTag/ManageTag.tsx:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/ManageTag/ManageTag.tsx#L64)
+
 Component that renders the Manage Tag screen when the app navigates to '/orgtags/:orgId/manageTag/:tagId'.
+
+## CSS Strategy Explanation:
+
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.tableHeader`
+- `.editButton`
+
+For more details on the reusable classes, refer to the global CSS file.
 
 ## Returns
 
 `JSX.Element`
-
-## Defined in
-
-[src/screens/ManageTag/ManageTag.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/ManageTag/ManageTag.tsx#L46)

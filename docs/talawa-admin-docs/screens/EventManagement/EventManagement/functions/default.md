@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/EventManagement/EventManagement](../README.md) / default
 
 # Function: default()
 
 > **default**(): `Element`
+
+Defined in: [src/screens/EventManagement/EventManagement.tsx:60](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/EventManagement/EventManagement.tsx#L60)
 
 `EventManagement` component handles the display and navigation of different event management sections.
 
@@ -30,7 +30,3 @@ JSX.Element - The `EventManagement` component.
 ```tsx
 <EventManagement />
 ```
-
-## Defined in
-
-[src/screens/EventManagement/EventManagement.tsx:91](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventManagement/EventManagement.tsx#L91)

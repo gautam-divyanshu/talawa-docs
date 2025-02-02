@@ -1,13 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/UserPortal/CreateDirectChat/CreateDirectChat
-
 # components/UserPortal/CreateDirectChat/CreateDirectChat
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)
+- [handleCreateDirectChat](functions/handleCreateDirectChat.md)

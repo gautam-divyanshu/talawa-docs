@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/OrganizationDashboard/OrganizationDashboardMocks](../README.md) / EMPTY\_MOCKS
-
 # Variable: EMPTY\_MOCKS
 
-> `const` **EMPTY\_MOCKS**: (`object` \| `object` \| `object` \| `object`)[]
+> `const` **EMPTY\_MOCKS**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `undefined`; `id`: `string`; `organization_id`: `undefined`; `orgId`: `undefined`; `where`: `undefined`; \}; \}; `result`: \{ `data`: \{ `eventsByOrganizationConnection`: `undefined`; `getVolunteerRanks`: `undefined`; `organizations`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `id`: `string`; `organization_id`: `undefined`; `orgId`: `undefined`; `where`: `undefined`; \}; \}; `result`: \{ `data`: \{ `eventsByOrganizationConnection`: `undefined`; `getVolunteerRanks`: `undefined`; `organizations`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `undefined`; `id`: `undefined`; `organization_id`: `string`; `orgId`: `undefined`; `where`: `undefined`; \}; \}; `result`: \{ `data`: \{ `eventsByOrganizationConnection`: `any`[]; `getVolunteerRanks`: `undefined`; `organizations`: `undefined`; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `undefined`; `id`: `undefined`; `organization_id`: `undefined`; `orgId`: `string`; `where`: \{ `limit`: `number`; `orderBy`: `string`; `timeFrame`: `string`; \}; \}; \}; `result`: \{ `data`: \{ `eventsByOrganizationConnection`: `undefined`; `getVolunteerRanks`: `any`[]; `organizations`: `undefined`; \}; \}; \})[]
 
-## Defined in
-
-[src/screens/OrganizationDashboard/OrganizationDashboardMocks.ts:329](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationDashboard/OrganizationDashboardMocks.ts#L329)
+Defined in: [src/screens/OrganizationDashboard/OrganizationDashboardMocks.ts:329](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationDashboard/OrganizationDashboardMocks.ts#L329)

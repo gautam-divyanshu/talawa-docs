@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/UserPortal/StartPostModal/StartPostModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`__namedParameters`): `Element`
+
+Defined in: [src/components/UserPortal/StartPostModal/StartPostModal.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/UserPortal/StartPostModal/StartPostModal.tsx#L59)
 
 A modal component for creating a new post.
 
@@ -17,7 +17,9 @@ This modal includes:
 
 ## Parameters
 
-• **\_\_namedParameters**: `InterfaceStartPostModalProps`
+### \_\_namedParameters
+
+`InterfaceStartPostModalProps`
 
 ## Returns
 
@@ -25,6 +27,21 @@ This modal includes:
 
 JSX.Element - The rendered modal component.
 
-## Defined in
+## CSS Strategy Explanation:
 
-[src/components/UserPortal/StartPostModal/StartPostModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/UserPortal/StartPostModal/StartPostModal.tsx#L40)
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.modalHeader`
+- `.inputField`
+- `.addButton`
+
+For more details on the reusable classes, refer to the global CSS file.

@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/UsersTableItem/UsersTableItem
-
 # components/UsersTableItem/UsersTableItem
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

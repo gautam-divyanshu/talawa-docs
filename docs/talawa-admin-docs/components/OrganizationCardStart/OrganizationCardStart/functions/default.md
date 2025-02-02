@@ -1,25 +1,23 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/OrganizationCardStart/OrganizationCardStart](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `JSX.Element`
 
+Defined in: [src/components/OrganizationCardStart/OrganizationCardStart.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/OrganizationCardStart/OrganizationCardStart.tsx#L18)
+
 Component to display a simplified card for an organization.
 
 ## Parameters
 
-• **props**: `InterfaceOrganizationCardStartProps`
+### props
+
+`InterfaceOrganizationCardStartProps`
 
 ## Returns
 
 `JSX.Element`
 
 JSX element representing the organization card.
-
-## Defined in
-
-[src/components/OrganizationCardStart/OrganizationCardStart.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrganizationCardStart/OrganizationCardStart.tsx#L18)

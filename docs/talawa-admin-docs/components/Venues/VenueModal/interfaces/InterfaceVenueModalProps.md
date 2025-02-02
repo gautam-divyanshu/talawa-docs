@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [components/Venues/VenueModal](../README.md) / InterfaceVenueModalProps
-
 # Interface: InterfaceVenueModalProps
+
+Defined in: [src/components/Venues/VenueModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/Venues/VenueModal.tsx#L15)
 
 ## Properties
 
@@ -12,9 +12,7 @@
 
 > **edit**: `boolean`
 
-#### Defined in
-
-[src/components/Venues/VenueModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/Venues/VenueModal.tsx#L21)
+Defined in: [src/components/Venues/VenueModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/Venues/VenueModal.tsx#L21)
 
 ***
 
@@ -22,13 +20,11 @@
 
 > **onHide**: () => `void`
 
+Defined in: [src/components/Venues/VenueModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/Venues/VenueModal.tsx#L17)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/components/Venues/VenueModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/Venues/VenueModal.tsx#L17)
 
 ***
 
@@ -36,9 +32,7 @@
 
 > **orgId**: `string`
 
-#### Defined in
-
-[src/components/Venues/VenueModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/Venues/VenueModal.tsx#L19)
+Defined in: [src/components/Venues/VenueModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/Venues/VenueModal.tsx#L19)
 
 ***
 
@@ -46,13 +40,11 @@
 
 > **refetchVenues**: () => `void`
 
+Defined in: [src/components/Venues/VenueModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/Venues/VenueModal.tsx#L18)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/components/Venues/VenueModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/Venues/VenueModal.tsx#L18)
 
 ***
 
@@ -60,16 +52,12 @@
 
 > **show**: `boolean`
 
-#### Defined in
-
-[src/components/Venues/VenueModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/Venues/VenueModal.tsx#L16)
+Defined in: [src/components/Venues/VenueModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/Venues/VenueModal.tsx#L16)
 
 ***
 
 ### venueData?
 
-> `optional` **venueData**: `null` \| `InterfaceQueryVenueListItem`
+> `optional` **venueData**: `InterfaceQueryVenueListItem`
 
-#### Defined in
-
-[src/components/Venues/VenueModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/Venues/VenueModal.tsx#L20)
+Defined in: [src/components/Venues/VenueModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/Venues/VenueModal.tsx#L20)

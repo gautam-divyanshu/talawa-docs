@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../modules.md) / [screens/EventVolunteers/Volunteers/VolunteerCreateModal](../README.md) / InterfaceVolunteerCreateModal
-
 # Interface: InterfaceVolunteerCreateModal
+
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L14)
 
 ## Properties
 
@@ -12,9 +12,7 @@
 
 > **eventId**: `string`
 
-#### Defined in
-
-[src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L17)
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L17)
 
 ***
 
@@ -22,13 +20,11 @@
 
 > **hide**: () => `void`
 
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L16)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L16)
 
 ***
 
@@ -36,9 +32,7 @@
 
 > **isOpen**: `boolean`
 
-#### Defined in
-
-[src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L15)
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L15)
 
 ***
 
@@ -46,9 +40,7 @@
 
 > **orgId**: `string`
 
-#### Defined in
-
-[src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L18)
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L18)
 
 ***
 
@@ -56,10 +48,8 @@
 
 > **refetchVolunteers**: () => `void`
 
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L19)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/Volunteers/VolunteerCreateModal.tsx#L19)

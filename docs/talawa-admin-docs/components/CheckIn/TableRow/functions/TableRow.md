@@ -1,30 +1,30 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/CheckIn/TableRow](../README.md) / TableRow
 
 # Function: TableRow()
 
 > **TableRow**(`__namedParameters`): `Element`
+
+Defined in: [src/components/CheckIn/TableRow.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/CheckIn/TableRow.tsx#L19)
 
 Component that represents a single row in the check-in table.
 Allows users to mark themselves as checked in and download a tag if they are already checked in.
 
 ## Parameters
 
-• **\_\_namedParameters**
+### \_\_namedParameters
 
-• **\_\_namedParameters.data**: [`InterfaceTableCheckIn`](../../types/interfaces/InterfaceTableCheckIn.md)
+#### data
 
-• **\_\_namedParameters.refetch**
+[`InterfaceTableCheckIn`](../../types/interfaces/InterfaceTableCheckIn.md)
+
+#### refetch
+
+() => `void`
 
 ## Returns
 
 `Element`
 
 JSX.Element - The rendered TableRow component.
-
-## Defined in
-
-[src/components/CheckIn/TableRow.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/CheckIn/TableRow.tsx#L19)

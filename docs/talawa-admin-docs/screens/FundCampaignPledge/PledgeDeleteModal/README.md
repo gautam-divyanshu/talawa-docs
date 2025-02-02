@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/FundCampaignPledge/PledgeDeleteModal
-
 # screens/FundCampaignPledge/PledgeDeleteModal
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceDeletePledgeModal](interfaces/InterfaceDeletePledgeModal.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

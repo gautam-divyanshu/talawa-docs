@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/MemberDetail/customTableCell
-
 # components/MemberDetail/customTableCell
 
-## Index
-
-### Functions
+## Functions
 
 - [CustomTableCell](functions/CustomTableCell.md)

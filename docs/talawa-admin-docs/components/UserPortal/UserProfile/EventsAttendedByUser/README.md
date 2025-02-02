@@ -1,14 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/UserPortal/UserProfile/EventsAttendedByUser
-
 # components/UserPortal/UserProfile/EventsAttendedByUser
 
-## Index
-
-### Functions
+## Functions
 
 - [EventsAttendedByUser](functions/EventsAttendedByUser.md)
 

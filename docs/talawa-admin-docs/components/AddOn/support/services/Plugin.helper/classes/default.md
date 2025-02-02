@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../../modules.md) / [components/AddOn/support/services/Plugin.helper](../README.md) / default
-
 # Class: default
+
+Defined in: [src/components/AddOn/support/services/Plugin.helper.ts:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddOn/support/services/Plugin.helper.ts#L5)
 
 Helper class for managing plugin-related tasks such as fetching store data, installed plugins, and generating plugin links.
 
@@ -24,6 +24,8 @@ Helper class for managing plugin-related tasks such as fetching store data, inst
 
 > **fetchInstalled**(): `Promise`\<`any`\>
 
+Defined in: [src/components/AddOn/support/services/Plugin.helper.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddOn/support/services/Plugin.helper.ts#L21)
+
 Fetches the list of installed plugins from a local server.
 
 #### Returns
@@ -32,15 +34,13 @@ Fetches the list of installed plugins from a local server.
 
 A promise that resolves to the installed plugins data in JSON format.
 
-#### Defined in
-
-[src/components/AddOn/support/services/Plugin.helper.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddOn/support/services/Plugin.helper.ts#L21)
-
 ***
 
 ### fetchStore()
 
 > **fetchStore**(): `Promise`\<`any`\>
+
+Defined in: [src/components/AddOn/support/services/Plugin.helper.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddOn/support/services/Plugin.helper.ts#L11)
 
 Fetches the store data from a local server.
 
@@ -50,21 +50,21 @@ Fetches the store data from a local server.
 
 A promise that resolves to the store data in JSON format.
 
-#### Defined in
-
-[src/components/AddOn/support/services/Plugin.helper.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddOn/support/services/Plugin.helper.ts#L11)
-
 ***
 
 ### generateLinks()
 
 > **generateLinks**(`plugins`): `object`[]
 
+Defined in: [src/components/AddOn/support/services/Plugin.helper.ts:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddOn/support/services/Plugin.helper.ts#L32)
+
 Generates an array of links for the enabled plugins.
 
 #### Parameters
 
-• **plugins**: `any`[]
+##### plugins
+
+`any`[]
 
 An array of plugin objects.
 
@@ -73,7 +73,3 @@ An array of plugin objects.
 `object`[]
 
 An array of objects containing the name and URL of each enabled plugin.
-
-#### Defined in
-
-[src/components/AddOn/support/services/Plugin.helper.ts:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddOn/support/services/Plugin.helper.ts#L32)

@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/UserPortal/CommentCard/CommentCard
-
 # components/UserPortal/CommentCard/CommentCard
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

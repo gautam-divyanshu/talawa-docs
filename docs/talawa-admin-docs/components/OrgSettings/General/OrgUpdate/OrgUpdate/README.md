@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../modules.md) / components/OrgSettings/General/OrgUpdate/OrgUpdate
-
 # components/OrgSettings/General/OrgUpdate/OrgUpdate
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

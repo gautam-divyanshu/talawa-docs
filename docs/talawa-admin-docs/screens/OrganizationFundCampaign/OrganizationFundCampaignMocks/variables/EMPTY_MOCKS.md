@@ -1,13 +1,63 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/OrganizationFundCampaign/OrganizationFundCampaignMocks](../README.md) / EMPTY\_MOCKS
 
 # Variable: EMPTY\_MOCKS
 
 > `const` **EMPTY\_MOCKS**: `object`[]
 
-## Defined in
+Defined in: [src/screens/OrganizationFundCampaign/OrganizationFundCampaignMocks.ts:300](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationFundCampaign/OrganizationFundCampaignMocks.ts#L300)
 
-[src/screens/OrganizationFundCampaign/OrganizationFundCampaignMocks.ts:300](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationFundCampaign/OrganizationFundCampaignMocks.ts#L300)
+## Type declaration
+
+### request
+
+> **request**: `object`
+
+#### request.query
+
+> **query**: `DocumentNode` = `FUND_CAMPAIGN`
+
+#### request.variables
+
+> **variables**: `object`
+
+#### request.variables.id
+
+> **id**: `string` = `'fundId'`
+
+#### request.variables.orderBy
+
+> **orderBy**: `any` = `null`
+
+#### request.variables.where
+
+> **where**: `object`
+
+#### request.variables.where.name\_contains
+
+> **name\_contains**: `string` = `''`
+
+### result
+
+> **result**: `object`
+
+#### result.data
+
+> **data**: `object`
+
+#### result.data.getFundById
+
+> **getFundById**: `object`
+
+#### result.data.getFundById.campaigns
+
+> **campaigns**: `any`[] = `[]`
+
+#### result.data.getFundById.isArchived
+
+> **isArchived**: `boolean` = `false`
+
+#### result.data.getFundById.name
+
+> **name**: `string` = `'Fund 1'`

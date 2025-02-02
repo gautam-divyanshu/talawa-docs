@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../modules.md) / [components/EventManagement/EventAgendaItems/EventAgendaItemsMocks](../README.md) / MOCKS\_ERROR\_QUERY
-
 # Variable: MOCKS\_ERROR\_QUERY
 
-> `const` **MOCKS\_ERROR\_QUERY**: `never`[] = `[]`
+> `const` **MOCKS\_ERROR\_QUERY**: `any`[] = `[]`
 
-## Defined in
-
-[src/components/EventManagement/EventAgendaItems/EventAgendaItemsMocks.ts:133](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAgendaItems/EventAgendaItemsMocks.ts#L133)
+Defined in: [src/components/EventManagement/EventAgendaItems/EventAgendaItemsMocks.ts:133](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAgendaItems/EventAgendaItemsMocks.ts#L133)

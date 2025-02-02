@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/Requests/RequestsMocks](../README.md) / MOCKS2
-
 # Variable: MOCKS2
 
-> `const` **MOCKS2**: (`object` \| `object`)[]
+> `const` **MOCKS2**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: `undefined`; \}; `result`: \{ `data`: \{ `organizations`: `undefined`; `organizationsConnection`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `firstName_contains`: `string`; `id`: `string`; `skip`: `number`; \}; \}; `result`: \{ `data`: \{ `organizations`: `object`[]; `organizationsConnection`: `undefined`; \}; \}; \})[]
 
-## Defined in
-
-[src/screens/Requests/RequestsMocks.ts:387](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/Requests/RequestsMocks.ts#L387)
+Defined in: [src/screens/Requests/RequestsMocks.ts:387](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/Requests/RequestsMocks.ts#L387)

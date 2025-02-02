@@ -1,12 +1,33 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [components/AddPeopleToTag/AddPeopleToTag](../README.md) / InterfaceAddPeopleToTagProps
-
 # Interface: InterfaceAddPeopleToTagProps
 
+Defined in: [src/components/AddPeopleToTag/AddPeopleToTag.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L49)
+
 Props for the `AddPeopleToTag` component.
+
+## CSS Strategy Explanation:
+
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.editButton`
+- `.modalHeader`
+- `.inputField`
+- `.addButton`
+- `.removeButton`
+
+For more details on the reusable classes, refer to the global CSS file.
 
 ## Properties
 
@@ -14,9 +35,7 @@ Props for the `AddPeopleToTag` component.
 
 > **addPeopleToTagModalIsOpen**: `boolean`
 
-#### Defined in
-
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L29)
+Defined in: [src/components/AddPeopleToTag/AddPeopleToTag.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L50)
 
 ***
 
@@ -24,13 +43,11 @@ Props for the `AddPeopleToTag` component.
 
 > **hideAddPeopleToTagModal**: () => `void`
 
+Defined in: [src/components/AddPeopleToTag/AddPeopleToTag.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L51)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L30)
 
 ***
 
@@ -38,30 +55,24 @@ Props for the `AddPeopleToTag` component.
 
 > **refetchAssignedMembersData**: () => `void`
 
+Defined in: [src/components/AddPeopleToTag/AddPeopleToTag.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L52)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L31)
 
 ***
 
 ### t
 
-> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
+> **t**: `TFunction`\<`"manageTag"`\>
 
-#### Defined in
-
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L32)
+Defined in: [src/components/AddPeopleToTag/AddPeopleToTag.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L53)
 
 ***
 
 ### tCommon
 
-> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
+> **tCommon**: `TFunction`\<`"common"`\>
 
-#### Defined in
-
-[src/components/AddPeopleToTag/AddPeopleToTag.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L33)
+Defined in: [src/components/AddPeopleToTag/AddPeopleToTag.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L54)

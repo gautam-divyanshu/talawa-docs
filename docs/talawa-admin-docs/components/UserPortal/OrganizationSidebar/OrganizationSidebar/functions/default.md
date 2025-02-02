@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/UserPortal/OrganizationSidebar/OrganizationSidebar](../README.md) / default
 
 # Function: default()
 
 > **default**(): `JSX.Element`
+
+Defined in: [src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx#L36)
 
 OrganizationSidebar displays the sidebar for an organization, showing a list of members and events.
 
@@ -25,7 +25,3 @@ The sidebar handles loading states and displays appropriate messages while data 
 `JSX.Element`
 
 JSX.Element representing the organization sidebar.
-
-## Defined in
-
-[src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx#L36)

@@ -1,20 +1,24 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/OrgList/OrganizationModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/screens/OrgList/OrganizationModal.tsx:75](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrgList/OrganizationModal.tsx#L75)
+
 Represents the organization modal component.
 
 ## Parameters
 
-• **props**: `InterfaceOrganizationModalProps`
+### props
 
-• **deprecatedLegacyContext?**: `any`
+`InterfaceOrganizationModalProps`
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -25,7 +29,3 @@ Represents the organization modal component.
 ## Returns
 
 `ReactNode`
-
-## Defined in
-
-[src/screens/OrgList/OrganizationModal.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrgList/OrganizationModal.tsx#L55)

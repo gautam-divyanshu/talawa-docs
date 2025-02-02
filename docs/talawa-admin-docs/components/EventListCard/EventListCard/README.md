@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/EventListCard/EventListCard
-
 # components/EventListCard/EventListCard
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceEventListCardProps](interfaces/InterfaceEventListCardProps.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

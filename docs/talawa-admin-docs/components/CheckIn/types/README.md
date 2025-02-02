@@ -1,14 +1,10 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/CheckIn/types
-
 # components/CheckIn/types
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceAttendeeCheckIn](interfaces/InterfaceAttendeeCheckIn.md)
 - [InterfaceAttendeeQueryResponse](interfaces/InterfaceAttendeeQueryResponse.md)

@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../modules.md) / [screens/UserPortal/Campaigns/PledgeModal](../README.md) / InterfacePledgeModal
-
 # Interface: InterfacePledgeModal
+
+Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L30)
 
 Interface representing the properties for the `PledgeModal` component.
 
@@ -14,9 +14,7 @@ Interface representing the properties for the `PledgeModal` component.
 
 > **campaignId**: `string`
 
-#### Defined in
-
-[src/screens/UserPortal/Campaigns/PledgeModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L33)
+Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L33)
 
 ***
 
@@ -24,9 +22,7 @@ Interface representing the properties for the `PledgeModal` component.
 
 > **endDate**: `Date`
 
-#### Defined in
-
-[src/screens/UserPortal/Campaigns/PledgeModal.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L37)
+Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L37)
 
 ***
 
@@ -34,13 +30,11 @@ Interface representing the properties for the `PledgeModal` component.
 
 > **hide**: () => `void`
 
+Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L32)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/UserPortal/Campaigns/PledgeModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L32)
 
 ***
 
@@ -48,9 +42,7 @@ Interface representing the properties for the `PledgeModal` component.
 
 > **isOpen**: `boolean`
 
-#### Defined in
-
-[src/screens/UserPortal/Campaigns/PledgeModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L31)
+Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L31)
 
 ***
 
@@ -58,19 +50,15 @@ Interface representing the properties for the `PledgeModal` component.
 
 > **mode**: `"create"` \| `"edit"`
 
-#### Defined in
-
-[src/screens/UserPortal/Campaigns/PledgeModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L38)
+Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L38)
 
 ***
 
 ### pledge
 
-> **pledge**: `null` \| `InterfacePledgeInfo`
+> **pledge**: `InterfacePledgeInfo`
 
-#### Defined in
-
-[src/screens/UserPortal/Campaigns/PledgeModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L35)
+Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L35)
 
 ***
 
@@ -78,13 +66,11 @@ Interface representing the properties for the `PledgeModal` component.
 
 > **refetchPledge**: () => `void`
 
+Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L36)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/UserPortal/Campaigns/PledgeModal.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L36)
 
 ***
 
@@ -92,6 +78,4 @@ Interface representing the properties for the `PledgeModal` component.
 
 > **userId**: `string`
 
-#### Defined in
-
-[src/screens/UserPortal/Campaigns/PledgeModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L34)
+Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L34)

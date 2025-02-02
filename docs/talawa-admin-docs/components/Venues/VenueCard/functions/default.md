@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/Venues/VenueCard](../README.md) / default
 
 # Function: default()
 
 > **default**(`__namedParameters`): `Element`
+
+Defined in: [src/components/Venues/VenueCard.tsx:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/Venues/VenueCard.tsx#L57)
 
 Represents a card component displaying venue information.
 
@@ -15,7 +15,9 @@ It also provides buttons to edit or delete the venue.
 
 ## Parameters
 
-• **\_\_namedParameters**: `InterfaceVenueCardProps`
+### \_\_namedParameters
+
+`InterfaceVenueCardProps`
 
 ## Returns
 
@@ -34,6 +36,20 @@ JSX.Element - The `VenueCard` component.
 />
 ```
 
-## Defined in
+## CSS Strategy Explanation:
 
-[src/components/Venues/VenueCard.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/Venues/VenueCard.tsx#L39)
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.addButton`
+- `.removeButton`
+
+For more details on the reusable classes, refer to the global CSS file.

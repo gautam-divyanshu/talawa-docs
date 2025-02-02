@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../../modules.md) / [components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks](../README.md) / MOCKS\_ERROR\_MUTATION
-
 # Variable: MOCKS\_ERROR\_MUTATION
 
-> `const` **MOCKS\_ERROR\_MUTATION**: (`object` \| `object`)[]
+> `const` **MOCKS\_ERROR\_MUTATION**: (\{ `error`: `undefined`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `input`: `undefined`; `organizationId`: `string`; `where`: \{ `name_contains`: `string`; \}; \}; \}; `result`: \{ `data`: \{ `agendaItemCategoriesByOrganization`: `object`[]; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `input`: \{ `description`: `string`; `name`: `string`; `organizationId`: `string`; \}; `organizationId`: `undefined`; `where`: `undefined`; \}; \}; `result`: `undefined`; \})[]
 
-## Defined in
-
-[src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts#L20)
+Defined in: [src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts#L20)

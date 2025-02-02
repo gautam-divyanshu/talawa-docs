@@ -1,20 +1,24 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [screens/EventVolunteers/Volunteers/VolunteerDeleteModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L42)
+
 A modal dialog for confirming the deletion of a volunteer.
 
 ## Parameters
 
-• **props**: [`InterfaceDeleteVolunteerModal`](../interfaces/InterfaceDeleteVolunteerModal.md)
+### props
 
-• **deprecatedLegacyContext?**: `any`
+[`InterfaceDeleteVolunteerModal`](../interfaces/InterfaceDeleteVolunteerModal.md)
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -40,7 +44,3 @@ The modal includes:
 - A footer with "Yes" and "No" buttons to confirm or cancel the deletion.
 
 The `deleteVolunteer` mutation is used to perform the deletion operation.
-
-## Defined in
-
-[src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/Volunteers/VolunteerDeleteModal.tsx#L42)

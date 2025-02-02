@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/OrganizationDashCards/DashboardCard
-
 # components/OrganizationDashCards/DashboardCard
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)

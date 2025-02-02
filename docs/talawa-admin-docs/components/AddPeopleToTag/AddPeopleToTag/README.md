@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/AddPeopleToTag/AddPeopleToTag
-
 # components/AddPeopleToTag/AddPeopleToTag
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceAddPeopleToTagProps](interfaces/InterfaceAddPeopleToTagProps.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

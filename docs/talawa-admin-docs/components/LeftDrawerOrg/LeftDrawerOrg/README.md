@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / components/LeftDrawerOrg/LeftDrawerOrg
-
 # components/LeftDrawerOrg/LeftDrawerOrg
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceLeftDrawerProps](interfaces/InterfaceLeftDrawerProps.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

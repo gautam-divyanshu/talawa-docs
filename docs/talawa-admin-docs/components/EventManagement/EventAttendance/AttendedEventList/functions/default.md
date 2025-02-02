@@ -1,20 +1,24 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/EventManagement/EventAttendance/AttendedEventList](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/components/EventManagement/EventAttendance/AttendedEventList.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/EventManagement/EventAttendance/AttendedEventList.tsx#L16)
+
 Component to display a list of events attended by a member
 
 ## Parameters
 
-• **props**: `InterfaceEventsAttended`
+### props
 
-• **deprecatedLegacyContext?**: `any`
+`InterfaceEventsAttended`
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -27,7 +31,3 @@ Component to display a list of events attended by a member
 `ReactNode`
 
 A table row containing event details with a link to the event
-
-## Defined in
-
-[src/components/EventManagement/EventAttendance/AttendedEventList.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/EventManagement/EventAttendance/AttendedEventList.tsx#L16)

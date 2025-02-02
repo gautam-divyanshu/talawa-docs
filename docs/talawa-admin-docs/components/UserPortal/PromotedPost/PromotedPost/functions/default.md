@@ -1,12 +1,12 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [components/UserPortal/PromotedPost/PromotedPost](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`): `JSX.Element`
+
+Defined in: [src/components/UserPortal/PromotedPost/PromotedPost.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/UserPortal/PromotedPost/PromotedPost.tsx#L41)
 
 PromotedPost component displays a card representing promoted content.
 
@@ -17,7 +17,9 @@ This component includes:
 
 ## Parameters
 
-• **props**: `InterfacePostCardProps`
+### props
+
+`InterfacePostCardProps`
 
 Properties passed to the component including an image, title, and ID.
 
@@ -27,6 +29,20 @@ Properties passed to the component including an image, title, and ID.
 
 JSX.Element representing a card with promoted content.
 
-## Defined in
+## CSS Strategy Explanation:
 
-[src/components/UserPortal/PromotedPost/PromotedPost.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/UserPortal/PromotedPost/PromotedPost.tsx#L23)
+To ensure consistency across the application and reduce duplication, common styles
+(such as button styles) have been moved to the global CSS file. Instead of using
+component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
+class (e.g., .addButton) is now applied.
+
+### Benefits:
+- **Reduces redundant CSS code.
+- **Improves maintainability by centralizing common styles.
+- **Ensures consistent styling across components.
+
+### Global CSS Classes used:
+- `.cardHeaderPromotedPost`
+- `.imageContainerPromotedPost`
+
+For more details on the reusable classes, refer to the global CSS file.

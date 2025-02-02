@@ -1,10 +1,10 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/OrganizationActionItems/ItemViewModal](../README.md) / InterfaceViewModalProps
-
 # Interface: InterfaceViewModalProps
+
+Defined in: [src/screens/OrganizationActionItems/ItemViewModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemViewModal.tsx#L13)
 
 ## Properties
 
@@ -12,13 +12,11 @@
 
 > **hide**: () => `void`
 
+Defined in: [src/screens/OrganizationActionItems/ItemViewModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemViewModal.tsx#L15)
+
 #### Returns
 
 `void`
-
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemViewModal.tsx#L15)
 
 ***
 
@@ -26,9 +24,7 @@
 
 > **isOpen**: `boolean`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemViewModal.tsx#L14)
+Defined in: [src/screens/OrganizationActionItems/ItemViewModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemViewModal.tsx#L14)
 
 ***
 
@@ -36,6 +32,4 @@
 
 > **item**: `InterfaceActionItemInfo`
 
-#### Defined in
-
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationActionItems/ItemViewModal.tsx#L16)
+Defined in: [src/screens/OrganizationActionItems/ItemViewModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationActionItems/ItemViewModal.tsx#L16)

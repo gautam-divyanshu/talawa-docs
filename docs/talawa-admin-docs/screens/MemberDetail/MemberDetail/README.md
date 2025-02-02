@@ -1,14 +1,10 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/MemberDetail/MemberDetail
-
 # screens/MemberDetail/MemberDetail
 
-## Index
-
-### Functions
+## Functions
 
 - [default](functions/default.md)
 - [getLanguageName](functions/getLanguageName.md)

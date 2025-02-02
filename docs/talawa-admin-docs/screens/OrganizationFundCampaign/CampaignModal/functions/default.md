@@ -1,22 +1,26 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [screens/OrganizationFundCampaign/CampaignModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/screens/OrganizationFundCampaign/CampaignModal.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationFundCampaign/CampaignModal.tsx#L61)
+
 Modal component for creating or editing a campaign.
 
 ## Parameters
 
-• **props**: [`InterfaceCampaignModal`](../interfaces/InterfaceCampaignModal.md)
+### props
+
+[`InterfaceCampaignModal`](../interfaces/InterfaceCampaignModal.md)
 
 The props for the CampaignModal component.
 
-• **deprecatedLegacyContext?**: `any`
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -29,7 +33,3 @@ The props for the CampaignModal component.
 `ReactNode`
 
 JSX.Element
-
-## Defined in
-
-[src/screens/OrganizationFundCampaign/CampaignModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/OrganizationFundCampaign/CampaignModal.tsx#L44)

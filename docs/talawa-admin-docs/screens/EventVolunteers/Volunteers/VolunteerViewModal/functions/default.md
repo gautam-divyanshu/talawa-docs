@@ -1,20 +1,24 @@
-[**talawa-admin**](../../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../../modules.md) / [screens/EventVolunteers/Volunteers/VolunteerViewModal](../README.md) / default
 
 # Function: default()
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L42)
+
 A modal dialog for viewing volunteer information for an event.
 
 ## Parameters
 
-• **props**: [`InterfaceVolunteerViewModal`](../interfaces/InterfaceVolunteerViewModal.md)
+### props
 
-• **deprecatedLegacyContext?**: `any`
+[`InterfaceVolunteerViewModal`](../interfaces/InterfaceVolunteerViewModal.md)
+
+### deprecatedLegacyContext?
+
+`any`
 
 **Deprecated**
 
@@ -33,7 +37,3 @@ The `VolunteerViewModal` component displays all the fields of a volunteer in a m
 The modal includes:
 - A header with a title and a close button.
 - fields for volunteer name, status, hours volunteered, groups, and assignments.
-
-## Defined in
-
-[src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L42)

@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / [screens/Requests/RequestsMocks](../README.md) / MOCKS\_WITH\_ERROR
-
 # Variable: MOCKS\_WITH\_ERROR
 
-> `const` **MOCKS\_WITH\_ERROR**: (`object` \| `object`)[]
+> `const` **MOCKS\_WITH\_ERROR**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `firstName_contains`: `string`; `id`: `string`; `skip`: `number`; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: `undefined`; \}; \})[]
 
-## Defined in
-
-[src/screens/Requests/RequestsMocks.ts:556](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/screens/Requests/RequestsMocks.ts#L556)
+Defined in: [src/screens/Requests/RequestsMocks.ts:556](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/Requests/RequestsMocks.ts#L556)

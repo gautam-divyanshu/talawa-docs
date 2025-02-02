@@ -1,13 +1,47 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
-
-[talawa-admin](../../../../modules.md) / [components/CheckIn/mocks](../README.md) / checkInMutationSuccess
 
 # Variable: checkInMutationSuccess
 
 > `const` **checkInMutationSuccess**: `object`[]
 
-## Defined in
+Defined in: [src/components/CheckIn/mocks.ts:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/CheckIn/mocks.ts#L46)
 
-[src/components/CheckIn/mocks.ts:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/5fdeaf265049cd61a7a0968a965ecbd0606a176a/src/components/CheckIn/mocks.ts#L46)
+## Type declaration
+
+### request
+
+> **request**: `object`
+
+#### request.query
+
+> **query**: `DocumentNode` = `MARK_CHECKIN`
+
+#### request.variables
+
+> **variables**: `object`
+
+#### request.variables.eventId
+
+> **eventId**: `string` = `'event123'`
+
+#### request.variables.userId
+
+> **userId**: `string` = `'user123'`
+
+### result
+
+> **result**: `object`
+
+#### result.data
+
+> **data**: `object`
+
+#### result.data.checkIn
+
+> **checkIn**: `object`
+
+#### result.data.checkIn.\_id
+
+> **\_id**: `string` = `'123'`

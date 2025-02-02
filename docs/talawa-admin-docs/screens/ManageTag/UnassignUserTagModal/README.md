@@ -1,17 +1,13 @@
-[**talawa-admin**](../../../README.md) • **Docs**
+[**talawa-admin**](../../../README.md)
 
 ***
 
-[talawa-admin](../../../modules.md) / screens/ManageTag/UnassignUserTagModal
-
 # screens/ManageTag/UnassignUserTagModal
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [InterfaceUnassignUserTagModalProps](interfaces/InterfaceUnassignUserTagModalProps.md)
 
-### Functions
+## Functions
 
 - [default](functions/default.md)

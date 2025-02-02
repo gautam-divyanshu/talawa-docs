@@ -1,13 +1,13 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / screens/UserPortal/Chat/Chat
-
 # screens/UserPortal/Chat/Chat
 
-## Index
+## Type Aliases
 
-### Functions
+- [Chat](type-aliases/Chat.md)
+
+## Functions
 
 - [default](functions/default.md)
