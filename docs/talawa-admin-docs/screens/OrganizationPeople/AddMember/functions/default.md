@@ -6,7 +6,7 @@
 
 > **default**(): `JSX.Element`
 
-Defined in: [src/screens/OrganizationPeople/AddMember.tsx:80](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/screens/OrganizationPeople/AddMember.tsx#L80)
+Defined in: [src/screens/OrganizationPeople/AddMember.tsx:80](https://github.com/PalisadoesFoundation/talawa-admin/blob/47e7c605dffe0d8b3eaed99e959ed345bc9cdf11/src/screens/OrganizationPeople/AddMember.tsx#L80)
 
 AddMember component is used to add new members to the organization by selecting from
 the existing users or creating a new user.

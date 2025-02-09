@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_ERROR\_SUBTAGS\_QUERY1**: `object`[]
 
-Defined in: [src/components/TagActions/TagNodeMocks.ts:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/TagActions/TagNodeMocks.ts#L64)
+Defined in: [src/components/TagActions/TagNodeMocks.ts:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/47e7c605dffe0d8b3eaed99e959ed345bc9cdf11/src/components/TagActions/TagNodeMocks.ts#L64)
 
 ## Type declaration
 

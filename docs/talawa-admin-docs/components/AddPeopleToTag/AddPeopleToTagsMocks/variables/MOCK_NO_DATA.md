@@ -6,4 +6,4 @@
 
 > `const` **MOCK\_NO\_DATA**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `id`: `string`; `tagId`: `undefined`; `userIds`: `undefined`; `where`: \{ `firstName`: \{ `starts_with`: `string`; \}; `lastName`: \{ `starts_with`: `string`; \}; \}; \}; \}; `result`: \{ `data`: \{ `getUsersToAssignTo`: \{ `usersToAssignTo`: \{ `edges`: `object`[]; `pageInfo`: \{ `endCursor`: `string`; `hasNextPage`: `boolean`; \}; \}; \}; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `undefined`; `id`: `undefined`; `tagId`: `string`; `userIds`: `string`[]; `where`: `undefined`; \}; \}; `result`: \{ `data`: `any`; \}; \})[]
 
-Defined in: [src/components/AddPeopleToTag/AddPeopleToTagsMocks.ts:413](https://github.com/PalisadoesFoundation/talawa-admin/blob/3104525a1c66b9686a5ac0b80c45c43369f312bb/src/components/AddPeopleToTag/AddPeopleToTagsMocks.ts#L413)
+Defined in: [src/components/AddPeopleToTag/AddPeopleToTagsMocks.ts:413](https://github.com/PalisadoesFoundation/talawa-admin/blob/47e7c605dffe0d8b3eaed99e959ed345bc9cdf11/src/components/AddPeopleToTag/AddPeopleToTagsMocks.ts#L413)

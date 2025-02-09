@@ -4,6 +4,10 @@
 
 # components/CheckIn/types
 
+## Enumerations
+
+- [UserRole](enumerations/UserRole.md)
+
 ## Interfaces
 
 - [InterfaceAttendeeCheckIn](interfaces/InterfaceAttendeeCheckIn.md)
@@ -12,3 +16,7 @@
 - [InterfaceTableCheckIn](interfaces/InterfaceTableCheckIn.md)
 - [InterfaceTableData](interfaces/InterfaceTableData.md)
 - [InterfaceUser](interfaces/InterfaceUser.md)
+
+## Type Aliases
+
+- [VerifyRoleResponse](type-aliases/VerifyRoleResponse.md)
