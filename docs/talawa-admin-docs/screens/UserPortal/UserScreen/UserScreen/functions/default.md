@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [src/screens/UserPortal/UserScreen/UserScreen.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/47e7c605dffe0d8b3eaed99e959ed345bc9cdf11/src/screens/UserPortal/UserScreen/UserScreen.tsx#L34)
+Defined in: [src/screens/UserPortal/UserScreen/UserScreen.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/screens/UserPortal/UserScreen/UserScreen.tsx#L34)
 
 The UserScreen component serves as a container for user-specific pages
 within an organization context. It provides layout and sidebar navigation
