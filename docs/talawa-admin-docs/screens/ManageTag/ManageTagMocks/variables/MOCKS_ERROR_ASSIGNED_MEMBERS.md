@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_ERROR\_ASSIGNED\_MEMBERS**: `object`[]
 
-Defined in: [src/screens/ManageTag/ManageTagMocks.ts:320](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/screens/ManageTag/ManageTagMocks.ts#L320)
+Defined in: [src/screens/ManageTag/ManageTagMocks.ts:320](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/screens/ManageTag/ManageTagMocks.ts#L320)
 
 ## Type declaration
 

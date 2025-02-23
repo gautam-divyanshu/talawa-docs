@@ -4,7 +4,7 @@
 
 # Interface: InterfaceAttendeeQueryResponse
 
-Defined in: [src/components/CheckIn/types.ts:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/CheckIn/types.ts#L16)
+Defined in: [src/components/CheckIn/types.ts:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/types.ts#L16)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/components/CheckIn/types.ts:16](https://github.com/PalisadoesFo
 
 > **event**: `object`
 
-Defined in: [src/components/CheckIn/types.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/CheckIn/types.ts#L17)
+Defined in: [src/components/CheckIn/types.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/types.ts#L17)
 
 #### \_id
 

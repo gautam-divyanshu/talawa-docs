@@ -4,7 +4,7 @@
 
 # Interface: InterfaceVenueModalProps
 
-Defined in: [src/components/Venues/VenueModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/Venues/VenueModal.tsx#L15)
+Defined in: [src/components/Venues/VenueModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/Venues/VenueModal.tsx#L15)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/components/Venues/VenueModal.tsx:15](https://github.com/Palisad
 
 > **edit**: `boolean`
 
-Defined in: [src/components/Venues/VenueModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/Venues/VenueModal.tsx#L21)
+Defined in: [src/components/Venues/VenueModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/Venues/VenueModal.tsx#L21)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/components/Venues/VenueModal.tsx:21](https://github.com/Palisad
 
 > **onHide**: () => `void`
 
-Defined in: [src/components/Venues/VenueModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/Venues/VenueModal.tsx#L17)
+Defined in: [src/components/Venues/VenueModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/Venues/VenueModal.tsx#L17)
 
 #### Returns
 
@@ -32,7 +32,7 @@ Defined in: [src/components/Venues/VenueModal.tsx:17](https://github.com/Palisad
 
 > **orgId**: `string`
 
-Defined in: [src/components/Venues/VenueModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/Venues/VenueModal.tsx#L19)
+Defined in: [src/components/Venues/VenueModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/Venues/VenueModal.tsx#L19)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/components/Venues/VenueModal.tsx:19](https://github.com/Palisad
 
 > **refetchVenues**: () => `void`
 
-Defined in: [src/components/Venues/VenueModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/Venues/VenueModal.tsx#L18)
+Defined in: [src/components/Venues/VenueModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/Venues/VenueModal.tsx#L18)
 
 #### Returns
 
@@ -52,7 +52,7 @@ Defined in: [src/components/Venues/VenueModal.tsx:18](https://github.com/Palisad
 
 > **show**: `boolean`
 
-Defined in: [src/components/Venues/VenueModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/Venues/VenueModal.tsx#L16)
+Defined in: [src/components/Venues/VenueModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/Venues/VenueModal.tsx#L16)
 
 ***
 
@@ -60,4 +60,4 @@ Defined in: [src/components/Venues/VenueModal.tsx:16](https://github.com/Palisad
 
 > `optional` **venueData**: `InterfaceQueryVenueListItem`
 
-Defined in: [src/components/Venues/VenueModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/Venues/VenueModal.tsx#L20)
+Defined in: [src/components/Venues/VenueModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/Venues/VenueModal.tsx#L20)

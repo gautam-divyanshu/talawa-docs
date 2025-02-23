@@ -6,7 +6,7 @@
 
 > **default**\<`T`\>(`callback`, `delay`): `object`
 
-Defined in: [src/components/OrgListCard/useDebounce.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/OrgListCard/useDebounce.tsx#L12)
+Defined in: [src/components/OrgListCard/useDebounce.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/OrgListCard/useDebounce.tsx#L12)
 
 A custom React hook for debouncing a callback function.
 It delays the execution of the callback until after a specified delay has elapsed

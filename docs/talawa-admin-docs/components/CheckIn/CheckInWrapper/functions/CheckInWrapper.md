@@ -6,7 +6,7 @@
 
 > **CheckInWrapper**(`eventId`): `Element`
 
-Defined in: [src/components/CheckIn/CheckInWrapper.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/CheckIn/CheckInWrapper.tsx#L17)
+Defined in: [src/components/CheckIn/CheckInWrapper.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/CheckInWrapper.tsx#L17)
 
 Wrapper component that displays a button to open the CheckInModal.
 

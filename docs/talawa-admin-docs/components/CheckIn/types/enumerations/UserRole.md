@@ -4,7 +4,7 @@
 
 # Enumeration: UserRole
 
-Defined in: [src/components/CheckIn/types.ts:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/CheckIn/types.ts#L45)
+Defined in: [src/components/CheckIn/types.ts:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/types.ts#L45)
 
 ## Enumeration Members
 
@@ -12,7 +12,7 @@ Defined in: [src/components/CheckIn/types.ts:45](https://github.com/PalisadoesFo
 
 > **ADMIN**: `"admin"`
 
-Defined in: [src/components/CheckIn/types.ts:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/CheckIn/types.ts#L47)
+Defined in: [src/components/CheckIn/types.ts:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/types.ts#L47)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/components/CheckIn/types.ts:47](https://github.com/PalisadoesFo
 
 > **SUPER\_ADMIN**: `"superAdmin"`
 
-Defined in: [src/components/CheckIn/types.ts:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/CheckIn/types.ts#L48)
+Defined in: [src/components/CheckIn/types.ts:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/types.ts#L48)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/components/CheckIn/types.ts:48](https://github.com/PalisadoesFo
 
 > **USER**: `"user"`
 
-Defined in: [src/components/CheckIn/types.ts:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/1cf8e39ca2930eb303ad9ea666b2d90033e35c94/src/components/CheckIn/types.ts#L46)
+Defined in: [src/components/CheckIn/types.ts:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/types.ts#L46)
