@@ -6,7 +6,7 @@
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
-Defined in: [src/components/OrgPostCard/DeletePostModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/OrgPostCard/DeletePostModal.tsx#L38)
+Defined in: [src/components/OrgPostCard/DeletePostModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/OrgPostCard/DeletePostModal.tsx#L38)
 
 ## Parameters
 

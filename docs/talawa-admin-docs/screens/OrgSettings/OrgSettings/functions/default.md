@@ -6,7 +6,7 @@
 
 > **default**(): `JSX.Element`
 
-Defined in: [src/screens/OrgSettings/OrgSettings.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/screens/OrgSettings/OrgSettings.tsx#L29)
+Defined in: [src/screens/OrgSettings/OrgSettings.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/screens/OrgSettings/OrgSettings.tsx#L29)
 
 The `orgSettings` component provides a user interface for managing various settings related to an organization.
 It includes options for updating organization details, deleting the organization, changing language preferences,

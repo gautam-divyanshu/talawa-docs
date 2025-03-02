@@ -6,7 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [src/components/Venues/VenueModal.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/Venues/VenueModal.tsx#L56)
+Defined in: [src/components/Venues/VenueModal.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/Venues/VenueModal.tsx#L56)
 
 A modal component for creating or updating venue information.
 

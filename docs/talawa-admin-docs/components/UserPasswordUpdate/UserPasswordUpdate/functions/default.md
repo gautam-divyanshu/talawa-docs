@@ -6,7 +6,7 @@
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
-Defined in: [src/components/UserPasswordUpdate/UserPasswordUpdate.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/UserPasswordUpdate/UserPasswordUpdate.tsx#L23)
+Defined in: [src/components/UserPasswordUpdate/UserPasswordUpdate.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/UserPasswordUpdate/UserPasswordUpdate.tsx#L23)
 
 UserUpdate component allows users to update their passwords.
 It handles form submission and communicates with the backend to update the user's password.

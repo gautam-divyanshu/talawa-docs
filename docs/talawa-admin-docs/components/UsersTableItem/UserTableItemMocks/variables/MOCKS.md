@@ -6,4 +6,4 @@
 
 > `const` **MOCKS**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `organizationId`: `undefined`; `orgid`: `string`; `role`: `undefined`; `userid`: `string`; `userId`: `undefined`; \}; \}; `result`: \{ `data`: \{ `removeMember`: \{ `_id`: `string`; \}; `updateUserRoleInOrganization`: `undefined`; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `organizationId`: `string`; `orgid`: `undefined`; `role`: `string`; `userid`: `undefined`; `userId`: `string`; \}; \}; `result`: \{ `data`: \{ `removeMember`: `undefined`; `updateUserRoleInOrganization`: \{ `_id`: `string`; \}; \}; \}; \})[]
 
-Defined in: [src/components/UsersTableItem/UserTableItemMocks.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/UsersTableItem/UserTableItemMocks.ts#L6)
+Defined in: [src/components/UsersTableItem/UserTableItemMocks.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/UsersTableItem/UserTableItemMocks.ts#L6)

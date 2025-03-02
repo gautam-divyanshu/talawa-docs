@@ -4,7 +4,7 @@
 
 # Interface: InterfaceUser
 
-Defined in: [src/components/CheckIn/types.ts:1](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/types.ts#L1)
+Defined in: [src/components/CheckIn/types.ts:1](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/CheckIn/types.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/components/CheckIn/types.ts:1](https://github.com/PalisadoesFou
 
 > **\_id**: `string`
 
-Defined in: [src/components/CheckIn/types.ts:2](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/types.ts#L2)
+Defined in: [src/components/CheckIn/types.ts:2](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/CheckIn/types.ts#L2)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/components/CheckIn/types.ts:2](https://github.com/PalisadoesFou
 
 > **firstName**: `string`
 
-Defined in: [src/components/CheckIn/types.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/types.ts#L3)
+Defined in: [src/components/CheckIn/types.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/CheckIn/types.ts#L3)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/components/CheckIn/types.ts:3](https://github.com/PalisadoesFou
 
 > **lastName**: `string`
 
-Defined in: [src/components/CheckIn/types.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/CheckIn/types.ts#L4)
+Defined in: [src/components/CheckIn/types.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/CheckIn/types.ts#L4)

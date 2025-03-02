@@ -6,7 +6,7 @@
 
 > **default**(): `JSX.Element`
 
-Defined in: [src/components/EventManagement/EventAttendance/EventAttendance.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/EventManagement/EventAttendance/EventAttendance.tsx#L34)
+Defined in: [src/components/EventManagement/EventAttendance/EventAttendance.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/EventManagement/EventAttendance/EventAttendance.tsx#L34)
 
 Component to manage and display event attendance information
 Includes filtering and sorting functionality for attendees

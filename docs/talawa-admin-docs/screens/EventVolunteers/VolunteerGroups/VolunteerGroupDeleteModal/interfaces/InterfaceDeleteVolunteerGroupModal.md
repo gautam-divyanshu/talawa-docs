@@ -4,7 +4,7 @@
 
 # Interface: InterfaceDeleteVolunteerGroupModal
 
-Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx#L10)
+Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx#L10)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteMod
 
 > **group**: `InterfaceVolunteerGroupInfo`
 
-Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx#L13)
+Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx#L13)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteMod
 
 > **hide**: () => `void`
 
-Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx#L12)
+Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx#L12)
 
 #### Returns
 
@@ -32,7 +32,7 @@ Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteMod
 
 > **isOpen**: `boolean`
 
-Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx#L11)
+Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx#L11)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteMod
 
 > **refetchGroups**: () => `void`
 
-Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx#L14)
+Defined in: [src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupDeleteModal.tsx#L14)
 
 #### Returns
 

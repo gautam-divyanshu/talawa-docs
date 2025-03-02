@@ -6,7 +6,7 @@
 
 > **default**\<`T`\>(`__namedParameters`): `Element`
 
-Defined in: [src/components/DynamicDropDown/DynamicDropDown.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/DynamicDropDown/DynamicDropDown.tsx#L34)
+Defined in: [src/components/DynamicDropDown/DynamicDropDown.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/DynamicDropDown/DynamicDropDown.tsx#L34)
 
 A dynamic dropdown component that allows users to select an option.
 

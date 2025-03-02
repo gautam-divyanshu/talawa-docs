@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_WITHOUT\_TIME**: `object`[]
 
-Defined in: [src/components/EventManagement/Dashboard/EventDashboard.mocks.ts:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/EventManagement/Dashboard/EventDashboard.mocks.ts#L34)
+Defined in: [src/components/EventManagement/Dashboard/EventDashboard.mocks.ts:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/EventManagement/Dashboard/EventDashboard.mocks.ts#L34)
 
 ## Type declaration
 

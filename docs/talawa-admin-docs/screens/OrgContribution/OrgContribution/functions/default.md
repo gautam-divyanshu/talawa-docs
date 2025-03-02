@@ -6,7 +6,7 @@
 
 > **default**(): `JSX.Element`
 
-Defined in: [src/screens/OrgContribution/OrgContribution.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/screens/OrgContribution/OrgContribution.tsx#L16)
+Defined in: [src/screens/OrgContribution/OrgContribution.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/screens/OrgContribution/OrgContribution.tsx#L16)
 
 The `orgContribution` component displays the contributions to an organization.
 It includes a sidebar for filtering contributions by organization name and transaction ID.

@@ -6,7 +6,7 @@
 
 > **default**(): `JSX.Element`
 
-Defined in: [src/screens/UserPortal/Donate/Donate.tsx:84](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/screens/UserPortal/Donate/Donate.tsx#L84)
+Defined in: [src/screens/UserPortal/Donate/Donate.tsx:84](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/screens/UserPortal/Donate/Donate.tsx#L84)
 
 `donate` component allows users to make donations to an organization and view their previous donations.
 

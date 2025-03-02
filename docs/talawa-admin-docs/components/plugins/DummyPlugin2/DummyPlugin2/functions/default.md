@@ -6,7 +6,7 @@
 
 > **default**(): `JSX.Element`
 
-Defined in: [src/components/plugins/DummyPlugin2/DummyPlugin2.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/plugins/DummyPlugin2/DummyPlugin2.tsx#L10)
+Defined in: [src/components/plugins/DummyPlugin2/DummyPlugin2.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/plugins/DummyPlugin2/DummyPlugin2.tsx#L10)
 
 A placeholder component for demonstration or testing purposes.
 It renders an empty `div` element.

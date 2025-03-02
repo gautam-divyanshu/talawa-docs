@@ -6,7 +6,7 @@
 
 > **TestWrapper**(`__namedParameters`): `Element`
 
-Defined in: [src/components/test-utils/TestWrapper.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/test-utils/TestWrapper.tsx#L42)
+Defined in: [src/components/test-utils/TestWrapper.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/test-utils/TestWrapper.tsx#L42)
 
 A wrapper component for testing React components that require Apollo Client, i18n, and Router contexts.
 Provides the necessary provider context for testing components that use GraphQL, translations, and routing.

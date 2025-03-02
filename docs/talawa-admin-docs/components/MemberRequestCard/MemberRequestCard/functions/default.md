@@ -6,7 +6,7 @@
 
 > **default**(`props`): `JSX.Element`
 
-Defined in: [src/components/MemberRequestCard/MemberRequestCard.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/15cf691ae1acd70b4f6547938bfb0323098f6ed7/src/components/MemberRequestCard/MemberRequestCard.tsx#L31)
+Defined in: [src/components/MemberRequestCard/MemberRequestCard.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/MemberRequestCard/MemberRequestCard.tsx#L31)
 
 Component for displaying and managing member requests.
 
