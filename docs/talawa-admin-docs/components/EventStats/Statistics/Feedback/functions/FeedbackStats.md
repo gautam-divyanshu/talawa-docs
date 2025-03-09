@@ -6,7 +6,7 @@
 
 > **FeedbackStats**(`data`): `Element`
 
-Defined in: [src/components/EventStats/Statistics/Feedback.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/EventStats/Statistics/Feedback.tsx#L34)
+Defined in: [src/components/EventStats/Statistics/Feedback.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/EventStats/Statistics/Feedback.tsx#L34)
 
 Component that displays a pie chart of feedback ratings for an event.
 Shows how many people gave each rating.

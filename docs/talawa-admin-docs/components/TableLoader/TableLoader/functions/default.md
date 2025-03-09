@@ -6,7 +6,7 @@
 
 > **default**(`props`): `Element`
 
-Defined in: [src/components/TableLoader/TableLoader.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/TableLoader/TableLoader.tsx#L23)
+Defined in: [src/components/TableLoader/TableLoader.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/TableLoader/TableLoader.tsx#L23)
 
 The TableLoader component displays a loading skeleton for tables.
 It shows a specified number of rows and columns as placeholders

@@ -6,16 +6,7 @@
 
 ## Modules
 
-- [components/AddOn/AddOn](components/AddOn/AddOn/README.md)
-- [components/AddOn/core/AddOnEntry/AddOnEntry](components/AddOn/core/AddOnEntry/AddOnEntry/README.md)
-- [components/AddOn/core/AddOnEntry/AddOnEntryMocks](components/AddOn/core/AddOnEntry/AddOnEntryMocks/README.md)
-- [components/AddOn/core/AddOnRegister/AddOnRegister](components/AddOn/core/AddOnRegister/AddOnRegister/README.md)
-- [components/AddOn/core/AddOnStore/AddOnStore](components/AddOn/core/AddOnStore/AddOnStore/README.md)
 - [components/AddOn/support/components/Action/Action](components/AddOn/support/components/Action/Action/README.md)
-- [components/AddOn/support/components/MainContent/MainContent](components/AddOn/support/components/MainContent/MainContent/README.md)
-- [components/AddOn/support/components/SidePanel/SidePanel](components/AddOn/support/components/SidePanel/SidePanel/README.md)
-- [components/AddOn/support/services/Plugin.helper](components/AddOn/support/services/Plugin.helper/README.md)
-- [components/AddOn/support/services/Render.helper](components/AddOn/support/services/Render.helper/README.md)
 - [components/AddPeopleToTag/AddPeopleToTag](components/AddPeopleToTag/AddPeopleToTag/README.md)
 - [components/AddPeopleToTag/AddPeopleToTagsMocks](components/AddPeopleToTag/AddPeopleToTagsMocks/README.md)
 - [components/Advertisements/Advertisements](components/Advertisements/Advertisements/README.md)
@@ -119,11 +110,6 @@
 - [components/OrgSettings/General/OrgUpdate/OrgUpdateMocks](components/OrgSettings/General/OrgUpdate/OrgUpdateMocks/README.md)
 - [components/Pagination/Pagination](components/Pagination/Pagination/README.md)
 - [components/PaginationList/PaginationList](components/PaginationList/PaginationList/README.md)
-- [components/plugins](components/plugins/README.md)
-- [components/plugins/DummyPlugin/DummyPlugin](components/plugins/DummyPlugin/DummyPlugin/README.md)
-- [components/plugins/DummyPlugin/DummyPlugin.test](components/plugins/DummyPlugin/DummyPlugin.test/README.md)
-- [components/plugins/DummyPlugin2/DummyPlugin2](components/plugins/DummyPlugin2/DummyPlugin2/README.md)
-- [components/plugins/DummyPlugin2/DummyPlugin2.test](components/plugins/DummyPlugin2/DummyPlugin2.test/README.md)
 - [components/ProfileCard/ProfileCard](components/ProfileCard/ProfileCard/README.md)
 - [components/ProfileDropdown/ProfileDropdown](components/ProfileDropdown/ProfileDropdown/README.md)
 - [components/RecurrenceOptions/CustomRecurrenceModal](components/RecurrenceOptions/CustomRecurrenceModal/README.md)

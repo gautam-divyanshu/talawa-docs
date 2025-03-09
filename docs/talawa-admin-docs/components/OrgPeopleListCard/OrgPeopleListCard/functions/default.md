@@ -6,7 +6,7 @@
 
 > **default**(`props`): `JSX.Element`
 
-Defined in: [src/components/OrgPeopleListCard/OrgPeopleListCard.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/components/OrgPeopleListCard/OrgPeopleListCard.tsx#L47)
+Defined in: [src/components/OrgPeopleListCard/OrgPeopleListCard.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/OrgPeopleListCard/OrgPeopleListCard.tsx#L47)
 
 Component for displaying a modal to remove a member from an organization
 

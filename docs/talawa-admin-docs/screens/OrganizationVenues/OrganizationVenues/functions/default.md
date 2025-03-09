@@ -6,7 +6,7 @@
 
 > **default**(): `JSX.Element`
 
-Defined in: [src/screens/OrganizationVenues/OrganizationVenues.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/screens/OrganizationVenues/OrganizationVenues.tsx#L23)
+Defined in: [src/screens/OrganizationVenues/OrganizationVenues.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/screens/OrganizationVenues/OrganizationVenues.tsx#L23)
 
 Component to manage and display the list of organization venues.
 Handles searching, sorting, and CRUD operations for venues.

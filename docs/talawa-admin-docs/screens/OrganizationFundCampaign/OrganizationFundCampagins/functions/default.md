@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [src/screens/OrganizationFundCampaign/OrganizationFundCampagins.tsx:102](https://github.com/PalisadoesFoundation/talawa-admin/blob/6d2b478c7233ffa75d6f62ba69efde78451b81e1/src/screens/OrganizationFundCampaign/OrganizationFundCampagins.tsx#L102)
+Defined in: [src/screens/OrganizationFundCampaign/OrganizationFundCampagins.tsx:102](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/screens/OrganizationFundCampaign/OrganizationFundCampagins.tsx#L102)
 
 `orgFundCampaign` component displays a list of fundraising campaigns for a specific fund within an organization.
 It allows users to search, sort, view and edit campaigns.
