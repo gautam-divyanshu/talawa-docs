@@ -6,7 +6,7 @@
 
 > **default**(`props`): `JSX.Element`
 
-Defined in: [src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx#L33)
+Defined in: [src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx#L33)
 
 Component to manage and display agenda items for a specific event.
 

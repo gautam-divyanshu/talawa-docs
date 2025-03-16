@@ -4,7 +4,7 @@
 
 # Interface: InterfaceAttendeeCheckIn
 
-Defined in: [src/components/CheckIn/types.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/CheckIn/types.ts#L7)
+Defined in: [src/components/CheckIn/types.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CheckIn/types.ts#L7)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/components/CheckIn/types.ts:7](https://github.com/PalisadoesFou
 
 > **\_id**: `string`
 
-Defined in: [src/components/CheckIn/types.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/CheckIn/types.ts#L8)
+Defined in: [src/components/CheckIn/types.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CheckIn/types.ts#L8)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/components/CheckIn/types.ts:8](https://github.com/PalisadoesFou
 
 > **checkIn**: `object`
 
-Defined in: [src/components/CheckIn/types.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/CheckIn/types.ts#L10)
+Defined in: [src/components/CheckIn/types.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CheckIn/types.ts#L10)
 
 #### \_id
 
@@ -36,4 +36,4 @@ Defined in: [src/components/CheckIn/types.ts:10](https://github.com/PalisadoesFo
 
 > **user**: [`InterfaceUser`](InterfaceUser.md)
 
-Defined in: [src/components/CheckIn/types.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/CheckIn/types.ts#L9)
+Defined in: [src/components/CheckIn/types.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CheckIn/types.ts#L9)

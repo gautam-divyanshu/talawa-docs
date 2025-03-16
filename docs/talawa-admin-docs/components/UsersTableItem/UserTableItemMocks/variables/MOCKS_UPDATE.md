@@ -6,4 +6,4 @@
 
 > `const` **MOCKS\_UPDATE**: (\{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `organizationId`: `string`; `role`: `string`; `userId`: `string`; \}; \}; `result`: `undefined`; \} \| \{ `error`: `undefined`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `organizationId`: `string`; `role`: `string`; `userId`: `string`; \}; \}; `result`: \{ `data`: \{ `updateUserRoleInOrganization`: \{ `_id`: `string`; \}; \}; \}; \})[]
 
-Defined in: [src/components/UsersTableItem/UserTableItemMocks.ts:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/UsersTableItem/UserTableItemMocks.ts#L55)
+Defined in: [src/components/UsersTableItem/UserTableItemMocks.ts:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/UsersTableItem/UserTableItemMocks.ts#L55)

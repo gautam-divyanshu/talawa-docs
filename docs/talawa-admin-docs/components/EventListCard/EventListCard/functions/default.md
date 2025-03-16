@@ -6,7 +6,7 @@
 
 > **default**(`props`): `JSX.Element`
 
-Defined in: [src/components/EventListCard/EventListCard.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/EventListCard/EventListCard.tsx#L45)
+Defined in: [src/components/EventListCard/EventListCard.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/EventListCard/EventListCard.tsx#L45)
 
 Component that displays an event card with a modal for event details.
 

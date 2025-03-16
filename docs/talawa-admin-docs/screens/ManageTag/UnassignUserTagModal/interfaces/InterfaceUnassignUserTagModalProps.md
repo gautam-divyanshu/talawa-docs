@@ -4,7 +4,7 @@
 
 # Interface: InterfaceUnassignUserTagModalProps
 
-Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/screens/ManageTag/UnassignUserTagModal.tsx#L28)
+Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/ManageTag/UnassignUserTagModal.tsx#L28)
 
 Unassign UserTag Modal component for the Manage Tag screen.
 
@@ -33,7 +33,7 @@ For more details on the reusable classes, refer to the global CSS file.
 
 > **handleUnassignUserTag**: () => `Promise`\<`void`\>
 
-Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/screens/ManageTag/UnassignUserTagModal.tsx#L31)
+Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/ManageTag/UnassignUserTagModal.tsx#L31)
 
 #### Returns
 
@@ -45,7 +45,7 @@ Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:31](https://github.c
 
 > **t**: `TFunction`\<`"manageTag"` \| `"memberDetail"`\>
 
-Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/screens/ManageTag/UnassignUserTagModal.tsx#L32)
+Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/ManageTag/UnassignUserTagModal.tsx#L32)
 
 ***
 
@@ -53,7 +53,7 @@ Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:32](https://github.c
 
 > **tCommon**: `TFunction`\<`"common"`\>
 
-Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/screens/ManageTag/UnassignUserTagModal.tsx#L33)
+Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/ManageTag/UnassignUserTagModal.tsx#L33)
 
 ***
 
@@ -61,7 +61,7 @@ Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:33](https://github.c
 
 > **toggleUnassignUserTagModal**: () => `void`
 
-Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/screens/ManageTag/UnassignUserTagModal.tsx#L30)
+Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/ManageTag/UnassignUserTagModal.tsx#L30)
 
 #### Returns
 
@@ -73,4 +73,4 @@ Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:30](https://github.c
 
 > **unassignUserTagModalIsOpen**: `boolean`
 
-Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/screens/ManageTag/UnassignUserTagModal.tsx#L29)
+Defined in: [src/screens/ManageTag/UnassignUserTagModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/ManageTag/UnassignUserTagModal.tsx#L29)

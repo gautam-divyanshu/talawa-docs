@@ -6,7 +6,7 @@
 
 > `const` **MOCK\_EMPTY**: `object`[]
 
-Defined in: [src/components/AddPeopleToTag/AddPeopleToTagsMocks.ts:294](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/AddPeopleToTag/AddPeopleToTagsMocks.ts#L294)
+Defined in: [src/components/AddPeopleToTag/AddPeopleToTagsMocks.ts:294](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/AddPeopleToTag/AddPeopleToTagsMocks.ts#L294)
 
 ## Type declaration
 

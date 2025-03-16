@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [src/screens/UserPortal/Campaigns/Campaigns.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/screens/UserPortal/Campaigns/Campaigns.tsx#L53)
+Defined in: [src/screens/UserPortal/Campaigns/Campaigns.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/UserPortal/Campaigns/Campaigns.tsx#L53)
 
 The `Campaigns` component displays a list of fundraising campaigns for a specific organization.
 It allows users to search, sort, and view details about each campaign. Users can also add pledges to active campaigns.

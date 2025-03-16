@@ -6,7 +6,7 @@
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
-Defined in: [src/components/OrgSettings/AgendaItemCategories/AgendaCategoryUpdateModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryUpdateModal.tsx#L40)
+Defined in: [src/components/OrgSettings/AgendaItemCategories/AgendaCategoryUpdateModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/OrgSettings/AgendaItemCategories/AgendaCategoryUpdateModal.tsx#L40)
 
 AgendaCategoryUpdateModal component is used to update the agenda category details like name, description
 

@@ -6,7 +6,7 @@
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
-Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/f8ee21cec8104cf917ede65f524307d1ff815e74/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L54)
+Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L54)
 
 `PledgeModal` is a React component that allows users to create or edit a pledge for a specific campaign.
 It displays a form with inputs for pledge details such as amount, currency, dates, and users involved in the pledge.
