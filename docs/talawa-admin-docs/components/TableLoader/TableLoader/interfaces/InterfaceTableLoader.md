@@ -4,7 +4,7 @@
 
 # Interface: InterfaceTableLoader
 
-Defined in: [src/components/TableLoader/TableLoader.tsx:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/TableLoader/TableLoader.tsx#L5)
+Defined in: [src/components/TableLoader/TableLoader.tsx:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TableLoader/TableLoader.tsx#L5)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/components/TableLoader/TableLoader.tsx:5](https://github.com/Pa
 
 > `optional` **headerTitles**: `string`[]
 
-Defined in: [src/components/TableLoader/TableLoader.tsx:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/TableLoader/TableLoader.tsx#L7)
+Defined in: [src/components/TableLoader/TableLoader.tsx:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TableLoader/TableLoader.tsx#L7)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/components/TableLoader/TableLoader.tsx:7](https://github.com/Pa
 
 > `optional` **noOfCols**: `number`
 
-Defined in: [src/components/TableLoader/TableLoader.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/TableLoader/TableLoader.tsx#L8)
+Defined in: [src/components/TableLoader/TableLoader.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TableLoader/TableLoader.tsx#L8)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/components/TableLoader/TableLoader.tsx:8](https://github.com/Pa
 
 > **noOfRows**: `number`
 
-Defined in: [src/components/TableLoader/TableLoader.tsx:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/TableLoader/TableLoader.tsx#L6)
+Defined in: [src/components/TableLoader/TableLoader.tsx:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TableLoader/TableLoader.tsx#L6)

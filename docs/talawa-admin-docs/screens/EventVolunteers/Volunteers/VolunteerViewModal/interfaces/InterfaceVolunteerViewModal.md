@@ -4,7 +4,7 @@
 
 # Interface: InterfaceVolunteerViewModal
 
-Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L20)
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L20)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:20](h
 
 > **hide**: () => `void`
 
-Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L22)
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L22)
 
 #### Returns
 
@@ -24,7 +24,7 @@ Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:22](h
 
 > **isOpen**: `boolean`
 
-Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L21)
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L21)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:21](h
 
 > **volunteer**: `InterfaceEventVolunteerInfo`
 
-Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L23)
+Defined in: [src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/EventVolunteers/Volunteers/VolunteerViewModal.tsx#L23)

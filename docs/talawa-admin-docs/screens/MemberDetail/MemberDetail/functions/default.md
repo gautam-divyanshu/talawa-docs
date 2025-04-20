@@ -6,7 +6,7 @@
 
 > **default**(`props`, `deprecatedLegacyContext`?): `ReactNode`
 
-Defined in: [src/screens/MemberDetail/MemberDetail.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/MemberDetail/MemberDetail.tsx#L50)
+Defined in: [src/screens/MemberDetail/MemberDetail.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/MemberDetail/MemberDetail.tsx#L50)
 
 MemberDetail component is used to display the details of a user.
 It also allows the user to update the details. It uses the UPDATE_USER_MUTATION to update the user details.

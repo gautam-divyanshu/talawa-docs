@@ -6,7 +6,7 @@
 
 > **default**(`props`): `Element`
 
-Defined in: [src/components/MemberDetail/EventsAttendedCardItem.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/MemberDetail/EventsAttendedCardItem.tsx#L26)
+Defined in: [src/components/MemberDetail/EventsAttendedCardItem.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/MemberDetail/EventsAttendedCardItem.tsx#L26)
 
 ## Parameters
 

@@ -6,7 +6,7 @@
 
 > **default**(): `JSX.Element`
 
-Defined in: [src/screens/OrgPost/OrgPost.tsx:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/OrgPost/OrgPost.tsx#L70)
+Defined in: [src/screens/OrgPost/OrgPost.tsx:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/OrgPost/OrgPost.tsx#L70)
 
 This function is used to display the posts of the organization. It displays the posts in a card format.
 It also provides the functionality to create a new post. The user can also sort the posts based on the date of creation.

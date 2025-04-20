@@ -6,7 +6,7 @@
 
 > **default**(`__namedParameters`): `JSX.Element`
 
-Defined in: [src/components/ContriStats/ContriStats.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/ContriStats/ContriStats.tsx#L22)
+Defined in: [src/components/ContriStats/ContriStats.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/ContriStats/ContriStats.tsx#L22)
 
 A component that displays contribution statistics.
 

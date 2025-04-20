@@ -6,7 +6,7 @@
 
 > **default**(): `JSX.Element`
 
-Defined in: [src/screens/UserPortal/Volunteer/Groups/Groups.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/screens/UserPortal/Volunteer/Groups/Groups.tsx#L72)
+Defined in: [src/screens/UserPortal/Volunteer/Groups/Groups.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Volunteer/Groups/Groups.tsx#L72)
 
 Component for managing volunteer groups for an event.
 This component allows users to view, filter, sort, and create action items. It also provides a modal for creating and editing action items.

@@ -4,7 +4,7 @@
 
 # Interface: InterfaceCollapsibleDropdown
 
-Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L9)
+Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L9)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:9](https
 
 > **setShowDropdown**: `Dispatch`\<`SetStateAction`\<`boolean`\>\>
 
-Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L12)
+Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L12)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:12](http
 
 > **showDropdown**: `boolean`
 
-Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L10)
+Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L10)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:10](http
 
 > **target**: `TargetsType`
 
-Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L11)
+Defined in: [src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L11)

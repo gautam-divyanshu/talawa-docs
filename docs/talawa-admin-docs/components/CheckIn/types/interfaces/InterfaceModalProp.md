@@ -4,7 +4,7 @@
 
 # Interface: InterfaceModalProp
 
-Defined in: [src/components/CheckIn/types.ts:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CheckIn/types.ts#L23)
+Defined in: [src/components/CheckIn/types.ts:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/CheckIn/types.ts#L23)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/components/CheckIn/types.ts:23](https://github.com/PalisadoesFo
 
 > **eventId**: `string`
 
-Defined in: [src/components/CheckIn/types.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CheckIn/types.ts#L25)
+Defined in: [src/components/CheckIn/types.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/CheckIn/types.ts#L25)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/components/CheckIn/types.ts:25](https://github.com/PalisadoesFo
 
 > **handleClose**: () => `void`
 
-Defined in: [src/components/CheckIn/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CheckIn/types.ts#L26)
+Defined in: [src/components/CheckIn/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/CheckIn/types.ts#L26)
 
 #### Returns
 
@@ -32,4 +32,4 @@ Defined in: [src/components/CheckIn/types.ts:26](https://github.com/PalisadoesFo
 
 > **show**: `boolean`
 
-Defined in: [src/components/CheckIn/types.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/a84ddc89ee5218e5c27f3b0b50310e2b84eeefe2/src/components/CheckIn/types.ts#L24)
+Defined in: [src/components/CheckIn/types.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/CheckIn/types.ts#L24)
