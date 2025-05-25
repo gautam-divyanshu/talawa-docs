@@ -1,0 +1,11 @@
+[**talawa-api**](../../../README.md)
+
+***
+
+# drizzle/tables/venues
+
+## Variables
+
+- [venuesTable](variables/venuesTable.md)
+- [venuesTableInsertSchema](variables/venuesTableInsertSchema.md)
+- [venuesTableRelations](variables/venuesTableRelations.md)

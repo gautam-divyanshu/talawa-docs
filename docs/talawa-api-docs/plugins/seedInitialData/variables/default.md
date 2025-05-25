@@ -1,0 +1,9 @@
+[**talawa-api**](../../../README.md)
+
+***
+
+# Variable: default
+
+> **default**: `FastifyPluginAsync`
+
+Defined in: [src/plugins/seedInitialData.ts:179](https://github.com/PalisadoesFoundation/talawa-api/blob/34a05151fe686c7a74fa6fed9b6c40a48a4857ee/src/plugins/seedInitialData.ts#L179)
