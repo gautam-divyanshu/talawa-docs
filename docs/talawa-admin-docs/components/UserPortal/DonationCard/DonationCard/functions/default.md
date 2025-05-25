@@ -4,42 +4,16 @@
 
 # Function: default()
 
-> **default**(`props`): `JSX.Element`
+> **default**(`props`): `Element`
 
-Defined in: [src/components/UserPortal/DonationCard/DonationCard.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/UserPortal/DonationCard/DonationCard.tsx#L36)
-
-Displays a card with details about a donation.
-
-Shows the donor's name, the amount donated, and the date of the donation.
-Includes a button to view more details about the donation.
+Defined in: [components/UserPortal/DonationCard/DonationCard.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/UserPortal/DonationCard/DonationCard.tsx#L34)
 
 ## Parameters
 
 ### props
 
-[`InterfaceDonationCardProps`](../../../../../screens/UserPortal/Donate/Donate/interfaces/InterfaceDonationCardProps.md)
-
-The properties passed to the component.
+`InterfaceDonationCardProps`
 
 ## Returns
 
-`JSX.Element`
-
-The rendered donation card component.
-
-## CSS Strategy Explanation:
-
-To ensure consistency across the application and reduce duplication, common styles
-(such as button styles) have been moved to the global CSS file. Instead of using
-component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
-class (e.g., .addButton) is now applied.
-
-### Benefits:
-- **Reduces redundant CSS code.
-- **Improves maintainability by centralizing common styles.
-- **Ensures consistent styling across components.
-
-### Global CSS Classes used:
-- `.addButton`
-
-For more details on the reusable classes, refer to the global CSS file.
+`Element`

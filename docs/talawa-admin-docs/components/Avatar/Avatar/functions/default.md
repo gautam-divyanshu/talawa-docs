@@ -6,10 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [src/components/Avatar/Avatar.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/Avatar/Avatar.tsx#L29)
-
-A component that generates and displays an avatar based on the provided name.
-The avatar is generated using the DiceBear library with the initials style.
+Defined in: [components/Avatar/Avatar.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/Avatar/Avatar.tsx#L41)
 
 ## Parameters
 
@@ -20,5 +17,3 @@ The avatar is generated using the DiceBear library with the initials style.
 ## Returns
 
 `Element`
-
-JSX.Element - The rendered avatar image component.

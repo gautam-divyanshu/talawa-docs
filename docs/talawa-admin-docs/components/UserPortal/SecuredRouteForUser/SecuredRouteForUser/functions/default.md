@@ -6,15 +6,8 @@
 
 > **default**(): `Element`
 
-Defined in: [src/components/UserPortal/SecuredRouteForUser/SecuredRouteForUser.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/UserPortal/SecuredRouteForUser/SecuredRouteForUser.tsx#L18)
-
-A component that guards routes by checking if the user is logged in.
-If the user is logged in and does not have 'AdminFor' set, the child routes are rendered.
-If the user is not logged in, they are redirected to the homepage.
-If the user is logged in but has 'AdminFor' set, a 404 page is shown.
+Defined in: [components/UserPortal/SecuredRouteForUser/SecuredRouteForUser.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/UserPortal/SecuredRouteForUser/SecuredRouteForUser.tsx#L36)
 
 ## Returns
 
 `Element`
-
-JSX.Element - Rendered component based on user authentication and role.

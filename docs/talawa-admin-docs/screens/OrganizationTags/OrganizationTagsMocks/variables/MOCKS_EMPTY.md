@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_EMPTY**: `object`[]
 
-Defined in: [src/screens/OrganizationTags/OrganizationTagsMocks.ts:344](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L344)
+Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:344](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L344)
 
 ## Type declaration
 
@@ -16,7 +16,7 @@ Defined in: [src/screens/OrganizationTags/OrganizationTagsMocks.ts:344](https://
 
 #### request.query
 
-> **query**: `DocumentNode` = `ORGANIZATION_USER_TAGS_LIST`
+> **query**: `DocumentNode` = `ORGANIZATION_USER_TAGS_LIST_PG`
 
 #### request.variables
 
@@ -26,7 +26,11 @@ Defined in: [src/screens/OrganizationTags/OrganizationTagsMocks.ts:344](https://
 
 > **first**: `number` = `TAGS_QUERY_DATA_CHUNK_SIZE`
 
-#### request.variables.id
+#### request.variables.input
+
+> **input**: `object`
+
+#### request.variables.input.id
 
 > **id**: `string` = `'orgId'`
 

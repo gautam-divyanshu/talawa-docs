@@ -6,16 +6,13 @@
 
 > **default**\<`T`\>(`__namedParameters`): `Element`
 
-Defined in: [src/components/DynamicDropDown/DynamicDropDown.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/DynamicDropDown/DynamicDropDown.tsx#L34)
-
-A dynamic dropdown component that allows users to select an option.
-
-This component renders a dropdown with a toggle button. Clicking the button
-opens a menu with options. When an option is selected, it updates the form state.
+Defined in: [components/DynamicDropDown/DynamicDropDown.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/DynamicDropDown/DynamicDropDown.tsx#L55)
 
 ## Type Parameters
 
-• **T** *extends* `Record`\<`string`, `unknown`\>
+### T
+
+`T` *extends* `Record`\<`string`, `unknown`\>
 
 ## Parameters
 
@@ -26,5 +23,3 @@ opens a menu with options. When an option is selected, it updates the form state
 ## Returns
 
 `Element`
-
-JSX.Element - The rendered dropdown component.

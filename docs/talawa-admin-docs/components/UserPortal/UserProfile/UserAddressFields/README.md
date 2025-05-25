@@ -4,12 +4,12 @@
 
 # components/UserPortal/UserProfile/UserAddressFields
 
-## Functions
+## Variables
 
-- [UserAddressFields](functions/UserAddressFields.md)
+- [UserAddressFields](variables/UserAddressFields.md)
 
 ## References
 
 ### default
 
-Renames and re-exports [UserAddressFields](functions/UserAddressFields.md)
+Renames and re-exports [UserAddressFields](variables/UserAddressFields.md)

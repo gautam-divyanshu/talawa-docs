@@ -4,6 +4,6 @@
 
 # components/RecurrenceOptions/RecurrenceOptions
 
-## Functions
+## Variables
 
-- [default](functions/default.md)
+- [default](variables/default.md)

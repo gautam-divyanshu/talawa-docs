@@ -8,6 +8,6 @@
 
 - [InterfaceGroupModal](interfaces/InterfaceGroupModal.md)
 
-## Functions
+## Variables
 
-- [default](functions/default.md)
+- [default](variables/default.md)

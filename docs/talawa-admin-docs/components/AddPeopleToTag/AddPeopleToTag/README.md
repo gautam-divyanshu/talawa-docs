@@ -4,10 +4,6 @@
 
 # components/AddPeopleToTag/AddPeopleToTag
 
-## Interfaces
+## Variables
 
-- [InterfaceAddPeopleToTagProps](interfaces/InterfaceAddPeopleToTagProps.md)
-
-## Functions
-
-- [default](functions/default.md)
+- [default](variables/default.md)

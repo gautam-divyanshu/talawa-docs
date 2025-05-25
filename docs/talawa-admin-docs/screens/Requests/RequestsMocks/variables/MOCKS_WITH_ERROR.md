@@ -4,6 +4,6 @@
 
 # Variable: MOCKS\_WITH\_ERROR
 
-> `const` **MOCKS\_WITH\_ERROR**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `firstName_contains`: `string`; `id`: `string`; `skip`: `number`; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: `undefined`; \}; \})[]
+> `const` **MOCKS\_WITH\_ERROR**: (\{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `input`: \{ `id`: `string`; \}; `name_contains`: `string`; `skip`: `number`; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables?`: `undefined`; \}; \})[]
 
-Defined in: [src/screens/Requests/RequestsMocks.ts:556](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/Requests/RequestsMocks.ts#L556)
+Defined in: [screens/Requests/RequestsMocks.ts:560](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/screens/Requests/RequestsMocks.ts#L560)

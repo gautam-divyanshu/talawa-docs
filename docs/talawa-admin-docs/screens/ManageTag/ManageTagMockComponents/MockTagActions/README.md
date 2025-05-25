@@ -4,6 +4,6 @@
 
 # screens/ManageTag/ManageTagMockComponents/MockTagActions
 
-## Functions
+## Variables
 
-- [default](functions/default.md)
+- [default](variables/default.md)

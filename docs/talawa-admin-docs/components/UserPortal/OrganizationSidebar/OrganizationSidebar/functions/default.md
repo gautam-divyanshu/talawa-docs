@@ -4,24 +4,10 @@
 
 # Function: default()
 
-> **default**(): `JSX.Element`
+> **default**(): `Element`
 
-Defined in: [src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx#L36)
-
-OrganizationSidebar displays the sidebar for an organization, showing a list of members and events.
-
-This component fetches and displays:
-- The top 3 members of the organization with their images and names.
-- The top 3 upcoming events for the organization with their titles, start, and end dates.
-
-It includes:
-- A link to view all members.
-- A link to view all events.
-
-The sidebar handles loading states and displays appropriate messages while data is being fetched.
+Defined in: [components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx#L51)
 
 ## Returns
 
-`JSX.Element`
-
-JSX.Element representing the organization sidebar.
+`Element`

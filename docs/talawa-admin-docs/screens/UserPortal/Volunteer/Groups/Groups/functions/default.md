@@ -4,32 +4,10 @@
 
 # Function: default()
 
-> **default**(): `JSX.Element`
+> **default**(): `Element`
 
-Defined in: [src/screens/UserPortal/Volunteer/Groups/Groups.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Volunteer/Groups/Groups.tsx#L72)
-
-Component for managing volunteer groups for an event.
-This component allows users to view, filter, sort, and create action items. It also provides a modal for creating and editing action items.
+Defined in: [screens/UserPortal/Volunteer/Groups/Groups.tsx:87](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/screens/UserPortal/Volunteer/Groups/Groups.tsx#L87)
 
 ## Returns
 
-`JSX.Element`
-
-The rendered component.
-
-## CSS Strategy Explanation:
-
-To ensure consistency across the application and reduce duplication, common styles
-(such as button styles) have been moved to the global CSS file. Instead of using
-component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
-class (e.g., .addButton) is now applied.
-
-### Benefits:
-- **Reduces redundant CSS code.
-- **Improves maintainability by centralizing common styles.
-- **Ensures consistent styling across components.
-
-### Global CSS Classes used:
-- `.searchButton`
-
-For more details on the reusable classes, refer to the global CSS file.
+`Element`

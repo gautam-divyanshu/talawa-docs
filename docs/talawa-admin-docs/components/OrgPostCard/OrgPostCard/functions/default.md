@@ -4,16 +4,16 @@
 
 # Function: default()
 
-> **default**(`props`): `JSX.Element`
+> **default**(`__namedParameters`): `Element`
 
-Defined in: [src/components/OrgPostCard/OrgPostCard.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/OrgPostCard/OrgPostCard.tsx#L53)
+Defined in: [components/OrgPostCard/OrgPostCard.tsx:91](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/OrgPostCard/OrgPostCard.tsx#L91)
 
 ## Parameters
 
-### props
+### \_\_namedParameters
 
 `InterfaceOrgPostCardProps`
 
 ## Returns
 
-`JSX.Element`
+`Element`

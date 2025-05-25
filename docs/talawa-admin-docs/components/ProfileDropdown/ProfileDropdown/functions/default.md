@@ -6,19 +6,8 @@
 
 > **default**(): `Element`
 
-Defined in: [src/components/ProfileDropdown/ProfileDropdown.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/ProfileDropdown/ProfileDropdown.tsx#L24)
-
-Renders a profile dropdown menu for the user.
-
-This component displays the user's profile picture or an avatar, their name (truncated if necessary),
-and their role (SuperAdmin, Admin, or User). It provides options to view the profile or log out.
-
-- If a user image is available, it displays that; otherwise, it shows an avatar.
-- The displayed name is truncated if it exceeds a specified length.
-- The logout function revokes the refresh token and clears local storage before redirecting to the home page.
+Defined in: [components/ProfileDropdown/ProfileDropdown.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/ProfileDropdown/ProfileDropdown.tsx#L47)
 
 ## Returns
 
 `Element`
-
-JSX.Element - The profile dropdown menu.

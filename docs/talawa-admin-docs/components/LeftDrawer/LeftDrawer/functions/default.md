@@ -6,9 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [src/components/LeftDrawer/LeftDrawer.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/LeftDrawer/LeftDrawer.tsx#L25)
-
-LeftDrawer component for displaying navigation options.
+Defined in: [components/LeftDrawer/LeftDrawer.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/LeftDrawer/LeftDrawer.tsx#L51)
 
 ## Parameters
 
@@ -19,5 +17,3 @@ LeftDrawer component for displaying navigation options.
 ## Returns
 
 `Element`
-
-JSX element for the left navigation drawer.

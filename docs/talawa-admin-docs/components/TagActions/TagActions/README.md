@@ -8,6 +8,6 @@
 
 - [InterfaceTagActionsProps](interfaces/InterfaceTagActionsProps.md)
 
-## Functions
+## Variables
 
-- [default](functions/default.md)
+- [default](variables/default.md)

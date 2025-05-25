@@ -4,35 +4,13 @@
 
 # Function: default()
 
-> **default**(): `JSX.Element`
+> **default**(): `Element`
 
-Defined in: [src/screens/OrgPost/OrgPost.tsx:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/OrgPost/OrgPost.tsx#L70)
+Defined in: [screens/OrgPost/OrgPost.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/screens/OrgPost/OrgPost.tsx#L34)
 
-This function is used to display the posts of the organization. It displays the posts in a card format.
-It also provides the functionality to create a new post. The user can also sort the posts based on the date of creation.
-The user can also search for a post based on the title of the post.
+OrgPost Component
+This component is responsible for rendering and managing organization posts.
 
 ## Returns
 
-`JSX.Element`
-
-JSX.Element which contains the posts of the organization.
-
-## CSS Strategy Explanation:
-
-To ensure consistency across the application and reduce duplication, common styles
-(such as button styles) have been moved to the global CSS file. Instead of using
-component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
-class (e.g., .addButton) is now applied.
-
-### Benefits:
-- **Reduces redundant CSS code.
-- **Improves maintainability by centralizing common styles.
-- **Ensures consistent styling across components.
-
-### Global CSS Classes used:
-- `.inputField`
-- `.removeButton`
-- `.addButton`
-
-For more details on the reusable classes, refer to the global CSS file.
+`Element`

@@ -6,14 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L42)
-
-Sidebar component for user navigation within an organization.
-
-Provides:
-- Branding with the Talawa logo.
-- Displays the current organization's details.
-- Navigation options with links and collapsible dropdowns.
+Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L66)
 
 ## Parameters
 
@@ -24,5 +17,3 @@ Provides:
 ## Returns
 
 `Element`
-
-JSX.Element - The rendered sidebar component.

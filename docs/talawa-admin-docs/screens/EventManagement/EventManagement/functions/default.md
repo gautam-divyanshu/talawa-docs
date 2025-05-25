@@ -6,27 +6,8 @@
 
 > **default**(): `Element`
 
-Defined in: [src/screens/EventManagement/EventManagement.tsx:60](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/EventManagement/EventManagement.tsx#L60)
-
-`EventManagement` component handles the display and navigation of different event management sections.
-
-It provides a tabbed interface for:
-- Viewing event dashboard
-- Managing event registrants
-- Handling event actions
-- Reviewing event agendas
-- Viewing event statistics
-- Managing event volunteers
-- Managing event attendance
+Defined in: [screens/EventManagement/EventManagement.tsx:78](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/screens/EventManagement/EventManagement.tsx#L78)
 
 ## Returns
 
 `Element`
-
-JSX.Element - The `EventManagement` component.
-
-## Example
-
-```tsx
-<EventManagement />
-```

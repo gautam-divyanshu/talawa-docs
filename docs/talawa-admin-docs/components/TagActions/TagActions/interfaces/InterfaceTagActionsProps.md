@@ -4,29 +4,7 @@
 
 # Interface: InterfaceTagActionsProps
 
-Defined in: [src/components/TagActions/TagActions.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TagActions/TagActions.tsx#L56)
-
-Props for the `AssignToTags` component.
-
-## CSS Strategy Explanation:
-
-To ensure consistency across the application and reduce duplication, common styles
-(such as button styles) have been moved to the global CSS file. Instead of using
-component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
-class (e.g., .addButton) is now applied.
-
-### Benefits:
-- **Reduces redundant CSS code.
-- **Improves maintainability by centralizing common styles.
-- **Ensures consistent styling across components.
-
-### Global CSS Classes used:
-- `.modalHeader`
-- `.inputField`
-- `.removeButton`
-- `.addButton`
-
-For more details on the reusable classes, refer to the global CSS file.
+Defined in: [components/TagActions/TagActions.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TagActions/TagActions.tsx#L65)
 
 ## Properties
 
@@ -34,7 +12,7 @@ For more details on the reusable classes, refer to the global CSS file.
 
 > **hideTagActionsModal**: () => `void`
 
-Defined in: [src/components/TagActions/TagActions.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TagActions/TagActions.tsx#L58)
+Defined in: [components/TagActions/TagActions.tsx:67](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TagActions/TagActions.tsx#L67)
 
 #### Returns
 
@@ -44,9 +22,9 @@ Defined in: [src/components/TagActions/TagActions.tsx:58](https://github.com/Pal
 
 ### t
 
-> **t**: `TFunction`\<`"manageTag"`\>
+> **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
 
-Defined in: [src/components/TagActions/TagActions.tsx:60](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TagActions/TagActions.tsx#L60)
+Defined in: [components/TagActions/TagActions.tsx:69](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TagActions/TagActions.tsx#L69)
 
 ***
 
@@ -54,7 +32,7 @@ Defined in: [src/components/TagActions/TagActions.tsx:60](https://github.com/Pal
 
 > **tagActionsModalIsOpen**: `boolean`
 
-Defined in: [src/components/TagActions/TagActions.tsx:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TagActions/TagActions.tsx#L57)
+Defined in: [components/TagActions/TagActions.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TagActions/TagActions.tsx#L66)
 
 ***
 
@@ -62,12 +40,12 @@ Defined in: [src/components/TagActions/TagActions.tsx:57](https://github.com/Pal
 
 > **tagActionType**: `TagActionType`
 
-Defined in: [src/components/TagActions/TagActions.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TagActions/TagActions.tsx#L59)
+Defined in: [components/TagActions/TagActions.tsx:68](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TagActions/TagActions.tsx#L68)
 
 ***
 
 ### tCommon
 
-> **tCommon**: `TFunction`\<`"common"`\>
+> **tCommon**: `TFunction`\<`"common"`, `undefined`\>
 
-Defined in: [src/components/TagActions/TagActions.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TagActions/TagActions.tsx#L61)
+Defined in: [components/TagActions/TagActions.tsx:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TagActions/TagActions.tsx#L70)

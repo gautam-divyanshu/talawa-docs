@@ -4,35 +4,10 @@
 
 # Function: default()
 
-> **default**(): `JSX.Element`
+> **default**(): `Element`
 
-Defined in: [src/screens/SubTags/SubTags.tsx:60](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/SubTags/SubTags.tsx#L60)
-
-Component that renders the SubTags screen when the app navigates to '/orgtags/:orgId/subtags/:tagId'.
-
-This component does not accept any props and is responsible for displaying
-the content associated with the corresponding route.
-
-## CSS Strategy Explanation:
-
-To ensure consistency across the application and reduce duplication, common styles
-(such as button styles) have been moved to the global CSS file. Instead of using
-component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
-class (e.g., .addButton) is now applied.
-
-### Benefits:
-- **Reduces redundant CSS code.
-- **Improves maintainability by centralizing common styles.
-- **Ensures consistent styling across components.
-
-### Global CSS Classes used:
-- `.editButton`
-- `.modalHeader`
-- `.inputField`
-- `.removeButton`
-
-For more details on the reusable classes, refer to the global CSS file.
+Defined in: [screens/SubTags/SubTags.tsx:75](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/screens/SubTags/SubTags.tsx#L75)
 
 ## Returns
 
-`JSX.Element`
+`Element`

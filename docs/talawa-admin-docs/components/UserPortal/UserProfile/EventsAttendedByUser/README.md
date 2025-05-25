@@ -4,12 +4,12 @@
 
 # components/UserPortal/UserProfile/EventsAttendedByUser
 
-## Functions
+## Variables
 
-- [EventsAttendedByUser](functions/EventsAttendedByUser.md)
+- [EventsAttendedByUser](variables/EventsAttendedByUser.md)
 
 ## References
 
 ### default
 
-Renames and re-exports [EventsAttendedByUser](functions/EventsAttendedByUser.md)
+Renames and re-exports [EventsAttendedByUser](variables/EventsAttendedByUser.md)

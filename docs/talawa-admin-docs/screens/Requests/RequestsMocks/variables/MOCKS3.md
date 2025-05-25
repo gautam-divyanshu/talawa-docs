@@ -4,6 +4,6 @@
 
 # Variable: MOCKS3
 
-> `const` **MOCKS3**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: `undefined`; \}; `result`: \{ `data`: \{ `organizations`: `undefined`; `organizationsConnection`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `firstName_contains`: `string`; `id`: `string`; `skip`: `number`; \}; \}; `result`: \{ `data`: \{ `organizations`: `any`[]; `organizationsConnection`: `undefined`; \}; \}; \})[]
+> `const` **MOCKS3**: (\{ `request`: \{ `query`: `DocumentNode`; `variables?`: `undefined`; \}; `result`: \{ `data`: \{ `organization?`: `undefined`; `organizations`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `input`: \{ `id`: `string`; \}; `name_contains`: `string`; `skip`: `number`; \}; \}; `result`: \{ `data`: \{ `organization`: `any`; `organizations?`: `undefined`; \}; \}; \})[]
 
-Defined in: [src/screens/Requests/RequestsMocks.ts:462](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/Requests/RequestsMocks.ts#L462)
+Defined in: [screens/Requests/RequestsMocks.ts:479](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/screens/Requests/RequestsMocks.ts#L479)

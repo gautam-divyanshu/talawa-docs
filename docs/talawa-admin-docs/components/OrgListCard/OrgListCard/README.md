@@ -6,7 +6,7 @@
 
 ## Interfaces
 
-- [InterfaceOrgListCardProps](interfaces/InterfaceOrgListCardProps.md)
+- [InterfaceOrgListCardPropsPG](interfaces/InterfaceOrgListCardPropsPG.md)
 
 ## Functions
 

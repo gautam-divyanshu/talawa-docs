@@ -4,6 +4,6 @@
 
 # Variable: props
 
-> `const` **props**: [`InterfaceEventListCardProps`](../../EventListCard/interfaces/InterfaceEventListCardProps.md)[]
+> `const` **props**: `InterfaceEventListCard`[]
 
-Defined in: [src/components/EventListCard/EventListCardProps.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/EventListCard/EventListCardProps.ts#L4)
+Defined in: [components/EventListCard/EventListCardProps.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/EventListCard/EventListCardProps.ts#L8)

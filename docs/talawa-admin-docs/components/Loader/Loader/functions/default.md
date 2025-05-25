@@ -6,9 +6,7 @@
 
 > **default**(`props`): `Element`
 
-Defined in: [src/components/Loader/Loader.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/Loader/Loader.tsx#L17)
-
-Loader component for displaying a loading spinner.
+Defined in: [components/Loader/Loader.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/Loader/Loader.tsx#L43)
 
 ## Parameters
 
@@ -19,5 +17,3 @@ Loader component for displaying a loading spinner.
 ## Returns
 
 `Element`
-
-JSX element for a loading spinner.

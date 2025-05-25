@@ -4,17 +4,13 @@
 
 # Function: default()
 
-> **default**(`props`): `JSX.Element`
+> **default**(`props`): `Element`
 
-Defined in: [src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx#L33)
-
-Component to manage and display agenda items for a specific event.
+Defined in: [components/EventManagement/EventAgendaItems/EventAgendaItems.tsx:62](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/EventManagement/EventAgendaItems/EventAgendaItems.tsx#L62)
 
 ## Parameters
 
 ### props
-
-The component props.
 
 #### eventId
 
@@ -22,6 +18,4 @@ The component props.
 
 ## Returns
 
-`JSX.Element`
-
-The rendered component.
+`Element`

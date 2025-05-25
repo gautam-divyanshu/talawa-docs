@@ -4,6 +4,6 @@
 
 # Variable: MOCKS
 
-> `const` **MOCKS**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: `undefined`; \}; `result`: \{ `data`: \{ `organizations`: `undefined`; `organizationsConnection`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `firstName_contains`: `string`; `id`: `string`; `skip`: `number`; \}; \}; `result`: \{ `data`: \{ `organizations`: `object`[]; `organizationsConnection`: `undefined`; \}; \}; \})[]
+> `const` **MOCKS**: (\{ `request`: \{ `query`: `DocumentNode`; `variables?`: `undefined`; \}; `result`: \{ `data`: \{ `organization?`: `undefined`; `organizations`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `input`: \{ `id`: `string`; \}; `name_contains`: `string`; `skip`: `number`; \}; \}; `result`: \{ `data`: \{ `organization`: \{ `id`: `string`; `membershipRequests`: `object`[]; \}; `organizations?`: `undefined`; \}; \}; \})[]
 
-Defined in: [src/screens/Requests/RequestsMocks.ts:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/Requests/RequestsMocks.ts#L71)
+Defined in: [screens/Requests/RequestsMocks.ts:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/screens/Requests/RequestsMocks.ts#L55)

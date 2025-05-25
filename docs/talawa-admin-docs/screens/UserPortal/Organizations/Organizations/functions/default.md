@@ -4,12 +4,12 @@
 
 # Function: default()
 
-> **default**(): `JSX.Element`
+> **default**(): `Element`
 
-Defined in: [src/screens/UserPortal/Organizations/Organizations.tsx:101](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Organizations/Organizations.tsx#L101)
+Defined in: [screens/UserPortal/Organizations/Organizations.tsx:124](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/screens/UserPortal/Organizations/Organizations.tsx#L124)
 
 Component for displaying and managing user organizations.
 
 ## Returns
 
-`JSX.Element`
+`Element`

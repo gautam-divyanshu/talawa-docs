@@ -4,8 +4,11 @@
 
 # screens/MemberDetail/MemberDetail
 
+## Variables
+
+- [default](variables/default.md)
+
 ## Functions
 
-- [default](functions/default.md)
 - [getLanguageName](functions/getLanguageName.md)
 - [prettyDate](functions/prettyDate.md)

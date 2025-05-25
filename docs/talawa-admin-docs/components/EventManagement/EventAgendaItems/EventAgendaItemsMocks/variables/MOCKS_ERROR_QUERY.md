@@ -6,4 +6,4 @@
 
 > `const` **MOCKS\_ERROR\_QUERY**: `any`[] = `[]`
 
-Defined in: [src/components/EventManagement/EventAgendaItems/EventAgendaItemsMocks.ts:133](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/EventManagement/EventAgendaItems/EventAgendaItemsMocks.ts#L133)
+Defined in: [components/EventManagement/EventAgendaItems/EventAgendaItemsMocks.ts:133](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/EventManagement/EventAgendaItems/EventAgendaItemsMocks.ts#L133)

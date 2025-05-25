@@ -4,15 +4,23 @@
 
 # Interface: InterfaceTableLoader
 
-Defined in: [src/components/TableLoader/TableLoader.tsx:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TableLoader/TableLoader.tsx#L5)
+Defined in: [components/TableLoader/TableLoader.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TableLoader/TableLoader.tsx#L35)
 
 ## Properties
+
+### data-testid?
+
+> `optional` **data-testid**: `string`
+
+Defined in: [components/TableLoader/TableLoader.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TableLoader/TableLoader.tsx#L39)
+
+***
 
 ### headerTitles?
 
 > `optional` **headerTitles**: `string`[]
 
-Defined in: [src/components/TableLoader/TableLoader.tsx:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TableLoader/TableLoader.tsx#L7)
+Defined in: [components/TableLoader/TableLoader.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TableLoader/TableLoader.tsx#L37)
 
 ***
 
@@ -20,7 +28,7 @@ Defined in: [src/components/TableLoader/TableLoader.tsx:7](https://github.com/Pa
 
 > `optional` **noOfCols**: `number`
 
-Defined in: [src/components/TableLoader/TableLoader.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TableLoader/TableLoader.tsx#L8)
+Defined in: [components/TableLoader/TableLoader.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TableLoader/TableLoader.tsx#L38)
 
 ***
 
@@ -28,4 +36,4 @@ Defined in: [src/components/TableLoader/TableLoader.tsx:8](https://github.com/Pa
 
 > **noOfRows**: `number`
 
-Defined in: [src/components/TableLoader/TableLoader.tsx:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/TableLoader/TableLoader.tsx#L6)
+Defined in: [components/TableLoader/TableLoader.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/TableLoader/TableLoader.tsx#L36)

@@ -4,16 +4,16 @@
 
 # Function: default()
 
-> **default**(`props`): `JSX.Element`
+> **default**(`props`): `Element`
 
-Defined in: [src/components/UserPortal/ChatRoom/ChatRoom.tsx:100](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/UserPortal/ChatRoom/ChatRoom.tsx#L100)
+Defined in: [components/UserPortal/ChatRoom/ChatRoom.tsx:151](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/UserPortal/ChatRoom/ChatRoom.tsx#L151)
 
 ## Parameters
 
 ### props
 
-`InterfaceChatRoomProps`
+`IChatRoomProps`
 
 ## Returns
 
-`JSX.Element`
+`Element`
