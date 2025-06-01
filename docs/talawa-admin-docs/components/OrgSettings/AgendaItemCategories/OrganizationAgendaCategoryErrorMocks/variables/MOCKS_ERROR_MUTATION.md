@@ -6,4 +6,4 @@
 
 > `const` **MOCKS\_ERROR\_MUTATION**: (\{ `error?`: `undefined`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `input?`: `undefined`; `organizationId`: `string`; `where`: \{ `name_contains`: `string`; \}; \}; \}; `result`: \{ `data`: \{ `agendaItemCategoriesByOrganization`: `object`[]; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `input`: \{ `description`: `string`; `name`: `string`; `organizationId`: `string`; \}; `organizationId?`: `undefined`; `where?`: `undefined`; \}; \}; `result?`: `undefined`; \})[]
 
-Defined in: [components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts#L20)
+Defined in: [components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts#L20)

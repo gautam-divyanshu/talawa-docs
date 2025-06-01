@@ -6,4 +6,4 @@
 
 > `const` **MOCK\_HANDLE\_DELETE**: `Mock`\<`Procedure`\>
 
-Defined in: [components/Venues/VenueCardMocks.ts:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/Venues/VenueCardMocks.ts#L29)
+Defined in: [components/Venues/VenueCardMocks.ts:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/Venues/VenueCardMocks.ts#L29)

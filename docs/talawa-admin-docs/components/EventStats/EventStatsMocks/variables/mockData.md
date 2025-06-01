@@ -6,7 +6,7 @@
 
 > `const` **mockData**: `object`[]
 
-Defined in: [components/EventStats/EventStatsMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/EventStats/EventStatsMocks.ts#L3)
+Defined in: [components/EventStats/EventStatsMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/EventStats/EventStatsMocks.ts#L3)
 
 ## Type declaration
 

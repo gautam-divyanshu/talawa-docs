@@ -6,7 +6,7 @@
 
 > `const` **ERROR\_MOCKS**: `object`[]
 
-Defined in: [components/EventListCard/Modal/EventListCardMocks.ts:191](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/EventListCard/Modal/EventListCardMocks.ts#L191)
+Defined in: [components/EventListCard/Modal/EventListCardMocks.ts:200](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/EventListCard/Modal/EventListCardMocks.ts#L200)
 
 ## Type declaration
 
@@ -26,6 +26,10 @@ Defined in: [components/EventListCard/Modal/EventListCardMocks.ts:191](https://g
 
 > **variables**: `object`
 
-#### request.variables.id
+#### request.variables.input
+
+> **input**: `object`
+
+#### request.variables.input.id
 
 > **id**: `string` = `'1'`

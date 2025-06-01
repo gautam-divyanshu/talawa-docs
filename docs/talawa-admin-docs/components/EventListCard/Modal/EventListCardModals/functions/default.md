@@ -6,13 +6,13 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [components/EventListCard/Modal/EventListCardModals.tsx:76](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/EventListCard/Modal/EventListCardModals.tsx#L76)
+Defined in: [components/EventListCard/Modal/EventListCardModals.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/EventListCard/Modal/EventListCardModals.tsx#L52)
 
 ## Parameters
 
 ### \_\_namedParameters
 
-`InterfaceEventListCardModalProps`
+`IEventListCardModalProps`
 
 ## Returns
 

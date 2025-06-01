@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx:74](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx#L74)
+Defined in: [screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx:74](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx#L74)
 
 Component for managing volunteer groups for an event.
 This component allows users to view, filter, sort, and create action items. It also provides a modal for creating and editing action items.

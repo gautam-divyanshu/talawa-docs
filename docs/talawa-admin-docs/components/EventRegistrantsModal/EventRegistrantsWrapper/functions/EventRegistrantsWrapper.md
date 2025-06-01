@@ -6,7 +6,7 @@
 
 > **EventRegistrantsWrapper**(`__namedParameters`): `Element`
 
-Defined in: [components/EventRegistrantsModal/EventRegistrantsWrapper.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/EventRegistrantsModal/EventRegistrantsWrapper.tsx#L37)
+Defined in: [components/EventRegistrantsModal/EventRegistrantsWrapper.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/EventRegistrantsModal/EventRegistrantsWrapper.tsx#L37)
 
 ## Parameters
 

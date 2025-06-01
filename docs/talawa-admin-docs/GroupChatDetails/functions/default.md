@@ -6,7 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [components/GroupChatDetails/GroupChatDetails.tsx:85](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/GroupChatDetails/GroupChatDetails.tsx#L85)
+Defined in: [components/GroupChatDetails/GroupChatDetails.tsx:85](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/GroupChatDetails/GroupChatDetails.tsx#L85)
 
 ## Parameters
 

@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_WITH\_TIME**: `object`[]
 
-Defined in: [components/EventManagement/Dashboard/EventDashboard.mocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/c0794b1494703a5d0b09fcdbb224914209740056/src/components/EventManagement/Dashboard/EventDashboard.mocks.ts#L3)
+Defined in: [components/EventManagement/Dashboard/EventDashboard.mocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/EventManagement/Dashboard/EventDashboard.mocks.ts#L3)
 
 ## Type declaration
 
@@ -22,9 +22,9 @@ Defined in: [components/EventManagement/Dashboard/EventDashboard.mocks.ts:3](htt
 
 > **variables**: `object`
 
-#### request.variables.id
+#### request.variables.eventId
 
-> **id**: `string` = `'event123'`
+> **eventId**: `string` = `'event123'`
 
 ### result
 
@@ -70,30 +70,38 @@ Defined in: [components/EventManagement/Dashboard/EventDashboard.mocks.ts:3](htt
 
 > **description**: `string` = `'Test Description'`
 
-#### result.data.event.endDate
+#### result.data.event.endAt
 
-> **endDate**: `string` = `'2024-01-02'`
+> **endAt**: `string` = `'2024-01-02T17:00:00Z'`
 
 #### result.data.event.endTime
 
 > **endTime**: `string` = `'17:00:00'`
 
+#### result.data.event.id
+
+> **id**: `string` = `'event123'`
+
+#### result.data.event.isPublic
+
+> **isPublic**: `boolean` = `true`
+
+#### result.data.event.isRegisterable
+
+> **isRegisterable**: `boolean` = `true`
+
 #### result.data.event.location
 
 > **location**: `string` = `'India'`
 
-#### result.data.event.recurring
+#### result.data.event.name
 
-> **recurring**: `boolean` = `false`
+> **name**: `string` = `'Test Event'`
 
-#### result.data.event.startDate
+#### result.data.event.startAt
 
-> **startDate**: `string` = `'2024-01-01'`
+> **startAt**: `string` = `'2024-01-01T09:00:00Z'`
 
 #### result.data.event.startTime
 
 > **startTime**: `string` = `'09:00:00'`
-
-#### result.data.event.title
-
-> **title**: `string` = `'Test Event'`
