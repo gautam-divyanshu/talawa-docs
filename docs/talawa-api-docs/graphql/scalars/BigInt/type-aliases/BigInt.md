@@ -6,7 +6,7 @@
 
 > **\_BigInt** = `object`
 
-Defined in: [src/graphql/scalars/BigInt.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/34a05151fe686c7a74fa6fed9b6c40a48a4857ee/src/graphql/scalars/BigInt.ts#L12)
+Defined in: [src/graphql/scalars/BigInt.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/050ed2813122ca02570a32383d1ba852ab349e4e/src/graphql/scalars/BigInt.ts#L12)
 
 `BigInt` scalar type for pothos schema.
 
@@ -16,7 +16,7 @@ Defined in: [src/graphql/scalars/BigInt.ts:12](https://github.com/PalisadoesFoun
 
 > **Input**: `bigint`
 
-Defined in: [src/graphql/scalars/BigInt.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/34a05151fe686c7a74fa6fed9b6c40a48a4857ee/src/graphql/scalars/BigInt.ts#L13)
+Defined in: [src/graphql/scalars/BigInt.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/050ed2813122ca02570a32383d1ba852ab349e4e/src/graphql/scalars/BigInt.ts#L13)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [src/graphql/scalars/BigInt.ts:13](https://github.com/PalisadoesFoun
 
 > **Output**: `bigint`
 
-Defined in: [src/graphql/scalars/BigInt.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/34a05151fe686c7a74fa6fed9b6c40a48a4857ee/src/graphql/scalars/BigInt.ts#L14)
+Defined in: [src/graphql/scalars/BigInt.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/050ed2813122ca02570a32383d1ba852ab349e4e/src/graphql/scalars/BigInt.ts#L14)

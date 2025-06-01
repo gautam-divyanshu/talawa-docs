@@ -6,7 +6,7 @@
 
 > **UnauthorizedActionOnArgumentsAssociatedResourcesExtensions** = `object`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:158](https://github.com/PalisadoesFoundation/talawa-api/blob/34a05151fe686c7a74fa6fed9b6c40a48a4857ee/src/utilities/TalawaGraphQLError.ts#L158)
+Defined in: [src/utilities/TalawaGraphQLError.ts:158](https://github.com/PalisadoesFoundation/talawa-api/blob/050ed2813122ca02570a32383d1ba852ab349e4e/src/utilities/TalawaGraphQLError.ts#L158)
 
 When the client is not authorized to perform an action on a resource associated to an argument.
 
@@ -31,7 +31,7 @@ throw new TalawaGraphQLError({
 
 > **code**: `"unauthorized_action_on_arguments_associated_resources"`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:162](https://github.com/PalisadoesFoundation/talawa-api/blob/34a05151fe686c7a74fa6fed9b6c40a48a4857ee/src/utilities/TalawaGraphQLError.ts#L162)
+Defined in: [src/utilities/TalawaGraphQLError.ts:162](https://github.com/PalisadoesFoundation/talawa-api/blob/050ed2813122ca02570a32383d1ba852ab349e4e/src/utilities/TalawaGraphQLError.ts#L162)
 
 ***
 
@@ -39,7 +39,7 @@ Defined in: [src/utilities/TalawaGraphQLError.ts:162](https://github.com/Palisad
 
 > **issues**: `object`[]
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:159](https://github.com/PalisadoesFoundation/talawa-api/blob/34a05151fe686c7a74fa6fed9b6c40a48a4857ee/src/utilities/TalawaGraphQLError.ts#L159)
+Defined in: [src/utilities/TalawaGraphQLError.ts:159](https://github.com/PalisadoesFoundation/talawa-api/blob/050ed2813122ca02570a32383d1ba852ab349e4e/src/utilities/TalawaGraphQLError.ts#L159)
 
 #### argumentPath
 
