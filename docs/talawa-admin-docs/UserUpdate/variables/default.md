@@ -6,4 +6,4 @@
 
 > `const` **default**: `React.FC`\<`InterfaceUserPasswordUpdateProps`\>
 
-Defined in: [components/UserPasswordUpdate/UserPasswordUpdate.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/UserPasswordUpdate/UserPasswordUpdate.tsx#L49)
+Defined in: [components/UserPasswordUpdate/UserPasswordUpdate.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/components/UserPasswordUpdate/UserPasswordUpdate.tsx#L49)

@@ -6,4 +6,4 @@
 
 > `const` **UserAddressFields**: `React.FC`\<`InterfaceUserAddressFieldsProps`\>
 
-Defined in: [components/UserPortal/UserProfile/UserAddressFields.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/UserPortal/UserProfile/UserAddressFields.tsx#L55)
+Defined in: [components/UserPortal/UserProfile/UserAddressFields.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/components/UserPortal/UserProfile/UserAddressFields.tsx#L55)

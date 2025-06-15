@@ -4,7 +4,7 @@
 
 # Interface: InterfaceIconComponent
 
-Defined in: [components/IconComponent/IconComponent.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/IconComponent/IconComponent.tsx#L58)
+Defined in: [components/IconComponent/IconComponent.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/components/IconComponent/IconComponent.tsx#L58)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [components/IconComponent/IconComponent.tsx:58](https://github.com/P
 
 > `optional` **fill**: `string`
 
-Defined in: [components/IconComponent/IconComponent.tsx:60](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/IconComponent/IconComponent.tsx#L60)
+Defined in: [components/IconComponent/IconComponent.tsx:60](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/components/IconComponent/IconComponent.tsx#L60)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [components/IconComponent/IconComponent.tsx:60](https://github.com/P
 
 > `optional` **height**: `string`
 
-Defined in: [components/IconComponent/IconComponent.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/IconComponent/IconComponent.tsx#L61)
+Defined in: [components/IconComponent/IconComponent.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/components/IconComponent/IconComponent.tsx#L61)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [components/IconComponent/IconComponent.tsx:61](https://github.com/P
 
 > **name**: `string`
 
-Defined in: [components/IconComponent/IconComponent.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/IconComponent/IconComponent.tsx#L59)
+Defined in: [components/IconComponent/IconComponent.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/components/IconComponent/IconComponent.tsx#L59)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [components/IconComponent/IconComponent.tsx:59](https://github.com/P
 
 > `optional` **width**: `string`
 
-Defined in: [components/IconComponent/IconComponent.tsx:62](https://github.com/PalisadoesFoundation/talawa-admin/blob/4341f6f5399bfb09de6b62d04b0950dec5df1323/src/components/IconComponent/IconComponent.tsx#L62)
+Defined in: [components/IconComponent/IconComponent.tsx:62](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/components/IconComponent/IconComponent.tsx#L62)
