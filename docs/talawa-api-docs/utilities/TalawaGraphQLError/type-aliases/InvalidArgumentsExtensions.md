@@ -6,7 +6,7 @@
 
 > **InvalidArgumentsExtensions** = `object`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:121](https://github.com/PalisadoesFoundation/talawa-api/blob/050ed2813122ca02570a32383d1ba852ab349e4e/src/utilities/TalawaGraphQLError.ts#L121)
+Defined in: [src/utilities/TalawaGraphQLError.ts:121](https://github.com/PalisadoesFoundation/talawa-api/blob/61d037fecfe39aa3d17edf85891dd02fbdba0f05/src/utilities/TalawaGraphQLError.ts#L121)
 
 When the client provides invalid arguments in a graphql operation.
 
@@ -40,7 +40,7 @@ throw new TalawaGraphQLError({
 
 > **code**: `"invalid_arguments"`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:122](https://github.com/PalisadoesFoundation/talawa-api/blob/050ed2813122ca02570a32383d1ba852ab349e4e/src/utilities/TalawaGraphQLError.ts#L122)
+Defined in: [src/utilities/TalawaGraphQLError.ts:122](https://github.com/PalisadoesFoundation/talawa-api/blob/61d037fecfe39aa3d17edf85891dd02fbdba0f05/src/utilities/TalawaGraphQLError.ts#L122)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/utilities/TalawaGraphQLError.ts:122](https://github.com/Palisad
 
 > **issues**: `object`[]
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:123](https://github.com/PalisadoesFoundation/talawa-api/blob/050ed2813122ca02570a32383d1ba852ab349e4e/src/utilities/TalawaGraphQLError.ts#L123)
+Defined in: [src/utilities/TalawaGraphQLError.ts:123](https://github.com/PalisadoesFoundation/talawa-api/blob/61d037fecfe39aa3d17edf85891dd02fbdba0f05/src/utilities/TalawaGraphQLError.ts#L123)
 
 #### argumentPath
 
