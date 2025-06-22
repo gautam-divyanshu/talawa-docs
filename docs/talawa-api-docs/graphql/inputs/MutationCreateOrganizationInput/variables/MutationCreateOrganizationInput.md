@@ -4,6 +4,6 @@
 
 # Variable: MutationCreateOrganizationInput
 
-> `const` **MutationCreateOrganizationInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `avatar?`: `Promise`\<`FileUpload`\>; `isUserRegistrationRequired?`: `boolean`; `name?`: `any`; \}\>
+> `const` **MutationCreateOrganizationInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `addressLine1?`: `object`[]; `addressLine2?`: `object`[]; `avatar?`: `Promise`\<`FileUpload`\>; `avatarName?`: `object`[]; `city?`: `object`[]; `description?`: `object`[]; `isUserRegistrationRequired?`: `boolean`; `name?`: `object`[]; `postalCode?`: `object`[]; `state?`: `object`[]; `userRegistrationRequired?`: `object`[]; \}\>
 
-Defined in: [src/graphql/inputs/MutationCreateOrganizationInput.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/61d037fecfe39aa3d17edf85891dd02fbdba0f05/src/graphql/inputs/MutationCreateOrganizationInput.ts#L24)
+Defined in: [src/graphql/inputs/MutationCreateOrganizationInput.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/38f66e7bf6477f824ec6304308f4c8fdc8e4e79b/src/graphql/inputs/MutationCreateOrganizationInput.ts#L24)

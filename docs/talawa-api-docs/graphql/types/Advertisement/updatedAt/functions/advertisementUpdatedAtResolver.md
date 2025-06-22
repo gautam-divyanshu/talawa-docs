@@ -6,7 +6,7 @@
 
 > **advertisementUpdatedAtResolver**(`parent`, `_args`, `ctx`): `Promise`\<`Date`\>
 
-Defined in: [src/graphql/types/Advertisement/updatedAt.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/61d037fecfe39aa3d17edf85891dd02fbdba0f05/src/graphql/types/Advertisement/updatedAt.ts#L6)
+Defined in: [src/graphql/types/Advertisement/updatedAt.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/38f66e7bf6477f824ec6304308f4c8fdc8e4e79b/src/graphql/types/Advertisement/updatedAt.ts#L6)
 
 ## Parameters
 

@@ -6,4 +6,4 @@
 
 > `const` **mutationDeleteActionItemInputSchema**: `ZodObject`\<\{ `id`: `any`; \}, `"strip"`, `ZodTypeAny`, \{[`key`: `string`]: `any`; `id?`: `unknown`; \}, \{[`key`: `string`]: `any`; `id?`: `unknown`; \}\>
 
-Defined in: [src/graphql/inputs/MutationDeleteActionItemInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/61d037fecfe39aa3d17edf85891dd02fbdba0f05/src/graphql/inputs/MutationDeleteActionItemInput.ts#L5)
+Defined in: [src/graphql/inputs/MutationDeleteActionItemInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/38f66e7bf6477f824ec6304308f4c8fdc8e4e79b/src/graphql/inputs/MutationDeleteActionItemInput.ts#L5)

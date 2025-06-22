@@ -4,6 +4,6 @@
 
 # Variable: MutationUpdateAgendaItemInputSchema
 
-> `const` **MutationUpdateAgendaItemInputSchema**: `ZodEffects`\<`ZodObject`\<`object` & `object`, `"strip"`, `ZodTypeAny`, \{[`key`: `string`]: `any`; `folderId?`: `unknown`; `id?`: `unknown`; `name?`: `unknown`; `type?`: `unknown`; \}, \{[`key`: `string`]: `any`; `folderId?`: `unknown`; `id?`: `unknown`; `name?`: `unknown`; `type?`: `unknown`; \}\>, \{[`key`: `string`]: `any`; `folderId?`: `unknown`; `id?`: `unknown`; `name?`: `unknown`; `type?`: `unknown`; \}, \{[`key`: `string`]: `any`; `folderId?`: `unknown`; `id?`: `unknown`; `name?`: `unknown`; `type?`: `unknown`; \}\>
+> `const` **MutationUpdateAgendaItemInputSchema**: `ZodEffects`\<`ZodObject`\<`object` & `object`, `"strip"`, `ZodTypeAny`, \{[`key`: `string`]: `any`; `description?`: `unknown`; `folderId?`: `unknown`; `id?`: `unknown`; `name?`: `unknown`; \}, \{[`key`: `string`]: `any`; `description?`: `unknown`; `folderId?`: `unknown`; `id?`: `unknown`; `name?`: `unknown`; \}\>, \{[`key`: `string`]: `any`; `description?`: `unknown`; `folderId?`: `unknown`; `id?`: `unknown`; `name?`: `unknown`; \}, \{[`key`: `string`]: `any`; `description?`: `unknown`; `folderId?`: `unknown`; `id?`: `unknown`; `name?`: `unknown`; \}\>
 
-Defined in: [src/graphql/inputs/MutationUpdateAgendaItemInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/61d037fecfe39aa3d17edf85891dd02fbdba0f05/src/graphql/inputs/MutationUpdateAgendaItemInput.ts#L5)
+Defined in: [src/graphql/inputs/MutationUpdateAgendaItemInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/38f66e7bf6477f824ec6304308f4c8fdc8e4e79b/src/graphql/inputs/MutationUpdateAgendaItemInput.ts#L5)
