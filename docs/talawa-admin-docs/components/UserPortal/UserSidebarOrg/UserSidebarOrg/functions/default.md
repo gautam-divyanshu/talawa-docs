@@ -6,13 +6,13 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L66)
+Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/c6f1c371a45e435dc0f50fb56d4b67087d1ceed2/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L63)
 
 ## Parameters
 
 ### \_\_namedParameters
 
-[`InterfaceUserSidebarOrgProps`](../interfaces/InterfaceUserSidebarOrgProps.md)
+[`IUserSidebarOrgProps`](../interfaces/IUserSidebarOrgProps.md)
 
 ## Returns
 

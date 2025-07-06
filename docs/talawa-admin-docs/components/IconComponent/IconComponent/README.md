@@ -6,7 +6,7 @@
 
 ## Interfaces
 
-- [InterfaceIconComponent](interfaces/InterfaceIconComponent.md)
+- [IIconComponent](interfaces/IIconComponent.md)
 
 ## Functions
 

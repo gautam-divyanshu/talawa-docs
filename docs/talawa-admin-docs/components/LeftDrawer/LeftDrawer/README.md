@@ -6,7 +6,7 @@
 
 ## Interfaces
 
-- [InterfaceLeftDrawerProps](interfaces/InterfaceLeftDrawerProps.md)
+- [ILeftDrawerProps](interfaces/ILeftDrawerProps.md)
 
 ## Functions
 

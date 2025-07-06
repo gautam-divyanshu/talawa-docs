@@ -6,4 +6,4 @@
 
 > `const` **MOCKS1**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `after?`: `undefined`; `first`: `number`; `id`: `string`; \}; \}; `result`: \{ `data`: \{ `getChildTags`: \{ `__typename`: `string`; `childTags`: \{ `__typename`: `string`; `edges`: `object`[]; `pageInfo`: \{ `__typename`: `string`; `endCursor`: `string`; `hasNextPage`: `boolean`; \}; \}; \}; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `after`: `string`; `first`: `number`; `id`: `string`; \}; \}; `result`: \{ `data`: \{ `getChildTags`: \{ `__typename`: `string`; `childTags`: \{ `__typename`: `string`; `edges`: `object`[]; `pageInfo`: \{ `__typename`: `string`; `endCursor`: `string`; `hasNextPage`: `boolean`; \}; \}; \}; \}; \}; \})[]
 
-Defined in: [components/TagActions/Node/TagNodeMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/components/TagActions/Node/TagNodeMocks.ts#L3)
+Defined in: [components/TagActions/Node/TagNodeMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/c6f1c371a45e435dc0f50fb56d4b67087d1ceed2/src/components/TagActions/Node/TagNodeMocks.ts#L3)

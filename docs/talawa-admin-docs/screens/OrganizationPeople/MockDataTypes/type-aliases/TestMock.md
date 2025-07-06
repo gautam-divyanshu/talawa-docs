@@ -6,7 +6,7 @@
 
 > **TestMock** = `object`
 
-Defined in: [screens/OrganizationPeople/MockDataTypes.ts:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/screens/OrganizationPeople/MockDataTypes.ts#L36)
+Defined in: [screens/OrganizationPeople/MockDataTypes.ts:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/c6f1c371a45e435dc0f50fb56d4b67087d1ceed2/src/screens/OrganizationPeople/MockDataTypes.ts#L36)
 
 ## Properties
 
@@ -14,19 +14,19 @@ Defined in: [screens/OrganizationPeople/MockDataTypes.ts:36](https://github.com/
 
 > `optional` **error**: `Error`
 
-Defined in: [screens/OrganizationPeople/MockDataTypes.ts:121](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/screens/OrganizationPeople/MockDataTypes.ts#L121)
+Defined in: [screens/OrganizationPeople/MockDataTypes.ts:121](https://github.com/PalisadoesFoundation/talawa-admin/blob/c6f1c371a45e435dc0f50fb56d4b67087d1ceed2/src/screens/OrganizationPeople/MockDataTypes.ts#L121)
 
 ***
 
 ### newData()?
 
-> `optional` **newData**: () => `FetchResult`\<`Record`\<`string`, `any`\>\>
+> `optional` **newData**: () => `FetchResult`\<`Record`\<`string`, `unknown`\>\>
 
-Defined in: [screens/OrganizationPeople/MockDataTypes.ts:122](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/screens/OrganizationPeople/MockDataTypes.ts#L122)
+Defined in: [screens/OrganizationPeople/MockDataTypes.ts:122](https://github.com/PalisadoesFoundation/talawa-admin/blob/c6f1c371a45e435dc0f50fb56d4b67087d1ceed2/src/screens/OrganizationPeople/MockDataTypes.ts#L122)
 
 #### Returns
 
-`FetchResult`\<`Record`\<`string`, `any`\>\>
+`FetchResult`\<`Record`\<`string`, `unknown`\>\>
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [screens/OrganizationPeople/MockDataTypes.ts:122](https://github.com
 
 > **request**: `object`
 
-Defined in: [screens/OrganizationPeople/MockDataTypes.ts:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/screens/OrganizationPeople/MockDataTypes.ts#L37)
+Defined in: [screens/OrganizationPeople/MockDataTypes.ts:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/c6f1c371a45e435dc0f50fb56d4b67087d1ceed2/src/screens/OrganizationPeople/MockDataTypes.ts#L37)
 
 #### query
 
@@ -130,7 +130,7 @@ Defined in: [screens/OrganizationPeople/MockDataTypes.ts:37](https://github.com/
 
 > `optional` **result**: `object`
 
-Defined in: [screens/OrganizationPeople/MockDataTypes.ts:60](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/screens/OrganizationPeople/MockDataTypes.ts#L60)
+Defined in: [screens/OrganizationPeople/MockDataTypes.ts:60](https://github.com/PalisadoesFoundation/talawa-admin/blob/c6f1c371a45e435dc0f50fb56d4b67087d1ceed2/src/screens/OrganizationPeople/MockDataTypes.ts#L60)
 
 #### data
 

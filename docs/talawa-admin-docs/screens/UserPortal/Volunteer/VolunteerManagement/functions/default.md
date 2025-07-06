@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/UserPortal/Volunteer/VolunteerManagement.tsx:79](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/screens/UserPortal/Volunteer/VolunteerManagement.tsx#L79)
+Defined in: [screens/UserPortal/Volunteer/VolunteerManagement.tsx:79](https://github.com/PalisadoesFoundation/talawa-admin/blob/c6f1c371a45e435dc0f50fb56d4b67087d1ceed2/src/screens/UserPortal/Volunteer/VolunteerManagement.tsx#L79)
 
 `VolunteerManagement` component handles the display and navigation of different event management sections.
 

@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_EMPTY**: `object`[]
 
-Defined in: [components/OrgSettings/ActionItemCategories/OrgActionItemCategoryMocks.ts:236](https://github.com/PalisadoesFoundation/talawa-admin/blob/95892ae00585ea1379e3aba1101961fb709ef564/src/components/OrgSettings/ActionItemCategories/OrgActionItemCategoryMocks.ts#L236)
+Defined in: [components/OrgSettings/ActionItemCategories/OrgActionItemCategoryMocks.ts:157](https://github.com/PalisadoesFoundation/talawa-admin/blob/c6f1c371a45e435dc0f50fb56d4b67087d1ceed2/src/components/OrgSettings/ActionItemCategories/OrgActionItemCategoryMocks.ts#L157)
 
 ## Type declaration
 
@@ -22,21 +22,13 @@ Defined in: [components/OrgSettings/ActionItemCategories/OrgActionItemCategoryMo
 
 > **variables**: `object`
 
-#### request.variables.orderBy
+#### request.variables.input
 
-> **orderBy**: `string` = `'createdAt_DESC'`
+> **input**: `object`
 
-#### request.variables.organizationId
+#### request.variables.input.organizationId
 
 > **organizationId**: `string` = `'orgId'`
-
-#### request.variables.where
-
-> **where**: `object`
-
-#### request.variables.where.name\_contains
-
-> **name\_contains**: `string` = `''`
 
 ### result
 
@@ -46,6 +38,6 @@ Defined in: [components/OrgSettings/ActionItemCategories/OrgActionItemCategoryMo
 
 > **data**: `object`
 
-#### result.data.actionItemCategoriesByOrganization
+#### result.data.actionCategoriesByOrganization
 
-> **actionItemCategoriesByOrganization**: `any`[] = `[]`
+> **actionCategoriesByOrganization**: `any`[] = `[]`
