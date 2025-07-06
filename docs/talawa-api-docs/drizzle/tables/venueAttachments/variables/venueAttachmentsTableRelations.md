@@ -6,4 +6,4 @@
 
 > `const` **venueAttachmentsTableRelations**: `Relations`\<`"venue_attachments"`, \{ `creator`: `One`\<`"users"`, `false`\>; `updater`: `One`\<`"users"`, `false`\>; `venue`: `One`\<`"venues"`, `true`\>; \}\>
 
-Defined in: [src/drizzle/tables/venueAttachments.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/38f66e7bf6477f824ec6304308f4c8fdc8e4e79b/src/drizzle/tables/venueAttachments.ts#L75)
+Defined in: [src/drizzle/tables/venueAttachments.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/5ea9b61d087fd885d263126674716e202dd020a5/src/drizzle/tables/venueAttachments.ts#L75)

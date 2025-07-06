@@ -6,7 +6,7 @@
 
 > **resolveCreatedAt**(`parent`, `_args`, `ctx`): `Promise`\<`Date`\>
 
-Defined in: [src/graphql/types/VolunteerGroup/createdAt.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/38f66e7bf6477f824ec6304308f4c8fdc8e4e79b/src/graphql/types/VolunteerGroup/createdAt.ts#L9)
+Defined in: [src/graphql/types/VolunteerGroup/createdAt.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/5ea9b61d087fd885d263126674716e202dd020a5/src/graphql/types/VolunteerGroup/createdAt.ts#L9)
 
 ## Parameters
 

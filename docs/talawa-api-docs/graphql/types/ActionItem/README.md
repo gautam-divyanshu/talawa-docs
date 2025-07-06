@@ -24,6 +24,30 @@ Re-exports [resolveAssignee](assignee/functions/resolveAssignee.md)
 
 ***
 
+### resolveCategory
+
+Re-exports [resolveCategory](actionItemCategory/functions/resolveCategory.md)
+
+***
+
 ### resolveCreatedAt
 
 Re-exports [resolveCreatedAt](createdAt/functions/resolveCreatedAt.md)
+
+***
+
+### resolveCreator
+
+Re-exports [resolveCreator](creator/functions/resolveCreator.md)
+
+***
+
+### resolveOrganization
+
+Re-exports [resolveOrganization](organization/functions/resolveOrganization.md)
+
+***
+
+### resolveUpdater
+
+Re-exports [resolveUpdater](updater/functions/resolveUpdater.md)

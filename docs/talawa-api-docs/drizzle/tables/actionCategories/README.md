@@ -7,4 +7,5 @@
 ## Variables
 
 - [actionCategoriesTable](variables/actionCategoriesTable.md)
+- [actionCategoriesTableInsertSchema](variables/actionCategoriesTableInsertSchema.md)
 - [actionCategoriesTableRelations](variables/actionCategoriesTableRelations.md)
