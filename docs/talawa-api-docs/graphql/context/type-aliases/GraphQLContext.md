@@ -6,6 +6,6 @@
 
 > **GraphQLContext** = [`ExplicitGraphQLContext`](ExplicitGraphQLContext.md) & [`ImplicitMercuriusContext`](ImplicitMercuriusContext.md)
 
-Defined in: [src/graphql/context.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/5ea9b61d087fd885d263126674716e202dd020a5/src/graphql/context.ts#L55)
+Defined in: [src/graphql/context.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/85295bc0a41036287eacb0bf29a66d8022826bb4/src/graphql/context.ts#L55)
 
 Type of the transport protocol agnostic context object passed to the graphql resolvers each time they resolve a graphql operation at runtime.

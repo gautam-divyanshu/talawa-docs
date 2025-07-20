@@ -6,7 +6,7 @@
 
 > **resolveCreatedAt**(`parent`, `_args`, `ctx`): `Promise`\<`Date`\>
 
-Defined in: [src/graphql/types/ActionItemCategory/createdAt.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/5ea9b61d087fd885d263126674716e202dd020a5/src/graphql/types/ActionItemCategory/createdAt.ts#L7)
+Defined in: [src/graphql/types/ActionItemCategory/createdAt.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/85295bc0a41036287eacb0bf29a66d8022826bb4/src/graphql/types/ActionItemCategory/createdAt.ts#L7)
 
 ## Parameters
 

@@ -6,7 +6,7 @@
 
 > **AuthenticationPayload** = `object`
 
-Defined in: [src/graphql/types/AuthenticationPayload.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/5ea9b61d087fd885d263126674716e202dd020a5/src/graphql/types/AuthenticationPayload.ts#L5)
+Defined in: [src/graphql/types/AuthenticationPayload.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/85295bc0a41036287eacb0bf29a66d8022826bb4/src/graphql/types/AuthenticationPayload.ts#L5)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/graphql/types/AuthenticationPayload.ts:5](https://github.com/Pa
 
 > **authenticationToken**: `string`
 
-Defined in: [src/graphql/types/AuthenticationPayload.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/5ea9b61d087fd885d263126674716e202dd020a5/src/graphql/types/AuthenticationPayload.ts#L6)
+Defined in: [src/graphql/types/AuthenticationPayload.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/85295bc0a41036287eacb0bf29a66d8022826bb4/src/graphql/types/AuthenticationPayload.ts#L6)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [src/graphql/types/AuthenticationPayload.ts:6](https://github.com/Pa
 
 > **user**: [`User`](../../User/User/type-aliases/User.md)
 
-Defined in: [src/graphql/types/AuthenticationPayload.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/5ea9b61d087fd885d263126674716e202dd020a5/src/graphql/types/AuthenticationPayload.ts#L7)
+Defined in: [src/graphql/types/AuthenticationPayload.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/85295bc0a41036287eacb0bf29a66d8022826bb4/src/graphql/types/AuthenticationPayload.ts#L7)

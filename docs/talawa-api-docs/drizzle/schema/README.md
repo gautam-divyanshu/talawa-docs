@@ -294,6 +294,12 @@ Re-exports [organizationsTableRelations](../tables/organizations/variables/organ
 
 ***
 
+### pluginsTable
+
+Re-exports [pluginsTable](../tables/plugins/variables/pluginsTable.md)
+
+***
+
 ### postAttachmentsTable
 
 Re-exports [postAttachmentsTable](../tables/postAttachments/variables/postAttachmentsTable.md)

@@ -1,0 +1,41 @@
+[**talawa-api**](../../../README.md)
+
+***
+
+# Interface: IGraphQLExtensionResolver
+
+Defined in: [src/plugin/types.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/85295bc0a41036287eacb0bf29a66d8022826bb4/src/plugin/types.ts#L60)
+
+## Properties
+
+### pluginId
+
+> **pluginId**: `string`
+
+Defined in: [src/plugin/types.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/85295bc0a41036287eacb0bf29a66d8022826bb4/src/plugin/types.ts#L61)
+
+***
+
+### resolver()
+
+> **resolver**: (`parent`, `args`, `context`) => `unknown`
+
+Defined in: [src/plugin/types.ts:62](https://github.com/PalisadoesFoundation/talawa-api/blob/85295bc0a41036287eacb0bf29a66d8022826bb4/src/plugin/types.ts#L62)
+
+#### Parameters
+
+##### parent
+
+`unknown`
+
+##### args
+
+`unknown`
+
+##### context
+
+`unknown`
+
+#### Returns
+
+`unknown`
