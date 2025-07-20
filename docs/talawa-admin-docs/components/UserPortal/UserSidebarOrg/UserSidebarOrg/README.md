@@ -6,7 +6,7 @@
 
 ## Interfaces
 
-- [IUserSidebarOrgProps](interfaces/IUserSidebarOrgProps.md)
+- [InterfaceUserSidebarOrgProps](interfaces/InterfaceUserSidebarOrgProps.md)
 
 ## Functions
 

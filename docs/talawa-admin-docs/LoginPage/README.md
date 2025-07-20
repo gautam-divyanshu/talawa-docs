@@ -90,6 +90,10 @@ assets/svgs/palisadoes.svg
 
 assets/svgs/talawa.svg
 
+## Requires
+
+plugin/PluginInjector
+
 ## Component
 
 ## Description

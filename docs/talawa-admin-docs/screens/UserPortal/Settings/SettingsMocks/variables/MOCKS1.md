@@ -6,7 +6,7 @@
 
 > `const` **MOCKS1**: `object`[]
 
-Defined in: [screens/UserPortal/Settings/SettingsMocks.ts:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/7c523d5147eec1c6335af39cdf4fc48d71a0a96f/src/screens/UserPortal/Settings/SettingsMocks.ts#L44)
+Defined in: [screens/UserPortal/Settings/SettingsMocks.ts:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/a6a14220f0b45328ddf1ab781d27ae47e9bbead4/src/screens/UserPortal/Settings/SettingsMocks.ts#L44)
 
 ## Type declaration
 

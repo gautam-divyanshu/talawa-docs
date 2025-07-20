@@ -4,7 +4,7 @@
 
 # Interface: InterfaceFundModal
 
-Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/7c523d5147eec1c6335af39cdf4fc48d71a0a96f/src/screens/OrganizationFunds/modal/FundModal.tsx#L15)
+Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/a6a14220f0b45328ddf1ab781d27ae47e9bbead4/src/screens/OrganizationFunds/modal/FundModal.tsx#L15)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:15](https://github.co
 
 > **fund**: `InterfaceFundInfo`
 
-Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/7c523d5147eec1c6335af39cdf4fc48d71a0a96f/src/screens/OrganizationFunds/modal/FundModal.tsx#L19)
+Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/a6a14220f0b45328ddf1ab781d27ae47e9bbead4/src/screens/OrganizationFunds/modal/FundModal.tsx#L19)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:19](https://github.co
 
 > **hide**: () => `void`
 
-Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/7c523d5147eec1c6335af39cdf4fc48d71a0a96f/src/screens/OrganizationFunds/modal/FundModal.tsx#L17)
+Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/a6a14220f0b45328ddf1ab781d27ae47e9bbead4/src/screens/OrganizationFunds/modal/FundModal.tsx#L17)
 
 #### Returns
 
@@ -32,7 +32,7 @@ Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:17](https://github.co
 
 > **isOpen**: `boolean`
 
-Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/7c523d5147eec1c6335af39cdf4fc48d71a0a96f/src/screens/OrganizationFunds/modal/FundModal.tsx#L16)
+Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/a6a14220f0b45328ddf1ab781d27ae47e9bbead4/src/screens/OrganizationFunds/modal/FundModal.tsx#L16)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:16](https://github.co
 
 > **mode**: `"create"` \| `"edit"`
 
-Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7c523d5147eec1c6335af39cdf4fc48d71a0a96f/src/screens/OrganizationFunds/modal/FundModal.tsx#L21)
+Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/a6a14220f0b45328ddf1ab781d27ae47e9bbead4/src/screens/OrganizationFunds/modal/FundModal.tsx#L21)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:21](https://github.co
 
 > **orgId**: `string`
 
-Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/7c523d5147eec1c6335af39cdf4fc48d71a0a96f/src/screens/OrganizationFunds/modal/FundModal.tsx#L20)
+Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/a6a14220f0b45328ddf1ab781d27ae47e9bbead4/src/screens/OrganizationFunds/modal/FundModal.tsx#L20)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:20](https://github.co
 
 > **refetchFunds**: () => `void`
 
-Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/7c523d5147eec1c6335af39cdf4fc48d71a0a96f/src/screens/OrganizationFunds/modal/FundModal.tsx#L18)
+Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/a6a14220f0b45328ddf1ab781d27ae47e9bbead4/src/screens/OrganizationFunds/modal/FundModal.tsx#L18)
 
 #### Returns
 
