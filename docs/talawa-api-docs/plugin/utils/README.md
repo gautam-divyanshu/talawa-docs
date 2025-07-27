@@ -6,6 +6,7 @@
 
 ## Functions
 
+- [clearPluginModuleCache](functions/clearPluginModuleCache.md)
 - [createPluginTables](functions/createPluginTables.md)
 - [debounce](functions/debounce.md)
 - [deepClone](functions/deepClone.md)
@@ -19,7 +20,7 @@
 - [isValidPluginId](functions/isValidPluginId.md)
 - [loadPluginManifest](functions/loadPluginManifest.md)
 - [normalizeImportPath](functions/normalizeImportPath.md)
+- [removePluginDirectory](functions/removePluginDirectory.md)
 - [safeRequire](functions/safeRequire.md)
-- [scanPluginsDirectory](functions/scanPluginsDirectory.md)
 - [sortExtensionPoints](functions/sortExtensionPoints.md)
 - [validatePluginManifest](functions/validatePluginManifest.md)

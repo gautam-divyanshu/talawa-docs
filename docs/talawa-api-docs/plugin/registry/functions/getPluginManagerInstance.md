@@ -6,9 +6,10 @@
 
 > **getPluginManagerInstance**(): [`PluginManager`](../../classes/PluginManager.md)
 
-Defined in: [src/plugin/registry.ts:80](https://github.com/PalisadoesFoundation/talawa-api/blob/85295bc0a41036287eacb0bf29a66d8022826bb4/src/plugin/registry.ts#L80)
+Defined in: [src/plugin/registry.ts:66](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/registry.ts#L66)
 
-Gets the plugin manager instance
+Get the current plugin manager instance
+This is the main function used throughout the codebase
 
 ## Returns
 

@@ -106,12 +106,6 @@ Re-exports [IPluginContext](types/interfaces/IPluginContext.md)
 
 ***
 
-### IPluginDiscovery
-
-Re-exports [IPluginDiscovery](types/interfaces/IPluginDiscovery.md)
-
-***
-
 ### IPluginError
 
 Re-exports [IPluginError](types/interfaces/IPluginError.md)
@@ -157,12 +151,6 @@ Re-exports [PluginStatus](types/enumerations/PluginStatus.md)
 ### safeRequire
 
 Re-exports [safeRequire](utils/functions/safeRequire.md)
-
-***
-
-### scanPluginsDirectory
-
-Re-exports [scanPluginsDirectory](utils/functions/scanPluginsDirectory.md)
 
 ***
 

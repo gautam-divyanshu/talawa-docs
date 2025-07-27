@@ -186,6 +186,30 @@ Re-exports [eventAttendancesTableRelations](../tables/eventAttendances/variables
 
 ***
 
+### eventExceptionsTable
+
+Re-exports [eventExceptionsTable](../tables/recurringEventExceptions/variables/eventExceptionsTable.md)
+
+***
+
+### eventExceptionsTableRelations
+
+Re-exports [eventExceptionsTableRelations](../tables/recurringEventExceptions/variables/eventExceptionsTableRelations.md)
+
+***
+
+### eventGenerationWindowsTable
+
+Re-exports [eventGenerationWindowsTable](../tables/eventGenerationWindows/variables/eventGenerationWindowsTable.md)
+
+***
+
+### eventGenerationWindowsTableRelations
+
+Re-exports [eventGenerationWindowsTableRelations](../tables/eventGenerationWindows/variables/eventGenerationWindowsTableRelations.md)
+
+***
+
 ### eventsTable
 
 Re-exports [eventsTable](../tables/events/variables/eventsTable.md)
@@ -195,6 +219,12 @@ Re-exports [eventsTable](../tables/events/variables/eventsTable.md)
 ### eventsTableRelations
 
 Re-exports [eventsTableRelations](../tables/events/variables/eventsTableRelations.md)
+
+***
+
+### exceptionTypeEnum
+
+Re-exports [exceptionTypeEnum](../tables/recurringEventExceptions/variables/exceptionTypeEnum.md)
 
 ***
 
@@ -333,6 +363,36 @@ Re-exports [postVotesTable](../tables/postVotes/variables/postVotesTable.md)
 ### postVotesTableRelations
 
 Re-exports [postVotesTableRelations](../tables/postVotes/variables/postVotesTableRelations.md)
+
+***
+
+### recurrenceFrequencyEnum
+
+Re-exports [recurrenceFrequencyEnum](../tables/recurrenceRules/variables/recurrenceFrequencyEnum.md)
+
+***
+
+### recurrenceRulesTable
+
+Re-exports [recurrenceRulesTable](../tables/recurrenceRules/variables/recurrenceRulesTable.md)
+
+***
+
+### recurrenceRulesTableRelations
+
+Re-exports [recurrenceRulesTableRelations](../tables/recurrenceRules/variables/recurrenceRulesTableRelations.md)
+
+***
+
+### recurringEventInstancesTable
+
+Re-exports [recurringEventInstancesTable](../tables/recurringEventInstances/variables/recurringEventInstancesTable.md)
+
+***
+
+### recurringEventInstancesTableRelations
+
+Re-exports [recurringEventInstancesTableRelations](../tables/recurringEventInstances/variables/recurringEventInstancesTableRelations.md)
 
 ***
 

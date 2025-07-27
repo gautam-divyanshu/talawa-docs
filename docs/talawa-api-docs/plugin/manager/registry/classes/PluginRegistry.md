@@ -1,0 +1,69 @@
+[**talawa-api**](../../../../README.md)
+
+***
+
+# Class: PluginRegistry
+
+Defined in: [src/plugin/manager/registry.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/registry.ts#L13)
+
+## Constructors
+
+### Constructor
+
+> **new PluginRegistry**(`pluginContext`): `PluginRegistry`
+
+Defined in: [src/plugin/manager/registry.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/registry.ts#L14)
+
+#### Parameters
+
+##### pluginContext
+
+[`IPluginContext`](../../../types/interfaces/IPluginContext.md)
+
+#### Returns
+
+`PluginRegistry`
+
+## Methods
+
+### getPluginFromDatabase()
+
+> **getPluginFromDatabase**(`pluginId`): `Promise`\<\{ `backup`: `boolean`; `createdAt`: `Date`; `id`: `string`; `isActivated`: `boolean`; `isInstalled`: `boolean`; `pluginId`: `string`; `updatedAt`: `Date`; \}\>
+
+Defined in: [src/plugin/manager/registry.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/registry.ts#L19)
+
+Get plugin from database
+
+#### Parameters
+
+##### pluginId
+
+`string`
+
+#### Returns
+
+`Promise`\<\{ `backup`: `boolean`; `createdAt`: `Date`; `id`: `string`; `isActivated`: `boolean`; `isInstalled`: `boolean`; `pluginId`: `string`; `updatedAt`: `Date`; \}\>
+
+***
+
+### updatePluginInDatabase()
+
+> **updatePluginInDatabase**(`pluginId`, `updates`): `Promise`\<`void`\>
+
+Defined in: [src/plugin/manager/registry.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/registry.ts#L40)
+
+Update plugin in database
+
+#### Parameters
+
+##### pluginId
+
+`string`
+
+##### updates
+
+`Partial`\<*typeof* `pluginsTable.$inferInsert`\>
+
+#### Returns
+
+`Promise`\<`void`\>
