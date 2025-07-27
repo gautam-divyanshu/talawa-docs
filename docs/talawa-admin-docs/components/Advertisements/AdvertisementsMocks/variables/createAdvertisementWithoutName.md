@@ -6,4 +6,4 @@
 
 > `const` **createAdvertisementWithoutName**: `IBaseMutationMock`\<\{ `endAt`: `string`; `organizationId`: `string`; `startAt`: `string`; `type`: `string`; \}\>[]
 
-Defined in: [components/Advertisements/AdvertisementsMocks.ts:509](https://github.com/PalisadoesFoundation/talawa-admin/blob/a6a14220f0b45328ddf1ab781d27ae47e9bbead4/src/components/Advertisements/AdvertisementsMocks.ts#L509)
+Defined in: [components/Advertisements/AdvertisementsMocks.ts:509](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/components/Advertisements/AdvertisementsMocks.ts#L509)

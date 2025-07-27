@@ -215,6 +215,8 @@
 - [screens/OrganizationDashboard/Leaderboard/Leaderboard.mocks](screens/OrganizationDashboard/Leaderboard/Leaderboard.mocks/README.md)
 - [screens/OrganizationDashboard/OrganizationDashboard](screens/OrganizationDashboard/OrganizationDashboard/README.md)
 - [screens/OrganizationDashboard/OrganizationDashboardMocks](screens/OrganizationDashboard/OrganizationDashboardMocks/README.md)
+- [screens/OrganizationEvents/CreateEventModal](screens/OrganizationEvents/CreateEventModal/README.md)
+- [screens/OrganizationEvents/CustomRecurrenceModal](screens/OrganizationEvents/CustomRecurrenceModal/README.md)
 - [screens/OrganizationEvents/OrganizationEvents](screens/OrganizationEvents/OrganizationEvents/README.md)
 - [screens/OrganizationEvents/OrganizationEventsMocks](screens/OrganizationEvents/OrganizationEventsMocks/README.md)
 - [screens/OrganizationFundCampaign/modal/CampaignModal](screens/OrganizationFundCampaign/modal/CampaignModal/README.md)
