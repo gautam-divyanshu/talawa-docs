@@ -6,7 +6,7 @@
 
 > **getPluginByIdResolver**(`_`, `args`, `ctx`): `Promise`\<\{ `backup`: `boolean`; `createdAt`: `Date`; `id`: `string`; `isActivated`: `boolean`; `isInstalled`: `boolean`; `pluginId`: `string`; `updatedAt`: `Date`; \}\>
 
-Defined in: [src/graphql/types/Query/plugins.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/graphql/types/Query/plugins.ts#L16)
+Defined in: [src/graphql/types/Query/plugins.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/graphql/types/Query/plugins.ts#L16)
 
 Resolver for getPluginById
 

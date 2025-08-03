@@ -6,7 +6,7 @@
 
 > **resolveUpdatedAt**(`parent`, `_args`, `ctx`): `Promise`\<`Date`\>
 
-Defined in: [src/graphql/types/VolunteerGroup/updatedAt.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/graphql/types/VolunteerGroup/updatedAt.ts#L9)
+Defined in: [src/graphql/types/VolunteerGroup/updatedAt.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/graphql/types/VolunteerGroup/updatedAt.ts#L9)
 
 ## Parameters
 

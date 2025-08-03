@@ -6,7 +6,7 @@
 
 > **runSingleOrganizationWorker**(`organizationId`, `drizzleClient`, `logger`): `Promise`\<[`WorkerResult`](../interfaces/WorkerResult.md)\>
 
-Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:136](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/workers/eventGeneration/eventGenerationPipeline.ts#L136)
+Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:136](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/workers/eventGeneration/eventGenerationPipeline.ts#L136)
 
 Manually triggers the materialization process for a single, specific organization.
 

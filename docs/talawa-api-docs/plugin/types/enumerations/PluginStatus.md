@@ -4,7 +4,7 @@
 
 # Enumeration: PluginStatus
 
-Defined in: [src/plugin/types.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/types.ts#L84)
+Defined in: [src/plugin/types.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/types.ts#L84)
 
 ## Enumeration Members
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:84](https://github.com/PalisadoesFoundation/tal
 
 > **ACTIVE**: `"active"`
 
-Defined in: [src/plugin/types.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/types.ts#L85)
+Defined in: [src/plugin/types.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/types.ts#L85)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/plugin/types.ts:85](https://github.com/PalisadoesFoundation/tal
 
 > **ERROR**: `"error"`
 
-Defined in: [src/plugin/types.ts:87](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/types.ts#L87)
+Defined in: [src/plugin/types.ts:87](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/types.ts#L87)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/plugin/types.ts:87](https://github.com/PalisadoesFoundation/tal
 
 > **INACTIVE**: `"inactive"`
 
-Defined in: [src/plugin/types.ts:86](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/types.ts#L86)
+Defined in: [src/plugin/types.ts:86](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/types.ts#L86)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/plugin/types.ts:86](https://github.com/PalisadoesFoundation/tal
 
 > **LOADING**: `"loading"`
 
-Defined in: [src/plugin/types.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/types.ts#L88)
+Defined in: [src/plugin/types.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/types.ts#L88)

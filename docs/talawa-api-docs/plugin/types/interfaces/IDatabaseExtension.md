@@ -4,7 +4,7 @@
 
 # Interface: IDatabaseExtension
 
-Defined in: [src/plugin/types.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/types.ts#L36)
+Defined in: [src/plugin/types.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/types.ts#L36)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:36](https://github.com/PalisadoesFoundation/tal
 
 > **file**: `string`
 
-Defined in: [src/plugin/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/types.ts#L39)
+Defined in: [src/plugin/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/types.ts#L39)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/plugin/types.ts:39](https://github.com/PalisadoesFoundation/tal
 
 > **name**: `string`
 
-Defined in: [src/plugin/types.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/types.ts#L38)
+Defined in: [src/plugin/types.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/types.ts#L38)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/plugin/types.ts:38](https://github.com/PalisadoesFoundation/tal
 
 > **type**: `"table"` \| `"enum"` \| `"relation"`
 
-Defined in: [src/plugin/types.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/types.ts#L37)
+Defined in: [src/plugin/types.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/types.ts#L37)

@@ -4,7 +4,7 @@
 
 # Interface: WorkerDependencies
 
-Defined in: [src/workers/eventGeneration/types.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/workers/eventGeneration/types.ts#L9)
+Defined in: [src/workers/eventGeneration/types.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/workers/eventGeneration/types.ts#L9)
 
 Core dependencies and configuration types for the materialization system
 
@@ -14,7 +14,7 @@ Core dependencies and configuration types for the materialization system
 
 > **drizzleClient**: `NodePgDatabase`\<[`drizzle/schema`](../../../../drizzle/schema/README.md)\>
 
-Defined in: [src/workers/eventGeneration/types.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/workers/eventGeneration/types.ts#L10)
+Defined in: [src/workers/eventGeneration/types.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/workers/eventGeneration/types.ts#L10)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [src/workers/eventGeneration/types.ts:10](https://github.com/Palisad
 
 > **logger**: `FastifyBaseLogger`
 
-Defined in: [src/workers/eventGeneration/types.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/workers/eventGeneration/types.ts#L11)
+Defined in: [src/workers/eventGeneration/types.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/workers/eventGeneration/types.ts#L11)

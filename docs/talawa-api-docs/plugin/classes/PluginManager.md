@@ -4,7 +4,7 @@
 
 # Class: PluginManager
 
-Defined in: [src/plugin/manager/core.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L32)
+Defined in: [src/plugin/manager/core.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L32)
 
 Plugin System Main Entry Point for Talawa API
 
@@ -21,7 +21,7 @@ for use throughout the API application.
 
 > **new PluginManager**(`context`, `pluginsDir?`): `PluginManager`
 
-Defined in: [src/plugin/manager/core.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L61)
+Defined in: [src/plugin/manager/core.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L61)
 
 #### Parameters
 
@@ -47,7 +47,7 @@ Defined in: [src/plugin/manager/core.ts:61](https://github.com/PalisadoesFoundat
 
 > **activatePlugin**(`pluginId`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/core.ts:313](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L313)
+Defined in: [src/plugin/manager/core.ts:313](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L313)
 
 Activate a plugin
 
@@ -67,7 +67,7 @@ Activate a plugin
 
 > **clearErrors**(): `void`
 
-Defined in: [src/plugin/manager/core.ts:472](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L472)
+Defined in: [src/plugin/manager/core.ts:472](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L472)
 
 Clear plugin errors
 
@@ -81,7 +81,7 @@ Clear plugin errors
 
 > **deactivatePlugin**(`pluginId`, `dropTables`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/core.ts:320](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L320)
+Defined in: [src/plugin/manager/core.ts:320](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L320)
 
 Deactivate a plugin
 
@@ -105,7 +105,7 @@ Deactivate a plugin
 
 > **executePostHooks**(`event`, `data`): `Promise`\<`void`\>
 
-Defined in: [src/plugin/manager/core.ts:445](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L445)
+Defined in: [src/plugin/manager/core.ts:445](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L445)
 
 Execute post hooks for an event
 
@@ -129,7 +129,7 @@ Execute post hooks for an event
 
 > **executePreHooks**(`event`, `data`): `Promise`\<`unknown`\>
 
-Defined in: [src/plugin/manager/core.ts:427](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L427)
+Defined in: [src/plugin/manager/core.ts:427](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L427)
 
 Execute pre hooks for an event
 
@@ -153,7 +153,7 @@ Execute pre hooks for an event
 
 > **getActivePlugins**(): [`ILoadedPlugin`](../types/interfaces/ILoadedPlugin.md)[]
 
-Defined in: [src/plugin/manager/core.ts:389](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L389)
+Defined in: [src/plugin/manager/core.ts:389](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L389)
 
 Get active plugins
 
@@ -167,7 +167,7 @@ Get active plugins
 
 > **getErrors**(): [`IPluginError`](../types/interfaces/IPluginError.md)[]
 
-Defined in: [src/plugin/manager/core.ts:465](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L465)
+Defined in: [src/plugin/manager/core.ts:465](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L465)
 
 Get plugin errors
 
@@ -181,7 +181,7 @@ Get plugin errors
 
 > **getExtensionRegistry**(): [`IExtensionRegistry`](../types/interfaces/IExtensionRegistry.md)
 
-Defined in: [src/plugin/manager/core.ts:420](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L420)
+Defined in: [src/plugin/manager/core.ts:420](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L420)
 
 Get extension registry
 
@@ -195,7 +195,7 @@ Get extension registry
 
 > **getLoadedPluginIds**(): `string`[]
 
-Defined in: [src/plugin/manager/core.ts:382](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L382)
+Defined in: [src/plugin/manager/core.ts:382](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L382)
 
 Get loaded plugin IDs
 
@@ -209,7 +209,7 @@ Get loaded plugin IDs
 
 > **getLoadedPlugins**(): [`ILoadedPlugin`](../types/interfaces/ILoadedPlugin.md)[]
 
-Defined in: [src/plugin/manager/core.ts:375](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L375)
+Defined in: [src/plugin/manager/core.ts:375](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L375)
 
 Get all loaded plugins
 
@@ -223,7 +223,7 @@ Get all loaded plugins
 
 > **getPlugin**(`pluginId`): [`ILoadedPlugin`](../types/interfaces/ILoadedPlugin.md)
 
-Defined in: [src/plugin/manager/core.ts:398](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L398)
+Defined in: [src/plugin/manager/core.ts:398](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L398)
 
 Get a specific plugin
 
@@ -243,7 +243,7 @@ Get a specific plugin
 
 > **getPluginContext**(): [`IPluginContext`](../types/interfaces/IPluginContext.md)
 
-Defined in: [src/plugin/manager/core.ts:493](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L493)
+Defined in: [src/plugin/manager/core.ts:493](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L493)
 
 Get plugin context
 
@@ -257,7 +257,7 @@ Get plugin context
 
 > **getPluginsDirectory**(): `string`
 
-Defined in: [src/plugin/manager/core.ts:486](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L486)
+Defined in: [src/plugin/manager/core.ts:486](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L486)
 
 Get plugins directory
 
@@ -271,7 +271,7 @@ Get plugins directory
 
 > **isPluginActive**(`pluginId`): `boolean`
 
-Defined in: [src/plugin/manager/core.ts:412](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L412)
+Defined in: [src/plugin/manager/core.ts:412](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L412)
 
 Check if plugin is active
 
@@ -291,7 +291,7 @@ Check if plugin is active
 
 > **isPluginLoaded**(`pluginId`): `boolean`
 
-Defined in: [src/plugin/manager/core.ts:405](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L405)
+Defined in: [src/plugin/manager/core.ts:405](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L405)
 
 Check if plugin is loaded
 
@@ -311,7 +311,7 @@ Check if plugin is loaded
 
 > **isSystemInitialized**(): `boolean`
 
-Defined in: [src/plugin/manager/core.ts:479](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L479)
+Defined in: [src/plugin/manager/core.ts:479](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L479)
 
 Check if system is initialized
 
@@ -325,7 +325,7 @@ Check if system is initialized
 
 > **loadPlugin**(`pluginId`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/core.ts:183](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L183)
+Defined in: [src/plugin/manager/core.ts:183](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L183)
 
 Load a specific plugin
 
@@ -345,7 +345,7 @@ Load a specific plugin
 
 > **unloadPlugin**(`pluginId`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/core.ts:330](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/plugin/manager/core.ts#L330)
+Defined in: [src/plugin/manager/core.ts:330](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/plugin/manager/core.ts#L330)
 
 Unload a plugin
 

@@ -4,7 +4,7 @@
 
 # Interface: ResolveInstanceInput
 
-Defined in: [src/services/eventGeneration/types.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/services/eventGeneration/types.ts#L56)
+Defined in: [src/services/eventGeneration/types.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/services/eventGeneration/types.ts#L56)
 
 Input for resolving instance with inheritance
 
@@ -14,7 +14,7 @@ Input for resolving instance with inheritance
 
 > **baseTemplate**: `object`
 
-Defined in: [src/services/eventGeneration/types.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/services/eventGeneration/types.ts#L58)
+Defined in: [src/services/eventGeneration/types.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/services/eventGeneration/types.ts#L58)
 
 #### allDay
 
@@ -40,10 +40,6 @@ Defined in: [src/services/eventGeneration/types.ts:58](https://github.com/Palisa
 
 > **id**: `string`
 
-#### instanceStartTime
-
-> **instanceStartTime**: `Date`
-
 #### isPublic
 
 > **isPublic**: `boolean`
@@ -68,10 +64,6 @@ Defined in: [src/services/eventGeneration/types.ts:58](https://github.com/Palisa
 
 > **organizationId**: `string`
 
-#### recurringEventId
-
-> **recurringEventId**: `string`
-
 #### startAt
 
 > **startAt**: `Date`
@@ -90,7 +82,7 @@ Defined in: [src/services/eventGeneration/types.ts:58](https://github.com/Palisa
 
 > `optional` **exception**: `object`
 
-Defined in: [src/services/eventGeneration/types.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/services/eventGeneration/types.ts#L59)
+Defined in: [src/services/eventGeneration/types.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/services/eventGeneration/types.ts#L59)
 
 #### baseRecurringEventId
 
@@ -142,7 +134,7 @@ Defined in: [src/services/eventGeneration/types.ts:59](https://github.com/Palisa
 
 > **generatedInstance**: `object`
 
-Defined in: [src/services/eventGeneration/types.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/683c972995b645053f41c76c01368003402b250c/src/services/eventGeneration/types.ts#L57)
+Defined in: [src/services/eventGeneration/types.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/services/eventGeneration/types.ts#L57)
 
 #### actualEndTime
 
