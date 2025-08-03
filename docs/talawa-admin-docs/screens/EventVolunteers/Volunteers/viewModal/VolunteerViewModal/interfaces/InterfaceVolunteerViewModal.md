@@ -4,7 +4,7 @@
 
 # Interface: InterfaceVolunteerViewModal
 
-Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx#L64)
+Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx#L64)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx
 
 > **hide**: () => `void`
 
-Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx#L66)
+Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx#L66)
 
 #### Returns
 
@@ -24,7 +24,7 @@ Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx
 
 > **isOpen**: `boolean`
 
-Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx#L65)
+Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx#L65)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx
 
 > **volunteer**: `InterfaceEventVolunteerInfo`
 
-Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx:67](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx#L67)
+Defined in: [screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx:67](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/EventVolunteers/Volunteers/viewModal/VolunteerViewModal.tsx#L67)

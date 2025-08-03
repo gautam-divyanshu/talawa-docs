@@ -6,7 +6,7 @@
 
 > **CheckInWrapper**(`__namedParameters`): `Element`
 
-Defined in: [components/CheckIn/CheckInWrapper.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/components/CheckIn/CheckInWrapper.tsx#L34)
+Defined in: [components/CheckIn/CheckInWrapper.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/CheckIn/CheckInWrapper.tsx#L34)
 
 ## Parameters
 

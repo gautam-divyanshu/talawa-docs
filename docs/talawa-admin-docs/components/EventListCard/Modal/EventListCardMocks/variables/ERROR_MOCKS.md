@@ -6,7 +6,7 @@
 
 > `const` **ERROR\_MOCKS**: `object`[]
 
-Defined in: [components/EventListCard/Modal/EventListCardMocks.ts:200](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/components/EventListCard/Modal/EventListCardMocks.ts#L200)
+Defined in: [components/EventListCard/Modal/EventListCardMocks.ts:203](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/EventListCard/Modal/EventListCardMocks.ts#L203)
 
 ## Type declaration
 
@@ -20,7 +20,7 @@ Defined in: [components/EventListCard/Modal/EventListCardMocks.ts:200](https://g
 
 #### request.query
 
-> **query**: `DocumentNode` = `DELETE_EVENT_MUTATION`
+> **query**: `DocumentNode` = `DELETE_STANDALONE_EVENT_MUTATION`
 
 #### request.variables
 

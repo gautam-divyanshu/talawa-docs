@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/SubTags/SubTags.tsx:75](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/screens/SubTags/SubTags.tsx#L75)
+Defined in: [screens/SubTags/SubTags.tsx:75](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/SubTags/SubTags.tsx#L75)
 
 ## Returns
 

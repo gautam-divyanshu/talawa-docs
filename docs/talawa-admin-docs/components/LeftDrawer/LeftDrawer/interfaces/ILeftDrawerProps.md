@@ -4,7 +4,7 @@
 
 # Interface: ILeftDrawerProps
 
-Defined in: [components/LeftDrawer/LeftDrawer.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/components/LeftDrawer/LeftDrawer.tsx#L27)
+Defined in: [components/LeftDrawer/LeftDrawer.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/LeftDrawer/LeftDrawer.tsx#L27)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [components/LeftDrawer/LeftDrawer.tsx:27](https://github.com/Palisad
 
 > **hideDrawer**: `boolean`
 
-Defined in: [components/LeftDrawer/LeftDrawer.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/components/LeftDrawer/LeftDrawer.tsx#L28)
+Defined in: [components/LeftDrawer/LeftDrawer.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/LeftDrawer/LeftDrawer.tsx#L28)
 
 ***
 
@@ -20,4 +20,4 @@ Defined in: [components/LeftDrawer/LeftDrawer.tsx:28](https://github.com/Palisad
 
 > **setHideDrawer**: `Dispatch`\<`SetStateAction`\<`boolean`\>\>
 
-Defined in: [components/LeftDrawer/LeftDrawer.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/components/LeftDrawer/LeftDrawer.tsx#L29)
+Defined in: [components/LeftDrawer/LeftDrawer.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/LeftDrawer/LeftDrawer.tsx#L29)

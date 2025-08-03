@@ -6,4 +6,4 @@
 
 > `const` **MOCKS\_NEW3**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `filter?`: `undefined`; `first`: `number`; `firstName_contains`: `string`; `lastName_contains`: `string`; `order`: `string`; `skip`: `number`; \}; \}; `result`: \{ `data`: \{ `organizations?`: `undefined`; `users`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables?`: `undefined`; \}; `result`: \{ `data`: \{ `organizations`: `any`[]; `users?`: `undefined`; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `filter`: `string`; `first`: `number`; `firstName_contains`: `string`; `lastName_contains`: `string`; `order`: `string`; `skip`: `number`; \}; \}; `result`: \{ `data`: \{ `organizations?`: `undefined`; `users`: `object`[]; \}; \}; \})[]
 
-Defined in: [screens/Users/UsersMocks.mocks.ts:159](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/screens/Users/UsersMocks.mocks.ts#L159)
+Defined in: [screens/Users/UsersMocks.mocks.ts:159](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/Users/UsersMocks.mocks.ts#L159)

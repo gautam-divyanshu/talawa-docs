@@ -6,7 +6,7 @@
 
 > **default**(`props`): `Element`
 
-Defined in: [components/OrgAdminListCard/OrgAdminListCard.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/c749737ad0a5b878836c191249dd26c56bbdbf6c/src/components/OrgAdminListCard/OrgAdminListCard.tsx#L47)
+Defined in: [components/OrgAdminListCard/OrgAdminListCard.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/OrgAdminListCard/OrgAdminListCard.tsx#L47)
 
 ## Parameters
 
