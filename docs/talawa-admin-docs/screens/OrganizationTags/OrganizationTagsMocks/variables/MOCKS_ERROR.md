@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_ERROR**: `object`[]
 
-Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:319](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L319)
+Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:319](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L319)
 
 ## Type declaration
 

@@ -4,7 +4,7 @@
 
 # Interface: InterfaceUserSidebarProps
 
-Defined in: [components/UserPortal/UserSidebar/UserSidebar.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L44)
+Defined in: [components/UserPortal/UserSidebar/UserSidebar.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L46)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [components/UserPortal/UserSidebar/UserSidebar.tsx:44](https://githu
 
 > **hideDrawer**: `boolean`
 
-Defined in: [components/UserPortal/UserSidebar/UserSidebar.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L45)
+Defined in: [components/UserPortal/UserSidebar/UserSidebar.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L47)
 
 ***
 
@@ -20,4 +20,4 @@ Defined in: [components/UserPortal/UserSidebar/UserSidebar.tsx:45](https://githu
 
 > **setHideDrawer**: `Dispatch`\<`SetStateAction`\<`boolean`\>\>
 
-Defined in: [components/UserPortal/UserSidebar/UserSidebar.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L46)
+Defined in: [components/UserPortal/UserSidebar/UserSidebar.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L48)

@@ -6,7 +6,7 @@
 
 > **default**(): `ReactElement`
 
-Defined in: [components/SuperAdminScreen/SuperAdminScreen.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/SuperAdminScreen/SuperAdminScreen.tsx#L32)
+Defined in: [components/SuperAdminScreen/SuperAdminScreen.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/components/SuperAdminScreen/SuperAdminScreen.tsx#L33)
 
 ## Returns
 

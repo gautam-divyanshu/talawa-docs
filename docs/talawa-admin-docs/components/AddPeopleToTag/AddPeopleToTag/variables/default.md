@@ -6,4 +6,4 @@
 
 > `const` **default**: `React.FC`\<`InterfaceAddPeopleToTagProps`\>
 
-Defined in: [components/AddPeopleToTag/AddPeopleToTag.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L65)
+Defined in: [components/AddPeopleToTag/AddPeopleToTag.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/components/AddPeopleToTag/AddPeopleToTag.tsx#L65)

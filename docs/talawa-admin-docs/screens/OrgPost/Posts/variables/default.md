@@ -6,4 +6,4 @@
 
 > `const` **default**: `React.FC`\<`InterfacePostsRenderer`\>
 
-Defined in: [screens/OrgPost/Posts.tsx:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/OrgPost/Posts.tsx#L64)
+Defined in: [screens/OrgPost/Posts.tsx:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/screens/OrgPost/Posts.tsx#L64)

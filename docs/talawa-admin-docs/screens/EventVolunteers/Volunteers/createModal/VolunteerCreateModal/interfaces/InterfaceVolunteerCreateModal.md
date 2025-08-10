@@ -4,7 +4,7 @@
 
 # Interface: InterfaceVolunteerCreateModal
 
-Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L46)
+Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L46)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal
 
 > **eventId**: `string`
 
-Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L49)
+Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L49)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal
 
 > **hide**: () => `void`
 
-Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L48)
+Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L48)
 
 #### Returns
 
@@ -32,7 +32,7 @@ Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal
 
 > **isOpen**: `boolean`
 
-Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L47)
+Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L47)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal
 
 > **orgId**: `string`
 
-Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L50)
+Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L50)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal
 
 > **refetchVolunteers**: () => `void`
 
-Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L51)
+Defined in: [screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/screens/EventVolunteers/Volunteers/createModal/VolunteerCreateModal.tsx#L51)
 
 #### Returns
 

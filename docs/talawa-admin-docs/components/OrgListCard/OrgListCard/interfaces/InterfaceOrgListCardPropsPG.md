@@ -4,7 +4,7 @@
 
 # Interface: InterfaceOrgListCardPropsPG
 
-Defined in: [components/OrgListCard/OrgListCard.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/OrgListCard/OrgListCard.tsx#L50)
+Defined in: [components/OrgListCard/OrgListCard.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/components/OrgListCard/OrgListCard.tsx#L50)
 
 ## Properties
 
@@ -12,4 +12,4 @@ Defined in: [components/OrgListCard/OrgListCard.tsx:50](https://github.com/Palis
 
 > **data**: `InterfaceOrgInfoTypePG`
 
-Defined in: [components/OrgListCard/OrgListCard.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/9437a030b05422d7b8a36702aabbeba40960403c/src/components/OrgListCard/OrgListCard.tsx#L51)
+Defined in: [components/OrgListCard/OrgListCard.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/components/OrgListCard/OrgListCard.tsx#L51)
