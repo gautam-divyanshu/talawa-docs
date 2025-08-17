@@ -6,4 +6,4 @@
 
 > `const` **mutationUpdateVolunteerGroupAssignmentsInputSchema**: `ZodObject`\<`Pick`\<\{ \}, `never`\>, `"strip"`, `ZodTypeAny`, \{ \}, \{ \}\>
 
-Defined in: [src/graphql/inputs/MutationUpdateVolunteerGroupAssignments.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/graphql/inputs/MutationUpdateVolunteerGroupAssignments.ts#L6)
+Defined in: [src/graphql/inputs/MutationUpdateVolunteerGroupAssignments.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/graphql/inputs/MutationUpdateVolunteerGroupAssignments.ts#L6)

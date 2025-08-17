@@ -6,7 +6,7 @@
 
 > **resolveGroup**(`parent`, `_args`, `ctx`): `Promise`\<\{ `createdAt`: `Date`; `creatorId`: `string`; `eventId`: `string`; `id`: `string`; `leaderId`: `string`; `maxVolunteerCount`: `number`; `name`: `string`; `updatedAt`: `Date`; `updaterId`: `string`; \}\>
 
-Defined in: [src/graphql/types/VolunteerGroupAssignment/group.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/1b4a5964fc61cbcbec1a297ce4f71a2a2c39b04f/src/graphql/types/VolunteerGroupAssignment/group.ts#L15)
+Defined in: [src/graphql/types/VolunteerGroupAssignment/group.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/graphql/types/VolunteerGroupAssignment/group.ts#L15)
 
 ## Parameters
 
