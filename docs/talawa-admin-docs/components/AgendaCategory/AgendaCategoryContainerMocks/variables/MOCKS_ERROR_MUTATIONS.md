@@ -6,4 +6,4 @@
 
 > `const` **MOCKS\_ERROR\_MUTATIONS**: (\{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `deleteAgendaCategoryId?`: `undefined`; `input`: \{ `description`: `string`; `name`: `string`; \}; `updateAgendaCategoryId`: `string`; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `deleteAgendaCategoryId`: `string`; `input?`: `undefined`; `updateAgendaCategoryId?`: `undefined`; \}; \}; \})[]
 
-Defined in: [components/AgendaCategory/AgendaCategoryContainerMocks.ts:117](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/components/AgendaCategory/AgendaCategoryContainerMocks.ts#L117)
+Defined in: [components/AgendaCategory/AgendaCategoryContainerMocks.ts:117](https://github.com/PalisadoesFoundation/talawa-admin/blob/88570d657ff32c40814977a50b59dc1e3c0c7f01/src/components/AgendaCategory/AgendaCategoryContainerMocks.ts#L117)

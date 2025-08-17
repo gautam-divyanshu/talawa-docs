@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/OrganizationPeople/OrganizationPeople.tsx:109](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/screens/OrganizationPeople/OrganizationPeople.tsx#L109)
+Defined in: [screens/OrganizationPeople/OrganizationPeople.tsx:109](https://github.com/PalisadoesFoundation/talawa-admin/blob/88570d657ff32c40814977a50b59dc1e3c0c7f01/src/screens/OrganizationPeople/OrganizationPeople.tsx#L109)
 
 ## Returns
 

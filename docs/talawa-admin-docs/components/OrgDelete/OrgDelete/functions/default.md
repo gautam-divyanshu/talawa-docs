@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [components/OrgDelete/OrgDelete.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/f4080d520c97575ae9a038c621171e639174228c/src/components/OrgDelete/OrgDelete.tsx#L35)
+Defined in: [components/OrgDelete/OrgDelete.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/88570d657ff32c40814977a50b59dc1e3c0c7f01/src/components/OrgDelete/OrgDelete.tsx#L35)
 
 ## Returns
 
