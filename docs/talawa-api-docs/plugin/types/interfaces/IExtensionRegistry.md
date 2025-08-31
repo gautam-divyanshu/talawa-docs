@@ -4,7 +4,7 @@
 
 # Interface: IExtensionRegistry
 
-Defined in: [src/plugin/types.ts:65](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/types.ts#L65)
+Defined in: [src/plugin/types.ts:70](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L70)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:65](https://github.com/PalisadoesFoundation/tal
 
 > **database**: `object`
 
-Defined in: [src/plugin/types.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/types.ts#L72)
+Defined in: [src/plugin/types.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L75)
 
 #### enums
 
@@ -32,23 +32,11 @@ Defined in: [src/plugin/types.ts:72](https://github.com/PalisadoesFoundation/tal
 
 > **graphql**: `object`
 
-Defined in: [src/plugin/types.ts:66](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/types.ts#L66)
+Defined in: [src/plugin/types.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L71)
 
-#### mutations
+#### builderExtensions
 
-> **mutations**: `Record`\<`string`, [`IGraphQLExtensionResolver`](IGraphQLExtensionResolver.md)\>
-
-#### queries
-
-> **queries**: `Record`\<`string`, [`IGraphQLExtensionResolver`](IGraphQLExtensionResolver.md)\>
-
-#### subscriptions
-
-> **subscriptions**: `Record`\<`string`, [`IGraphQLExtensionResolver`](IGraphQLExtensionResolver.md)\>
-
-#### types
-
-> **types**: `Record`\<`string`, `unknown`\>
+> **builderExtensions**: [`IGraphQLBuilderExtension`](IGraphQLBuilderExtension.md)[]
 
 ***
 
@@ -56,7 +44,7 @@ Defined in: [src/plugin/types.ts:66](https://github.com/PalisadoesFoundation/tal
 
 > **hooks**: `object`
 
-Defined in: [src/plugin/types.ts:77](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/types.ts#L77)
+Defined in: [src/plugin/types.ts:80](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L80)
 
 #### post
 

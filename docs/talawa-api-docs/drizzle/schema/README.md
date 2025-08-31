@@ -222,12 +222,6 @@ Re-exports [eventsTableRelations](../tables/events/variables/eventsTableRelation
 
 ***
 
-### exceptionTypeEnum
-
-Re-exports [exceptionTypeEnum](../tables/recurringEventExceptions/variables/exceptionTypeEnum.md)
-
-***
-
 ### familiesTable
 
 Re-exports [familiesTable](../tables/families/variables/familiesTable.md)

@@ -4,7 +4,7 @@
 
 # Class: PluginLifecycle
 
-Defined in: [src/plugin/manager/lifecycle.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/manager/lifecycle.ts#L27)
+Defined in: [src/plugin/manager/lifecycle.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/manager/lifecycle.ts#L27)
 
 ## Constructors
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/manager/lifecycle.ts:27](https://github.com/PalisadoesFo
 
 > **new PluginLifecycle**(`pluginContext`, `loadedPlugins`, `extensionRegistry`): `PluginLifecycle`
 
-Defined in: [src/plugin/manager/lifecycle.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/manager/lifecycle.ts#L28)
+Defined in: [src/plugin/manager/lifecycle.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/manager/lifecycle.ts#L28)
 
 #### Parameters
 
@@ -38,7 +38,7 @@ Defined in: [src/plugin/manager/lifecycle.ts:28](https://github.com/PalisadoesFo
 
 > **activatePlugin**(`pluginId`, `pluginManager`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/lifecycle.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/manager/lifecycle.ts#L37)
+Defined in: [src/plugin/manager/lifecycle.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/manager/lifecycle.ts#L37)
 
 Activate a plugin
 
@@ -62,7 +62,7 @@ Activate a plugin
 
 > **deactivatePlugin**(`pluginId`, `pluginManager`, `dropTables`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/lifecycle.ts:90](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/manager/lifecycle.ts#L90)
+Defined in: [src/plugin/manager/lifecycle.ts:90](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/manager/lifecycle.ts#L90)
 
 Deactivate a plugin
 
@@ -90,7 +90,7 @@ Deactivate a plugin
 
 > **unloadPlugin**(`pluginId`, `pluginManager`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/lifecycle.ts:147](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/manager/lifecycle.ts#L147)
+Defined in: [src/plugin/manager/lifecycle.ts:147](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/manager/lifecycle.ts#L147)
 
 Unload a plugin
 

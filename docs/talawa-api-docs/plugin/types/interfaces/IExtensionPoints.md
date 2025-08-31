@@ -4,7 +4,7 @@
 
 # Interface: IExtensionPoints
 
-Defined in: [src/plugin/types.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/types.ts#L22)
+Defined in: [src/plugin/types.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L22)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:22](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **database**: [`IDatabaseExtension`](IDatabaseExtension.md)[]
 
-Defined in: [src/plugin/types.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/types.ts#L24)
+Defined in: [src/plugin/types.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L24)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/plugin/types.ts:24](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **graphql**: [`IGraphQLExtension`](IGraphQLExtension.md)[]
 
-Defined in: [src/plugin/types.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/types.ts#L23)
+Defined in: [src/plugin/types.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L23)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/plugin/types.ts:23](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **hooks**: [`IHookExtension`](IHookExtension.md)[]
 
-Defined in: [src/plugin/types.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/types.ts#L25)
+Defined in: [src/plugin/types.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L25)

@@ -4,7 +4,7 @@
 
 # Class: ExtensionLoader
 
-Defined in: [src/plugin/manager/extensions.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/manager/extensions.ts#L19)
+Defined in: [src/plugin/manager/extensions.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/manager/extensions.ts#L20)
 
 ## Constructors
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/manager/extensions.ts:19](https://github.com/PalisadoesF
 
 > **new ExtensionLoader**(`pluginsDirectory`, `loadedPlugins`, `extensionRegistry`): `ExtensionLoader`
 
-Defined in: [src/plugin/manager/extensions.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/manager/extensions.ts#L20)
+Defined in: [src/plugin/manager/extensions.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/manager/extensions.ts#L21)
 
 #### Parameters
 
@@ -38,7 +38,7 @@ Defined in: [src/plugin/manager/extensions.ts:20](https://github.com/PalisadoesF
 
 > **loadExtensionPoints**(`pluginId`, `manifest`, `pluginModule`): `Promise`\<`void`\>
 
-Defined in: [src/plugin/manager/extensions.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/plugin/manager/extensions.ts#L29)
+Defined in: [src/plugin/manager/extensions.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/manager/extensions.ts#L30)
 
 Load extension points for a plugin
 

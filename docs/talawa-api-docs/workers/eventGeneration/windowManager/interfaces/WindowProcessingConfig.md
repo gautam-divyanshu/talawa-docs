@@ -4,7 +4,7 @@
 
 # Interface: WindowProcessingConfig
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/workers/eventGeneration/windowManager.ts#L20)
+Defined in: [src/workers/eventGeneration/windowManager.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/windowManager.ts#L20)
 
 Configuration for window processing
 
@@ -14,7 +14,7 @@ Configuration for window processing
 
 > **maxOrganizationsPerRun**: `number`
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/workers/eventGeneration/windowManager.ts#L21)
+Defined in: [src/workers/eventGeneration/windowManager.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/windowManager.ts#L21)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/workers/eventGeneration/windowManager.ts:21](https://github.com
 
 > **priorityThresholdWeeks**: `number`
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/workers/eventGeneration/windowManager.ts#L23)
+Defined in: [src/workers/eventGeneration/windowManager.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/windowManager.ts#L23)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/workers/eventGeneration/windowManager.ts:23](https://github.com
 
 > **processingTimeoutHours**: `number`
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/workers/eventGeneration/windowManager.ts#L22)
+Defined in: [src/workers/eventGeneration/windowManager.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/windowManager.ts#L22)

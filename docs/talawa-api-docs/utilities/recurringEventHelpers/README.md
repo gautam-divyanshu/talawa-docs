@@ -6,6 +6,7 @@
 
 ## Functions
 
+- [applyRecurrenceOverrides](functions/applyRecurrenceOverrides.md)
 - [buildRRuleString](functions/buildRRuleString.md)
 - [calculateCompletionDateFromCount](functions/calculateCompletionDateFromCount.md)
 - [calculateInstancesPerMonth](functions/calculateInstancesPerMonth.md)

@@ -6,7 +6,7 @@
 
 > **createExceptionKey**(`recurringEventId`, `instanceStartTime`): `string`
 
-Defined in: [src/services/eventGeneration/instanceResolver.ts:193](https://github.com/PalisadoesFoundation/talawa-api/blob/3e735f62cd978db04c1ff58ca33667aba6f9eeef/src/services/eventGeneration/instanceResolver.ts#L193)
+Defined in: [src/services/eventGeneration/instanceResolver.ts:199](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/services/eventGeneration/instanceResolver.ts#L199)
 
 Creates a composite key for the exception lookup map.
 This key is used to uniquely identify an exception based on the recurring event ID
