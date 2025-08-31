@@ -6,4 +6,4 @@
 
 > `const` **updateAdFailMock**: `MockedResponse`\<`Record`\<`string`, `any`\>, `Record`\<`string`, `any`\>\>
 
-Defined in: [components/Advertisements/core/AdvertisementRegister/AdvertisementRegisterMocks.ts:167](https://github.com/PalisadoesFoundation/talawa-admin/blob/88570d657ff32c40814977a50b59dc1e3c0c7f01/src/components/Advertisements/core/AdvertisementRegister/AdvertisementRegisterMocks.ts#L167)
+Defined in: [components/Advertisements/core/AdvertisementRegister/AdvertisementRegisterMocks.ts:167](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/components/Advertisements/core/AdvertisementRegister/AdvertisementRegisterMocks.ts#L167)

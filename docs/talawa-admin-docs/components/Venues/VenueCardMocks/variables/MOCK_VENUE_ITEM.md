@@ -6,26 +6,30 @@
 
 > `const` **MOCK\_VENUE\_ITEM**: `object`
 
-Defined in: [components/Venues/VenueCardMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/88570d657ff32c40814977a50b59dc1e3c0c7f01/src/components/Venues/VenueCardMocks.ts#L3)
+Defined in: [components/Venues/VenueCardMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/components/Venues/VenueCardMocks.ts#L3)
 
 ## Type declaration
 
-### \_id
+### node
 
-> **\_id**: `string` = `'1'`
+> **node**: `object`
 
-### capacity
+#### node.capacity
 
-> **capacity**: `string` = `'500'`
+> **capacity**: `number` = `500`
 
-### description
+#### node.description
 
-> **description**: `string` = `'A spacious venue for large events and gatherings.'`
+> **description**: `string` = `'A spacious venue for large events.'`
 
-### image
+#### node.id
+
+> **id**: `string` = `'1'`
+
+#### node.image
 
 > **image**: `any` = `null`
 
-### name
+#### node.name
 
 > **name**: `string` = `'Grand Hall'`

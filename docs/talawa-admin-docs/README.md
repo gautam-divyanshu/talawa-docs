@@ -53,6 +53,7 @@
 - [components/EventListCard/Modal/EventListCardMocks](components/EventListCard/Modal/EventListCardMocks/README.md)
 - [components/EventListCard/Modal/EventListCardModals](components/EventListCard/Modal/EventListCardModals/README.md)
 - [components/EventListCard/Modal/Preview/EventListCardPreviewModal](components/EventListCard/Modal/Preview/EventListCardPreviewModal/README.md)
+- [components/EventListCard/Modal/updateLogic](components/EventListCard/Modal/updateLogic/README.md)
 - [components/EventManagement/Dashboard/EventDashboard](components/EventManagement/Dashboard/EventDashboard/README.md)
 - [components/EventManagement/Dashboard/EventDashboard.mocks](components/EventManagement/Dashboard/EventDashboard.mocks/README.md)
 - [components/EventManagement/EventAgendaItems/EventAgendaItems](components/EventManagement/EventAgendaItems/EventAgendaItems/README.md)

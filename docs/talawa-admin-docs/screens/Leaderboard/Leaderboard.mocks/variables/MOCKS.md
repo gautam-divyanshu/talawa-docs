@@ -6,7 +6,7 @@
 
 > `const` **MOCKS**: `object`[]
 
-Defined in: [screens/Leaderboard/Leaderboard.mocks.ts:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/88570d657ff32c40814977a50b59dc1e3c0c7f01/src/screens/Leaderboard/Leaderboard.mocks.ts#L51)
+Defined in: [screens/Leaderboard/Leaderboard.mocks.ts:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/screens/Leaderboard/Leaderboard.mocks.ts#L51)
 
 ## Type declaration
 

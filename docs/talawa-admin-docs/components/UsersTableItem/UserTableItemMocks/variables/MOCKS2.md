@@ -6,7 +6,7 @@
 
 > `const` **MOCKS2**: `object`[]
 
-Defined in: [components/UsersTableItem/UserTableItemMocks.ts:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/88570d657ff32c40814977a50b59dc1e3c0c7f01/src/components/UsersTableItem/UserTableItemMocks.ts#L42)
+Defined in: [components/UsersTableItem/UserTableItemMocks.ts:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/components/UsersTableItem/UserTableItemMocks.ts#L42)
 
 ## Type declaration
 

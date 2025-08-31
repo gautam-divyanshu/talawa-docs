@@ -6,4 +6,4 @@
 
 > `const` **default**: `React.FC`\<`InterfaceAgendaCategoryCreateModalProps`\>
 
-Defined in: [components/OrgSettings/AgendaItemCategories/Create/AgendaCategoryCreateModal.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/88570d657ff32c40814977a50b59dc1e3c0c7f01/src/components/OrgSettings/AgendaItemCategories/Create/AgendaCategoryCreateModal.tsx#L53)
+Defined in: [components/OrgSettings/AgendaItemCategories/Create/AgendaCategoryCreateModal.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/components/OrgSettings/AgendaItemCategories/Create/AgendaCategoryCreateModal.tsx#L53)
