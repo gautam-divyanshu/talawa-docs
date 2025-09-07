@@ -4,7 +4,7 @@
 
 # Interface: InterfaceTableLoader
 
-Defined in: [components/TableLoader/TableLoader.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/components/TableLoader/TableLoader.tsx#L35)
+Defined in: [components/TableLoader/TableLoader.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/c78a011397a8e6969bc75c2dd694ad055de3f1a7/src/components/TableLoader/TableLoader.tsx#L35)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [components/TableLoader/TableLoader.tsx:35](https://github.com/Palis
 
 > `optional` **data-testid**: `string`
 
-Defined in: [components/TableLoader/TableLoader.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/components/TableLoader/TableLoader.tsx#L39)
+Defined in: [components/TableLoader/TableLoader.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/c78a011397a8e6969bc75c2dd694ad055de3f1a7/src/components/TableLoader/TableLoader.tsx#L39)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [components/TableLoader/TableLoader.tsx:39](https://github.com/Palis
 
 > `optional` **headerTitles**: `string`[]
 
-Defined in: [components/TableLoader/TableLoader.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/components/TableLoader/TableLoader.tsx#L37)
+Defined in: [components/TableLoader/TableLoader.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/c78a011397a8e6969bc75c2dd694ad055de3f1a7/src/components/TableLoader/TableLoader.tsx#L37)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [components/TableLoader/TableLoader.tsx:37](https://github.com/Palis
 
 > `optional` **noOfCols**: `number`
 
-Defined in: [components/TableLoader/TableLoader.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/components/TableLoader/TableLoader.tsx#L38)
+Defined in: [components/TableLoader/TableLoader.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/c78a011397a8e6969bc75c2dd694ad055de3f1a7/src/components/TableLoader/TableLoader.tsx#L38)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [components/TableLoader/TableLoader.tsx:38](https://github.com/Palis
 
 > **noOfRows**: `number`
 
-Defined in: [components/TableLoader/TableLoader.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/components/TableLoader/TableLoader.tsx#L36)
+Defined in: [components/TableLoader/TableLoader.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/c78a011397a8e6969bc75c2dd694ad055de3f1a7/src/components/TableLoader/TableLoader.tsx#L36)

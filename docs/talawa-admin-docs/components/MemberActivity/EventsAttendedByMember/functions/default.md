@@ -6,7 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [components/MemberActivity/EventsAttendedByMember.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/97d9d7bdf478082d0dbb7e3fb63b96f5ab6eab5f/src/components/MemberActivity/EventsAttendedByMember.tsx#L35)
+Defined in: [components/MemberActivity/EventsAttendedByMember.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/c78a011397a8e6969bc75c2dd694ad055de3f1a7/src/components/MemberActivity/EventsAttendedByMember.tsx#L35)
 
 ## Parameters
 
