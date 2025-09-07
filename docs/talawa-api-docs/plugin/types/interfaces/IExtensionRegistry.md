@@ -4,7 +4,7 @@
 
 # Interface: IExtensionRegistry
 
-Defined in: [src/plugin/types.ts:70](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L70)
+Defined in: [src/plugin/types.ts:70](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/plugin/types.ts#L70)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:70](https://github.com/PalisadoesFoundation/tal
 
 > **database**: `object`
 
-Defined in: [src/plugin/types.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L75)
+Defined in: [src/plugin/types.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/plugin/types.ts#L75)
 
 #### enums
 
@@ -32,7 +32,7 @@ Defined in: [src/plugin/types.ts:75](https://github.com/PalisadoesFoundation/tal
 
 > **graphql**: `object`
 
-Defined in: [src/plugin/types.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L71)
+Defined in: [src/plugin/types.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/plugin/types.ts#L71)
 
 #### builderExtensions
 
@@ -44,7 +44,7 @@ Defined in: [src/plugin/types.ts:71](https://github.com/PalisadoesFoundation/tal
 
 > **hooks**: `object`
 
-Defined in: [src/plugin/types.ts:80](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugin/types.ts#L80)
+Defined in: [src/plugin/types.ts:80](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/plugin/types.ts#L80)
 
 #### post
 

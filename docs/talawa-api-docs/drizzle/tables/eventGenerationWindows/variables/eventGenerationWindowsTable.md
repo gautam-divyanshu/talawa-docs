@@ -6,7 +6,7 @@
 
 > `const` **eventGenerationWindowsTable**: `PgTableWithColumns`\<\{ \}\>
 
-Defined in: [src/drizzle/tables/eventGenerationWindows.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/drizzle/tables/eventGenerationWindows.ts#L24)
+Defined in: [src/drizzle/tables/eventGenerationWindows.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/drizzle/tables/eventGenerationWindows.ts#L24)
 
 Drizzle ORM postgres table definition for event generation window configuration.
 

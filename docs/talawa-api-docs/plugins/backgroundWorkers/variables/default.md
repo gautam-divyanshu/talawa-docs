@@ -6,7 +6,7 @@
 
 > **default**: (`fastify`) => `Promise`\<`void`\>
 
-Defined in: [src/plugins/backgroundWorkers.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/plugins/backgroundWorkers.ts#L31)
+Defined in: [src/plugins/backgroundWorkers.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/plugins/backgroundWorkers.ts#L31)
 
 Background worker plugin for event materialization.
 

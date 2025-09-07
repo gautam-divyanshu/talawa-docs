@@ -4,7 +4,7 @@
 
 # Interface: ProcessingMetrics
 
-Defined in: [src/workers/eventGeneration/types.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/types.ts#L14)
+Defined in: [src/workers/eventGeneration/types.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/workers/eventGeneration/types.ts#L14)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/workers/eventGeneration/types.ts:14](https://github.com/Palisad
 
 > **endTime**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/types.ts#L16)
+Defined in: [src/workers/eventGeneration/types.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/workers/eventGeneration/types.ts#L16)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/workers/eventGeneration/types.ts:16](https://github.com/Palisad
 
 > **errorsEncountered**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/types.ts#L20)
+Defined in: [src/workers/eventGeneration/types.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/workers/eventGeneration/types.ts#L20)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/workers/eventGeneration/types.ts:20](https://github.com/Palisad
 
 > **eventsProcessed**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/types.ts#L18)
+Defined in: [src/workers/eventGeneration/types.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/workers/eventGeneration/types.ts#L18)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [src/workers/eventGeneration/types.ts:18](https://github.com/Palisad
 
 > **instancesCreated**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/types.ts#L17)
+Defined in: [src/workers/eventGeneration/types.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/workers/eventGeneration/types.ts#L17)
 
 ***
 
@@ -44,7 +44,7 @@ Defined in: [src/workers/eventGeneration/types.ts:17](https://github.com/Palisad
 
 > **organizationsProcessed**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/types.ts#L19)
+Defined in: [src/workers/eventGeneration/types.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/workers/eventGeneration/types.ts#L19)
 
 ***
 
@@ -52,4 +52,4 @@ Defined in: [src/workers/eventGeneration/types.ts:19](https://github.com/Palisad
 
 > **startTime**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/workers/eventGeneration/types.ts#L15)
+Defined in: [src/workers/eventGeneration/types.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/workers/eventGeneration/types.ts#L15)

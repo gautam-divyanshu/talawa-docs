@@ -4,7 +4,7 @@
 
 # Interface: PluginZipStructure
 
-Defined in: [src/utilities/pluginInstaller.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/utilities/pluginInstaller.ts#L35)
+Defined in: [src/utilities/pluginInstaller.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/utilities/pluginInstaller.ts#L35)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/utilities/pluginInstaller.ts:35](https://github.com/PalisadoesF
 
 > `optional` **apiManifest**: [`IPluginManifest`](../../../plugin/types/interfaces/IPluginManifest.md)
 
-Defined in: [src/utilities/pluginInstaller.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/utilities/pluginInstaller.ts#L37)
+Defined in: [src/utilities/pluginInstaller.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/utilities/pluginInstaller.ts#L37)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/utilities/pluginInstaller.ts:37](https://github.com/PalisadoesF
 
 > **hasApiFolder**: `boolean`
 
-Defined in: [src/utilities/pluginInstaller.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/utilities/pluginInstaller.ts#L36)
+Defined in: [src/utilities/pluginInstaller.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/utilities/pluginInstaller.ts#L36)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/utilities/pluginInstaller.ts:36](https://github.com/PalisadoesF
 
 > `optional` **pluginId**: `string`
 
-Defined in: [src/utilities/pluginInstaller.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/d13be3cb0cfe1a6d40c90655bd50eb2eae8eb9fc/src/utilities/pluginInstaller.ts#L38)
+Defined in: [src/utilities/pluginInstaller.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/utilities/pluginInstaller.ts#L38)
