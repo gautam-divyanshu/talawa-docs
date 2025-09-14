@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/CommunityProfile/CommunityProfile.tsx:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/c78a011397a8e6969bc75c2dd694ad055de3f1a7/src/screens/CommunityProfile/CommunityProfile.tsx#L64)
+Defined in: [screens/CommunityProfile/CommunityProfile.tsx:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/screens/CommunityProfile/CommunityProfile.tsx#L64)
 
 ## Returns
 

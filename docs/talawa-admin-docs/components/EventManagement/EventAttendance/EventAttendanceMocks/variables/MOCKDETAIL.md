@@ -6,7 +6,7 @@
 
 > `const` **MOCKDETAIL**: `object`[]
 
-Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/c78a011397a8e6969bc75c2dd694ad055de3f1a7/src/components/EventManagement/EventAttendance/EventAttendanceMocks.ts#L27)
+Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/components/EventManagement/EventAttendance/EventAttendanceMocks.ts#L27)
 
 ## Type declaration
 
@@ -64,7 +64,7 @@ Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:
 
 #### result.data.event.endDate
 
-> **endDate**: `string` = `'2023-05-02'`
+> **endDate**: `string` = `'2030-05-02'`
 
 #### result.data.event.endTime
 
@@ -92,7 +92,7 @@ Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:
 
 #### result.data.event.startDate
 
-> **startDate**: `string` = `'2023-05-01'`
+> **startDate**: `string` = `'2030-05-01'`
 
 #### result.data.event.startTime
 

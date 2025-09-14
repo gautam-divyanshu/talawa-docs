@@ -6,7 +6,7 @@
 
 > `const` **mocks**: `object`[]
 
-Defined in: [components/MemberActivity/MemberActivityMocks.ts:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/c78a011397a8e6969bc75c2dd694ad055de3f1a7/src/components/MemberActivity/MemberActivityMocks.ts#L30)
+Defined in: [components/MemberActivity/MemberActivityMocks.ts:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/components/MemberActivity/MemberActivityMocks.ts#L30)
 
 ## Type declaration
 
@@ -64,7 +64,7 @@ Defined in: [components/MemberActivity/MemberActivityMocks.ts:30](https://github
 
 #### result.data.event.endDate
 
-> **endDate**: `string` = `'2023-01-02'`
+> **endDate**: `string` = `'2030-01-02'`
 
 #### result.data.event.endTime
 
@@ -92,7 +92,7 @@ Defined in: [components/MemberActivity/MemberActivityMocks.ts:30](https://github
 
 #### result.data.event.startDate
 
-> **startDate**: `string` = `'2023-01-01'`
+> **startDate**: `string` = `'2030-01-01'`
 
 #### result.data.event.startTime
 
