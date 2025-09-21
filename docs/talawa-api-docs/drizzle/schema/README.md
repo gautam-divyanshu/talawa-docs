@@ -6,27 +6,39 @@
 
 ## References
 
-### actionCategoriesTable
+### actionItemCategoriesTable
 
-Re-exports [actionCategoriesTable](../tables/actionCategories/variables/actionCategoriesTable.md)
-
-***
-
-### actionCategoriesTableRelations
-
-Re-exports [actionCategoriesTableRelations](../tables/actionCategories/variables/actionCategoriesTableRelations.md)
+Re-exports [actionItemCategoriesTable](../tables/actionItemCategories/variables/actionItemCategoriesTable.md)
 
 ***
 
-### actionsTable
+### actionItemCategoriesTableRelations
 
-Re-exports [actionsTable](../tables/actions/variables/actionsTable.md)
+Re-exports [actionItemCategoriesTableRelations](../tables/actionItemCategories/variables/actionItemCategoriesTableRelations.md)
 
 ***
 
-### actionsTableRelations
+### actionItemExceptionsTable
 
-Re-exports [actionsTableRelations](../tables/actions/variables/actionsTableRelations.md)
+Re-exports [actionItemExceptionsTable](../tables/actionItemExceptions/variables/actionItemExceptionsTable.md)
+
+***
+
+### actionItemExceptionsTableRelations
+
+Re-exports [actionItemExceptionsTableRelations](../tables/actionItemExceptions/variables/actionItemExceptionsTableRelations.md)
+
+***
+
+### actionItemsTable
+
+Re-exports [actionItemsTable](../tables/actionItems/variables/actionItemsTable.md)
+
+***
+
+### actionItemsTableRelations
+
+Re-exports [actionItemsTableRelations](../tables/actionItems/variables/actionItemsTableRelations.md)
 
 ***
 

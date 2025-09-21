@@ -6,67 +6,13 @@
 
 > **resolveCategory**(`parent`, `_args`, `ctx`): `Promise`\<\{ `createdAt`: `Date`; `creatorId`: `string`; `description`: `string`; `id`: `string`; `isDisabled`: `boolean`; `name`: `string`; `organizationId`: `string`; `updatedAt`: `Date`; `updaterId`: `string`; \}\>
 
-Defined in: [src/graphql/types/ActionItem/actionItemCategory.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/0e301aa1f701eb095149d8f0e8999317f84b9cd9/src/graphql/types/ActionItem/actionItemCategory.ts#L9)
+Defined in: [src/graphql/types/ActionItem/actionItemCategory.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/graphql/types/ActionItem/actionItemCategory.ts#L9)
 
 ## Parameters
 
 ### parent
 
-#### assignedAt
-
-`Date`
-
-#### assigneeId
-
-`string`
-
-#### categoryId
-
-`string`
-
-#### completionAt
-
-`Date`
-
-#### createdAt
-
-`Date`
-
-#### creatorId
-
-`string`
-
-#### eventId
-
-`string`
-
-#### id
-
-`string`
-
-#### isCompleted
-
-`boolean`
-
-#### organizationId
-
-`string`
-
-#### postCompletionNotes
-
-`string`
-
-#### preCompletionNotes
-
-`string`
-
-#### updatedAt
-
-`Date`
-
-#### updaterId
-
-`string`
+[`ActionItem`](../../ActionItem/type-aliases/ActionItem.md)
 
 ### \_args
 

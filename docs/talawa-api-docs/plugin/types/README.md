@@ -24,3 +24,4 @@
 - [IPluginError](interfaces/IPluginError.md)
 - [IPluginLifecycle](interfaces/IPluginLifecycle.md)
 - [IPluginManifest](interfaces/IPluginManifest.md)
+- [IWebhookExtension](interfaces/IWebhookExtension.md)
