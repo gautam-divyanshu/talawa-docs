@@ -6,4 +6,4 @@
 
 > `const` **MOCKS\_EMPTY**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `organizationId`: `string`; \}; \}; `result`: \{ `data`: \{ `usersByOrganizationId`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `input`: \{ `organizationId`: `string`; \}; \}; \}; `result`: \{ `data`: \{ `actionCategoriesByOrganization`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `input`: \{ `organizationId`: `string`; \}; \}; \}; `result`: \{ `data`: \{ `actionItemsByOrganization`: `any`[]; \}; \}; \})[]
 
-Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:390](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L390)
+Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:461](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L461)

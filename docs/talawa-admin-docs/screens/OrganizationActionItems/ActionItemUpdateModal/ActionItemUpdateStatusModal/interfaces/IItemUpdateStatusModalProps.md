@@ -4,7 +4,7 @@
 
 # Interface: IItemUpdateStatusModalProps
 
-Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L46)
+Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L48)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpd
 
 > **actionItem**: `IActionItemInfo`
 
-Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L50)
+Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L52)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpd
 
 > **actionItemsRefetch**: () => `void`
 
-Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L49)
+Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L51)
 
 #### Returns
 
@@ -28,11 +28,19 @@ Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpd
 
 ***
 
+### eventId?
+
+> `optional` **eventId**: `string`
+
+Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L54)
+
+***
+
 ### hide()
 
 > **hide**: () => `void`
 
-Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L48)
+Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L50)
 
 #### Returns
 
@@ -44,4 +52,12 @@ Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpd
 
 > **isOpen**: `boolean`
 
-Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L47)
+Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L49)
+
+***
+
+### isRecurring?
+
+> `optional` **isRecurring**: `boolean`
+
+Defined in: [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal.tsx#L53)

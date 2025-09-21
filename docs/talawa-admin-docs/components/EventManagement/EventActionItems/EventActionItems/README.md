@@ -1,13 +1,9 @@
-[**talawa-admin**](../../../../README.md) • **Docs**
+[**talawa-admin**](../../../../README.md)
 
 ***
 
-[talawa-admin](../../../../modules.md) / components/EventManagement/EventActionItems/EventActionItems
-
 # components/EventManagement/EventActionItems/EventActionItems
 
-## Index
+## Variables
 
-### Functions
-
-- [default](functions/default.md)
+- [default](variables/default.md)

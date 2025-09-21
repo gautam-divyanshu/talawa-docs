@@ -1,0 +1,13 @@
+[**talawa-admin**](../../../../README.md)
+
+***
+
+# Function: default()
+
+> **default**(): `Element`
+
+Defined in: [screens/OrganizationTransactions/OrganizationTransactions.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/OrganizationTransactions/OrganizationTransactions.tsx#L22)
+
+## Returns
+
+`Element`

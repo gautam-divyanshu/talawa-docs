@@ -6,7 +6,7 @@
 
 > **default**\<`T`\>(`callback`, `delay`): `object`
 
-Defined in: [components/OrgListCard/useDebounce.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/components/OrgListCard/useDebounce.tsx#L31)
+Defined in: [components/OrgListCard/useDebounce.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/components/OrgListCard/useDebounce.tsx#L31)
 
 ## Type Parameters
 

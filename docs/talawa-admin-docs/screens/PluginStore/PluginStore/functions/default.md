@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/PluginStore/PluginStore.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/dcaa146cd8ce05674a5b0d97ae7a99ec40d88323/src/screens/PluginStore/PluginStore.tsx#L48)
+Defined in: [screens/PluginStore/PluginStore.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/PluginStore/PluginStore.tsx#L20)
 
 ## Returns
 
