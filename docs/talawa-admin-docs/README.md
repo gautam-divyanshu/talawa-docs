@@ -238,6 +238,7 @@
 - [screens/OrgList/OrgList](screens/OrgList/OrgList/README.md)
 - [screens/OrgList/OrgListMocks](screens/OrgList/OrgListMocks/README.md)
 - [screens/OrgPost/OrgPost](screens/OrgPost/OrgPost/README.md)
+- [screens/OrgPost/PinnedPostsStory](screens/OrgPost/PinnedPostsStory/README.md)
 - [screens/OrgPost/Posts](screens/OrgPost/Posts/README.md)
 - [screens/OrgSettings/OrgSettings](screens/OrgSettings/OrgSettings/README.md)
 - [screens/OrgSettings/OrgSettings.mocks](screens/OrgSettings/OrgSettings.mocks/README.md)

@@ -6,7 +6,7 @@
 
 > `const` **createAddress**: `object`
 
-Defined in: [screens/Users/Organization.mocks.ts:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/Users/Organization.mocks.ts#L57)
+Defined in: [screens/Users/Organization.mocks.ts:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/96d654ef5614951b0c6831633ec9037a4f39157e/src/screens/Users/Organization.mocks.ts#L57)
 
 ## Type declaration
 

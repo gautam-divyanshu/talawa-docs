@@ -6,7 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [screens/PluginStore/components/PluginCard.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/PluginStore/components/PluginCard.tsx#L13)
+Defined in: [screens/PluginStore/components/PluginCard.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/96d654ef5614951b0c6831633ec9037a4f39157e/src/screens/PluginStore/components/PluginCard.tsx#L13)
 
 ## Parameters
 

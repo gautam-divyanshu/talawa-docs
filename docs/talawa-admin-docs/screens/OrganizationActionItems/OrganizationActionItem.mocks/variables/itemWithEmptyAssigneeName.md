@@ -6,7 +6,7 @@
 
 > `const` **itemWithEmptyAssigneeName**: `object`
 
-Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:131](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L131)
+Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:131](https://github.com/PalisadoesFoundation/talawa-admin/blob/96d654ef5614951b0c6831633ec9037a4f39157e/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L131)
 
 ## Type declaration
 

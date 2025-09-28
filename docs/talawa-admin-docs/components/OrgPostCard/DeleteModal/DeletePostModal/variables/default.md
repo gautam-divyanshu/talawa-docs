@@ -6,4 +6,4 @@
 
 > `const` **default**: `FC`\<`InterfaceDeletePostModalProps`\>
 
-Defined in: [components/OrgPostCard/DeleteModal/DeletePostModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/d90664341b244d3f85e102aed4ba1a96ad4d8616/src/components/OrgPostCard/DeleteModal/DeletePostModal.tsx#L44)
+Defined in: [components/OrgPostCard/DeleteModal/DeletePostModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/96d654ef5614951b0c6831633ec9037a4f39157e/src/components/OrgPostCard/DeleteModal/DeletePostModal.tsx#L44)
