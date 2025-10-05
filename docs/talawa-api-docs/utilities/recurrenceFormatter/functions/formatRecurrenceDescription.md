@@ -6,7 +6,7 @@
 
 > **formatRecurrenceDescription**(`rule`): `string`
 
-Defined in: [src/utilities/recurrenceFormatter.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/utilities/recurrenceFormatter.ts#L17)
+Defined in: [src/utilities/recurrenceFormatter.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/utilities/recurrenceFormatter.ts#L17)
 
 Converts a recurrence rule into a human-readable description.
 

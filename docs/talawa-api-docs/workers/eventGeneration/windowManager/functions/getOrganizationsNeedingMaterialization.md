@@ -6,7 +6,7 @@
 
 > **getOrganizationsNeedingMaterialization**(`config`, `deps`): `Promise`\<`object`[]\>
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/workers/eventGeneration/windowManager.ts#L45)
+Defined in: [src/workers/eventGeneration/windowManager.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/workers/eventGeneration/windowManager.ts#L45)
 
 Gets organizations that need materialization processing.
 This includes organizations where:

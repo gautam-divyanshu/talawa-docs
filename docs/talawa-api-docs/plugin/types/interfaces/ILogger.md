@@ -4,7 +4,7 @@
 
 # Interface: ILogger
 
-Defined in: [src/plugin/types.ts:119](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/plugin/types.ts#L119)
+Defined in: [src/plugin/types.ts:119](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L119)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:119](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **debug**: (`message`, ...`args`) => `void`
 
-Defined in: [src/plugin/types.ts:123](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/plugin/types.ts#L123)
+Defined in: [src/plugin/types.ts:123](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L123)
 
 #### Parameters
 
@@ -34,7 +34,7 @@ Defined in: [src/plugin/types.ts:123](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **error**: (`message`, ...`args`) => `void`
 
-Defined in: [src/plugin/types.ts:121](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/plugin/types.ts#L121)
+Defined in: [src/plugin/types.ts:121](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L121)
 
 #### Parameters
 
@@ -56,7 +56,7 @@ Defined in: [src/plugin/types.ts:121](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **info**: (`message`, ...`args`) => `void`
 
-Defined in: [src/plugin/types.ts:120](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/plugin/types.ts#L120)
+Defined in: [src/plugin/types.ts:120](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L120)
 
 #### Parameters
 
@@ -78,7 +78,7 @@ Defined in: [src/plugin/types.ts:120](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **warn**: (`message`, ...`args`) => `void`
 
-Defined in: [src/plugin/types.ts:122](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/plugin/types.ts#L122)
+Defined in: [src/plugin/types.ts:122](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L122)
 
 #### Parameters
 

@@ -6,7 +6,7 @@
 
 > **getGlobalCleanupStatistics**(`drizzleClient`): `Promise`\<\{ `averageInstancesPerOrganization`: `number`; `newestInstanceDate`: `Date`; `oldestInstanceDate`: `Date`; `totalInstances`: `number`; `totalInstancesEligibleForCleanup`: `number`; `totalOrganizations`: `number`; \}\>
 
-Defined in: [src/workers/eventCleanupWorker.ts:332](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/workers/eventCleanupWorker.ts#L332)
+Defined in: [src/workers/eventCleanupWorker.ts:332](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/workers/eventCleanupWorker.ts#L332)
 
 Retrieves global statistics about the cleanup process across all organizations,
 including total instance counts and eligibility for cleanup.

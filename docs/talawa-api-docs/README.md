@@ -300,6 +300,7 @@
 - [graphql/types/Comment/creator](graphql/types/Comment/creator/README.md)
 - [graphql/types/Comment/downVoters](graphql/types/Comment/downVoters/README.md)
 - [graphql/types/Comment/downVotesCount](graphql/types/Comment/downVotesCount/README.md)
+- [graphql/types/Comment/hasUserVoted](graphql/types/Comment/hasUserVoted/README.md)
 - [graphql/types/Comment/post](graphql/types/Comment/post/README.md)
 - [graphql/types/Comment/upVoters](graphql/types/Comment/upVoters/README.md)
 - [graphql/types/Comment/upVotesCount](graphql/types/Comment/upVotesCount/README.md)

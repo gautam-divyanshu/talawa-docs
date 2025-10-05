@@ -6,7 +6,7 @@
 
 > **getUnifiedEventsInDateRange**(`input`, `drizzleClient`, `logger`): `Promise`\<[`EventWithAttachments`](../type-aliases/EventWithAttachments.md)[]\>
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L52)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L52)
 
 Retrieves a unified list of events, including both standalone events and generated
 instances of recurring events, within a specified date range. This is the primary function

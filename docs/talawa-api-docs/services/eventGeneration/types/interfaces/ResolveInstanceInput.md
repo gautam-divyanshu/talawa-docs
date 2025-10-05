@@ -4,7 +4,7 @@
 
 # Interface: ResolveInstanceInput
 
-Defined in: [src/services/eventGeneration/types.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/services/eventGeneration/types.ts#L56)
+Defined in: [src/services/eventGeneration/types.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/services/eventGeneration/types.ts#L56)
 
 Input for resolving instance with inheritance
 
@@ -14,7 +14,7 @@ Input for resolving instance with inheritance
 
 > **baseTemplate**: `object`
 
-Defined in: [src/services/eventGeneration/types.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/services/eventGeneration/types.ts#L58)
+Defined in: [src/services/eventGeneration/types.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/services/eventGeneration/types.ts#L58)
 
 #### allDay
 
@@ -82,7 +82,7 @@ Defined in: [src/services/eventGeneration/types.ts:58](https://github.com/Palisa
 
 > `optional` **exception**: `object`
 
-Defined in: [src/services/eventGeneration/types.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/services/eventGeneration/types.ts#L59)
+Defined in: [src/services/eventGeneration/types.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/services/eventGeneration/types.ts#L59)
 
 #### createdAt
 
@@ -122,7 +122,7 @@ Defined in: [src/services/eventGeneration/types.ts:59](https://github.com/Palisa
 
 > **generatedInstance**: `object`
 
-Defined in: [src/services/eventGeneration/types.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/services/eventGeneration/types.ts#L57)
+Defined in: [src/services/eventGeneration/types.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/services/eventGeneration/types.ts#L57)
 
 #### actualEndTime
 

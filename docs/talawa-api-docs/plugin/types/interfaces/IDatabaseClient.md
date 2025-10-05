@@ -4,7 +4,7 @@
 
 # Interface: IDatabaseClient
 
-Defined in: [src/plugin/types.ts:159](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/plugin/types.ts#L159)
+Defined in: [src/plugin/types.ts:159](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L159)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:159](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **execute**: (`sql`) => `Promise`\<`unknown`\>
 
-Defined in: [src/plugin/types.ts:171](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/plugin/types.ts#L171)
+Defined in: [src/plugin/types.ts:171](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L171)
 
 #### Parameters
 
@@ -30,7 +30,7 @@ Defined in: [src/plugin/types.ts:171](https://github.com/PalisadoesFoundation/ta
 
 > **select**: (...`args`) => `object`
 
-Defined in: [src/plugin/types.ts:160](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/plugin/types.ts#L160)
+Defined in: [src/plugin/types.ts:160](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L160)
 
 #### Parameters
 
@@ -90,7 +90,7 @@ Defined in: [src/plugin/types.ts:160](https://github.com/PalisadoesFoundation/ta
 
 > **update**: (...`args`) => `object`
 
-Defined in: [src/plugin/types.ts:166](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/plugin/types.ts#L166)
+Defined in: [src/plugin/types.ts:166](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L166)
 
 #### Parameters
 

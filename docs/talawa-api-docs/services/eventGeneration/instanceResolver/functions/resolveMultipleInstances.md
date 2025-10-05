@@ -6,7 +6,7 @@
 
 > **resolveMultipleInstances**(`instances`, `templatesMap`, `exceptionsMap`, `logger`): [`ResolvedRecurringEventInstance`](../../../../drizzle/tables/recurringEventInstances/type-aliases/ResolvedRecurringEventInstance.md)[]
 
-Defined in: [src/services/eventGeneration/instanceResolver.ts:151](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/services/eventGeneration/instanceResolver.ts#L151)
+Defined in: [src/services/eventGeneration/instanceResolver.ts:151](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/services/eventGeneration/instanceResolver.ts#L151)
 
 Resolves multiple generated instances in a batch operation to improve performance.
 This function iterates through a list of instances and applies the inheritance and

@@ -6,7 +6,7 @@
 
 > **executeBatchEventGeneration**(`jobs`, `maxConcurrency`, `deps`): `Promise`\<[`ProcessingResult`](../../types/interfaces/ProcessingResult.md)\<[`EventGenerationExecutionResult`](../interfaces/EventGenerationExecutionResult.md)[]\>\>
 
-Defined in: [src/workers/eventGeneration/executionEngine.ts:122](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/workers/eventGeneration/executionEngine.ts#L122)
+Defined in: [src/workers/eventGeneration/executionEngine.ts:122](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/workers/eventGeneration/executionEngine.ts#L122)
 
 Executes multiple Generation jobs in parallel, with a specified level of concurrency.
 This function processes jobs in batches to control resource usage and improve throughput.

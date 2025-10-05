@@ -4,7 +4,7 @@
 
 # Interface: PluginInstallationOptions
 
-Defined in: [src/utilities/pluginInstaller.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/utilities/pluginInstaller.ts#L23)
+Defined in: [src/utilities/pluginInstaller.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/utilities/pluginInstaller.ts#L23)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/utilities/pluginInstaller.ts:23](https://github.com/PalisadoesF
 
 > `optional` **activate**: `boolean`
 
-Defined in: [src/utilities/pluginInstaller.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/utilities/pluginInstaller.ts#L26)
+Defined in: [src/utilities/pluginInstaller.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/utilities/pluginInstaller.ts#L26)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/utilities/pluginInstaller.ts:26](https://github.com/PalisadoesF
 
 > **drizzleClient**: `DrizzleClientInterface`
 
-Defined in: [src/utilities/pluginInstaller.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/utilities/pluginInstaller.ts#L25)
+Defined in: [src/utilities/pluginInstaller.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/utilities/pluginInstaller.ts#L25)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/utilities/pluginInstaller.ts:25](https://github.com/PalisadoesF
 
 > **userId**: `string`
 
-Defined in: [src/utilities/pluginInstaller.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/utilities/pluginInstaller.ts#L27)
+Defined in: [src/utilities/pluginInstaller.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/utilities/pluginInstaller.ts#L27)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/utilities/pluginInstaller.ts:27](https://github.com/PalisadoesF
 
 > **zipFile**: `FileUpload`
 
-Defined in: [src/utilities/pluginInstaller.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/76aaea1c502a129ba6c2cc20461d1a226e7b8cf3/src/utilities/pluginInstaller.ts#L24)
+Defined in: [src/utilities/pluginInstaller.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/utilities/pluginInstaller.ts#L24)
