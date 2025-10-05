@@ -6,7 +6,7 @@
 
 > `const` **MOCKS1**: `object`[]
 
-Defined in: [screens/UserPortal/Settings/SettingsMocks.ts:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/96d654ef5614951b0c6831633ec9037a4f39157e/src/screens/UserPortal/Settings/SettingsMocks.ts#L44)
+Defined in: [screens/UserPortal/Settings/SettingsMocks.ts:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/b238fb256f6e979ba85b4f82173b1063dad04c10/src/screens/UserPortal/Settings/SettingsMocks.ts#L44)
 
 ## Type declaration
 
@@ -64,7 +64,7 @@ Defined in: [screens/UserPortal/Settings/SettingsMocks.ts:44](https://github.com
 
 #### result.data.currentUser.createdAt
 
-> **createdAt**: `string` = `'2025-02-06T03:10:50.254'`
+> **createdAt**: `string` = `'2025-02-06T03:10:50.254Z'`
 
 #### result.data.currentUser.description
 
@@ -128,7 +128,7 @@ Defined in: [screens/UserPortal/Settings/SettingsMocks.ts:44](https://github.com
 
 #### result.data.currentUser.updatedAt
 
-> **updatedAt**: `string` = `'2025-02-06T03:22:17.808'`
+> **updatedAt**: `string` = `'2025-02-06T03:22:17.808Z'`
 
 #### result.data.currentUser.workPhoneNumber
 
