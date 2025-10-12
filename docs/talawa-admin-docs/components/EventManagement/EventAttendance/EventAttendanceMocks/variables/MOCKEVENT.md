@@ -6,7 +6,7 @@
 
 > `const` **MOCKEVENT**: `object`
 
-Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/b238fb256f6e979ba85b4f82173b1063dad04c10/src/components/EventManagement/EventAttendance/EventAttendanceMocks.ts#L3)
+Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/components/EventManagement/EventAttendance/EventAttendanceMocks.ts#L3)
 
 ## Type declaration
 
@@ -34,6 +34,10 @@ Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:
 
 > **description**: `string` = `'This is a test event description'`
 
+### endAt
+
+> **endAt**: `string` = `'2030-05-02T17:00:00.000Z'`
+
 ### endDate
 
 > **endDate**: `string` = `'2030-05-02'`
@@ -45,6 +49,10 @@ Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:
 ### location
 
 > **location**: `string` = `'Test Location'`
+
+### name
+
+> **name**: `string` = `'Test Event'`
 
 ### organization
 
@@ -61,6 +69,10 @@ Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:
 ### recurring
 
 > **recurring**: `boolean` = `true`
+
+### startAt
+
+> **startAt**: `string` = `'2030-05-01T09:00:00.000Z'`
 
 ### startDate
 

@@ -4,7 +4,7 @@
 
 # Class: TestErrorBoundary
 
-Defined in: [components/test-utils/TestErrorBoundary.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/b238fb256f6e979ba85b4f82173b1063dad04c10/src/components/test-utils/TestErrorBoundary.tsx#L22)
+Defined in: [components/test-utils/TestErrorBoundary.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/components/test-utils/TestErrorBoundary.tsx#L22)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [components/test-utils/TestErrorBoundary.tsx:22](https://github.com/
 
 > **new TestErrorBoundary**(`props`): `TestErrorBoundary`
 
-Defined in: [components/test-utils/TestErrorBoundary.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/b238fb256f6e979ba85b4f82173b1063dad04c10/src/components/test-utils/TestErrorBoundary.tsx#L26)
+Defined in: [components/test-utils/TestErrorBoundary.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/components/test-utils/TestErrorBoundary.tsx#L26)
 
 #### Parameters
 
@@ -38,7 +38,7 @@ Defined in: [components/test-utils/TestErrorBoundary.tsx:26](https://github.com/
 
 > **render**(): `ReactNode`
 
-Defined in: [components/test-utils/TestErrorBoundary.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/b238fb256f6e979ba85b4f82173b1063dad04c10/src/components/test-utils/TestErrorBoundary.tsx#L43)
+Defined in: [components/test-utils/TestErrorBoundary.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/components/test-utils/TestErrorBoundary.tsx#L43)
 
 #### Returns
 
@@ -54,7 +54,7 @@ Defined in: [components/test-utils/TestErrorBoundary.tsx:43](https://github.com/
 
 > `static` **getDerivedStateFromError**(`error`): `TestInterfaceErrorBoundaryState`
 
-Defined in: [components/test-utils/TestErrorBoundary.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/b238fb256f6e979ba85b4f82173b1063dad04c10/src/components/test-utils/TestErrorBoundary.tsx#L34)
+Defined in: [components/test-utils/TestErrorBoundary.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/components/test-utils/TestErrorBoundary.tsx#L34)
 
 #### Parameters
 

@@ -6,7 +6,7 @@
 
 > `const` **mockEventData**: `object`
 
-Defined in: [components/MemberActivity/MemberActivityMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/b238fb256f6e979ba85b4f82173b1063dad04c10/src/components/MemberActivity/MemberActivityMocks.ts#L3)
+Defined in: [components/MemberActivity/MemberActivityMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/components/MemberActivity/MemberActivityMocks.ts#L3)
 
 ## Type declaration
 
@@ -38,6 +38,10 @@ Defined in: [components/MemberActivity/MemberActivityMocks.ts:3](https://github.
 
 > **description**: `string` = `'Test Description'`
 
+#### event.endAt
+
+> **endAt**: `string` = `'2030-01-02T17:00:00.000Z'`
+
 #### event.endDate
 
 > **endDate**: `string` = `'2030-01-02'`
@@ -49,6 +53,10 @@ Defined in: [components/MemberActivity/MemberActivityMocks.ts:3](https://github.
 #### event.location
 
 > **location**: `string` = `'Test Location'`
+
+#### event.name
+
+> **name**: `string` = `'Test Event'`
 
 #### event.organization
 
@@ -65,6 +73,10 @@ Defined in: [components/MemberActivity/MemberActivityMocks.ts:3](https://github.
 #### event.recurring
 
 > **recurring**: `boolean` = `true`
+
+#### event.startAt
+
+> **startAt**: `string` = `'2030-01-01T09:00:00.000Z'`
 
 #### event.startDate
 

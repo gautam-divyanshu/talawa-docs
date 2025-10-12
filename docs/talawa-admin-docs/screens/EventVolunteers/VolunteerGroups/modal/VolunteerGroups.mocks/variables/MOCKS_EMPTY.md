@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_EMPTY**: `object`[]
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroups.mocks.ts:339](https://github.com/PalisadoesFoundation/talawa-admin/blob/b238fb256f6e979ba85b4f82173b1063dad04c10/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroups.mocks.ts#L339)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroups.mocks.ts:283](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroups.mocks.ts#L283)
 
 ## Type declaration
 
@@ -16,31 +16,19 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroups.mocks
 
 #### request.query
 
-> **query**: `DocumentNode` = `EVENT_VOLUNTEER_GROUP_LIST`
+> **query**: `DocumentNode` = `GET_EVENT_VOLUNTEER_GROUPS`
 
 #### request.variables
 
 > **variables**: `object`
 
-#### request.variables.orderBy
+#### request.variables.input
 
-> **orderBy**: `any` = `null`
+> **input**: `object`
 
-#### request.variables.where
+#### request.variables.input.id
 
-> **where**: `object`
-
-#### request.variables.where.eventId
-
-> **eventId**: `string` = `'eventId'`
-
-#### request.variables.where.leaderName
-
-> **leaderName**: `any` = `null`
-
-#### request.variables.where.name\_contains
-
-> **name\_contains**: `string` = `''`
+> **id**: `string` = `'eventId'`
 
 ### result
 
@@ -50,6 +38,22 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroups.mocks
 
 > **data**: `object`
 
-#### result.data.getEventVolunteerGroups
+#### result.data.event
 
-> **getEventVolunteerGroups**: `any`[] = `[]`
+> **event**: `object`
+
+#### result.data.event.baseEvent
+
+> **baseEvent**: `any` = `null`
+
+#### result.data.event.id
+
+> **id**: `string` = `'eventId'`
+
+#### result.data.event.recurrenceRule
+
+> **recurrenceRule**: `any` = `null`
+
+#### result.data.event.volunteerGroups
+
+> **volunteerGroups**: `any`[] = `[]`

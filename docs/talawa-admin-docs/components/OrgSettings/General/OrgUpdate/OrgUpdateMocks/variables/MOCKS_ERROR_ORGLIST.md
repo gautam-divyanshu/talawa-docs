@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_ERROR\_ORGLIST**: `object`[]
 
-Defined in: [components/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts:110](https://github.com/PalisadoesFoundation/talawa-admin/blob/b238fb256f6e979ba85b4f82173b1063dad04c10/src/components/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts#L110)
+Defined in: [components/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts:110](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/components/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts#L110)
 
 ## Type declaration
 
