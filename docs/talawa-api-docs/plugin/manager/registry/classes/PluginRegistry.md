@@ -4,7 +4,7 @@
 
 # Class: PluginRegistry
 
-Defined in: [src/plugin/manager/registry.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/manager/registry.ts#L13)
+Defined in: [src/plugin/manager/registry.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/manager/registry.ts#L13)
 
 ## Constructors
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/manager/registry.ts:13](https://github.com/PalisadoesFou
 
 > **new PluginRegistry**(`pluginContext`): `PluginRegistry`
 
-Defined in: [src/plugin/manager/registry.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/manager/registry.ts#L14)
+Defined in: [src/plugin/manager/registry.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/manager/registry.ts#L14)
 
 #### Parameters
 
@@ -30,7 +30,7 @@ Defined in: [src/plugin/manager/registry.ts:14](https://github.com/PalisadoesFou
 
 > **getPluginFromDatabase**(`pluginId`): `Promise`\<\{ `backup`: `boolean`; `createdAt`: `Date`; `id`: `string`; `isActivated`: `boolean`; `isInstalled`: `boolean`; `pluginId`: `string`; `updatedAt`: `Date`; \}\>
 
-Defined in: [src/plugin/manager/registry.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/manager/registry.ts#L19)
+Defined in: [src/plugin/manager/registry.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/manager/registry.ts#L19)
 
 Get plugin from database
 
@@ -50,7 +50,7 @@ Get plugin from database
 
 > **updatePluginInDatabase**(`pluginId`, `updates`): `Promise`\<`void`\>
 
-Defined in: [src/plugin/manager/registry.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/manager/registry.ts#L40)
+Defined in: [src/plugin/manager/registry.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/manager/registry.ts#L40)
 
 Update plugin in database
 

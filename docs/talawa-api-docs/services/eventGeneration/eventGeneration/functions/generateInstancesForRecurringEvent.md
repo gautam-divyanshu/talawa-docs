@@ -6,7 +6,7 @@
 
 > **generateInstancesForRecurringEvent**(`input`, `drizzleClient`, `logger`): `Promise`\<`number`\>
 
-Defined in: [src/services/eventGeneration/eventGeneration.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/services/eventGeneration/eventGeneration.ts#L25)
+Defined in: [src/services/eventGeneration/eventGeneration.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/eventGeneration/eventGeneration.ts#L25)
 
 Generates and stores generated instances for a recurring event within a specified time window.
 This function fetches the base event template and recurrence rule, calculates all occurrences,

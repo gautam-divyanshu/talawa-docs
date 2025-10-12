@@ -174,6 +174,18 @@ Re-exports [communitiesTableRelations](../tables/communities/variables/communiti
 
 ***
 
+### emailNotificationsTable
+
+Re-exports [emailNotificationsTable](../tables/EmailNotification/variables/emailNotificationsTable.md)
+
+***
+
+### emailNotificationsTableRelations
+
+Re-exports [emailNotificationsTableRelations](../tables/EmailNotification/variables/emailNotificationsTableRelations.md)
+
+***
+
 ### eventAttachmentsTable
 
 Re-exports [eventAttachmentsTable](../tables/eventAttachments/variables/eventAttachmentsTable.md)
@@ -231,6 +243,66 @@ Re-exports [eventsTable](../tables/events/variables/eventsTable.md)
 ### eventsTableRelations
 
 Re-exports [eventsTableRelations](../tables/events/variables/eventsTableRelations.md)
+
+***
+
+### eventVolunteerExceptionsTable
+
+Re-exports [eventVolunteerExceptionsTable](../tables/eventVolunteerExceptions/variables/eventVolunteerExceptionsTable.md)
+
+***
+
+### eventVolunteerExceptionsTableRelations
+
+Re-exports [eventVolunteerExceptionsTableRelations](../tables/eventVolunteerExceptions/variables/eventVolunteerExceptionsTableRelations.md)
+
+***
+
+### eventVolunteerGroupExceptionsTable
+
+Re-exports [eventVolunteerGroupExceptionsTable](../tables/eventVolunteerGroupExceptions/variables/eventVolunteerGroupExceptionsTable.md)
+
+***
+
+### eventVolunteerGroupExceptionsTableRelations
+
+Re-exports [eventVolunteerGroupExceptionsTableRelations](../tables/eventVolunteerGroupExceptions/variables/eventVolunteerGroupExceptionsTableRelations.md)
+
+***
+
+### eventVolunteerGroupsTable
+
+Re-exports [eventVolunteerGroupsTable](../tables/eventVolunteerGroups/variables/eventVolunteerGroupsTable.md)
+
+***
+
+### eventVolunteerGroupsTableRelations
+
+Re-exports [eventVolunteerGroupsTableRelations](../tables/eventVolunteerGroups/variables/eventVolunteerGroupsTableRelations.md)
+
+***
+
+### eventVolunteerMembershipsTable
+
+Re-exports [eventVolunteerMembershipsTable](../tables/eventVolunteerMemberships/variables/eventVolunteerMembershipsTable.md)
+
+***
+
+### eventVolunteerMembershipsTableRelations
+
+Re-exports [eventVolunteerMembershipsTableRelations](../tables/eventVolunteerMemberships/variables/eventVolunteerMembershipsTableRelations.md)
+
+***
+
+### eventVolunteersTable
+
+Re-exports [eventVolunteersTable](../tables/eventVolunteers/variables/eventVolunteersTable.md)
+
+***
+
+### eventVolunteersTableRelations
+
+Re-exports [eventVolunteersTableRelations](../tables/eventVolunteers/variables/eventVolunteersTableRelations.md)
 
 ***
 
@@ -303,6 +375,42 @@ Re-exports [membershipRequestsTable](../tables/membershipRequests/variables/memb
 ### membershipRequestsTableRelations
 
 Re-exports [membershipRequestsTableRelations](../tables/membershipRequests/variables/membershipRequestsTableRelations.md)
+
+***
+
+### notificationAudienceTable
+
+Re-exports [notificationAudienceTable](../tables/NotificationAudience/variables/notificationAudienceTable.md)
+
+***
+
+### notificationAudienceTableRelations
+
+Re-exports [notificationAudienceTableRelations](../tables/NotificationAudience/variables/notificationAudienceTableRelations.md)
+
+***
+
+### notificationLogsTable
+
+Re-exports [notificationLogsTable](../tables/NotificationLog/variables/notificationLogsTable.md)
+
+***
+
+### notificationLogsTableRelations
+
+Re-exports [notificationLogsTableRelations](../tables/NotificationLog/variables/notificationLogsTableRelations.md)
+
+***
+
+### notificationTemplatesTable
+
+Re-exports [notificationTemplatesTable](../tables/NotificationTemplate/variables/notificationTemplatesTable.md)
+
+***
+
+### notificationTemplatesTableRelations
+
+Re-exports [notificationTemplatesTableRelations](../tables/NotificationTemplate/variables/notificationTemplatesTableRelations.md)
 
 ***
 
@@ -483,27 +591,3 @@ Re-exports [venuesTable](../tables/venues/variables/venuesTable.md)
 ### venuesTableRelations
 
 Re-exports [venuesTableRelations](../tables/venues/variables/venuesTableRelations.md)
-
-***
-
-### volunteerGroupAssignmentsTable
-
-Re-exports [volunteerGroupAssignmentsTable](../tables/volunteerGroupAssignments/variables/volunteerGroupAssignmentsTable.md)
-
-***
-
-### volunteerGroupAssignmentsTableRelations
-
-Re-exports [volunteerGroupAssignmentsTableRelations](../tables/volunteerGroupAssignments/variables/volunteerGroupAssignmentsTableRelations.md)
-
-***
-
-### volunteerGroupsTable
-
-Re-exports [volunteerGroupsTable](../tables/volunteerGroups/variables/volunteerGroupsTable.md)
-
-***
-
-### volunteerGroupsTableRelations
-
-Re-exports [volunteerGroupsTableRelations](../tables/volunteerGroups/variables/volunteerGroupsTableRelations.md)

@@ -4,7 +4,7 @@
 
 # Interface: IPluginLifecycle
 
-Defined in: [src/plugin/types.ts:135](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L135)
+Defined in: [src/plugin/types.ts:145](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L145)
 
 ## Methods
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:135](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **onActivate**(`context`): `Promise`\<`void`\>
 
-Defined in: [src/plugin/types.ts:138](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L138)
+Defined in: [src/plugin/types.ts:148](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L148)
 
 #### Parameters
 
@@ -30,7 +30,7 @@ Defined in: [src/plugin/types.ts:138](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **onDeactivate**(`context`): `Promise`\<`void`\>
 
-Defined in: [src/plugin/types.ts:139](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L139)
+Defined in: [src/plugin/types.ts:149](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L149)
 
 #### Parameters
 
@@ -48,7 +48,7 @@ Defined in: [src/plugin/types.ts:139](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **onInstall**(`context`): `Promise`\<`void`\>
 
-Defined in: [src/plugin/types.ts:136](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L136)
+Defined in: [src/plugin/types.ts:146](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L146)
 
 #### Parameters
 
@@ -66,7 +66,7 @@ Defined in: [src/plugin/types.ts:136](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **onLoad**(`context`): `Promise`\<`void`\>
 
-Defined in: [src/plugin/types.ts:137](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L137)
+Defined in: [src/plugin/types.ts:147](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L147)
 
 #### Parameters
 
@@ -84,7 +84,7 @@ Defined in: [src/plugin/types.ts:137](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **onUninstall**(`context`): `Promise`\<`void`\>
 
-Defined in: [src/plugin/types.ts:140](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L140)
+Defined in: [src/plugin/types.ts:150](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L150)
 
 #### Parameters
 
@@ -102,7 +102,7 @@ Defined in: [src/plugin/types.ts:140](https://github.com/PalisadoesFoundation/ta
 
 > `optional` **onUnload**(`context`): `Promise`\<`void`\>
 
-Defined in: [src/plugin/types.ts:141](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L141)
+Defined in: [src/plugin/types.ts:151](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L151)
 
 #### Parameters
 

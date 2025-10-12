@@ -6,7 +6,7 @@
 
 > **getStandaloneEventsInDateRange**(`input`, `drizzleClient`, `logger`): `Promise`\<`object` & `object`[]\>
 
-Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L33)
+Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L33)
 
 Retrieves standalone (non-recurring) events for a given organization within a specified date range.
 This function filters out recurring templates and generated instances, focusing only on regular,

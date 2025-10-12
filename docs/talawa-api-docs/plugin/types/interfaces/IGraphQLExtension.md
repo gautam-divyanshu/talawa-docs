@@ -4,7 +4,7 @@
 
 # Interface: IGraphQLExtension
 
-Defined in: [src/plugin/types.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L29)
+Defined in: [src/plugin/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L39)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:29](https://github.com/PalisadoesFoundation/tal
 
 > **builderDefinition**: `string`
 
-Defined in: [src/plugin/types.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L35)
+Defined in: [src/plugin/types.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L45)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/plugin/types.ts:35](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **description**: `string`
 
-Defined in: [src/plugin/types.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L33)
+Defined in: [src/plugin/types.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L43)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/plugin/types.ts:33](https://github.com/PalisadoesFoundation/tal
 
 > **file**: `string`
 
-Defined in: [src/plugin/types.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L32)
+Defined in: [src/plugin/types.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L42)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [src/plugin/types.ts:32](https://github.com/PalisadoesFoundation/tal
 
 > **name**: `string`
 
-Defined in: [src/plugin/types.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L31)
+Defined in: [src/plugin/types.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L41)
 
 ***
 
@@ -44,4 +44,4 @@ Defined in: [src/plugin/types.ts:31](https://github.com/PalisadoesFoundation/tal
 
 > **type**: `"query"` \| `"mutation"` \| `"subscription"`
 
-Defined in: [src/plugin/types.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/8d297f60dc1691c65743cbe7bf8fda727ed61654/src/plugin/types.ts#L30)
+Defined in: [src/plugin/types.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L40)
