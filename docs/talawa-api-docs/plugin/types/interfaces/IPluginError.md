@@ -4,7 +4,7 @@
 
 # Interface: IPluginError
 
-Defined in: [src/plugin/types.ts:155](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L155)
+Defined in: [src/plugin/types.ts:155](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/plugin/types.ts#L155)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:155](https://github.com/PalisadoesFoundation/ta
 
 > **error**: `Error`
 
-Defined in: [src/plugin/types.ts:157](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L157)
+Defined in: [src/plugin/types.ts:157](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/plugin/types.ts#L157)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/plugin/types.ts:157](https://github.com/PalisadoesFoundation/ta
 
 > **phase**: `"activate"` \| `"install"` \| `"deactivate"` \| `"uninstall"` \| `"unload"` \| `"load"`
 
-Defined in: [src/plugin/types.ts:158](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L158)
+Defined in: [src/plugin/types.ts:158](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/plugin/types.ts#L158)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/plugin/types.ts:158](https://github.com/PalisadoesFoundation/ta
 
 > **pluginId**: `string`
 
-Defined in: [src/plugin/types.ts:156](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L156)
+Defined in: [src/plugin/types.ts:156](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/plugin/types.ts#L156)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/plugin/types.ts:156](https://github.com/PalisadoesFoundation/ta
 
 > **timestamp**: `Date`
 
-Defined in: [src/plugin/types.ts:165](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/plugin/types.ts#L165)
+Defined in: [src/plugin/types.ts:165](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/plugin/types.ts#L165)

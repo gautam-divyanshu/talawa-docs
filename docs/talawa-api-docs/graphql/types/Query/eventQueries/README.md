@@ -24,6 +24,12 @@ Re-exports [getRecurringEventInstanceById](recurringEventInstanceQueries/functio
 
 ***
 
+### getRecurringEventInstancesByBaseId
+
+Re-exports [getRecurringEventInstancesByBaseId](recurringEventInstanceQueries/functions/getRecurringEventInstancesByBaseId.md)
+
+***
+
 ### getRecurringEventInstancesByIds
 
 Re-exports [getRecurringEventInstancesByIds](recurringEventInstanceQueries/functions/getRecurringEventInstancesByIds.md)

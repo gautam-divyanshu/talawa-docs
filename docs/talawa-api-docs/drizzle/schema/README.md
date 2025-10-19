@@ -114,6 +114,18 @@ Re-exports [chatMembershipsTableRelations](../tables/chatMemberships/variables/c
 
 ***
 
+### chatMessageReadReceiptsRelations
+
+Re-exports [chatMessageReadReceiptsRelations](../tables/chatMessageReadReceipts/variables/chatMessageReadReceiptsRelations.md)
+
+***
+
+### chatMessageReadReceiptsTable
+
+Re-exports [chatMessageReadReceiptsTable](../tables/chatMessageReadReceipts/variables/chatMessageReadReceiptsTable.md)
+
+***
+
 ### chatMessagesTable
 
 Re-exports [chatMessagesTable](../tables/chatMessages/variables/chatMessagesTable.md)
@@ -198,15 +210,15 @@ Re-exports [eventAttachmentsTableRelations](../tables/eventAttachments/variables
 
 ***
 
-### eventAttendancesTable
+### eventAttendeesTable
 
-Re-exports [eventAttendancesTable](../tables/eventAttendances/variables/eventAttendancesTable.md)
+Re-exports [eventAttendeesTable](../tables/eventAttendees/variables/eventAttendeesTable.md)
 
 ***
 
-### eventAttendancesTableRelations
+### eventAttendeesTableRelations
 
-Re-exports [eventAttendancesTableRelations](../tables/eventAttendances/variables/eventAttendancesTableRelations.md)
+Re-exports [eventAttendeesTableRelations](../tables/eventAttendees/variables/eventAttendeesTableRelations.md)
 
 ***
 

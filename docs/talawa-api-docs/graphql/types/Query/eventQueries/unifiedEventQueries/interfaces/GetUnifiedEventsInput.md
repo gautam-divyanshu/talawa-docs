@@ -4,7 +4,7 @@
 
 # Interface: GetUnifiedEventsInput
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L34)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L34)
 
 ## Description
 
@@ -17,7 +17,7 @@ including both standalone and recurring instances.
 
 > **endDate**: `Date`
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L37)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L37)
 
 ***
 
@@ -25,7 +25,7 @@ Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:37](htt
 
 > `optional` **includeRecurring**: `boolean`
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L38)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L38)
 
 ***
 
@@ -33,7 +33,7 @@ Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:38](htt
 
 > `optional` **limit**: `number`
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L39)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L39)
 
 ***
 
@@ -41,7 +41,7 @@ Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:39](htt
 
 > **organizationId**: `string`
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L35)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L35)
 
 ***
 
@@ -49,4 +49,4 @@ Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:35](htt
 
 > **startDate**: `Date`
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L36)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L36)

@@ -6,4 +6,4 @@
 
 > `const` **PostAttachmentMimeType**: `EnumRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, `"image/avif"` \| `"image/jpeg"` \| `"image/png"` \| `"image/webp"` \| `"video/mp4"` \| `"video/webm"`, `"image/avif"` \| `"image/jpeg"` \| `"image/png"` \| `"image/webp"` \| `"video/mp4"` \| `"video/webm"`\>
 
-Defined in: [src/graphql/inputs/MutationCreatePostInput.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/inputs/MutationCreatePostInput.ts#L9)
+Defined in: [src/graphql/inputs/MutationCreatePostInput.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/inputs/MutationCreatePostInput.ts#L9)

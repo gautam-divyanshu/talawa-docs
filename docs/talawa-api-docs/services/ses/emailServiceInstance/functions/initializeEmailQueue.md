@@ -6,7 +6,7 @@
 
 > **initializeEmailQueue**(`ctx`): `void`
 
-Defined in: [src/services/ses/emailServiceInstance.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/ses/emailServiceInstance.ts#L15)
+Defined in: [src/services/ses/emailServiceInstance.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/emailServiceInstance.ts#L15)
 
 Initialize email queue processor
 

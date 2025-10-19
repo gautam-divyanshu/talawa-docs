@@ -4,7 +4,7 @@
 
 # Class: EmailService
 
-Defined in: [src/services/ses/EmailService.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/ses/EmailService.ts#L34)
+Defined in: [src/services/ses/EmailService.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L34)
 
 Simple email service using AWS SES
 
@@ -14,7 +14,7 @@ Simple email service using AWS SES
 
 > **new EmailService**(`config`): `EmailService`
 
-Defined in: [src/services/ses/EmailService.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/ses/EmailService.ts#L41)
+Defined in: [src/services/ses/EmailService.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L41)
 
 #### Parameters
 
@@ -32,7 +32,7 @@ Defined in: [src/services/ses/EmailService.ts:41](https://github.com/PalisadoesF
 
 > **sendBulkEmails**(`jobs`): `Promise`\<[`EmailResult`](../interfaces/EmailResult.md)[]\>
 
-Defined in: [src/services/ses/EmailService.ts:107](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/ses/EmailService.ts#L107)
+Defined in: [src/services/ses/EmailService.ts:107](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L107)
 
 Send multiple emails
 
@@ -52,7 +52,7 @@ Send multiple emails
 
 > **sendEmail**(`job`): `Promise`\<[`EmailResult`](../interfaces/EmailResult.md)\>
 
-Defined in: [src/services/ses/EmailService.ts:74](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/ses/EmailService.ts#L74)
+Defined in: [src/services/ses/EmailService.ts:74](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L74)
 
 Send a single email using AWS SES
 

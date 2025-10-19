@@ -4,7 +4,7 @@
 
 # Interface: EmailResult
 
-Defined in: [src/services/ses/EmailService.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/ses/EmailService.ts#L24)
+Defined in: [src/services/ses/EmailService.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L24)
 
 Email result interface
 
@@ -14,7 +14,7 @@ Email result interface
 
 > `optional` **error**: `string`
 
-Defined in: [src/services/ses/EmailService.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/ses/EmailService.ts#L28)
+Defined in: [src/services/ses/EmailService.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L28)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/services/ses/EmailService.ts:28](https://github.com/PalisadoesF
 
 > **id**: `string`
 
-Defined in: [src/services/ses/EmailService.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/ses/EmailService.ts#L25)
+Defined in: [src/services/ses/EmailService.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L25)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/services/ses/EmailService.ts:25](https://github.com/PalisadoesF
 
 > `optional` **messageId**: `string`
 
-Defined in: [src/services/ses/EmailService.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/ses/EmailService.ts#L27)
+Defined in: [src/services/ses/EmailService.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L27)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/services/ses/EmailService.ts:27](https://github.com/PalisadoesF
 
 > **success**: `boolean`
 
-Defined in: [src/services/ses/EmailService.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/services/ses/EmailService.ts#L26)
+Defined in: [src/services/ses/EmailService.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L26)

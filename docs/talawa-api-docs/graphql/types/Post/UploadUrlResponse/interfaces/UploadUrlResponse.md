@@ -4,7 +4,7 @@
 
 # Interface: UploadUrlResponse
 
-Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Post/UploadUrlResponse.ts#L3)
+Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Post/UploadUrlResponse.ts#L3)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:3](https://github.com/P
 
 > **objectName**: `string`
 
-Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Post/UploadUrlResponse.ts#L5)
+Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Post/UploadUrlResponse.ts#L5)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:5](https://github.com/P
 
 > **presignedUrl**: `string`
 
-Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Post/UploadUrlResponse.ts#L4)
+Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Post/UploadUrlResponse.ts#L4)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:4](https://github.com/P
 
 > **requiresUpload**: `boolean`
 
-Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Post/UploadUrlResponse.ts#L6)
+Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Post/UploadUrlResponse.ts#L6)

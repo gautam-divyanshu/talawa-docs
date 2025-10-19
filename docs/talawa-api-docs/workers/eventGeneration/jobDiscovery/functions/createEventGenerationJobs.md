@@ -6,7 +6,7 @@
 
 > **createEventGenerationJobs**(`workloads`): [`EventGenerationJob`](../../executionEngine/interfaces/EventGenerationJob.md)[]
 
-Defined in: [src/workers/eventGeneration/jobDiscovery.ts:115](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/workers/eventGeneration/jobDiscovery.ts#L115)
+Defined in: [src/workers/eventGeneration/jobDiscovery.ts:115](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/workers/eventGeneration/jobDiscovery.ts#L115)
 
 Converts a list of discovered workloads into an array of executable EventGeneration jobs.
 This function uses a unified, date-based approach by normalizing recurrence rules.

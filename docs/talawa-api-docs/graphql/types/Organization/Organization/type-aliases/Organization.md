@@ -6,4 +6,4 @@
 
 > **Organization** = *typeof* `organizationsTable.$inferSelect`
 
-Defined in: [src/graphql/types/Organization/Organization.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/e96fa5edb6be6453765d6ab160fe5a845f75f0e8/src/graphql/types/Organization/Organization.ts#L5)
+Defined in: [src/graphql/types/Organization/Organization.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Organization/Organization.ts#L5)
