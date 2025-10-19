@@ -4,17 +4,19 @@
 
 # Function: default()
 
-> **default**(`__namedParameters`): `Element`
+> **default**(`orgId`): `Element`
 
-Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:95](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L95)
+Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:95](https://github.com/PalisadoesFoundation/talawa-admin/blob/ad263628205945a0b68fe718adb247e95cc9ae2d/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L95)
 
 LeftDrawerOrg component for displaying organization details and options.
 
 ## Parameters
 
-### \_\_namedParameters
+### orgId
 
 [`ILeftDrawerProps`](../interfaces/ILeftDrawerProps.md)
+
+ID of the current organization.
 
 ## Returns
 

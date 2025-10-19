@@ -4,6 +4,6 @@
 
 # Variable: default
 
-> `const` **default**: `FC`\<[`IItemModalProps`](../interfaces/IItemModalProps.md)\>
+> `const` **default**: `FC`\<`IItemModalProps`\>
 
-Defined in: [screens/OrganizationActionItems/ActionItemModal/ActionItemModal.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/screens/OrganizationActionItems/ActionItemModal/ActionItemModal.tsx#L72)
+Defined in: [screens/OrganizationActionItems/ActionItemModal/ActionItemModal.tsx:62](https://github.com/PalisadoesFoundation/talawa-admin/blob/ad263628205945a0b68fe718adb247e95cc9ae2d/src/screens/OrganizationActionItems/ActionItemModal/ActionItemModal.tsx#L62)

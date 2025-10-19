@@ -1,0 +1,47 @@
+[**talawa-admin**](../../../../../../README.md)
+
+***
+
+# Variable: GROUP\_NON\_RECURRING\_MOCKS
+
+> `const` **GROUP\_NON\_RECURRING\_MOCKS**: `object`[]
+
+Defined in: [screens/UserPortal/Volunteer/Invitations/Invitations.mocks.ts:363](https://github.com/PalisadoesFoundation/talawa-admin/blob/ad263628205945a0b68fe718adb247e95cc9ae2d/src/screens/UserPortal/Volunteer/Invitations/Invitations.mocks.ts#L363)
+
+## Type Declaration
+
+### request
+
+> **request**: `object`
+
+#### request.query
+
+> **query**: `DocumentNode` = `USER_VOLUNTEER_MEMBERSHIP`
+
+#### request.variables
+
+> **variables**: `object`
+
+#### request.variables.where
+
+> **where**: `object`
+
+#### request.variables.where.status
+
+> **status**: `string` = `'invited'`
+
+#### request.variables.where.userId
+
+> **userId**: `string` = `'userId'`
+
+### result
+
+> **result**: `object`
+
+#### result.data
+
+> **data**: `object`
+
+#### result.data.getVolunteerMembership
+
+> **getVolunteerMembership**: `object`[]

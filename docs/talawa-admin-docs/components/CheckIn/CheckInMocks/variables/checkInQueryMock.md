@@ -4,32 +4,6 @@
 
 # Variable: checkInQueryMock
 
-> `const` **checkInQueryMock**: `object`[]
+> `const` **checkInQueryMock**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `eventId`: `string`; \}; \}; `result`: \{ `data`: \{ `event`: \{ `id`: `string`; `recurrenceRule`: `any`; \}; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `eventId`: `string`; \}; \}; `result`: \{ `data`: `InterfaceAttendeeQueryResponse`; \}; \})[]
 
-Defined in: [components/CheckIn/CheckInMocks.ts:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/components/CheckIn/CheckInMocks.ts#L34)
-
-## Type declaration
-
-### request
-
-> **request**: `object`
-
-#### request.query
-
-> **query**: `DocumentNode` = `EVENT_CHECKINS`
-
-#### request.variables
-
-> **variables**: `object`
-
-#### request.variables.id
-
-> **id**: `string` = `'event123'`
-
-### result
-
-> **result**: `object`
-
-#### result.data
-
-> **data**: `InterfaceAttendeeQueryResponse` = `checkInQueryData`
+Defined in: [components/CheckIn/CheckInMocks.ts:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/ad263628205945a0b68fe718adb247e95cc9ae2d/src/components/CheckIn/CheckInMocks.ts#L37)

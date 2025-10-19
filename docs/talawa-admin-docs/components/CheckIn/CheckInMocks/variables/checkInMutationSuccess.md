@@ -6,9 +6,9 @@
 
 > `const` **checkInMutationSuccess**: `object`[]
 
-Defined in: [components/CheckIn/CheckInMocks.ts:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/2f1b4761bf16395e37e71a12fdb9b982ee4e76a0/src/components/CheckIn/CheckInMocks.ts#L46)
+Defined in: [components/CheckIn/CheckInMocks.ts:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/ad263628205945a0b68fe718adb247e95cc9ae2d/src/components/CheckIn/CheckInMocks.ts#L63)
 
-## Type declaration
+## Type Declaration
 
 ### request
 
@@ -42,6 +42,34 @@ Defined in: [components/CheckIn/CheckInMocks.ts:46](https://github.com/Palisadoe
 
 > **checkIn**: `object`
 
-#### result.data.checkIn.\_id
+#### result.data.checkIn.checkinTime
 
-> **\_id**: `string` = `'123'`
+> **checkinTime**: `string` = `'2023-01-01T08:00:00Z'`
+
+#### result.data.checkIn.checkoutTime
+
+> **checkoutTime**: `any` = `null`
+
+#### result.data.checkIn.feedbackSubmitted
+
+> **feedbackSubmitted**: `boolean` = `false`
+
+#### result.data.checkIn.id
+
+> **id**: `string` = `'123'`
+
+#### result.data.checkIn.isCheckedIn
+
+> **isCheckedIn**: `boolean` = `true`
+
+#### result.data.checkIn.isCheckedOut
+
+> **isCheckedOut**: `boolean` = `false`
+
+#### result.data.checkIn.user
+
+> **user**: `object`
+
+#### result.data.checkIn.user.id
+
+> **id**: `string` = `'user123'`

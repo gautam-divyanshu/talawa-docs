@@ -6,6 +6,7 @@
 
 ## Variables
 
+- [diverseRatingsProps](variables/diverseRatingsProps.md)
 - [emptyProps](variables/emptyProps.md)
 - [mockData](variables/mockData.md)
 - [nonEmptyProps](variables/nonEmptyProps.md)
