@@ -6,7 +6,7 @@
 
 > **createDates**: `object`
 
-Defined in: [components/Advertisements/AdvertisementsMocks.ts:141](https://github.com/PalisadoesFoundation/talawa-admin/blob/ad263628205945a0b68fe718adb247e95cc9ae2d/src/components/Advertisements/AdvertisementsMocks.ts#L141)
+Defined in: [components/Advertisements/AdvertisementsMocks.ts:136](https://github.com/PalisadoesFoundation/talawa-admin/blob/9935a8cf0f771c82088feb50b94ea5b709eb4cdd/src/components/Advertisements/AdvertisementsMocks.ts#L136)
 
 ## Type Declaration
 

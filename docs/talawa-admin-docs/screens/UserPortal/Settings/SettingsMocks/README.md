@@ -6,7 +6,6 @@
 
 ## Variables
 
-- [errorMock](variables/errorMock.md)
 - [MOCKS](variables/MOCKS.md)
 - [MOCKS1](variables/MOCKS1.md)
 - [MOCKS2](variables/MOCKS2.md)

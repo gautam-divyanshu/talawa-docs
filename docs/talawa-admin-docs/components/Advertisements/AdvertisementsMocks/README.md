@@ -7,7 +7,6 @@
 ## Variables
 
 - [client](variables/client.md)
-- [createAdSuccessMock](variables/createAdSuccessMock.md)
 - [createAdvertisement](variables/createAdvertisement.md)
 - [createAdvertisementError](variables/createAdvertisementError.md)
 - [createAdvertisementWithEndDateBeforeStart](variables/createAdvertisementWithEndDateBeforeStart.md)
@@ -22,10 +21,8 @@
 - [getActiveAdvertisementMocks](variables/getActiveAdvertisementMocks.md)
 - [getCompletedAdvertisementMocks](variables/getCompletedAdvertisementMocks.md)
 - [httpLink](variables/httpLink.md)
-- [infiniteScrollMocks](variables/infiniteScrollMocks.md)
 - [initialActiveData](variables/initialActiveData.md)
 - [initialArchivedData](variables/initialArchivedData.md)
-- [mockFileForAdvertisementScreen](variables/mockFileForAdvertisementScreen.md)
 - [updateAdMocks](variables/updateAdMocks.md)
 - [updateDates](variables/updateDates.md)
 

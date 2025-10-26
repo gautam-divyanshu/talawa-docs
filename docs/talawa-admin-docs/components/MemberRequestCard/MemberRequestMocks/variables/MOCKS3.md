@@ -6,4 +6,4 @@
 
 > `const` **MOCKS3**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `id`: `string`; `userid?`: `undefined`; \}; \}; `result`: \{ `data`: \{ `acceptMembershipRequest`: \{ `message`: `string`; `success`: `boolean`; \}; `organizations`: `object`[]; `rejectMembershipRequest?`: `undefined`; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `id?`: `undefined`; `userid`: `string`; \}; \}; `result`: \{ `data`: \{ `acceptMembershipRequest?`: `undefined`; `organizations`: `object`[]; `rejectMembershipRequest`: \{ `message`: `string`; `success`: `boolean`; \}; \}; \}; \})[]
 
-Defined in: [components/MemberRequestCard/MemberRequestMocks.ts:86](https://github.com/PalisadoesFoundation/talawa-admin/blob/ad263628205945a0b68fe718adb247e95cc9ae2d/src/components/MemberRequestCard/MemberRequestMocks.ts#L86)
+Defined in: [components/MemberRequestCard/MemberRequestMocks.ts:86](https://github.com/PalisadoesFoundation/talawa-admin/blob/9935a8cf0f771c82088feb50b94ea5b709eb4cdd/src/components/MemberRequestCard/MemberRequestMocks.ts#L86)

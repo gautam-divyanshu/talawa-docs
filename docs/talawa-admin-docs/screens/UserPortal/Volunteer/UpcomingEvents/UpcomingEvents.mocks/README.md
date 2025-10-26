@@ -7,7 +7,6 @@
 ## Variables
 
 - [CREATE\_ERROR\_MOCKS](variables/CREATE_ERROR_MOCKS.md)
-- [EDGE\_CASE\_MOCKS](variables/EDGE_CASE_MOCKS.md)
 - [EMPTY\_MOCKS](variables/EMPTY_MOCKS.md)
 - [ERROR\_MOCKS](variables/ERROR_MOCKS.md)
 - [MEMBERSHIP\_LOOKUP\_MOCKS](variables/MEMBERSHIP_LOOKUP_MOCKS.md)

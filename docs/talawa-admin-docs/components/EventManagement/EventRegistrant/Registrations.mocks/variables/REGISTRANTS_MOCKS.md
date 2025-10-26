@@ -6,4 +6,4 @@
 
 > `const` **REGISTRANTS\_MOCKS**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `eventId`: `string`; \}; \}; `result`: \{ `data`: \{ `event?`: `undefined`; `getEventAttendeesByEventId`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `eventId`: `string`; \}; \}; `result`: \{ `data`: \{ `event`: \{ `attendees`: `object`[]; \}; `getEventAttendeesByEventId?`: `undefined`; \}; \}; \})[]
 
-Defined in: [components/EventManagement/EventRegistrant/Registrations.mocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/ad263628205945a0b68fe718adb247e95cc9ae2d/src/components/EventManagement/EventRegistrant/Registrations.mocks.ts#L3)
+Defined in: [components/EventManagement/EventRegistrant/Registrations.mocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/9935a8cf0f771c82088feb50b94ea5b709eb4cdd/src/components/EventManagement/EventRegistrant/Registrations.mocks.ts#L3)

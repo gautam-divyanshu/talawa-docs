@@ -6,4 +6,4 @@
 
 > `const` **MOCKS\_NEW3**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `filter?`: `undefined`; `input`: \{ `ids`: `string`[]; \}; `limit?`: `undefined`; `offset?`: `undefined`; \}; \}; `result`: \{ `data`: \{ `organizations?`: `undefined`; `usersByIds`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `filter`: `string`; `input?`: `undefined`; `limit`: `any`; `offset`: `any`; \}; \}; `result`: \{ `data`: \{ `organizations`: `any`[]; `usersByIds?`: `undefined`; \}; \}; \})[]
 
-Defined in: [screens/Users/UsersMocks.mocks.ts:156](https://github.com/PalisadoesFoundation/talawa-admin/blob/ad263628205945a0b68fe718adb247e95cc9ae2d/src/screens/Users/UsersMocks.mocks.ts#L156)
+Defined in: [screens/Users/UsersMocks.mocks.ts:156](https://github.com/PalisadoesFoundation/talawa-admin/blob/9935a8cf0f771c82088feb50b94ea5b709eb4cdd/src/screens/Users/UsersMocks.mocks.ts#L156)
