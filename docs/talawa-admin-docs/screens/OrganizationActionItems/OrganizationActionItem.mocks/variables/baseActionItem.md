@@ -6,7 +6,7 @@
 
 > `const` **baseActionItem**: `object`
 
-Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/9935a8cf0f771c82088feb50b94ea5b709eb4cdd/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L31)
+Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L31)
 
 ## Type Declaration
 
@@ -42,6 +42,14 @@ Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:31]
 
 > **organizationId**: `string` = `'orgId'`
 
+### recurringEventInstance
+
+> **recurringEventInstance**: `any` = `null`
+
+### recurringEventInstanceId
+
+> **recurringEventInstanceId**: `any` = `null`
+
 ### updatedAt
 
 > **updatedAt**: `Date`
@@ -49,3 +57,19 @@ Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:31]
 ### updaterId
 
 > **updaterId**: `string` = `'userId'`
+
+### volunteer
+
+> **volunteer**: `any` = `null`
+
+### volunteerGroup
+
+> **volunteerGroup**: `any` = `null`
+
+### volunteerGroupId
+
+> **volunteerGroupId**: `any` = `null`
+
+### volunteerId
+
+> **volunteerId**: `any` = `null`

@@ -6,7 +6,7 @@
 
 > `const` **markActionAsPendingForInstanceMutation**: `object`
 
-Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:417](https://github.com/PalisadoesFoundation/talawa-admin/blob/9935a8cf0f771c82088feb50b94ea5b709eb4cdd/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L417)
+Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:452](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L452)
 
 ## Type Declaration
 

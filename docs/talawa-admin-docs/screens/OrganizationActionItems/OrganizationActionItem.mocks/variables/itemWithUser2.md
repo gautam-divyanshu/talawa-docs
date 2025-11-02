@@ -6,37 +6,13 @@
 
 > `const` **itemWithUser2**: `object`
 
-Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/9935a8cf0f771c82088feb50b94ea5b709eb4cdd/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L72)
+Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:84](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L84)
 
 ## Type Declaration
 
 ### assignedAt
 
 > **assignedAt**: `Date`
-
-### assignee
-
-> **assignee**: `object`
-
-#### assignee.avatarURL
-
-> **avatarURL**: `any` = `null`
-
-#### assignee.emailAddress
-
-> **emailAddress**: `string` = `'jane@example.com'`
-
-#### assignee.id
-
-> **id**: `string` = `'userId2'`
-
-#### assignee.name
-
-> **name**: `string` = `'Jane Doe'`
-
-### assigneeId
-
-> **assigneeId**: `string` = `'userId2'`
 
 ### category
 
@@ -134,6 +110,14 @@ Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:72]
 
 > **preCompletionNotes**: `string` = `'Notes 2'`
 
+### recurringEventInstance
+
+> **recurringEventInstance**: `any` = `null`
+
+### recurringEventInstanceId
+
+> **recurringEventInstanceId**: `any` = `null`
+
 ### updatedAt
 
 > **updatedAt**: `Date`
@@ -141,3 +125,51 @@ Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:72]
 ### updaterId
 
 > **updaterId**: `string` = `'userId'`
+
+### volunteer
+
+> **volunteer**: `object`
+
+#### volunteer.hasAccepted
+
+> **hasAccepted**: `boolean` = `true`
+
+#### volunteer.hoursVolunteered
+
+> **hoursVolunteered**: `number` = `5`
+
+#### volunteer.id
+
+> **id**: `string` = `'volunteerUserId2'`
+
+#### volunteer.isPublic
+
+> **isPublic**: `boolean` = `true`
+
+#### volunteer.user
+
+> **user**: `object`
+
+#### volunteer.user.avatarURL
+
+> **avatarURL**: `any` = `null`
+
+#### volunteer.user.id
+
+> **id**: `string` = `'userId2'`
+
+#### volunteer.user.name
+
+> **name**: `string` = `'Jane Doe'`
+
+### volunteerGroup
+
+> **volunteerGroup**: `any` = `null`
+
+### volunteerGroupId
+
+> **volunteerGroupId**: `any` = `null`
+
+### volunteerId
+
+> **volunteerId**: `string` = `'volunteerUserId2'`

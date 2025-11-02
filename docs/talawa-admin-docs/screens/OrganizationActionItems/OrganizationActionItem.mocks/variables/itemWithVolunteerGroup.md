@@ -2,11 +2,11 @@
 
 ***
 
-# Variable: itemWithoutAssignee
+# Variable: itemWithVolunteerGroup
 
-> `const` **itemWithoutAssignee**: `object`
+> `const` **itemWithVolunteerGroup**: `object`
 
-Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:112](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L112)
+Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:184](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L184)
 
 ## Type Declaration
 
@@ -92,7 +92,7 @@ Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:112
 
 ### id
 
-> **id**: `string` = `'3'`
+> **id**: `string` = `'6'`
 
 ### isCompleted
 
@@ -108,7 +108,7 @@ Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:112
 
 ### preCompletionNotes
 
-> **preCompletionNotes**: `string` = `'Notes 3'`
+> **preCompletionNotes**: `string` = `'Group task'`
 
 ### recurringEventInstance
 
@@ -132,11 +132,47 @@ Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:112
 
 ### volunteerGroup
 
-> **volunteerGroup**: `any` = `null`
+> **volunteerGroup**: `object`
+
+#### volunteerGroup.description
+
+> **description**: `string` = `'Helps with community outreach'`
+
+#### volunteerGroup.id
+
+> **id**: `string` = `'volunteerGroupId1'`
+
+#### volunteerGroup.leader
+
+> **leader**: `object`
+
+#### volunteerGroup.leader.avatarURL
+
+> **avatarURL**: `any` = `null`
+
+#### volunteerGroup.leader.id
+
+> **id**: `string` = `'leaderId1'`
+
+#### volunteerGroup.leader.name
+
+> **name**: `string` = `'Casey GroupLeader'`
+
+#### volunteerGroup.name
+
+> **name**: `string` = `'Community Helpers'`
+
+#### volunteerGroup.volunteers
+
+> **volunteers**: `object`[]
+
+#### volunteerGroup.volunteersRequired
+
+> **volunteersRequired**: `number` = `3`
 
 ### volunteerGroupId
 
-> **volunteerGroupId**: `any` = `null`
+> **volunteerGroupId**: `string` = `'volunteerGroupId1'`
 
 ### volunteerId
 

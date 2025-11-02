@@ -215,7 +215,6 @@
 - [screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal](screens/OrganizationActionItems/ActionItemUpdateModal/ActionItemUpdateStatusModal/README.md)
 - [screens/OrganizationActionItems/ActionItemViewModal/ActionItemViewModal](screens/OrganizationActionItems/ActionItemViewModal/ActionItemViewModal/README.md)
 - [screens/OrganizationActionItems/OrganizationActionItem.mocks](screens/OrganizationActionItems/OrganizationActionItem.mocks/README.md)
-- [screens/OrganizationActionItems/OrganizationActionItems](screens/OrganizationActionItems/OrganizationActionItems/README.md)
 - [screens/OrganizationDashboard/components/DashboardStats](screens/OrganizationDashboard/components/DashboardStats/README.md)
 - [screens/OrganizationDashboard/components/MembershipRequestsCard](screens/OrganizationDashboard/components/MembershipRequestsCard/README.md)
 - [screens/OrganizationDashboard/components/RecentPostsCard](screens/OrganizationDashboard/components/RecentPostsCard/README.md)
