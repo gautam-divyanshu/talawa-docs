@@ -6,7 +6,7 @@
 
 > `const` **mockFormState2**: `object`
 
-Defined in: [components/AgendaItems/AgendaItemsMocks.ts:238](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/components/AgendaItems/AgendaItemsMocks.ts#L238)
+Defined in: [components/AgendaItems/AgendaItemsMocks.ts:238](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/components/AgendaItems/AgendaItemsMocks.ts#L238)
 
 ## Type Declaration
 

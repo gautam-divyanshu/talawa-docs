@@ -4,7 +4,7 @@
 
 # Interface: ILeftDrawerProps
 
-Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L51)
+Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L51)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:51](https://github.com/P
 
 > **hideDrawer**: `boolean`
 
-Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L54)
+Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L54)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:54](https://github.com/P
 
 > **orgId**: `string`
 
-Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L52)
+Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L52)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:52](https://github.com/P
 
 > **setHideDrawer**: `Dispatch`\<`SetStateAction`\<`boolean`\>\>
 
-Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L55)
+Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L55)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:55](https://github.com/P
 
 > **targets**: `TargetsType`[]
 
-Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/202480b0b96e069a81703a1a7fda72755531898d/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L53)
+Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L53)

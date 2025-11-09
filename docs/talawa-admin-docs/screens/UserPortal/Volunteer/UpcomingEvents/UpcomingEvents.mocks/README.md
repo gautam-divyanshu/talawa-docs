@@ -6,6 +6,8 @@
 
 ## Variables
 
+- [baseEvent](variables/baseEvent.md)
+- [baseRecurringEvent](variables/baseRecurringEvent.md)
 - [CREATE\_ERROR\_MOCKS](variables/CREATE_ERROR_MOCKS.md)
 - [EMPTY\_MOCKS](variables/EMPTY_MOCKS.md)
 - [ERROR\_MOCKS](variables/ERROR_MOCKS.md)
