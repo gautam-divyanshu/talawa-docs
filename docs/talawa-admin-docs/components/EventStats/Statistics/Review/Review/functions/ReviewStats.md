@@ -6,7 +6,7 @@
 
 > **ReviewStats**(`__namedParameters`): `Element`
 
-Defined in: [components/EventStats/Statistics/Review/Review.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/components/EventStats/Statistics/Review/Review.tsx#L40)
+Defined in: [components/EventStats/Statistics/Review/Review.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/66a3ff2873fa57a9d8becf3288d47fddf6db5569/src/components/EventStats/Statistics/Review/Review.tsx#L40)
 
 ## Parameters
 

@@ -6,7 +6,7 @@
 
 > `const` **checkInMutationSuccess**: `object`[]
 
-Defined in: [components/CheckIn/CheckInMocks.ts:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/components/CheckIn/CheckInMocks.ts#L63)
+Defined in: [components/CheckIn/CheckInMocks.ts:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/66a3ff2873fa57a9d8becf3288d47fddf6db5569/src/components/CheckIn/CheckInMocks.ts#L63)
 
 ## Type Declaration
 

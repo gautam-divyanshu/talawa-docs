@@ -6,4 +6,4 @@
 
 > `const` **default**: `FC`\<`IProfileHeaderProps`\>
 
-Defined in: [screens/UserPortal/Settings/ProfileHeader/ProfileHeader.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/screens/UserPortal/Settings/ProfileHeader/ProfileHeader.tsx#L28)
+Defined in: [screens/UserPortal/Settings/ProfileHeader/ProfileHeader.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/66a3ff2873fa57a9d8becf3288d47fddf6db5569/src/screens/UserPortal/Settings/ProfileHeader/ProfileHeader.tsx#L28)

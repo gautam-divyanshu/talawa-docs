@@ -7,5 +7,6 @@
 ## Variables
 
 - [checkInMutationSuccess](variables/checkInMutationSuccess.md)
+- [checkInMutationSuccessRecurring](variables/checkInMutationSuccessRecurring.md)
 - [checkInMutationUnsuccess](variables/checkInMutationUnsuccess.md)
 - [checkInQueryMock](variables/checkInQueryMock.md)

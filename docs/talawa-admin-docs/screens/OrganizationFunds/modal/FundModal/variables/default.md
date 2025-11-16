@@ -6,7 +6,7 @@
 
 > `const` **default**: `React.FC`\<[`InterfaceFundModal`](../interfaces/InterfaceFundModal.md)\>
 
-Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:69](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/screens/OrganizationFunds/modal/FundModal.tsx#L69)
+Defined in: [screens/OrganizationFunds/modal/FundModal.tsx:69](https://github.com/PalisadoesFoundation/talawa-admin/blob/66a3ff2873fa57a9d8becf3288d47fddf6db5569/src/screens/OrganizationFunds/modal/FundModal.tsx#L69)
 
 `FundModal` component provides a modal dialog for creating or editing a fund.
 It allows users to input fund details and submit them to the server.

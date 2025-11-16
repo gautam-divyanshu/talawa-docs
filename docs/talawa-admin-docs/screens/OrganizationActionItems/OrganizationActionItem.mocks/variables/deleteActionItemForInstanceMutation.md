@@ -1,0 +1,51 @@
+[**talawa-admin**](../../../../README.md)
+
+***
+
+# Variable: deleteActionItemForInstanceMutation
+
+> `const` **deleteActionItemForInstanceMutation**: `object`
+
+Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:418](https://github.com/PalisadoesFoundation/talawa-admin/blob/66a3ff2873fa57a9d8becf3288d47fddf6db5569/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L418)
+
+## Type Declaration
+
+### request
+
+> **request**: `object`
+
+#### request.query
+
+> **query**: `DocumentNode` = `DELETE_ACTION_ITEM_FOR_INSTANCE`
+
+#### request.variables
+
+> **variables**: `object`
+
+#### request.variables.input
+
+> **input**: `object`
+
+#### request.variables.input.actionId
+
+> **actionId**: `string` = `'actionItemId1'`
+
+#### request.variables.input.eventId
+
+> **eventId**: `string` = `'event123'`
+
+### result
+
+> **result**: `object`
+
+#### result.data
+
+> **data**: `object`
+
+#### result.data.deleteActionItemForInstance
+
+> **deleteActionItemForInstance**: `object`
+
+#### result.data.deleteActionItemForInstance.id
+
+> **id**: `string` = `'actionItemId1'`

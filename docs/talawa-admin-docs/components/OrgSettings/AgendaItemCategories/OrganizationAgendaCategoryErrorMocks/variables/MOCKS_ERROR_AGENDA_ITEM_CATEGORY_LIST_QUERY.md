@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_ERROR\_AGENDA\_ITEM\_CATEGORY\_LIST\_QUERY**: `object`[]
 
-Defined in: [components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts#L5)
+Defined in: [components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/66a3ff2873fa57a9d8becf3288d47fddf6db5569/src/components/OrgSettings/AgendaItemCategories/OrganizationAgendaCategoryErrorMocks.ts#L5)
 
 ## Type Declaration
 

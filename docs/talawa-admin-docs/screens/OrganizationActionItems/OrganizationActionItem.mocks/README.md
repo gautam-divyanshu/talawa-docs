@@ -14,6 +14,8 @@
 - [baseActionItem](variables/baseActionItem.md)
 - [completeActionForInstanceMutation](variables/completeActionForInstanceMutation.md)
 - [completeActionForInstanceMutationError](variables/completeActionForInstanceMutationError.md)
+- [deleteActionItemForInstanceMutation](variables/deleteActionItemForInstanceMutation.md)
+- [deleteActionItemForInstanceMutationError](variables/deleteActionItemForInstanceMutationError.md)
 - [deleteActionItemMutation](variables/deleteActionItemMutation.md)
 - [deleteActionItemMutationError](variables/deleteActionItemMutationError.md)
 - [itemWithEmptyAssigneeName](variables/itemWithEmptyAssigneeName.md)

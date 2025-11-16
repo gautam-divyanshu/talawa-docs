@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_NULL\_ANCESTOR\_TAGS**: `object`[]
 
-Defined in: [screens/ManageTag/ManageTagNullFalsyMocks.ts:105](https://github.com/PalisadoesFoundation/talawa-admin/blob/7798a0540df6521cd967c1e2a127aea4c5130d2c/src/screens/ManageTag/ManageTagNullFalsyMocks.ts#L105)
+Defined in: [screens/ManageTag/ManageTagNullFalsyMocks.ts:105](https://github.com/PalisadoesFoundation/talawa-admin/blob/66a3ff2873fa57a9d8becf3288d47fddf6db5569/src/screens/ManageTag/ManageTagNullFalsyMocks.ts#L105)
 
 ## Type Declaration
 
