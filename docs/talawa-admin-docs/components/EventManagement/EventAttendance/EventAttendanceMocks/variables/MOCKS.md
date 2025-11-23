@@ -6,7 +6,7 @@
 
 > `const` **MOCKS**: `object`[]
 
-Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/66a3ff2873fa57a9d8becf3288d47fddf6db5569/src/components/EventManagement/EventAttendance/EventAttendanceMocks.ts#L48)
+Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/49ce575065c70f4a5c596ec387ff668de116de6f/src/components/EventManagement/EventAttendance/EventAttendanceMocks.ts#L48)
 
 ## Type Declaration
 
@@ -40,4 +40,4 @@ Defined in: [components/EventManagement/EventAttendance/EventAttendanceMocks.ts:
 
 #### result.data.event.attendees
 
-> **attendees**: `object`[]
+> **attendees**: (\{ `avatarURL`: `any`; `birthDate`: `any`; `createdAt`: `string`; `emailAddress`: `string`; `eventsAttended`: `object`[]; `id`: `string`; `name`: `string`; `natalSex`: `any`; `role`: `string`; `tagsAssignedWith?`: `undefined`; \} \| \{ `avatarURL`: `any`; `birthDate`: `any`; `createdAt`: `string`; `emailAddress`: `string`; `eventsAttended`: `any`; `id`: `string`; `name`: `string`; `natalSex`: `any`; `role`: `string`; `tagsAssignedWith`: \{ `edges`: `object`[]; \}; \})[]

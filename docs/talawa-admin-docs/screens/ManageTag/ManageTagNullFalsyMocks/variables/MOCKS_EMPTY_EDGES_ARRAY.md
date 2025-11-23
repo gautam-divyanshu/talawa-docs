@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_EMPTY\_EDGES\_ARRAY**: `object`[] = `MOCKS_EMPTY_ASSIGNED_MEMBERS_ARRAY`
 
-Defined in: [screens/ManageTag/ManageTagNullFalsyMocks.ts:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/66a3ff2873fa57a9d8becf3288d47fddf6db5569/src/screens/ManageTag/ManageTagNullFalsyMocks.ts#L70)
+Defined in: [screens/ManageTag/ManageTagNullFalsyMocks.ts:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/49ce575065c70f4a5c596ec387ff668de116de6f/src/screens/ManageTag/ManageTagNullFalsyMocks.ts#L70)
 
 ## Type Declaration
 
