@@ -6,7 +6,7 @@
 
 > **eventAttendeeCreatedAtResolver**(`parent`, `_args`, `ctx`): `Promise`\<`Date`\>
 
-Defined in: [src/graphql/types/EventAttendee/createdAt.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/EventAttendee/createdAt.ts#L9)
+Defined in: [src/graphql/types/EventAttendee/createdAt.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/EventAttendee/createdAt.ts#L9)
 
 ## Parameters
 
@@ -14,11 +14,11 @@ Defined in: [src/graphql/types/EventAttendee/createdAt.ts:9](https://github.com/
 
 #### checkinTime
 
-`Date`
+`Date` \| `null`
 
 #### checkoutTime
 
-`Date`
+`Date` \| `null`
 
 #### createdAt
 
@@ -26,7 +26,7 @@ Defined in: [src/graphql/types/EventAttendee/createdAt.ts:9](https://github.com/
 
 #### eventId
 
-`string`
+`string` \| `null`
 
 #### feedbackSubmitted
 
@@ -54,11 +54,11 @@ Defined in: [src/graphql/types/EventAttendee/createdAt.ts:9](https://github.com/
 
 #### recurringEventInstanceId
 
-`string`
+`string` \| `null`
 
 #### updatedAt
 
-`Date`
+`Date` \| `null`
 
 #### userId
 

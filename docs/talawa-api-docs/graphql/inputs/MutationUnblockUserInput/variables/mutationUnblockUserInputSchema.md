@@ -4,6 +4,6 @@
 
 # Variable: mutationUnblockUserInputSchema
 
-> `const` **mutationUnblockUserInputSchema**: `ZodEffects`\<`ZodObject`\<`Pick`\<\{\[`key`: `string`\]: `any`; \}, `any`\>, `"strip"`, `ZodTypeAny`, \{\[`key`: `string`\]: `any`; \}, \{\[`key`: `string`\]: `any`; \}\>, \{\[`key`: `string`\]: `any`; \}, \{\[`key`: `string`\]: `any`; \}\>
+> `const` **mutationUnblockUserInputSchema**: `ZodEffects`\<`ZodObject`\<`Pick`\<\{ `createdAt`: `ZodOptional`\<`ZodDate`\>; `id`: `ZodOptional`\<`ZodString`\>; `organizationId`: `ZodString`; `userId`: `ZodString`; \}, `"userId"` \| `"organizationId"`\>, `"strip"`, `ZodTypeAny`, \{ `organizationId`: `string`; `userId`: `string`; \}, \{ `organizationId`: `string`; `userId`: `string`; \}\>, \{ `organizationId`: `string`; `userId`: `string`; \}, \{ `organizationId`: `string`; `userId`: `string`; \}\>
 
-Defined in: [src/graphql/inputs/MutationUnblockUserInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/inputs/MutationUnblockUserInput.ts#L5)
+Defined in: [src/graphql/inputs/MutationUnblockUserInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/inputs/MutationUnblockUserInput.ts#L5)

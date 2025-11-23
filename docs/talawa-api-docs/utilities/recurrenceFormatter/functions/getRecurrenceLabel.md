@@ -6,7 +6,7 @@
 
 > **getRecurrenceLabel**(`rule`): `string`
 
-Defined in: [src/utilities/recurrenceFormatter.ts:221](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/utilities/recurrenceFormatter.ts#L221)
+Defined in: [src/utilities/recurrenceFormatter.ts:221](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/utilities/recurrenceFormatter.ts#L221)
 
 Gets a short recurrence label suitable for UI buttons or compact displays.
 
@@ -29,19 +29,19 @@ The recurrence rule from the database
 
 #### byDay
 
-`string`[]
+`string`[] \| `null`
 
 #### byMonth
 
-`number`[]
+`number`[] \| `null`
 
 #### byMonthDay
 
-`number`[]
+`number`[] \| `null`
 
 #### count
 
-`number`
+`number` \| `null`
 
 #### createdAt
 
@@ -73,11 +73,11 @@ The recurrence rule from the database
 
 #### originalSeriesId
 
-`string`
+`string` \| `null`
 
 #### recurrenceEndDate
 
-`Date`
+`Date` \| `null`
 
 #### recurrenceRuleString
 
@@ -89,11 +89,11 @@ The recurrence rule from the database
 
 #### updatedAt
 
-`Date`
+`Date` \| `null`
 
 #### updaterId
 
-`string`
+`string` \| `null`
 
 ## Returns
 

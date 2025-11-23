@@ -6,7 +6,7 @@
 
 > **validateRecurrenceRule**(`recurrenceRule`): `boolean`
 
-Defined in: [src/services/eventGeneration/occurrenceCalculator.ts:489](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/eventGeneration/occurrenceCalculator.ts#L489)
+Defined in: [src/services/eventGeneration/occurrenceCalculator.ts:498](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/services/eventGeneration/occurrenceCalculator.ts#L498)
 
 Validates the configuration of a recurrence rule to ensure it has a valid frequency
 and a positive interval.
@@ -23,19 +23,19 @@ The recurrence rule to validate.
 
 #### byDay
 
-`string`[]
+`string`[] \| `null`
 
 #### byMonth
 
-`number`[]
+`number`[] \| `null`
 
 #### byMonthDay
 
-`number`[]
+`number`[] \| `null`
 
 #### count
 
-`number`
+`number` \| `null`
 
 #### createdAt
 
@@ -67,11 +67,11 @@ The recurrence rule to validate.
 
 #### originalSeriesId
 
-`string`
+`string` \| `null`
 
 #### recurrenceEndDate
 
-`Date`
+`Date` \| `null`
 
 #### recurrenceRuleString
 
@@ -83,11 +83,11 @@ The recurrence rule to validate.
 
 #### updatedAt
 
-`Date`
+`Date` \| `null`
 
 #### updaterId
 
-`string`
+`string` \| `null`
 
 ## Returns
 

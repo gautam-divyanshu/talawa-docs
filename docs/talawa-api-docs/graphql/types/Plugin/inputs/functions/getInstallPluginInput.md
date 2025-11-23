@@ -6,7 +6,7 @@
 
 > **getInstallPluginInput**(): `object`
 
-Defined in: [src/graphql/types/Plugin/inputs.ts:135](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Plugin/inputs.ts#L135)
+Defined in: [src/graphql/types/Plugin/inputs.ts:135](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Plugin/inputs.ts#L135)
 
 ## Returns
 
@@ -14,8 +14,8 @@ Defined in: [src/graphql/types/Plugin/inputs.ts:135](https://github.com/Palisado
 
 ### schema
 
-> **schema**: `ZodObject`\<\{ `pluginId`: `ZodString`; \}, `"strip"`, `ZodTypeAny`, \{ `pluginId?`: `string`; \}, \{ `pluginId?`: `string`; \}\> = `installPluginInputSchema`
+> **schema**: `ZodObject`\<\{ `pluginId`: `ZodString`; \}, `"strip"`, `ZodTypeAny`, \{ `pluginId`: `string`; \}, \{ `pluginId`: `string`; \}\> = `installPluginInputSchema`
 
 ### type
 
-> **type**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `pluginId?`: `string`; \}\> = `InstallPluginInput`
+> **type**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `pluginId`: `string`; \}\> = `InstallPluginInput`

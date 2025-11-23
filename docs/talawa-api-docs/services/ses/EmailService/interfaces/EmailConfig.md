@@ -4,7 +4,7 @@
 
 # Interface: EmailConfig
 
-Defined in: [src/services/ses/EmailService.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L4)
+Defined in: [src/services/ses/EmailService.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/services/ses/EmailService.ts#L4)
 
 Email configuration interface
 
@@ -14,7 +14,7 @@ Email configuration interface
 
 > **fromEmail**: `string`
 
-Defined in: [src/services/ses/EmailService.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L6)
+Defined in: [src/services/ses/EmailService.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/services/ses/EmailService.ts#L6)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/services/ses/EmailService.ts:6](https://github.com/PalisadoesFo
 
 > `optional` **fromName**: `string`
 
-Defined in: [src/services/ses/EmailService.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L7)
+Defined in: [src/services/ses/EmailService.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/services/ses/EmailService.ts#L7)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/services/ses/EmailService.ts:7](https://github.com/PalisadoesFo
 
 > **region**: `string`
 
-Defined in: [src/services/ses/EmailService.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/ses/EmailService.ts#L5)
+Defined in: [src/services/ses/EmailService.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/services/ses/EmailService.ts#L5)

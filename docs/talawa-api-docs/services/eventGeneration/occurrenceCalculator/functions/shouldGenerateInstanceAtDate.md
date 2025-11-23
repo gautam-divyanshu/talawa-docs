@@ -6,7 +6,7 @@
 
 > **shouldGenerateInstanceAtDate**(`date`, `recurrenceRule`, `startDate`): `boolean`
 
-Defined in: [src/services/eventGeneration/occurrenceCalculator.ts:253](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/services/eventGeneration/occurrenceCalculator.ts#L253)
+Defined in: [src/services/eventGeneration/occurrenceCalculator.ts:262](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/services/eventGeneration/occurrenceCalculator.ts#L262)
 
 Determines whether a recurring event instance should be generated on a specific date,
 based on the recurrence rule and its frequency-specific constraints.
@@ -29,19 +29,19 @@ The recurrence rule to apply.
 
 #### byDay
 
-`string`[]
+`string`[] \| `null`
 
 #### byMonth
 
-`number`[]
+`number`[] \| `null`
 
 #### byMonthDay
 
-`number`[]
+`number`[] \| `null`
 
 #### count
 
-`number`
+`number` \| `null`
 
 #### createdAt
 
@@ -73,11 +73,11 @@ The recurrence rule to apply.
 
 #### originalSeriesId
 
-`string`
+`string` \| `null`
 
 #### recurrenceEndDate
 
-`Date`
+`Date` \| `null`
 
 #### recurrenceRuleString
 
@@ -89,11 +89,11 @@ The recurrence rule to apply.
 
 #### updatedAt
 
-`Date`
+`Date` \| `null`
 
 #### updaterId
 
-`string`
+`string` \| `null`
 
 ### startDate
 

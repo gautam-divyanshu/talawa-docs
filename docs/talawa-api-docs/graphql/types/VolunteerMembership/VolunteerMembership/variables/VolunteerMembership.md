@@ -4,8 +4,8 @@
 
 # Variable: VolunteerMembership
 
-> **VolunteerMembership**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `createdAt`: `Date`; `createdBy`: `string`; `eventId`: `string`; `groupId`: `string`; `id`: `string`; `status`: `"rejected"` \| `"invited"` \| `"requested"` \| `"accepted"`; `updatedAt`: `Date`; `updatedBy`: `string`; `volunteerId`: `string`; \}, \{ `createdAt`: `Date`; `createdBy`: `string`; `eventId`: `string`; `groupId`: `string`; `id`: `string`; `status`: `"rejected"` \| `"invited"` \| `"requested"` \| `"accepted"`; `updatedAt`: `Date`; `updatedBy`: `string`; `volunteerId`: `string`; \}\>
+> **VolunteerMembership**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `createdAt`: `Date`; `createdBy`: `string` \| `null`; `eventId`: `string`; `groupId`: `string` \| `null`; `id`: `string`; `status`: `"rejected"` \| `"invited"` \| `"requested"` \| `"accepted"`; `updatedAt`: `Date` \| `null`; `updatedBy`: `string` \| `null`; `volunteerId`: `string`; \}, \{ `createdAt`: `Date`; `createdBy`: `string` \| `null`; `eventId`: `string`; `groupId`: `string` \| `null`; `id`: `string`; `status`: `"rejected"` \| `"invited"` \| `"requested"` \| `"accepted"`; `updatedAt`: `Date` \| `null`; `updatedBy`: `string` \| `null`; `volunteerId`: `string`; \}\>
 
-Defined in: [src/graphql/types/VolunteerMembership/VolunteerMembership.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/VolunteerMembership/VolunteerMembership.ts#L4)
+Defined in: [src/graphql/types/VolunteerMembership/VolunteerMembership.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/VolunteerMembership/VolunteerMembership.ts#L4)
 
 GraphQL object reference for VolunteerMembership.

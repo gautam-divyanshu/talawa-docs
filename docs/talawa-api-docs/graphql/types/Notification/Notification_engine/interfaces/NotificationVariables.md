@@ -4,10 +4,10 @@
 
 # Interface: NotificationVariables
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Notification/Notification_engine.ts#L30)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Notification/Notification_engine.ts#L30)
 
 Interface for notification variables
 
 ## Indexable
 
-\[`key`: `string`\]: `string` \| `number` \| `boolean`
+\[`key`: `string`\]: `string` \| `number` \| `boolean` \| `null` \| `undefined`

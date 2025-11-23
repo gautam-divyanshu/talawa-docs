@@ -6,7 +6,7 @@
 
 > **VolunteerMembershipCreatedAtResolver**(`parent`, `_args`, `ctx`): `Promise`\<`Date`\>
 
-Defined in: [src/graphql/types/EventVolunteerMembership/createdAt.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/EventVolunteerMembership/createdAt.ts#L7)
+Defined in: [src/graphql/types/EventVolunteerMembership/createdAt.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/EventVolunteerMembership/createdAt.ts#L7)
 
 ## Parameters
 
@@ -18,7 +18,7 @@ Defined in: [src/graphql/types/EventVolunteerMembership/createdAt.ts:7](https://
 
 #### createdBy
 
-`string`
+`string` \| `null`
 
 #### eventId
 
@@ -26,7 +26,7 @@ Defined in: [src/graphql/types/EventVolunteerMembership/createdAt.ts:7](https://
 
 #### groupId
 
-`string`
+`string` \| `null`
 
 #### id
 
@@ -38,11 +38,11 @@ Defined in: [src/graphql/types/EventVolunteerMembership/createdAt.ts:7](https://
 
 #### updatedAt
 
-`Date`
+`Date` \| `null`
 
 #### updatedBy
 
-`string`
+`string` \| `null`
 
 #### volunteerId
 

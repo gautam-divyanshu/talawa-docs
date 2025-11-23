@@ -6,7 +6,7 @@
 
 > **getPluginsResolver**(`_`, `args`, `ctx`): `Promise`\<`object`[]\>
 
-Defined in: [src/graphql/types/Query/plugins.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Query/plugins.ts#L50)
+Defined in: [src/graphql/types/Query/plugins.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Query/plugins.ts#L50)
 
 Resolver for getPlugins
 
@@ -20,19 +20,7 @@ Resolver for getPlugins
 
 #### input?
 
-\{ `isActivated?`: `boolean`; `isInstalled?`: `boolean`; `pluginId?`: `string`; \}
-
-#### input.isActivated?
-
-`boolean`
-
-#### input.isInstalled?
-
-`boolean`
-
-#### input.pluginId?
-
-`string`
+\{ `isActivated?`: `boolean` \| `null`; `isInstalled?`: `boolean` \| `null`; `pluginId?`: `string` \| `null`; \} \| `null`
 
 ### ctx
 

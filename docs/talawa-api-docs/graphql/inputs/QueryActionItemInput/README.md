@@ -8,5 +8,7 @@
 
 - [QueryActionItemsByOrganizationInput](variables/QueryActionItemsByOrganizationInput.md)
 - [queryActionItemsByOrgInputSchema](variables/queryActionItemsByOrgInputSchema.md)
-- [QueryActionItemsByUserInput](variables/QueryActionItemsByUserInput.md)
-- [queryActionItemsByUserInputSchema](variables/queryActionItemsByUserInputSchema.md)
+- [QueryActionItemsByVolunteerGroupInput](variables/QueryActionItemsByVolunteerGroupInput.md)
+- [queryActionItemsByVolunteerGroupInputSchema](variables/queryActionItemsByVolunteerGroupInputSchema.md)
+- [QueryActionItemsByVolunteerInput](variables/QueryActionItemsByVolunteerInput.md)
+- [queryActionItemsByVolunteerInputSchema](variables/queryActionItemsByVolunteerInputSchema.md)

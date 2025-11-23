@@ -6,7 +6,7 @@
 
 > **applyRecurrenceOverrides**(`newStartAt`, `originalRecurrence`, `inputRecurrence?`): `object`
 
-Defined in: [src/utilities/recurringEventHelpers.ts:340](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/utilities/recurringEventHelpers.ts#L340)
+Defined in: [src/utilities/recurringEventHelpers.ts:340](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/utilities/recurringEventHelpers.ts#L340)
 
 Applies calendar-style override logic for recurring event updates.
 This function implements the following rules:
@@ -19,9 +19,9 @@ This function implements the following rules:
 
 ### newStartAt
 
-`Date`
-
 The new start time for the event (if provided)
+
+`Date` | `undefined`
 
 ### originalRecurrence
 
@@ -53,7 +53,7 @@ The recurrence input from the user (if provided)
 
 `Date` = `...`
 
-#### frequency?
+#### frequency
 
 `"DAILY"` \| `"WEEKLY"` \| `"MONTHLY"` \| `"YEARLY"` = `recurrenceFrequencyEnum`
 
@@ -91,9 +91,9 @@ The updated recurrence configuration with proper overrides applied
 
 > `optional` **endDate**: `Date`
 
-### frequency?
+### frequency
 
-> `optional` **frequency**: `"DAILY"` \| `"WEEKLY"` \| `"MONTHLY"` \| `"YEARLY"` = `recurrenceFrequencyEnum`
+> **frequency**: `"DAILY"` \| `"WEEKLY"` \| `"MONTHLY"` \| `"YEARLY"` = `recurrenceFrequencyEnum`
 
 ### interval?
 

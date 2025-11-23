@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/AgendaFolder/items
+
+## Variables
+
+- [itemsArgumentsSchema](variables/itemsArgumentsSchema.md)

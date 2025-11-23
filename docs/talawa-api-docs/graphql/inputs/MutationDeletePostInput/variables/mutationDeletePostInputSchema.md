@@ -4,6 +4,6 @@
 
 # Variable: mutationDeletePostInputSchema
 
-> `const` **mutationDeletePostInputSchema**: `ZodObject`\<\{ `id`: `any`; \}, `"strip"`, `ZodTypeAny`, \{\[`key`: `string`\]: `any`; `id?`: `unknown`; \}, \{\[`key`: `string`\]: `any`; `id?`: `unknown`; \}\>
+> `const` **mutationDeletePostInputSchema**: `ZodObject`\<\{ `id`: `ZodString`; \}, `"strip"`, `ZodTypeAny`, \{ `id`: `string`; \}, \{ `id`: `string`; \}\>
 
-Defined in: [src/graphql/inputs/MutationDeletePostInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/inputs/MutationDeletePostInput.ts#L5)
+Defined in: [src/graphql/inputs/MutationDeletePostInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/inputs/MutationDeletePostInput.ts#L5)

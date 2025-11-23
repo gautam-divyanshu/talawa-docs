@@ -6,7 +6,7 @@
 
 > **isCountBasedEvent**(`rule`): `boolean`
 
-Defined in: [src/utilities/recurringEventHelpers.ts:284](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/utilities/recurringEventHelpers.ts#L284)
+Defined in: [src/utilities/recurringEventHelpers.ts:284](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/utilities/recurringEventHelpers.ts#L284)
 
 Determines if a recurrence rule is count-based.
 A count-based event is defined by a `count` of occurrences and does not have an `endDate`.
@@ -23,19 +23,19 @@ The recurrence rule to check.
 
 #### byDay
 
-`string`[]
+`string`[] \| `null`
 
 #### byMonth
 
-`number`[]
+`number`[] \| `null`
 
 #### byMonthDay
 
-`number`[]
+`number`[] \| `null`
 
 #### count
 
-`number`
+`number` \| `null`
 
 #### createdAt
 
@@ -67,11 +67,11 @@ The recurrence rule to check.
 
 #### originalSeriesId
 
-`string`
+`string` \| `null`
 
 #### recurrenceEndDate
 
-`Date`
+`Date` \| `null`
 
 #### recurrenceRuleString
 
@@ -83,11 +83,11 @@ The recurrence rule to check.
 
 #### updatedAt
 
-`Date`
+`Date` \| `null`
 
 #### updaterId
 
-`string`
+`string` \| `null`
 
 ## Returns
 

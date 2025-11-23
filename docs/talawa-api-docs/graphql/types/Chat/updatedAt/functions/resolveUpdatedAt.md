@@ -4,9 +4,9 @@
 
 # Function: resolveUpdatedAt()
 
-> **resolveUpdatedAt**(`parent`, `_args`, `ctx`): `Promise`\<`Date`\>
+> **resolveUpdatedAt**(`parent`, `_args`, `ctx`): `Promise`\<`Date` \| `null`\>
 
-Defined in: [src/graphql/types/Chat/updatedAt.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Chat/updatedAt.ts#L8)
+Defined in: [src/graphql/types/Chat/updatedAt.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Chat/updatedAt.ts#L8)
 
 ## Parameters
 
@@ -14,11 +14,11 @@ Defined in: [src/graphql/types/Chat/updatedAt.ts:8](https://github.com/Palisadoe
 
 #### avatarMimeType
 
-`"image/avif"` \| `"image/jpeg"` \| `"image/png"` \| `"image/webp"`
+`"image/avif"` \| `"image/jpeg"` \| `"image/png"` \| `"image/webp"` \| `null`
 
 #### avatarName
 
-`string`
+`string` \| `null`
 
 #### createdAt
 
@@ -26,11 +26,11 @@ Defined in: [src/graphql/types/Chat/updatedAt.ts:8](https://github.com/Palisadoe
 
 #### creatorId
 
-`string`
+`string` \| `null`
 
 #### description
 
-`string`
+`string` \| `null`
 
 #### id
 
@@ -46,11 +46,11 @@ Defined in: [src/graphql/types/Chat/updatedAt.ts:8](https://github.com/Palisadoe
 
 #### updatedAt
 
-`Date`
+`Date` \| `null`
 
 #### updaterId
 
-`string`
+`string` \| `null`
 
 ### \_args
 
@@ -62,4 +62,4 @@ Defined in: [src/graphql/types/Chat/updatedAt.ts:8](https://github.com/Palisadoe
 
 ## Returns
 
-`Promise`\<`Date`\>
+`Promise`\<`Date` \| `null`\>

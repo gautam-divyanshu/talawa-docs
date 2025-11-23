@@ -4,6 +4,6 @@
 
 # Variable: mutationUpdatePostVoteInputSchema
 
-> `const` **mutationUpdatePostVoteInputSchema**: `ZodObject`\<`Pick`\<\{ \}, `never`\>, `"strip"`, `ZodTypeAny`, \{ \}, \{ \}\>
+> `const` **mutationUpdatePostVoteInputSchema**: `ZodObject`\<`object` & `object`, `"strip"`, `ZodTypeAny`, \{ `postId`: `string`; `type`: `"down_vote"` \| `"up_vote"` \| `null`; \}, \{ `postId`: `string`; `type`: `"down_vote"` \| `"up_vote"` \| `null`; \}\>
 
-Defined in: [src/graphql/inputs/MutationUpdatePostVoteInput.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/inputs/MutationUpdatePostVoteInput.ts#L6)
+Defined in: [src/graphql/inputs/MutationUpdatePostVoteInput.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/inputs/MutationUpdatePostVoteInput.ts#L6)

@@ -174,9 +174,21 @@ Re-exports [ResourceUsage](eventGeneration/types/interfaces/ResourceUsage.md)
 
 ***
 
+### runCleanupWorkerSafely
+
+Re-exports [runCleanupWorkerSafely](backgroundWorkerService/functions/runCleanupWorkerSafely.md)
+
+***
+
 ### runMaterializationWorker
 
 Re-exports [runMaterializationWorker](eventGeneration/eventGenerationPipeline/functions/runMaterializationWorker.md)
+
+***
+
+### runMaterializationWorkerSafely
+
+Re-exports [runMaterializationWorkerSafely](backgroundWorkerService/functions/runMaterializationWorkerSafely.md)
 
 ***
 

@@ -8,6 +8,8 @@
 
 - [getBackgroundWorkerStatus](functions/getBackgroundWorkerStatus.md)
 - [healthCheck](functions/healthCheck.md)
+- [runCleanupWorkerSafely](functions/runCleanupWorkerSafely.md)
+- [runMaterializationWorkerSafely](functions/runMaterializationWorkerSafely.md)
 - [startBackgroundWorkers](functions/startBackgroundWorkers.md)
 - [stopBackgroundWorkers](functions/stopBackgroundWorkers.md)
 - [triggerCleanupWorker](functions/triggerCleanupWorker.md)

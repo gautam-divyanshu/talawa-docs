@@ -6,7 +6,7 @@
 
 > **validateRecurrenceRule**(`rule`): `object`
 
-Defined in: [src/utilities/recurringEventHelpers.ts:477](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/utilities/recurringEventHelpers.ts#L477)
+Defined in: [src/utilities/recurringEventHelpers.ts:477](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/utilities/recurringEventHelpers.ts#L477)
 
 Validates a recurrence rule from the database to ensure its configuration is valid.
 This function checks for the presence of a valid frequency, ensures that the interval
@@ -25,19 +25,19 @@ The recurrence rule to validate.
 
 #### byDay
 
-`string`[]
+`string`[] \| `null`
 
 #### byMonth
 
-`number`[]
+`number`[] \| `null`
 
 #### byMonthDay
 
-`number`[]
+`number`[] \| `null`
 
 #### count
 
-`number`
+`number` \| `null`
 
 #### createdAt
 
@@ -69,11 +69,11 @@ The recurrence rule to validate.
 
 #### originalSeriesId
 
-`string`
+`string` \| `null`
 
 #### recurrenceEndDate
 
-`Date`
+`Date` \| `null`
 
 #### recurrenceRuleString
 
@@ -85,11 +85,11 @@ The recurrence rule to validate.
 
 #### updatedAt
 
-`Date`
+`Date` \| `null`
 
 #### updaterId
 
-`string`
+`string` \| `null`
 
 ## Returns
 

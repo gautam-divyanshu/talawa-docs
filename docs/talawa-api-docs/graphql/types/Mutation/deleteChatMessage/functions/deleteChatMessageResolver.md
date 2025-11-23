@@ -4,9 +4,9 @@
 
 # Function: deleteChatMessageResolver()
 
-> **deleteChatMessageResolver**(`_parent`, `args`, `ctx`): `Promise`\<\{ `body`: `string`; `chatId`: `string`; `createdAt`: `Date`; `creatorId`: `string`; `id`: `string`; `parentMessageId`: `string`; `updatedAt`: `Date`; \}\>
+> **deleteChatMessageResolver**(`_parent`, `args`, `ctx`): `Promise`\<\{ `body`: `string`; `chatId`: `string`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `id`: `string`; `parentMessageId`: `string` \| `null`; `updatedAt`: `Date` \| `null`; \}\>
 
-Defined in: [src/graphql/types/Mutation/deleteChatMessage.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Mutation/deleteChatMessage.ts#L23)
+Defined in: [src/graphql/types/Mutation/deleteChatMessage.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Mutation/deleteChatMessage.ts#L23)
 
 ## Parameters
 
@@ -16,13 +16,13 @@ Defined in: [src/graphql/types/Mutation/deleteChatMessage.ts:23](https://github.
 
 ### args
 
-#### input?
+#### input
 
-\{\[`key`: `string`\]: `any`; `id?`: `unknown`; \} = `mutationDeleteChatMessageInputSchema`
+\{ `id`: `string`; \} = `mutationDeleteChatMessageInputSchema`
 
-#### input.id?
+#### input.id
 
-`unknown` = `...`
+`string` = `...`
 
 ### ctx
 
@@ -30,4 +30,4 @@ Defined in: [src/graphql/types/Mutation/deleteChatMessage.ts:23](https://github.
 
 ## Returns
 
-`Promise`\<\{ `body`: `string`; `chatId`: `string`; `createdAt`: `Date`; `creatorId`: `string`; `id`: `string`; `parentMessageId`: `string`; `updatedAt`: `Date`; \}\>
+`Promise`\<\{ `body`: `string`; `chatId`: `string`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `id`: `string`; `parentMessageId`: `string` \| `null`; `updatedAt`: `Date` \| `null`; \}\>

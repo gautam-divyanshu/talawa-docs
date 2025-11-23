@@ -4,6 +4,6 @@
 
 # Variable: Tag
 
-> **Tag**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `createdAt`: `Date`; `creatorId`: `string`; `folderId`: `string`; `id`: `string`; `name`: `string`; `organizationId`: `string`; `updatedAt`: `Date`; `updaterId`: `string`; \}, \{ `createdAt`: `Date`; `creatorId`: `string`; `folderId`: `string`; `id`: `string`; `name`: `string`; `organizationId`: `string`; `updatedAt`: `Date`; `updaterId`: `string`; \}\>
+> **Tag**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `createdAt`: `Date`; `creatorId`: `string` \| `null`; `folderId`: `string` \| `null`; `id`: `string`; `name`: `string`; `organizationId`: `string`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; \}, \{ `createdAt`: `Date`; `creatorId`: `string` \| `null`; `folderId`: `string` \| `null`; `id`: `string`; `name`: `string`; `organizationId`: `string`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; \}\>
 
-Defined in: [src/graphql/types/Tag/Tag.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Tag/Tag.ts#L4)
+Defined in: [src/graphql/types/Tag/Tag.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Tag/Tag.ts#L4)

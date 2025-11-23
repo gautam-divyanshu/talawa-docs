@@ -4,6 +4,6 @@
 
 # Variable: mutationUpdateCommentInputSchema
 
-> `const` **mutationUpdateCommentInputSchema**: `ZodEffects`\<`ZodObject`\<\{ `body`: `ZodOptional`\<`ZodArray`\<ZodArray\<ZodArray\<ZodArray\<ZodArray\<ZodArray\<ZodArray\<ZodArray\<ZodArray\<ZodArray\<ZodArray\<ZodArray\<..., "many"\>, "many"\>, "many"\>, "many"\>, "many"\>, "many"\>, "many"\>, "many"\>, "many"\>, "many"\>, "many"\>, `"many"`\>\>; `id`: `any`; \}, `"strip"`, `ZodTypeAny`, \{\[`key`: `string`\]: `any`; `body?`: `unknown`; `id?`: `unknown`; \}, \{\[`key`: `string`\]: `any`; `body?`: `unknown`; `id?`: `unknown`; \}\>, \{\[`key`: `string`\]: `any`; `body?`: `unknown`; `id?`: `unknown`; \}, \{\[`key`: `string`\]: `any`; `body?`: `unknown`; `id?`: `unknown`; \}\>
+> `const` **mutationUpdateCommentInputSchema**: `ZodEffects`\<`ZodObject`\<\{ `body`: `ZodOptional`\<`ZodString`\>; `id`: `ZodString`; \}, `"strip"`, `ZodTypeAny`, \{ `body?`: `string`; `id`: `string`; \}, \{ `body?`: `string`; `id`: `string`; \}\>, \{ `body?`: `string`; `id`: `string`; \}, \{ `body?`: `string`; `id`: `string`; \}\>
 
-Defined in: [src/graphql/inputs/MutationUpdateCommentInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/inputs/MutationUpdateCommentInput.ts#L5)
+Defined in: [src/graphql/inputs/MutationUpdateCommentInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/inputs/MutationUpdateCommentInput.ts#L5)

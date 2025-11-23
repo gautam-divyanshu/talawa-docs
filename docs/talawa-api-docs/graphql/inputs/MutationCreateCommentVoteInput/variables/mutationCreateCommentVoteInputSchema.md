@@ -4,6 +4,6 @@
 
 # Variable: mutationCreateCommentVoteInputSchema
 
-> `const` **mutationCreateCommentVoteInputSchema**: `ZodObject`\<`Pick`\<\{ \}, `never`\>, `"strip"`, `ZodTypeAny`, \{ \}, \{ \}\>
+> `const` **mutationCreateCommentVoteInputSchema**: `ZodObject`\<`Pick`\<\{ `commentId`: `ZodString`; `createdAt`: `ZodOptional`\<`ZodDate`\>; `creatorId`: `ZodOptional`\<`ZodNullable`\<`ZodString`\>\>; `id`: `ZodOptional`\<`ZodString`\>; `type`: `ZodEnum`\<\[`"down_vote"`, `"up_vote"`\]\>; `updatedAt`: `ZodOptional`\<`ZodNullable`\<`ZodDate`\>\>; \}, `"type"` \| `"commentId"`\>, `"strip"`, `ZodTypeAny`, \{ `commentId`: `string`; `type`: `"down_vote"` \| `"up_vote"`; \}, \{ `commentId`: `string`; `type`: `"down_vote"` \| `"up_vote"`; \}\>
 
-Defined in: [src/graphql/inputs/MutationCreateCommentVoteInput.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/inputs/MutationCreateCommentVoteInput.ts#L6)
+Defined in: [src/graphql/inputs/MutationCreateCommentVoteInput.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/inputs/MutationCreateCommentVoteInput.ts#L6)

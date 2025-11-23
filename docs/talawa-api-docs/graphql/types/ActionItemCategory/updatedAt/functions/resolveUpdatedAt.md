@@ -6,7 +6,7 @@
 
 > **resolveUpdatedAt**(`parent`, `_args`, `ctx`): `Promise`\<`Date`\>
 
-Defined in: [src/graphql/types/ActionItemCategory/updatedAt.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/ActionItemCategory/updatedAt.ts#L7)
+Defined in: [src/graphql/types/ActionItemCategory/updatedAt.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/ActionItemCategory/updatedAt.ts#L7)
 
 ## Parameters
 
@@ -18,11 +18,11 @@ Defined in: [src/graphql/types/ActionItemCategory/updatedAt.ts:7](https://github
 
 #### creatorId
 
-`string`
+`string` \| `null`
 
 #### description
 
-`string`
+`string` \| `null`
 
 #### id
 
@@ -42,11 +42,11 @@ Defined in: [src/graphql/types/ActionItemCategory/updatedAt.ts:7](https://github
 
 #### updatedAt
 
-`Date`
+`Date` \| `null`
 
 #### updaterId
 
-`string`
+`string` \| `null`
 
 ### \_args
 

@@ -6,7 +6,7 @@
 
 > **normalizeRecurrenceRule**(`rule`): `object`
 
-Defined in: [src/utilities/recurringEventHelpers.ts:138](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/utilities/recurringEventHelpers.ts#L138)
+Defined in: [src/utilities/recurringEventHelpers.ts:138](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/utilities/recurringEventHelpers.ts#L138)
 
 Normalizes a recurrence rule by converting a `count`-based rule to an `endDate`-based one.
 This allows for uniform processing of events that have a defined end, whether specified
@@ -25,19 +25,19 @@ The recurrence rule from the database.
 
 #### byDay
 
-`string`[]
+`string`[] \| `null`
 
 #### byMonth
 
-`number`[]
+`number`[] \| `null`
 
 #### byMonthDay
 
-`number`[]
+`number`[] \| `null`
 
 #### count
 
-`number`
+`number` \| `null`
 
 #### createdAt
 
@@ -69,11 +69,11 @@ The recurrence rule from the database.
 
 #### originalSeriesId
 
-`string`
+`string` \| `null`
 
 #### recurrenceEndDate
 
-`Date`
+`Date` \| `null`
 
 #### recurrenceRuleString
 
@@ -85,11 +85,11 @@ The recurrence rule from the database.
 
 #### updatedAt
 
-`Date`
+`Date` \| `null`
 
 #### updaterId
 
-`string`
+`string` \| `null`
 
 ## Returns
 
@@ -103,19 +103,19 @@ A normalized recurrence rule, where `count` has been converted to `recurrenceEnd
 
 ### byDay
 
-> **byDay**: `string`[]
+> **byDay**: `string`[] \| `null`
 
 ### byMonth
 
-> **byMonth**: `number`[]
+> **byMonth**: `number`[] \| `null`
 
 ### byMonthDay
 
-> **byMonthDay**: `number`[]
+> **byMonthDay**: `number`[] \| `null`
 
 ### count
 
-> **count**: `number`
+> **count**: `number` \| `null`
 
 ### createdAt
 
@@ -147,11 +147,11 @@ A normalized recurrence rule, where `count` has been converted to `recurrenceEnd
 
 ### originalSeriesId
 
-> **originalSeriesId**: `string`
+> **originalSeriesId**: `string` \| `null`
 
 ### recurrenceEndDate
 
-> **recurrenceEndDate**: `Date`
+> **recurrenceEndDate**: `Date` \| `null`
 
 ### recurrenceRuleString
 
@@ -163,8 +163,8 @@ A normalized recurrence rule, where `count` has been converted to `recurrenceEnd
 
 ### updatedAt
 
-> **updatedAt**: `Date`
+> **updatedAt**: `Date` \| `null`
 
 ### updaterId
 
-> **updaterId**: `string`
+> **updaterId**: `string` \| `null`

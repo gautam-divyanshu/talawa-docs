@@ -4,6 +4,6 @@
 
 # Variable: mutationCreateChatMembershipInputSchema
 
-> `const` **mutationCreateChatMembershipInputSchema**: `ZodObject`\<`Pick`\<\{ \}, `never`\> & `object`, `"strip"`, `ZodTypeAny`, \{\[`key`: `string`\]: `any`; `role?`: `unknown`; \}, \{\[`key`: `string`\]: `any`; `role?`: `unknown`; \}\>
+> `const` **mutationCreateChatMembershipInputSchema**: `ZodObject`\<`Pick`\<\{ `chatId`: `ZodString`; `createdAt`: `ZodOptional`\<`ZodDate`\>; `creatorId`: `ZodOptional`\<`ZodNullable`\<`ZodString`\>\>; `lastReadAt`: `ZodOptional`\<`ZodNullable`\<`ZodDate`\>\>; `memberId`: `ZodString`; `role`: `ZodEnum`\<\[`"administrator"`, `"regular"`\]\>; `updatedAt`: `ZodOptional`\<`ZodNullable`\<`ZodDate`\>\>; `updaterId`: `ZodOptional`\<`ZodNullable`\<`ZodString`\>\>; \}, `"chatId"` \| `"memberId"`\> & `object`, `"strip"`, `ZodTypeAny`, \{ `chatId`: `string`; `memberId`: `string`; `role?`: `"administrator"` \| `"regular"`; \}, \{ `chatId`: `string`; `memberId`: `string`; `role?`: `"administrator"` \| `"regular"`; \}\>
 
-Defined in: [src/graphql/inputs/MutationCreateChatMembershipInput.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/inputs/MutationCreateChatMembershipInput.ts#L6)
+Defined in: [src/graphql/inputs/MutationCreateChatMembershipInput.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/inputs/MutationCreateChatMembershipInput.ts#L6)

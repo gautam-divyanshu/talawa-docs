@@ -6,5 +6,4 @@
 
 ## Variables
 
-- [MembershipRequestStatusEnum](variables/MembershipRequestStatusEnum.md)
 - [MembershipRequestStatusValues](variables/MembershipRequestStatusValues.md)

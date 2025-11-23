@@ -4,6 +4,6 @@
 
 # Variable: Comment
 
-> **Comment**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `body`: `string`; `createdAt`: `Date`; `creatorId`: `string`; `id`: `string`; `postId`: `string`; `updatedAt`: `Date`; \}, \{ `body`: `string`; `createdAt`: `Date`; `creatorId`: `string`; `id`: `string`; `postId`: `string`; `updatedAt`: `Date`; \}\>
+> **Comment**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `body`: `string`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `id`: `string`; `postId`: `string`; `updatedAt`: `Date` \| `null`; \}, \{ `body`: `string`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `id`: `string`; `postId`: `string`; `updatedAt`: `Date` \| `null`; \}\>
 
-Defined in: [src/graphql/types/Comment/Comment.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Comment/Comment.ts#L4)
+Defined in: [src/graphql/types/Comment/Comment.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Comment/Comment.ts#L4)

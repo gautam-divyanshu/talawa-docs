@@ -18,12 +18,6 @@ Re-exports [actionItemUpdatedAtResolver](updatedAt/functions/actionItemUpdatedAt
 
 ***
 
-### resolveAssignee
-
-Re-exports [resolveAssignee](assignee/functions/resolveAssignee.md)
-
-***
-
 ### resolveCategory
 
 Re-exports [resolveCategory](actionItemCategory/functions/resolveCategory.md)
@@ -51,3 +45,15 @@ Re-exports [resolveOrganization](organization/functions/resolveOrganization.md)
 ### resolveUpdater
 
 Re-exports [resolveUpdater](updater/functions/resolveUpdater.md)
+
+***
+
+### resolveVolunteer
+
+Re-exports [resolveVolunteer](eventVolunteersAndGroups/functions/resolveVolunteer.md)
+
+***
+
+### resolveVolunteerGroup
+
+Re-exports [resolveVolunteerGroup](eventVolunteersAndGroups/functions/resolveVolunteerGroup.md)

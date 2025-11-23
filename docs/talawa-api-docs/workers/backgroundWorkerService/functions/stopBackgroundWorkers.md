@@ -6,7 +6,7 @@
 
 > **stopBackgroundWorkers**(`logger`): `Promise`\<`void`\>
 
-Defined in: [src/workers/backgroundWorkerService.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/workers/backgroundWorkerService.ts#L75)
+Defined in: [src/workers/backgroundWorkerService.ts:78](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/workers/backgroundWorkerService.ts#L78)
 
 Stops all running background workers and releases any associated resources.
 

@@ -6,4 +6,4 @@
 
 > `const` **notificationEventBus**: [`NotificationEventBus`](../classes/NotificationEventBus.md)
 
-Defined in: [src/graphql/types/Notification/EventBus/eventBus.ts:430](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/graphql/types/Notification/EventBus/eventBus.ts#L430)
+Defined in: [src/graphql/types/Notification/EventBus/eventBus.ts:430](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Notification/EventBus/eventBus.ts#L430)

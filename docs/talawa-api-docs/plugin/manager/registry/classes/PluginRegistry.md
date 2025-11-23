@@ -4,7 +4,7 @@
 
 # Class: PluginRegistry
 
-Defined in: [src/plugin/manager/registry.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/plugin/manager/registry.ts#L13)
+Defined in: [src/plugin/manager/registry.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/plugin/manager/registry.ts#L13)
 
 ## Constructors
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/manager/registry.ts:13](https://github.com/PalisadoesFou
 
 > **new PluginRegistry**(`pluginContext`): `PluginRegistry`
 
-Defined in: [src/plugin/manager/registry.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/plugin/manager/registry.ts#L14)
+Defined in: [src/plugin/manager/registry.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/plugin/manager/registry.ts#L14)
 
 #### Parameters
 
@@ -28,9 +28,9 @@ Defined in: [src/plugin/manager/registry.ts:14](https://github.com/PalisadoesFou
 
 ### getPluginFromDatabase()
 
-> **getPluginFromDatabase**(`pluginId`): `Promise`\<\{ `backup`: `boolean`; `createdAt`: `Date`; `id`: `string`; `isActivated`: `boolean`; `isInstalled`: `boolean`; `pluginId`: `string`; `updatedAt`: `Date`; \}\>
+> **getPluginFromDatabase**(`pluginId`): `Promise`\<\{ `backup`: `boolean`; `createdAt`: `Date`; `id`: `string`; `isActivated`: `boolean`; `isInstalled`: `boolean`; `pluginId`: `string`; `updatedAt`: `Date` \| `null`; \} \| `null`\>
 
-Defined in: [src/plugin/manager/registry.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/plugin/manager/registry.ts#L19)
+Defined in: [src/plugin/manager/registry.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/plugin/manager/registry.ts#L19)
 
 Get plugin from database
 
@@ -42,7 +42,7 @@ Get plugin from database
 
 #### Returns
 
-`Promise`\<\{ `backup`: `boolean`; `createdAt`: `Date`; `id`: `string`; `isActivated`: `boolean`; `isInstalled`: `boolean`; `pluginId`: `string`; `updatedAt`: `Date`; \}\>
+`Promise`\<\{ `backup`: `boolean`; `createdAt`: `Date`; `id`: `string`; `isActivated`: `boolean`; `isInstalled`: `boolean`; `pluginId`: `string`; `updatedAt`: `Date` \| `null`; \} \| `null`\>
 
 ***
 
@@ -50,7 +50,7 @@ Get plugin from database
 
 > **updatePluginInDatabase**(`pluginId`, `updates`): `Promise`\<`void`\>
 
-Defined in: [src/plugin/manager/registry.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/plugin/manager/registry.ts#L40)
+Defined in: [src/plugin/manager/registry.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/plugin/manager/registry.ts#L40)
 
 Update plugin in database
 

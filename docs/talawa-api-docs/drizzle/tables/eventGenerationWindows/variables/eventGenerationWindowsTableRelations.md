@@ -6,4 +6,4 @@
 
 > `const` **eventGenerationWindowsTableRelations**: `Relations`\<`"event_generation_windows"`, \{ `createdBy`: `One`\<`"users"`, `true`\>; `lastUpdatedBy`: `One`\<`"users"`, `false`\>; `organization`: `One`\<`"organizations"`, `true`\>; \}\>
 
-Defined in: [src/drizzle/tables/eventGenerationWindows.ts:199](https://github.com/PalisadoesFoundation/talawa-api/blob/b1cda9d27e687af9cb4781360219969632134078/src/drizzle/tables/eventGenerationWindows.ts#L199)
+Defined in: [src/drizzle/tables/eventGenerationWindows.ts:199](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/drizzle/tables/eventGenerationWindows.ts#L199)

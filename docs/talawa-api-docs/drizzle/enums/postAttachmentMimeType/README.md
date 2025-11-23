@@ -6,6 +6,5 @@
 
 ## Variables
 
-- [graphqlMimeTypeEnum](variables/graphqlMimeTypeEnum.md)
 - [mimeTypeMapping](variables/mimeTypeMapping.md)
 - [postAttachmentMimeTypeEnum](variables/postAttachmentMimeTypeEnum.md)

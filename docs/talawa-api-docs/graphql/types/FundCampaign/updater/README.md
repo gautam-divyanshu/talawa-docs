@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/FundCampaign/updater
+
+## Functions
+
+- [updaterResolver](functions/updaterResolver.md)
