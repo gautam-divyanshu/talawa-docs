@@ -4,6 +4,6 @@
 
 # Variable: default
 
-> `const` **default**: `React.FC`\<`UploadPluginModalProps`\>
+> `const` **default**: `React.FC`\<`IUploadPluginModalProps`\>
 
-Defined in: [screens/PluginStore/UploadPluginModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/49ce575065c70f4a5c596ec387ff668de116de6f/src/screens/PluginStore/UploadPluginModal.tsx#L23)
+Defined in: [screens/PluginStore/UploadPluginModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/PluginStore/UploadPluginModal.tsx#L27)

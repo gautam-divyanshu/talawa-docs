@@ -6,7 +6,7 @@
 
 > **buildAssignedUsers**(`overrides?`): `object`
 
-Defined in: [screens/ManageTag/ManageTagMockUtils.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/49ce575065c70f4a5c596ec387ff668de116de6f/src/screens/ManageTag/ManageTagMockUtils.ts#L4)
+Defined in: [screens/ManageTag/ManageTagMockUtils.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/ManageTag/ManageTagMockUtils.ts#L4)
 
 ## Parameters
 
@@ -17,6 +17,10 @@ Defined in: [screens/ManageTag/ManageTagMockUtils.ts:4](https://github.com/Palis
 ## Returns
 
 `object`
+
+### \_\_typename
+
+> **\_\_typename**: `string` = `'UserTag'`
 
 ### ancestorTags
 
@@ -30,6 +34,10 @@ Defined in: [screens/ManageTag/ManageTagMockUtils.ts:4](https://github.com/Palis
 
 > **usersAssignedTo**: `object`
 
+#### usersAssignedTo.\_\_typename
+
+> **\_\_typename**: `string` = `'UserTagUsersAssignedToConnection'`
+
 #### usersAssignedTo.edges
 
 > **edges**: `object`[]
@@ -37,6 +45,10 @@ Defined in: [screens/ManageTag/ManageTagMockUtils.ts:4](https://github.com/Palis
 #### usersAssignedTo.pageInfo
 
 > **pageInfo**: `object`
+
+#### usersAssignedTo.pageInfo.\_\_typename
+
+> **\_\_typename**: `string` = `'PageInfo'`
 
 #### usersAssignedTo.pageInfo.endCursor
 

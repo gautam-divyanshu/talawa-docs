@@ -60,7 +60,7 @@ subComponents/SortingButton
 
 ## Requires
 
-subComponents/SearchBar
+shared-components/SearchBar/SearchBar
 
 ## Requires
 

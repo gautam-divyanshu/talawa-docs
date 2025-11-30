@@ -4,6 +4,6 @@
 
 # Variable: MOCKS\_NO\_MORE\_PAGES
 
-> `const` **MOCKS\_NO\_MORE\_PAGES**: (\{ `error?`: `undefined`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `id`: `string`; `input?`: `undefined`; `sortedBy`: \{ `id`: `string`; \}; `where`: \{ `name`: \{ `starts_with`: `string`; \}; \}; \}; \}; `result`: \{ `data`: \{ `organizations`: `object`[]; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `id?`: `undefined`; `input`: \{ `id`: `string`; \}; `sortedBy`: \{ `id`: `string`; \}; `where`: \{ `name`: \{ `starts_with`: `string`; \}; \}; \}; \}; `result?`: `undefined`; \})[]
+> `const` **MOCKS\_NO\_MORE\_PAGES**: (`ListMock` \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `name`: `string`; `organizationId`: `string`; \}; \}; `result`: \{ `data`: \{ `createUserTag`: \{ `_id`: `string`; \}; \}; \}; \})[] = `MOCK_RESPONSES.DEFAULT`
 
-Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:477](https://github.com/PalisadoesFoundation/talawa-admin/blob/49ce575065c70f4a5c596ec387ff668de116de6f/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L477)
+Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:317](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L317)

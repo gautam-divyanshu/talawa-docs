@@ -4,9 +4,15 @@
 
 # Function: default()
 
-> **default**(): `Element`
+> **default**(`__namedParameters`): `Element`
 
-Defined in: [components/ProfileCard/ProfileCard.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/49ce575065c70f4a5c596ec387ff668de116de6f/src/components/ProfileCard/ProfileCard.tsx#L49)
+Defined in: [components/ProfileCard/ProfileCard.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/components/ProfileCard/ProfileCard.tsx#L54)
+
+## Parameters
+
+### \_\_namedParameters
+
+`InterfaceProfileCardProps`
 
 ## Returns
 

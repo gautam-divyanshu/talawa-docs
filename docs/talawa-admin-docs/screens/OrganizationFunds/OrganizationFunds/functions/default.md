@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/OrganizationFunds/OrganizationFunds.tsx:94](https://github.com/PalisadoesFoundation/talawa-admin/blob/49ce575065c70f4a5c596ec387ff668de116de6f/src/screens/OrganizationFunds/OrganizationFunds.tsx#L94)
+Defined in: [screens/OrganizationFunds/OrganizationFunds.tsx:93](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrganizationFunds/OrganizationFunds.tsx#L93)
 
 `organizationFunds` component displays a list of funds for a specific organization,
 allowing users to search, sort, view and edit funds.

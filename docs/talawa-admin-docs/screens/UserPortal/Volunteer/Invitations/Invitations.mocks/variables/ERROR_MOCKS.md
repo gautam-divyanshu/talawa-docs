@@ -6,4 +6,4 @@
 
 > `const` **ERROR\_MOCKS**: (\{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `id?`: `undefined`; `status?`: `undefined`; `where`: \{ `status`: `string`; `userId`: `string`; \}; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `id`: `string`; `status`: `string`; `where?`: `undefined`; \}; \}; \})[]
 
-Defined in: [screens/UserPortal/Volunteer/Invitations/Invitations.mocks.ts:289](https://github.com/PalisadoesFoundation/talawa-admin/blob/49ce575065c70f4a5c596ec387ff668de116de6f/src/screens/UserPortal/Volunteer/Invitations/Invitations.mocks.ts#L289)
+Defined in: [screens/UserPortal/Volunteer/Invitations/Invitations.mocks.ts:273](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/UserPortal/Volunteer/Invitations/Invitations.mocks.ts#L273)

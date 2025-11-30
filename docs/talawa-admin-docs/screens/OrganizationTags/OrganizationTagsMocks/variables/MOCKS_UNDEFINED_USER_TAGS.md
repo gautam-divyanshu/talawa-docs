@@ -4,9 +4,9 @@
 
 # Variable: MOCKS\_UNDEFINED\_USER\_TAGS
 
-> `const` **MOCKS\_UNDEFINED\_USER\_TAGS**: `object`[]
+> `const` **MOCKS\_UNDEFINED\_USER\_TAGS**: `object`[] = `MOCK_RESPONSES.UNDEFINED_USER_TAGS`
 
-Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:376](https://github.com/PalisadoesFoundation/talawa-admin/blob/49ce575065c70f4a5c596ec387ff668de116de6f/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L376)
+Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:315](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L315)
 
 ## Type Declaration
 

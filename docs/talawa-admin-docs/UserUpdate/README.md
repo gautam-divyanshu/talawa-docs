@@ -65,4 +65,10 @@ react-toastify - For displaying success and error notifications.
 
 ## Variables
 
-- [default](variables/default.md)
+- [UserUpdate](variables/UserUpdate.md)
+
+## References
+
+### default
+
+Renames and re-exports [UserUpdate](variables/UserUpdate.md)
