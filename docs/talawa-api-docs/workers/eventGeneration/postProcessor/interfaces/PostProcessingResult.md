@@ -4,7 +4,7 @@
 
 # Interface: PostProcessingResult
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/workers/eventGeneration/postProcessor.ts#L14)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/workers/eventGeneration/postProcessor.ts#L14)
 
 ## Description
 
@@ -16,7 +16,7 @@ Represents the result of post-processing operations, including whether cleanup w
 
 > **cleanupPerformed**: `boolean`
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/workers/eventGeneration/postProcessor.ts#L15)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/workers/eventGeneration/postProcessor.ts#L15)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/workers/eventGeneration/postProcessor.ts:15](https://github.com
 
 > **errors**: `string`[]
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/workers/eventGeneration/postProcessor.ts#L16)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/workers/eventGeneration/postProcessor.ts#L16)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [src/workers/eventGeneration/postProcessor.ts:16](https://github.com
 
 > **windowsUpdated**: `number`
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/workers/eventGeneration/postProcessor.ts#L17)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/workers/eventGeneration/postProcessor.ts#L17)

@@ -6,7 +6,7 @@
 
 > **CreateEventAttendeeInput** = `object`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:225](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/drizzle/tables/eventAttendees.ts#L225)
+Defined in: [src/drizzle/tables/eventAttendees.ts:225](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/drizzle/tables/eventAttendees.ts#L225)
 
 Type for creating a new event attendee record.
 
@@ -16,7 +16,7 @@ Type for creating a new event attendee record.
 
 > `optional` **eventId**: `string`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:227](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/drizzle/tables/eventAttendees.ts#L227)
+Defined in: [src/drizzle/tables/eventAttendees.ts:227](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/drizzle/tables/eventAttendees.ts#L227)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/drizzle/tables/eventAttendees.ts:227](https://github.com/Palisa
 
 > `optional` **isInvited**: `boolean`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:229](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/drizzle/tables/eventAttendees.ts#L229)
+Defined in: [src/drizzle/tables/eventAttendees.ts:229](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/drizzle/tables/eventAttendees.ts#L229)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/drizzle/tables/eventAttendees.ts:229](https://github.com/Palisa
 
 > `optional` **isRegistered**: `boolean`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:230](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/drizzle/tables/eventAttendees.ts#L230)
+Defined in: [src/drizzle/tables/eventAttendees.ts:230](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/drizzle/tables/eventAttendees.ts#L230)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/drizzle/tables/eventAttendees.ts:230](https://github.com/Palisa
 
 > `optional` **recurringEventInstanceId**: `string`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:228](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/drizzle/tables/eventAttendees.ts#L228)
+Defined in: [src/drizzle/tables/eventAttendees.ts:228](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/drizzle/tables/eventAttendees.ts#L228)
 
 ***
 
@@ -48,4 +48,4 @@ Defined in: [src/drizzle/tables/eventAttendees.ts:228](https://github.com/Palisa
 
 > **userId**: `string`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:226](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/drizzle/tables/eventAttendees.ts#L226)
+Defined in: [src/drizzle/tables/eventAttendees.ts:226](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/drizzle/tables/eventAttendees.ts#L226)

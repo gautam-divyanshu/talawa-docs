@@ -4,7 +4,7 @@
 
 # Interface: IHookExtension
 
-Defined in: [src/plugin/types.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/plugin/types.ts#L54)
+Defined in: [src/plugin/types.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/plugin/types.ts#L54)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:54](https://github.com/PalisadoesFoundation/tal
 
 > **event**: `string`
 
-Defined in: [src/plugin/types.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/plugin/types.ts#L56)
+Defined in: [src/plugin/types.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/plugin/types.ts#L56)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/plugin/types.ts:56](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **file**: `string`
 
-Defined in: [src/plugin/types.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/plugin/types.ts#L58)
+Defined in: [src/plugin/types.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/plugin/types.ts#L58)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/plugin/types.ts:58](https://github.com/PalisadoesFoundation/tal
 
 > **handler**: `string`
 
-Defined in: [src/plugin/types.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/plugin/types.ts#L57)
+Defined in: [src/plugin/types.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/plugin/types.ts#L57)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/plugin/types.ts:57](https://github.com/PalisadoesFoundation/tal
 
 > **type**: `"post"` \| `"pre"`
 
-Defined in: [src/plugin/types.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/plugin/types.ts#L55)
+Defined in: [src/plugin/types.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/plugin/types.ts#L55)

@@ -4,7 +4,7 @@
 
 # Class: NotificationEngine
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Notification/Notification_engine.ts#L45)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/graphql/types/Notification/Notification_engine.ts#L45)
 
 NotificationEngine class for managing notifications across the application
 
@@ -14,7 +14,7 @@ NotificationEngine class for managing notifications across the application
 
 > **new NotificationEngine**(`ctx`): `NotificationEngine`
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Notification/Notification_engine.ts#L53)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/graphql/types/Notification/Notification_engine.ts#L53)
 
 Creates a new instance of NotificationEngine
 
@@ -36,7 +36,7 @@ GraphQL context containing database connections and user info
 
 > **createNotification**(`eventType`, `variables`, `audience`, `channelType`): `Promise`\<`string`\>
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:66](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/types/Notification/Notification_engine.ts#L66)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:66](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/graphql/types/Notification/Notification_engine.ts#L66)
 
 Creates a notification using a template and sends it to specified audience
 

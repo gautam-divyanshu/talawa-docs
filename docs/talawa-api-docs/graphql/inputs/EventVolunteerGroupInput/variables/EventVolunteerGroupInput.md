@@ -6,7 +6,7 @@
 
 > `const` **EventVolunteerGroupInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `description?`: `string` \| `null`; `eventId`: `string`; `leaderId`: `string`; `name`: `string`; `recurringEventInstanceId?`: `string` \| `null`; `scope?`: `NonNullable`\<`"ENTIRE_SERIES"` \| `"THIS_INSTANCE_ONLY"` \| `undefined`\> \| `null`; `volunteersRequired?`: `number` \| `null`; `volunteerUserIds?`: `string`[] \| `null`; \}\>
 
-Defined in: [src/graphql/inputs/EventVolunteerGroupInput.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/3cff0028f235a062c461ef9b6aa80f244182c2ef/src/graphql/inputs/EventVolunteerGroupInput.ts#L37)
+Defined in: [src/graphql/inputs/EventVolunteerGroupInput.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/graphql/inputs/EventVolunteerGroupInput.ts#L37)
 
 GraphQL input type for creating an EventVolunteerGroup.
 Matches the old Talawa API EventVolunteerGroupInput structure.
