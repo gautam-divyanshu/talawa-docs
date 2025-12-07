@@ -4,7 +4,7 @@
 
 # Interface: JobDiscoveryConfig
 
-Defined in: [src/workers/eventGeneration/jobDiscovery.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/workers/eventGeneration/jobDiscovery.ts#L15)
+Defined in: [src/workers/eventGeneration/jobDiscovery.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/workers/eventGeneration/jobDiscovery.ts#L15)
 
 ## Description
 
@@ -16,7 +16,7 @@ Configuration for the job discovery process, defining limits and thresholds.
 
 > **lookAheadMonths**: `number`
 
-Defined in: [src/workers/eventGeneration/jobDiscovery.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/workers/eventGeneration/jobDiscovery.ts#L17)
+Defined in: [src/workers/eventGeneration/jobDiscovery.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/workers/eventGeneration/jobDiscovery.ts#L17)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/workers/eventGeneration/jobDiscovery.ts:17](https://github.com/
 
 > **maxOrganizations**: `number`
 
-Defined in: [src/workers/eventGeneration/jobDiscovery.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/workers/eventGeneration/jobDiscovery.ts#L16)
+Defined in: [src/workers/eventGeneration/jobDiscovery.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/workers/eventGeneration/jobDiscovery.ts#L16)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [src/workers/eventGeneration/jobDiscovery.ts:16](https://github.com/
 
 > **priorityThreshold**: `number`
 
-Defined in: [src/workers/eventGeneration/jobDiscovery.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/workers/eventGeneration/jobDiscovery.ts#L18)
+Defined in: [src/workers/eventGeneration/jobDiscovery.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/workers/eventGeneration/jobDiscovery.ts#L18)

@@ -6,4 +6,4 @@
 
 > `const` **chatMessageReadReceiptsRelations**: `Relations`\<`"chat_message_read_receipts"`, \{ `message`: `One`\<`"chat_messages"`, `true`\>; `reader`: `One`\<`"users"`, `true`\>; \}\>
 
-Defined in: [src/drizzle/tables/chatMessageReadReceipts.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/drizzle/tables/chatMessageReadReceipts.ts#L55)
+Defined in: [src/drizzle/tables/chatMessageReadReceipts.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/drizzle/tables/chatMessageReadReceipts.ts#L55)

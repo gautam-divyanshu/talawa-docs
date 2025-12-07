@@ -6,4 +6,4 @@
 
 > `const` **schemaManager**: [`GraphQLSchemaManager`](../classes/GraphQLSchemaManager.md)
 
-Defined in: [src/graphql/schemaManager.ts:261](https://github.com/PalisadoesFoundation/talawa-api/blob/23e0bb700f97fadee92f29a65e8b272e5b164152/src/graphql/schemaManager.ts#L261)
+Defined in: [src/graphql/schemaManager.ts:261](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/schemaManager.ts#L261)

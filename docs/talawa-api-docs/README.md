@@ -686,6 +686,7 @@
 - [graphql/types/User/natalSex](graphql/types/User/natalSex/README.md)
 - [graphql/types/User/naturalLanguageCode](graphql/types/User/naturalLanguageCode/README.md)
 - [graphql/types/User/organizationsWhereMember](graphql/types/User/organizationsWhereMember/README.md)
+- [graphql/types/User/orgsWhereUserIsBlocked](graphql/types/User/orgsWhereUserIsBlocked/README.md)
 - [graphql/types/User/postalCode](graphql/types/User/postalCode/README.md)
 - [graphql/types/User/state](graphql/types/User/state/README.md)
 - [graphql/types/User/updatedAt](graphql/types/User/updatedAt/README.md)
