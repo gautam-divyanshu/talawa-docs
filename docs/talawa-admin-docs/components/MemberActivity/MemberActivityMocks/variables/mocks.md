@@ -6,7 +6,7 @@
 
 > `const` **mocks**: `object`[]
 
-Defined in: [components/MemberActivity/MemberActivityMocks.ts:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/components/MemberActivity/MemberActivityMocks.ts#L51)
+Defined in: [components/MemberActivity/MemberActivityMocks.ts:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/components/MemberActivity/MemberActivityMocks.ts#L51)
 
 ## Type Declaration
 

@@ -4,7 +4,7 @@
 
 # Interface: InterfacePinnedPostCardProps
 
-Defined in: [screens/UserPortal/Posts/PinnedPostCard.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/UserPortal/Posts/PinnedPostCard.tsx#L25)
+Defined in: [screens/UserPortal/Posts/PinnedPostCard.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/UserPortal/Posts/PinnedPostCard.tsx#L25)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/UserPortal/Posts/PinnedPostCard.tsx:25](https://github.com/
 
 > `optional` **data-testid**: `string`
 
-Defined in: [screens/UserPortal/Posts/PinnedPostCard.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/UserPortal/Posts/PinnedPostCard.tsx#L27)
+Defined in: [screens/UserPortal/Posts/PinnedPostCard.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/UserPortal/Posts/PinnedPostCard.tsx#L27)
 
 ***
 
@@ -20,4 +20,4 @@ Defined in: [screens/UserPortal/Posts/PinnedPostCard.tsx:27](https://github.com/
 
 > **post**: `InterfacePostCard`
 
-Defined in: [screens/UserPortal/Posts/PinnedPostCard.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/UserPortal/Posts/PinnedPostCard.tsx#L26)
+Defined in: [screens/UserPortal/Posts/PinnedPostCard.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/UserPortal/Posts/PinnedPostCard.tsx#L26)

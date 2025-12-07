@@ -6,7 +6,7 @@
 
 > **EventStatsWrapper**(`__namedParameters`): `Element`
 
-Defined in: [components/EventStats/EventStatsWrapper.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/components/EventStats/EventStatsWrapper.tsx#L38)
+Defined in: [components/EventStats/EventStatsWrapper.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/components/EventStats/EventStatsWrapper.tsx#L38)
 
 ## Parameters
 

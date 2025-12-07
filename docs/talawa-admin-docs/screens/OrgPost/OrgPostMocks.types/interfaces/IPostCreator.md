@@ -4,7 +4,7 @@
 
 # Interface: IPostCreator
 
-Defined in: [screens/OrgPost/OrgPostMocks.types.ts:1](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrgPost/OrgPostMocks.types.ts#L1)
+Defined in: [screens/OrgPost/OrgPostMocks.types.ts:1](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/OrgPost/OrgPostMocks.types.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/OrgPost/OrgPostMocks.types.ts:1](https://github.com/Palisad
 
 > `optional` **avatarURL**: `string`
 
-Defined in: [screens/OrgPost/OrgPostMocks.types.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrgPost/OrgPostMocks.types.ts#L6)
+Defined in: [screens/OrgPost/OrgPostMocks.types.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/OrgPost/OrgPostMocks.types.ts#L6)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/OrgPost/OrgPostMocks.types.ts:6](https://github.com/Palisad
 
 > `optional` **emailAddress**: `string`
 
-Defined in: [screens/OrgPost/OrgPostMocks.types.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrgPost/OrgPostMocks.types.ts#L7)
+Defined in: [screens/OrgPost/OrgPostMocks.types.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/OrgPost/OrgPostMocks.types.ts#L7)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [screens/OrgPost/OrgPostMocks.types.ts:7](https://github.com/Palisad
 
 > `optional` **firstName**: `string`
 
-Defined in: [screens/OrgPost/OrgPostMocks.types.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrgPost/OrgPostMocks.types.ts#L3)
+Defined in: [screens/OrgPost/OrgPostMocks.types.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/OrgPost/OrgPostMocks.types.ts#L3)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [screens/OrgPost/OrgPostMocks.types.ts:3](https://github.com/Palisad
 
 > `optional` **id**: `string`
 
-Defined in: [screens/OrgPost/OrgPostMocks.types.ts:2](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrgPost/OrgPostMocks.types.ts#L2)
+Defined in: [screens/OrgPost/OrgPostMocks.types.ts:2](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/OrgPost/OrgPostMocks.types.ts#L2)
 
 ***
 
@@ -44,7 +44,7 @@ Defined in: [screens/OrgPost/OrgPostMocks.types.ts:2](https://github.com/Palisad
 
 > `optional` **lastName**: `string`
 
-Defined in: [screens/OrgPost/OrgPostMocks.types.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrgPost/OrgPostMocks.types.ts#L4)
+Defined in: [screens/OrgPost/OrgPostMocks.types.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/OrgPost/OrgPostMocks.types.ts#L4)
 
 ***
 
@@ -52,4 +52,4 @@ Defined in: [screens/OrgPost/OrgPostMocks.types.ts:4](https://github.com/Palisad
 
 > `optional` **name**: `string`
 
-Defined in: [screens/OrgPost/OrgPostMocks.types.ts:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrgPost/OrgPostMocks.types.ts#L5)
+Defined in: [screens/OrgPost/OrgPostMocks.types.ts:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/OrgPost/OrgPostMocks.types.ts#L5)

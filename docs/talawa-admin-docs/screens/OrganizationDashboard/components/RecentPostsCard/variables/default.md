@@ -6,4 +6,4 @@
 
 > `const` **default**: `React.FC`\<`InterfaceRecentPostsCardProps`\>
 
-Defined in: [screens/OrganizationDashboard/components/RecentPostsCard.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/OrganizationDashboard/components/RecentPostsCard.tsx#L29)
+Defined in: [screens/OrganizationDashboard/components/RecentPostsCard.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/OrganizationDashboard/components/RecentPostsCard.tsx#L29)

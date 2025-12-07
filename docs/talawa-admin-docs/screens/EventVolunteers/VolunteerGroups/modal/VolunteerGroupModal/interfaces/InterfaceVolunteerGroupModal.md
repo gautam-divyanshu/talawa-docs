@@ -4,7 +4,7 @@
 
 # Interface: InterfaceVolunteerGroupModal
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L61)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L61)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.t
 
 > `optional` **baseEvent**: `object`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L71)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L71)
 
 #### id
 
@@ -24,7 +24,7 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.t
 
 > **eventId**: `string`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L64)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:64](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L64)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.t
 
 > **group**: `InterfaceVolunteerGroupInfo`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L66)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L66)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.t
 
 > **hide**: () => `void`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L63)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L63)
 
 #### Returns
 
@@ -52,7 +52,7 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.t
 
 > **isOpen**: `boolean`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:62](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L62)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:62](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L62)
 
 ***
 
@@ -60,7 +60,7 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.t
 
 > `optional` **isRecurring**: `boolean`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L70)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L70)
 
 ***
 
@@ -68,7 +68,7 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.t
 
 > **mode**: `"create"` \| `"edit"`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:68](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L68)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:68](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L68)
 
 ***
 
@@ -76,7 +76,7 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.t
 
 > **orgId**: `string`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L65)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:65](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L65)
 
 ***
 
@@ -84,7 +84,7 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.t
 
 > `optional` **recurringEventInstanceId**: `string`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L72)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L72)
 
 ***
 
@@ -92,7 +92,7 @@ Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.t
 
 > **refetchGroups**: () => `void`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:67](https://github.com/PalisadoesFoundation/talawa-admin/blob/5e2c1fcdf6d126e8b534527cdf2ce6281a7d5d7d/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L67)
+Defined in: [screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx:67](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/EventVolunteers/VolunteerGroups/modal/VolunteerGroupModal.tsx#L67)
 
 #### Returns
 
