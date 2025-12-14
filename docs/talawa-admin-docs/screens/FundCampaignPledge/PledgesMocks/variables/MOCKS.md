@@ -6,4 +6,4 @@
 
 > `const` **MOCKS**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `id`: `string`; \}; \}; `result`: \{ `data`: \{ `organizations`: `object`[]; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `id?`: `undefined`; `pledgeOrderBy`: `string`; `where`: \{ `id`: `string`; \}; \}; \}; `result`: \{ `data`: \{ `getFundraisingCampaigns`: `object`[]; `removeFundraisingCampaignPledge?`: `undefined`; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `id`: `string`; `pledgeOrderBy?`: `undefined`; `where?`: `undefined`; \}; \}; `result`: \{ `data`: \{ `getFundraisingCampaigns?`: `undefined`; `removeFundraisingCampaignPledge`: \{ `__typename`: `string`; `id`: `string`; \}; \}; \}; \})[]
 
-Defined in: [screens/FundCampaignPledge/PledgesMocks.ts:67](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/FundCampaignPledge/PledgesMocks.ts#L67)
+Defined in: [screens/FundCampaignPledge/PledgesMocks.ts:67](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/screens/FundCampaignPledge/PledgesMocks.ts#L67)

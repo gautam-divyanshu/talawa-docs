@@ -6,4 +6,4 @@
 
 > `const` **default**: `FC`\<[`ICategoryViewModalProps`](../interfaces/ICategoryViewModalProps.md)\>
 
-Defined in: [components/OrgSettings/ActionItemCategories/Modal/ActionItemCategoryViewModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/components/OrgSettings/ActionItemCategories/Modal/ActionItemCategoryViewModal.tsx#L19)
+Defined in: [components/OrgSettings/ActionItemCategories/Modal/ActionItemCategoryViewModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/components/OrgSettings/ActionItemCategories/Modal/ActionItemCategoryViewModal.tsx#L19)

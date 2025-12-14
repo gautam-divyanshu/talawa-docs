@@ -217,6 +217,7 @@
 - [screens/OrganizationDashboard/components/UpcomingEventsCard](screens/OrganizationDashboard/components/UpcomingEventsCard/README.md)
 - [screens/OrganizationDashboard/OrganizationDashboard](screens/OrganizationDashboard/OrganizationDashboard/README.md)
 - [screens/OrganizationDashboard/OrganizationDashboardMocks](screens/OrganizationDashboard/OrganizationDashboardMocks/README.md)
+- [screens/OrganizationDashboard/OrganizationDashboardSecondaryMocks](screens/OrganizationDashboard/OrganizationDashboardSecondaryMocks/README.md)
 - [screens/OrganizationEvents/CreateEventModal](screens/OrganizationEvents/CreateEventModal/README.md)
 - [screens/OrganizationEvents/CustomRecurrenceModal](screens/OrganizationEvents/CustomRecurrenceModal/README.md)
 - [screens/OrganizationEvents/OrganizationEvents](screens/OrganizationEvents/OrganizationEvents/README.md)

@@ -6,4 +6,4 @@
 
 > `const` **default**: `React.FC`\<[`InterfaceTagActionsProps`](../interfaces/InterfaceTagActionsProps.md)\>
 
-Defined in: [components/TagActions/TagActions.tsx:73](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/components/TagActions/TagActions.tsx#L73)
+Defined in: [components/TagActions/TagActions.tsx:74](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/components/TagActions/TagActions.tsx#L74)

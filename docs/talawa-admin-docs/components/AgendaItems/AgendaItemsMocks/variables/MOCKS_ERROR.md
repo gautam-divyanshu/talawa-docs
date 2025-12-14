@@ -4,6 +4,6 @@
 
 # Variable: MOCKS\_ERROR
 
-> `const` **MOCKS\_ERROR**: (\{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `input`: \{ `description`: `string`; `title`: `string`; \}; `removeAgendaItemId?`: `undefined`; `updateAgendaItemId`: `string`; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `input?`: `undefined`; `removeAgendaItemId`: `string`; `updateAgendaItemId?`: `undefined`; \}; \}; \})[]
+> `const` **MOCKS\_ERROR**: (\{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `input`: \{ `attachments`: `string`[]; `categories`: `string`[]; `description`: `string`; `duration`: `string`; `title`: `string`; `urls`: `any`[]; \}; `removeAgendaItemId?`: `undefined`; `updateAgendaItemId`: `string`; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `input?`: `undefined`; `removeAgendaItemId`: `string`; `updateAgendaItemId?`: `undefined`; \}; \}; \})[]
 
-Defined in: [components/AgendaItems/AgendaItemsMocks.ts:204](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/components/AgendaItems/AgendaItemsMocks.ts#L204)
+Defined in: [components/AgendaItems/AgendaItemsMocks.ts:216](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/components/AgendaItems/AgendaItemsMocks.ts#L216)

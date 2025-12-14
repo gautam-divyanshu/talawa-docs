@@ -6,7 +6,7 @@
 
 > **useInstallTimer**(`loading`): `string`
 
-Defined in: [screens/PluginStore/hooks/useInstallTimer.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/screens/PluginStore/hooks/useInstallTimer.ts#L8)
+Defined in: [screens/PluginStore/hooks/useInstallTimer.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/screens/PluginStore/hooks/useInstallTimer.ts#L8)
 
 useInstallTimer
 Tracks and formats elapsed time as mm:ss while `loading` is true.

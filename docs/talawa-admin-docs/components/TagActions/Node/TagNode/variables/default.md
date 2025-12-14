@@ -6,6 +6,6 @@
 
 > `const` **default**: `React.FC`\<`InterfaceTagNodeProps`\>
 
-Defined in: [components/TagActions/Node/TagNode.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/9f5bba2437ae06c965a18b22674fa3fd8f2c24bc/src/components/TagActions/Node/TagNode.tsx#L58)
+Defined in: [components/TagActions/Node/TagNode.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/components/TagActions/Node/TagNode.tsx#L58)
 
 Renders the Tags which can be expanded to list subtags.
