@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/Advertisement/updater
+
+## Functions
+
+- [advertisementUpdaterResolver](functions/advertisementUpdaterResolver.md)

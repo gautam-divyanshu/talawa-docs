@@ -4,7 +4,7 @@
 
 # Enumeration: NotificationChannelType
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/types/Notification/Notification_engine.ts#L22)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/Notification/Notification_engine.ts#L22)
 
 Channel types for notification delivery
 
@@ -14,7 +14,7 @@ Channel types for notification delivery
 
 > **EMAIL**: `"email"`
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/types/Notification/Notification_engine.ts#L23)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/Notification/Notification_engine.ts#L23)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [src/graphql/types/Notification/Notification\_engine.ts:23](https://
 
 > **IN\_APP**: `"in_app"`
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/types/Notification/Notification_engine.ts#L24)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/Notification/Notification_engine.ts#L24)

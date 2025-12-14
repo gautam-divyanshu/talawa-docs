@@ -6,4 +6,4 @@
 
 > `const` **QuerySignInInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `emailAddress`: `string`; `password`: `string`; \}\>
 
-Defined in: [src/graphql/inputs/QuerySignInInput.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/inputs/QuerySignInInput.ts#L13)
+Defined in: [src/graphql/inputs/QuerySignInInput.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/inputs/QuerySignInInput.ts#L13)

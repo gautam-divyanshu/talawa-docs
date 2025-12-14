@@ -4,7 +4,7 @@
 
 # Interface: GetRecurringEventInstancesInput
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L17)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L17)
 
 ## Description
 
@@ -16,7 +16,7 @@ Defines the input parameters for querying recurring event event instances.
 
 > **endDate**: `Date`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L20)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L20)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.
 
 > `optional` **includeCancelled**: `boolean`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L21)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L21)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.
 
 > `optional` **limit**: `number`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L25)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L25)
 
 #### Description
 
@@ -44,7 +44,7 @@ An optional limit on the number of instances to return.
 
 > **organizationId**: `string`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L18)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L18)
 
 ***
 
@@ -52,4 +52,4 @@ Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.
 
 > **startDate**: `Date`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L19)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L19)

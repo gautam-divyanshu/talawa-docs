@@ -246,6 +246,18 @@ Re-exports [eventGenerationWindowsTableRelations](../tables/eventGenerationWindo
 
 ***
 
+### eventInvitationsTable
+
+Re-exports [eventInvitationsTable](../tables/eventInvitations/variables/eventInvitationsTable.md)
+
+***
+
+### eventInvitationsTableRelations
+
+Re-exports [eventInvitationsTableRelations](../tables/eventInvitations/variables/eventInvitationsTableRelations.md)
+
+***
+
 ### eventsTable
 
 Re-exports [eventsTable](../tables/events/variables/eventsTable.md)

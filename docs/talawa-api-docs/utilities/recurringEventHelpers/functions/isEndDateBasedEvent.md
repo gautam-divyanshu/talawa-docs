@@ -6,7 +6,7 @@
 
 > **isEndDateBasedEvent**(`rule`): `boolean`
 
-Defined in: [src/utilities/recurringEventHelpers.ts:298](https://github.com/PalisadoesFoundation/talawa-api/blob/d40e84d157d4bee564e5a066ea403df80b2fb3be/src/utilities/recurringEventHelpers.ts#L298)
+Defined in: [src/utilities/recurringEventHelpers.ts:298](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/utilities/recurringEventHelpers.ts#L298)
 
 Determines if a recurrence rule is end-date-based.
 An end-date-based event is defined by an `endDate`. It may or may not also have a `count`,

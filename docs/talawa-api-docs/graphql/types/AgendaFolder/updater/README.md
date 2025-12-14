@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/AgendaFolder/updater
+
+## Functions
+
+- [resolveUpdater](functions/resolveUpdater.md)
