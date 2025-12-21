@@ -4,7 +4,7 @@
 
 # Interface: InterfaceEventVolunteerOverride
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L8)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L8)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelp
 
 > `optional` **hasAccepted**: `boolean`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L9)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L9)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelp
 
 > `optional` **userId**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L11)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L11)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelp
 
 > `optional` **userName**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L12)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L12)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelp
 
 > `optional` **volunteerStatus**: `VolunteerStatus`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L10)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L10)

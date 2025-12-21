@@ -119,8 +119,6 @@
 - [components/Pagination/PaginationList/PaginationList](components/Pagination/PaginationList/PaginationList/README.md)
 - [components/ProfileCard/ProfileCard](components/ProfileCard/ProfileCard/README.md)
 - [components/ProfileDropdown/ProfileDropdown](components/ProfileDropdown/ProfileDropdown/README.md)
-- [components/RequestsTableItem/RequestsTableItem](components/RequestsTableItem/RequestsTableItem/README.md)
-- [components/RequestsTableItem/RequestsTableItemMocks](components/RequestsTableItem/RequestsTableItemMocks/README.md)
 - [components/SecuredRoute/SecuredRoute](components/SecuredRoute/SecuredRoute/README.md)
 - [components/SignOut/SignOut](components/SignOut/SignOut/README.md)
 - [components/SuperAdminScreen/SuperAdminScreen](components/SuperAdminScreen/SuperAdminScreen/README.md)

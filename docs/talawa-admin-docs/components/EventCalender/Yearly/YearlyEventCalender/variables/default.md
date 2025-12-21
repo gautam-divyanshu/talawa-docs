@@ -6,4 +6,4 @@
 
 > `const` **default**: `React.FC`\<`InterfaceCalendarProps`\>
 
-Defined in: [components/EventCalender/Yearly/YearlyEventCalender.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/components/EventCalender/Yearly/YearlyEventCalender.tsx#L47)
+Defined in: [components/EventCalender/Yearly/YearlyEventCalender.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/components/EventCalender/Yearly/YearlyEventCalender.tsx#L47)

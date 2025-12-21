@@ -20,9 +20,9 @@
 - [filterCompletedAdvertisementData](variables/filterCompletedAdvertisementData.md)
 - [getActiveAdvertisementMocks](variables/getActiveAdvertisementMocks.md)
 - [getCompletedAdvertisementMocks](variables/getCompletedAdvertisementMocks.md)
-- [httpLink](variables/httpLink.md)
 - [initialActiveData](variables/initialActiveData.md)
 - [initialArchivedData](variables/initialArchivedData.md)
+- [link](variables/link.md)
 - [updateAdMocks](variables/updateAdMocks.md)
 - [updateDates](variables/updateDates.md)
 

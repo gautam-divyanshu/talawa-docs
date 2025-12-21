@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_UNDEFINED\_USER\_TAGS**: `object`[] = `MOCK_RESPONSES.UNDEFINED_USER_TAGS`
 
-Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:315](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L315)
+Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:315](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L315)
 
 ## Type Declaration
 
@@ -24,7 +24,7 @@ Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:315](https://gith
 
 #### request.variables.first
 
-> **first**: `number` = `TAGS_QUERY_DATA_CHUNK_SIZE`
+> **first**: `number` = `PAGE_SIZE`
 
 #### request.variables.input
 
@@ -62,6 +62,10 @@ Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:315](https://gith
 
 > **data**: `object`
 
-#### result.data.organizations
+#### result.data.organization
 
-> **organizations**: `object`[]
+> **organization**: `object`
+
+#### result.data.organization.tags
+
+> **tags**: `UserTags`

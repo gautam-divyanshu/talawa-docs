@@ -6,4 +6,4 @@
 
 > `const` **emptyMocks**: `IAdvertisementListMock`[]
 
-Defined in: [components/Advertisements/AdvertisementsMocks.ts:267](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/components/Advertisements/AdvertisementsMocks.ts#L267)
+Defined in: [components/Advertisements/AdvertisementsMocks.ts:306](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/components/Advertisements/AdvertisementsMocks.ts#L306)

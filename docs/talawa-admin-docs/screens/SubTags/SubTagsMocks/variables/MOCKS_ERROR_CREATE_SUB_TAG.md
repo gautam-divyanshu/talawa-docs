@@ -6,4 +6,4 @@
 
 > `const` **MOCKS\_ERROR\_CREATE\_SUB\_TAG**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `id`: `string`; `sortedBy`: \{ `id`: `string`; \}; `where`: \{ `name`: \{ `starts_with`: `string`; \}; \}; \}; \}; `result`: \{ `data`: \{ `getChildTags`: \{ `ancestorTags`: `any`[]; `childTags`: \{ `edges`: `object`[]; `pageInfo`: \{ `endCursor`: `string`; `hasNextPage`: `boolean`; `hasPreviousPage`: `boolean`; `startCursor`: `string`; \}; `totalCount`: `number`; \}; `name`: `string`; \}; \}; \}; \} \| \{ `data?`: \{ `createUserTag`: \{ `_id`: `string`; \}; \}; `error?`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `name`: `string`; `organizationId`: `string`; `parentTagId`: `string`; \}; \}; \})[]
 
-Defined in: [screens/SubTags/SubTagsMocks.ts:348](https://github.com/PalisadoesFoundation/talawa-admin/blob/4904c80770b24e891d3d562046de5cf015682ad0/src/screens/SubTags/SubTagsMocks.ts#L348)
+Defined in: [screens/SubTags/SubTagsMocks.ts:348](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/SubTags/SubTagsMocks.ts#L348)
