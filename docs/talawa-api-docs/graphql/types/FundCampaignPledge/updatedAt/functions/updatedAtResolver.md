@@ -6,7 +6,7 @@
 
 > **updatedAtResolver**(`parent`, `_args`, `ctx`): `Promise`\<`Date` \| `null`\>
 
-Defined in: [src/graphql/types/FundCampaignPledge/updatedAt.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/FundCampaignPledge/updatedAt.ts#L9)
+Defined in: [src/graphql/types/FundCampaignPledge/updatedAt.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/FundCampaignPledge/updatedAt.ts#L9)
 
 ## Parameters
 

@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/Fund/updatedAt
+
+## Functions
+
+- [resolveUpdatedAt](functions/resolveUpdatedAt.md)

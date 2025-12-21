@@ -6,7 +6,7 @@
 
 > **ExplicitGraphQLContext** = `object`
 
-Defined in: [src/graphql/context.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/context.ts#L41)
+Defined in: [src/graphql/context.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/context.ts#L41)
 
 Type of the transport protocol agnostic explicit context object that is merged with the implcit mercurius context object and passed to the graphql resolvers each time they resolve a graphql operation at runtime.
 
@@ -16,7 +16,7 @@ Type of the transport protocol agnostic explicit context object that is merged w
 
 > **currentClient**: [`CurrentClient`](CurrentClient.md)
 
-Defined in: [src/graphql/context.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/context.ts#L42)
+Defined in: [src/graphql/context.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/context.ts#L42)
 
 ***
 
@@ -24,15 +24,15 @@ Defined in: [src/graphql/context.ts:42](https://github.com/PalisadoesFoundation/
 
 > **drizzleClient**: `FastifyInstance`\[`"drizzleClient"`\]
 
-Defined in: [src/graphql/context.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/context.ts#L43)
+Defined in: [src/graphql/context.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/context.ts#L43)
 
 ***
 
 ### envConfig
 
-> **envConfig**: `Pick`\<`FastifyInstance`\[`"envConfig"`\], `"API_BASE_URL"` \| `"FRONTEND_URL"`\>
+> **envConfig**: `Pick`\<`FastifyInstance`\[`"envConfig"`\], `"API_BASE_URL"` \| `"API_REFRESH_TOKEN_EXPIRES_IN"` \| `"FRONTEND_URL"`\>
 
-Defined in: [src/graphql/context.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/context.ts#L44)
+Defined in: [src/graphql/context.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/context.ts#L44)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/graphql/context.ts:44](https://github.com/PalisadoesFoundation/
 
 > **jwt**: `object`
 
-Defined in: [src/graphql/context.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/context.ts#L48)
+Defined in: [src/graphql/context.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/context.ts#L48)
 
 #### sign()
 
@@ -62,7 +62,7 @@ Defined in: [src/graphql/context.ts:48](https://github.com/PalisadoesFoundation/
 
 > **log**: `FastifyInstance`\[`"log"`\]
 
-Defined in: [src/graphql/context.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/context.ts#L51)
+Defined in: [src/graphql/context.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/context.ts#L51)
 
 ***
 
@@ -70,7 +70,7 @@ Defined in: [src/graphql/context.ts:51](https://github.com/PalisadoesFoundation/
 
 > **minio**: `FastifyInstance`\[`"minio"`\]
 
-Defined in: [src/graphql/context.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/context.ts#L52)
+Defined in: [src/graphql/context.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/context.ts#L52)
 
 ***
 
@@ -78,7 +78,7 @@ Defined in: [src/graphql/context.ts:52](https://github.com/PalisadoesFoundation/
 
 > `optional` **notification**: `object`
 
-Defined in: [src/graphql/context.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/context.ts#L57)
+Defined in: [src/graphql/context.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/context.ts#L57)
 
 Per-request notification helper. Implementations may enqueue notifications
 for delivery and support flush() to perform delivery after transaction commit.

@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/Post/organization
+
+## Functions
+
+- [resolveOrganization](functions/resolveOrganization.md)

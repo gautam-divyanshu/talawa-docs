@@ -14,6 +14,7 @@
 - [ForbiddenActionExtensions](type-aliases/ForbiddenActionExtensions.md)
 - [ForbiddenActionOnArgumentsAssociatedResourcesExtensions](type-aliases/ForbiddenActionOnArgumentsAssociatedResourcesExtensions.md)
 - [InvalidArgumentsExtensions](type-aliases/InvalidArgumentsExtensions.md)
+- [InvalidCredentialsExtensions](type-aliases/InvalidCredentialsExtensions.md)
 - [TalawaGraphQLErrorExtensions](type-aliases/TalawaGraphQLErrorExtensions.md)
 - [TalawaGraphQLFormattedError](type-aliases/TalawaGraphQLFormattedError.md)
 - [TooManyRequestsExtensions](type-aliases/TooManyRequestsExtensions.md)

@@ -534,6 +534,18 @@ Re-exports [recurringEventInstancesTableRelations](../tables/recurringEventInsta
 
 ***
 
+### refreshTokensTable
+
+Re-exports [refreshTokensTable](../tables/refreshTokens/variables/refreshTokensTable.md)
+
+***
+
+### refreshTokensTableRelations
+
+Re-exports [refreshTokensTableRelations](../tables/refreshTokens/variables/refreshTokensTableRelations.md)
+
+***
+
 ### tagAssignmentsTable
 
 Re-exports [tagAssignmentsTable](../tables/tagAssignments/variables/tagAssignmentsTable.md)

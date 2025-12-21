@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/TagFolder/updater
+
+## Functions
+
+- [resolveUpdater](functions/resolveUpdater.md)

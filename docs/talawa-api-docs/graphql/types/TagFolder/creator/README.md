@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/TagFolder/creator
+
+## Functions
+
+- [tagFolderCreatorResolver](functions/tagFolderCreatorResolver.md)

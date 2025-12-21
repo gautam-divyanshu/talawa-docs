@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/FundCampaign/fund
+
+## Functions
+
+- [fundCampaignFundResolver](functions/fundCampaignFundResolver.md)

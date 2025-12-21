@@ -4,9 +4,9 @@
 
 # Function: updatedAtResolver()
 
-> **updatedAtResolver**(`parent`, `args`, `ctx`): `Promise`\<`Date` \| `null`\>
+> **updatedAtResolver**(`parent`, `_args`, `ctx`): `Promise`\<`Date` \| `null`\>
 
-Defined in: [src/graphql/types/FundCampaign/updatedAt.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/FundCampaign/updatedAt.ts#L23)
+Defined in: [src/graphql/types/FundCampaign/updatedAt.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/FundCampaign/updatedAt.ts#L23)
 
 Resolver for the updatedAt field of FundCampaign type.
 Validates user authentication and authorization before returning the last update timestamp.
@@ -62,11 +62,9 @@ The parent FundCampaign object containing the updatedAt field
 
 `string` \| `null`
 
-### args
+### \_args
 
 `Record`\<`string`, `never`\>
-
-GraphQL arguments (unused)
 
 ### ctx
 

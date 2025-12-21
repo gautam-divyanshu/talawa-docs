@@ -11,6 +11,7 @@
 ## Variables
 
 - [createContext](variables/createContext.md)
+- [FILE\_UPLOAD\_CONFIG](variables/FILE_UPLOAD_CONFIG.md)
 - [graphql](variables/graphql.md)
 
 ## References

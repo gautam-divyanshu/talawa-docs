@@ -4,9 +4,9 @@
 
 # Function: EventVolunteerGroupsResolver()
 
-> **EventVolunteerGroupsResolver**(`parent`, `args`, `ctx`): `Promise`\<`object`[]\>
+> **EventVolunteerGroupsResolver**(`parent`, `_args`, `ctx`): `Promise`\<`object`[]\>
 
-Defined in: [src/graphql/types/Event/volunteerGroups.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/graphql/types/Event/volunteerGroups.ts#L12)
+Defined in: [src/graphql/types/Event/volunteerGroups.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/Event/volunteerGroups.ts#L12)
 
 ## Parameters
 
@@ -14,7 +14,7 @@ Defined in: [src/graphql/types/Event/volunteerGroups.ts:12](https://github.com/P
 
 [`Event`](../../Event/type-aliases/Event.md)
 
-### args
+### \_args
 
 `Record`\<`string`, `never`\>
 

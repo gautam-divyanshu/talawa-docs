@@ -6,7 +6,7 @@
 
 > **createPluginContext**(`dependencies`): [`IPluginContext`](../../types/interfaces/IPluginContext.md)
 
-Defined in: [src/plugin/registry.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/67117a2ce201913e54d3898319485470853d3074/src/plugin/registry.ts#L17)
+Defined in: [src/plugin/registry.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/plugin/registry.ts#L17)
 
 Creates a plugin context object with all necessary dependencies
 
