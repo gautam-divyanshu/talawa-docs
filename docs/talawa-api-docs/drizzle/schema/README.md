@@ -462,6 +462,18 @@ Re-exports [organizationsTableRelations](../tables/organizations/variables/organ
 
 ***
 
+### passwordResetTokensTable
+
+Re-exports [passwordResetTokensTable](../tables/passwordResetTokens/variables/passwordResetTokensTable.md)
+
+***
+
+### passwordResetTokensTableRelations
+
+Re-exports [passwordResetTokensTableRelations](../tables/passwordResetTokens/variables/passwordResetTokensTableRelations.md)
+
+***
+
 ### pluginsTable
 
 Re-exports [pluginsTable](../tables/plugins/variables/pluginsTable.md)

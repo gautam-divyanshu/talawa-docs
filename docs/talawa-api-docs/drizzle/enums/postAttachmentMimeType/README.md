@@ -6,5 +6,4 @@
 
 ## Variables
 
-- [mimeTypeMapping](variables/mimeTypeMapping.md)
 - [postAttachmentMimeTypeEnum](variables/postAttachmentMimeTypeEnum.md)

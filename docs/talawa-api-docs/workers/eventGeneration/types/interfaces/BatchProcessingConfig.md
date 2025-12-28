@@ -4,7 +4,7 @@
 
 # Interface: BatchProcessingConfig
 
-Defined in: [src/workers/eventGeneration/types.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/workers/eventGeneration/types.ts#L30)
+Defined in: [src/workers/eventGeneration/types.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/types.ts#L30)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/workers/eventGeneration/types.ts:30](https://github.com/Palisad
 
 > **batchSize**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/workers/eventGeneration/types.ts#L31)
+Defined in: [src/workers/eventGeneration/types.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/types.ts#L31)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/workers/eventGeneration/types.ts:31](https://github.com/Palisad
 
 > **maxConcurrentBatches**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/workers/eventGeneration/types.ts#L32)
+Defined in: [src/workers/eventGeneration/types.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/types.ts#L32)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/workers/eventGeneration/types.ts:32](https://github.com/Palisad
 
 > **retryAttempts**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/workers/eventGeneration/types.ts#L34)
+Defined in: [src/workers/eventGeneration/types.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/types.ts#L34)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/workers/eventGeneration/types.ts:34](https://github.com/Palisad
 
 > **timeoutMs**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/workers/eventGeneration/types.ts#L33)
+Defined in: [src/workers/eventGeneration/types.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/types.ts#L33)

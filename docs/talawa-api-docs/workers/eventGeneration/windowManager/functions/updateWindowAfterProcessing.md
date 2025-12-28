@@ -6,7 +6,7 @@
 
 > **updateWindowAfterProcessing**(`windowId`, `processingResult`, `deps`): `Promise`\<`void`\>
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/workers/eventGeneration/windowManager.ts#L93)
+Defined in: [src/workers/eventGeneration/windowManager.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/windowManager.ts#L93)
 
 Updates the materialization window after successful processing.
 

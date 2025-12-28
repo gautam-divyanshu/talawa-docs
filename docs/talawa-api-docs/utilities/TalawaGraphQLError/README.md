@@ -10,6 +10,7 @@
 
 ## Type Aliases
 
+- [AccountLockedExtensions](type-aliases/AccountLockedExtensions.md)
 - [ArgumentsAssociatedResourcesNotFoundExtensions](type-aliases/ArgumentsAssociatedResourcesNotFoundExtensions.md)
 - [ForbiddenActionExtensions](type-aliases/ForbiddenActionExtensions.md)
 - [ForbiddenActionOnArgumentsAssociatedResourcesExtensions](type-aliases/ForbiddenActionOnArgumentsAssociatedResourcesExtensions.md)

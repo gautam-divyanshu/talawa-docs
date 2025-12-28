@@ -6,7 +6,7 @@
 
 > **BlockedUser** = `object`
 
-Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/BlockedUser/BlockedUser.ts#L5)
+Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/BlockedUser/BlockedUser.ts#L5)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:5](https://github.com/
 
 > **createdAt**: `Date`
 
-Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/BlockedUser/BlockedUser.ts#L9)
+Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/BlockedUser/BlockedUser.ts#L9)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:9](https://github.com/
 
 > **id**: `string`
 
-Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/BlockedUser/BlockedUser.ts#L6)
+Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/BlockedUser/BlockedUser.ts#L6)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:6](https://github.com/
 
 > **organization**: [`Organization`](../../../Organization/Organization/type-aliases/Organization.md)
 
-Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/BlockedUser/BlockedUser.ts#L7)
+Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/BlockedUser/BlockedUser.ts#L7)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:7](https://github.com/
 
 > **user**: [`User`](../../../User/User/type-aliases/User.md)
 
-Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/BlockedUser/BlockedUser.ts#L8)
+Defined in: [src/graphql/types/BlockedUser/BlockedUser.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/BlockedUser/BlockedUser.ts#L8)

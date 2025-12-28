@@ -4,7 +4,7 @@
 
 # Interface: PluginZipStructure
 
-Defined in: [src/utilities/pluginInstaller.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/utilities/pluginInstaller.ts#L28)
+Defined in: [src/utilities/pluginInstaller.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/utilities/pluginInstaller.ts#L28)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/utilities/pluginInstaller.ts:28](https://github.com/PalisadoesF
 
 > `optional` **apiManifest**: [`IPluginManifest`](../../../plugin/types/interfaces/IPluginManifest.md)
 
-Defined in: [src/utilities/pluginInstaller.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/utilities/pluginInstaller.ts#L30)
+Defined in: [src/utilities/pluginInstaller.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/utilities/pluginInstaller.ts#L30)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/utilities/pluginInstaller.ts:30](https://github.com/PalisadoesF
 
 > **hasApiFolder**: `boolean`
 
-Defined in: [src/utilities/pluginInstaller.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/utilities/pluginInstaller.ts#L29)
+Defined in: [src/utilities/pluginInstaller.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/utilities/pluginInstaller.ts#L29)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/utilities/pluginInstaller.ts:29](https://github.com/PalisadoesF
 
 > `optional` **pluginId**: `string`
 
-Defined in: [src/utilities/pluginInstaller.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/utilities/pluginInstaller.ts#L31)
+Defined in: [src/utilities/pluginInstaller.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/utilities/pluginInstaller.ts#L31)

@@ -6,6 +6,7 @@
 
 ## Interfaces
 
+- [FilterInviteOnlyEventsInput](interfaces/FilterInviteOnlyEventsInput.md)
 - [GetUnifiedEventsInput](interfaces/GetUnifiedEventsInput.md)
 
 ## Type Aliases
@@ -14,5 +15,6 @@
 
 ## Functions
 
+- [filterInviteOnlyEvents](functions/filterInviteOnlyEvents.md)
 - [getEventsByIds](functions/getEventsByIds.md)
 - [getUnifiedEventsInDateRange](functions/getUnifiedEventsInDateRange.md)

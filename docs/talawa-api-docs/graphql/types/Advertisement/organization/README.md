@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/Advertisement/organization
+
+## Functions
+
+- [resolveOrganization](functions/resolveOrganization.md)

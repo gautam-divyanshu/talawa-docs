@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/Mutation/createAdvertisement
+
+## Variables
+
+- [mutationCreateAdvertisementArgumentsSchema](variables/mutationCreateAdvertisementArgumentsSchema.md)

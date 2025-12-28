@@ -6,7 +6,7 @@
 
 > **CheckInStatus** = `object`
 
-Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/CheckInStatus/CheckInStatus.ts#L7)
+Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/CheckInStatus/CheckInStatus.ts#L7)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:7](https://github.
 
 > **attendee**: *typeof* `eventAttendeesTable.$inferSelect`
 
-Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/CheckInStatus/CheckInStatus.ts#L10)
+Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/CheckInStatus/CheckInStatus.ts#L10)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:10](https://github
 
 > **id**: `string`
 
-Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/CheckInStatus/CheckInStatus.ts#L8)
+Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/CheckInStatus/CheckInStatus.ts#L8)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:8](https://github.
 
 > **user**: *typeof* `usersTable.$inferSelect`
 
-Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/0377c9a8043a9da5396efd550b28f87bf54a723a/src/graphql/types/CheckInStatus/CheckInStatus.ts#L9)
+Defined in: [src/graphql/types/CheckInStatus/CheckInStatus.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/CheckInStatus/CheckInStatus.ts#L9)

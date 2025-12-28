@@ -12,6 +12,18 @@ Re-exports [EventWithAttachments](unifiedEventQueries/type-aliases/EventWithAtta
 
 ***
 
+### filterInviteOnlyEvents
+
+Re-exports [filterInviteOnlyEvents](unifiedEventQueries/functions/filterInviteOnlyEvents.md)
+
+***
+
+### FilterInviteOnlyEventsInput
+
+Re-exports [FilterInviteOnlyEventsInput](unifiedEventQueries/interfaces/FilterInviteOnlyEventsInput.md)
+
+***
+
 ### getEventsByIds
 
 Re-exports [getEventsByIds](unifiedEventQueries/functions/getEventsByIds.md)
