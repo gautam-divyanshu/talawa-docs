@@ -4,6 +4,6 @@
 
 # components/UserPortal/ContactCard/ContactCard
 
-## Functions
+## Variables
 
-- [default](functions/default.md)
+- [default](variables/default.md)

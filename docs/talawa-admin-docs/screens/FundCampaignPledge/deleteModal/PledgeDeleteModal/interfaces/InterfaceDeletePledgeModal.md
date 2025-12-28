@@ -4,7 +4,7 @@
 
 # Interface: InterfaceDeletePledgeModal
 
-Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx#L41)
+Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx#L42)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:41](ht
 
 > **hide**: () => `void`
 
-Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx#L43)
+Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx#L44)
 
 #### Returns
 
@@ -24,7 +24,7 @@ Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:43](ht
 
 > **isOpen**: `boolean`
 
-Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx#L42)
+Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx#L43)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:42](ht
 
 > **pledge**: `InterfacePledgeInfo`
 
-Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx#L44)
+Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx#L45)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:44](ht
 
 > **refetchPledge**: () => `void`
 
-Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx#L45)
+Defined in: [screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/FundCampaignPledge/deleteModal/PledgeDeleteModal.tsx#L46)
 
 #### Returns
 

@@ -6,4 +6,4 @@
 
 > `const` **MOCKS\_ERROR\_SUBTAGS\_QUERY**: (\{ `error?`: `undefined`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `id`: `string`; `where`: \{ `name`: \{ `starts_with`: `string`; \}; \}; \}; \}; `result`: \{ `data`: \{ `organizations`: `object`[]; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `id`: `string`; `where?`: `undefined`; \}; \}; `result?`: `undefined`; \})[]
 
-Defined in: [components/TagActions/TagActionsMocks.ts:293](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/components/TagActions/TagActionsMocks.ts#L293)
+Defined in: [components/TagActions/TagActionsMocks.ts:293](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/components/TagActions/TagActionsMocks.ts#L293)

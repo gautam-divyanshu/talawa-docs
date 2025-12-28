@@ -6,4 +6,4 @@
 
 > `const` **default**: `React.FC`\<`InterfaceAgendaItemsPreviewModalProps`\>
 
-Defined in: [components/AgendaItems/Preview/AgendaItemsPreviewModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/components/AgendaItems/Preview/AgendaItemsPreviewModal.tsx#L34)
+Defined in: [components/AgendaItems/Preview/AgendaItemsPreviewModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/components/AgendaItems/Preview/AgendaItemsPreviewModal.tsx#L34)

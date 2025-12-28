@@ -4,7 +4,7 @@
 
 # Interface: IQueryVariable
 
-Defined in: [screens/OrganizationPeople/addMember/types.ts:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationPeople/addMember/types.ts#L20)
+Defined in: [screens/OrganizationPeople/addMember/types.ts:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/OrganizationPeople/addMember/types.ts#L20)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/OrganizationPeople/addMember/types.ts:20](https://github.co
 
 > `optional` **after**: `string`
 
-Defined in: [screens/OrganizationPeople/addMember/types.ts:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationPeople/addMember/types.ts#L23)
+Defined in: [screens/OrganizationPeople/addMember/types.ts:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/OrganizationPeople/addMember/types.ts#L23)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/OrganizationPeople/addMember/types.ts:23](https://github.co
 
 > `optional` **before**: `string`
 
-Defined in: [screens/OrganizationPeople/addMember/types.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationPeople/addMember/types.ts#L25)
+Defined in: [screens/OrganizationPeople/addMember/types.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/OrganizationPeople/addMember/types.ts#L25)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [screens/OrganizationPeople/addMember/types.ts:25](https://github.co
 
 > `optional` **first**: `number`
 
-Defined in: [screens/OrganizationPeople/addMember/types.ts:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationPeople/addMember/types.ts#L22)
+Defined in: [screens/OrganizationPeople/addMember/types.ts:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/OrganizationPeople/addMember/types.ts#L22)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [screens/OrganizationPeople/addMember/types.ts:22](https://github.co
 
 > `optional` **last**: `number`
 
-Defined in: [screens/OrganizationPeople/addMember/types.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationPeople/addMember/types.ts#L24)
+Defined in: [screens/OrganizationPeople/addMember/types.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/OrganizationPeople/addMember/types.ts#L24)
 
 ***
 
@@ -44,7 +44,7 @@ Defined in: [screens/OrganizationPeople/addMember/types.ts:24](https://github.co
 
 > `optional` **orgId**: `string`
 
-Defined in: [screens/OrganizationPeople/addMember/types.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationPeople/addMember/types.ts#L21)
+Defined in: [screens/OrganizationPeople/addMember/types.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/OrganizationPeople/addMember/types.ts#L21)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [screens/OrganizationPeople/addMember/types.ts:21](https://github.co
 
 > `optional` **where**: `object`
 
-Defined in: [screens/OrganizationPeople/addMember/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationPeople/addMember/types.ts#L26)
+Defined in: [screens/OrganizationPeople/addMember/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/OrganizationPeople/addMember/types.ts#L26)
 
 #### role
 

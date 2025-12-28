@@ -6,7 +6,7 @@
 
 > **TagEdge** = `object`
 
-Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L9)
+Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L9)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:9](https://github
 
 > **cursor**: `string`
 
-Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L18)
+Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L18)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:18](https://githu
 
 > **node**: `object`
 
-Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/4725f1e5bdbf3744e5a256b68fe2df6d33a549d0/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L10)
+Defined in: [screens/OrganizationTags/OrganizationTagsMocks.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/OrganizationTags/OrganizationTagsMocks.ts#L10)
 
 #### ancestorTags
 

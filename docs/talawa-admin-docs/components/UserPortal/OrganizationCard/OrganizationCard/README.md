@@ -4,6 +4,6 @@
 
 # components/UserPortal/OrganizationCard/OrganizationCard
 
-## Functions
+## Variables
 
-- [default](functions/default.md)
+- [default](variables/default.md)
