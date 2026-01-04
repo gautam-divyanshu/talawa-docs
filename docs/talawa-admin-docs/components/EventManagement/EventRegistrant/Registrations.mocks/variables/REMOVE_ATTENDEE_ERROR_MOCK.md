@@ -6,4 +6,4 @@
 
 > `const` **REMOVE\_ATTENDEE\_ERROR\_MOCK**: `MockedResponse`
 
-Defined in: [components/EventManagement/EventRegistrant/Registrations.mocks.ts:222](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/components/EventManagement/EventRegistrant/Registrations.mocks.ts#L222)
+Defined in: [components/EventManagement/EventRegistrant/Registrations.mocks.ts:222](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/EventManagement/EventRegistrant/Registrations.mocks.ts#L222)

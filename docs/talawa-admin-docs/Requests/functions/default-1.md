@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/Requests/Requests.tsx:102](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/Requests/Requests.tsx#L102)
+Defined in: [screens/EventVolunteers/Requests/Requests.tsx:62](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/EventVolunteers/Requests/Requests.tsx#L62)
 
 ## Returns
 

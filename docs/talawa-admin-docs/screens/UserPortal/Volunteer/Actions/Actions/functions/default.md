@@ -4,35 +4,15 @@
 
 # Function: default()
 
-> **default**(): `JSX.Element`
+> **default**(): `Element`
 
-Defined in: [src/screens/UserPortal/Volunteer/Actions/Actions.tsx:79](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Volunteer/Actions/Actions.tsx#L79)
+Defined in: [screens/UserPortal/Volunteer/Actions/Actions.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/UserPortal/Volunteer/Actions/Actions.tsx#L35)
 
-Component for managing and displaying action items within an organization.
-
-This component allows users to view, filter, sort, and create action items. It also handles fetching and displaying related data such as action item categories and members.
+Component for displaying and managing action items assigned to the current volunteer.
+Provides functionality to view action details and update completion status.
 
 ## Returns
 
-`JSX.Element`
+`Element`
 
-The rendered component.
-
-## CSS Strategy Explanation:
-
-To ensure consistency across the application and reduce duplication, common styles
-(such as button styles) have been moved to the global CSS file. Instead of using
-component-specific classes (e.g., `.greenregbtnOrganizationFundCampaign`, `.greenregbtnPledge`), a single reusable
-class (e.g., .addButton) is now applied.
-
-### Benefits:
-- **Reduces redundant CSS code.
-- **Improves maintainability by centralizing common styles.
-- **Ensures consistent styling across components.
-
-### Global CSS Classes used:
-- `.editButton`
-- `.switch`
-- `.searchButton`
-
-For more details on the reusable classes, refer to the global CSS file.
+The Actions component.

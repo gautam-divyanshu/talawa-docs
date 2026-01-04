@@ -6,13 +6,22 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx:74](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx#L74)
+Defined in: [screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroups.tsx#L66)
 
-Component for managing volunteer groups for an event.
-This component allows users to view, filter, sort, and create action items. It also provides a modal for creating and editing action items.
+Renders the Volunteer Groups management screen.
+
+Responsibilities:
+- Displays volunteer groups for an event
+- Supports searching by group name or leader via AdminSearchFilterBar
+- Enables sorting by volunteer count
+- Handles create, edit, view, and delete group flows
+- Renders assignee avatars and volunteer counts
+
+Localization:
+- Uses `common` and `eventVolunteers` namespaces
 
 ## Returns
 
 `Element`
 
-The rendered component.
+JSX.Element

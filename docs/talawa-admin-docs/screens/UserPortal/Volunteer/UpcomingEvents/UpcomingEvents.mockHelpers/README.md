@@ -13,4 +13,3 @@
 
 - [createEventVolunteer](functions/createEventVolunteer.md)
 - [createMembershipRecord](functions/createMembershipRecord.md)
-- [createMembershipResponse](functions/createMembershipResponse.md)

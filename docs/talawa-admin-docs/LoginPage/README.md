@@ -44,7 +44,7 @@ react-google-recaptcha
 
 ## Requires
 
-react-toastify
+NotificationToast
 
 ## Requires
 

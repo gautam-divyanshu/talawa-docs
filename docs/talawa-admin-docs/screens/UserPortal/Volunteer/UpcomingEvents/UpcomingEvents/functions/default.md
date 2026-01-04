@@ -6,8 +6,13 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.tsx:75](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.tsx#L75)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.tsx#L34)
+
+Component for displaying upcoming volunteer events for an organization.
+Allows users to volunteer for events and groups, and tracks their membership status.
 
 ## Returns
 
 `Element`
+
+The UpcomingEvents component.

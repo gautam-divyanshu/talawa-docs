@@ -76,7 +76,7 @@ The mode of the modal, either 'create' or 'edit'.
 - Apollo Client for GraphQL queries and mutations.
 - Material-UI and Bootstrap for UI components.
 - Day.js for date manipulation.
-- React-Toastify for notifications.
+- NotificationToast for notifications.
 
 ## Css
 

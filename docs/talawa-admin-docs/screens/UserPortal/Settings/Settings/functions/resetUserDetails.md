@@ -6,7 +6,7 @@
 
 > **resetUserDetails**\<`T`\>(`currentUser`, `fileInput`, `setSelectedAvatarFn`, `setIsUpdatedFn`, `setUserDetailsFn`, `originalAvatar`): `boolean`
 
-Defined in: [screens/UserPortal/Settings/Settings.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/UserPortal/Settings/Settings.tsx#L54)
+Defined in: [screens/UserPortal/Settings/Settings.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/UserPortal/Settings/Settings.tsx#L54)
 
 ## Type Parameters
 

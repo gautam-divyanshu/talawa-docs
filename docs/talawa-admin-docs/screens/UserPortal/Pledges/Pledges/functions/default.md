@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/UserPortal/Pledges/Pledges.tsx:75](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/UserPortal/Pledges/Pledges.tsx#L75)
+Defined in: [screens/UserPortal/Pledges/Pledges.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/UserPortal/Pledges/Pledges.tsx#L51)
 
 ## Returns
 

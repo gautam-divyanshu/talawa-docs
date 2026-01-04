@@ -6,7 +6,7 @@
 
 > `const` **default**: `React.FC`\<`InterfaceAdminSearchFilterBarProps`\>
 
-Defined in: [components/AdminSearchFilterBar/AdminSearchFilterBar.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/components/AdminSearchFilterBar/AdminSearchFilterBar.tsx#L20)
+Defined in: [components/AdminSearchFilterBar/AdminSearchFilterBar.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/AdminSearchFilterBar/AdminSearchFilterBar.tsx#L20)
 
 AdminSearchFilterBar component provides a unified search and filter interface.
 Supports search functionality with optional sorting and filtering dropdowns.

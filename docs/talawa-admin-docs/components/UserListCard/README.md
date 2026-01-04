@@ -34,7 +34,7 @@ react-bootstrap/Button
 
 ## Requires
 
-react-toastify - For displaying toast notifications
+components/NotificationToast/NotificationToast - For displaying toast notifications
 
 ## Requires
 

@@ -6,7 +6,9 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/FundCampaignPledge/FundCampaignPledge.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/FundCampaignPledge/FundCampaignPledge.tsx#L34)
+Defined in: [screens/FundCampaignPledge/FundCampaignPledge.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/FundCampaignPledge/FundCampaignPledge.tsx#L37)
+
+Renders the Fund Campaign Pledges screen with pledge management, search/sort, and progress tracking.
 
 ## Returns
 

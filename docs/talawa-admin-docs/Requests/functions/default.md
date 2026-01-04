@@ -6,8 +6,22 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/EventVolunteers/Requests/Requests.tsx:80](https://github.com/PalisadoesFoundation/talawa-admin/blob/735c893b7cc6d606ec7a9a6509523dcad6e6ff19/src/screens/EventVolunteers/Requests/Requests.tsx#L80)
+Defined in: [screens/AdminPortal/Requests/Requests.tsx:116](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/Requests/Requests.tsx#L116)
+
+Renders the Membership Requests screen.
+
+Responsibilities:
+- Displays membership requests with infinite scroll support
+- Supports search submission via AdminSearchFilterBar
+- Shows user avatars and request details
+- Handles accept and reject request actions
+- Shows empty state via DataGrid overlay when no requests exist
+
+Localization:
+- Uses `common` and `requests` namespaces
 
 ## Returns
 
 `Element`
+
+JSX.Element
