@@ -6,7 +6,7 @@
 
 > **Upload** = `object`
 
-Defined in: [src/graphql/scalars/Upload.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/scalars/Upload.ts#L17)
+Defined in: [src/graphql/scalars/Upload.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/graphql/scalars/Upload.ts#L17)
 
 `Upload` scalar type for pothos schema.
 
@@ -16,7 +16,7 @@ Defined in: [src/graphql/scalars/Upload.ts:17](https://github.com/PalisadoesFoun
 
 > **Input**: `Promise`\<`FileUpload`\>
 
-Defined in: [src/graphql/scalars/Upload.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/scalars/Upload.ts#L18)
+Defined in: [src/graphql/scalars/Upload.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/graphql/scalars/Upload.ts#L18)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [src/graphql/scalars/Upload.ts:18](https://github.com/PalisadoesFoun
 
 > **Output**: `Promise`\<`FileUpload`\>
 
-Defined in: [src/graphql/scalars/Upload.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/scalars/Upload.ts#L19)
+Defined in: [src/graphql/scalars/Upload.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/graphql/scalars/Upload.ts#L19)

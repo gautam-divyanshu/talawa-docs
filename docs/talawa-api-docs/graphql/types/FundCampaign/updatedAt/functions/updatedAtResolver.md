@@ -6,7 +6,7 @@
 
 > **updatedAtResolver**(`parent`, `_args`, `ctx`): `Promise`\<`Date` \| `null`\>
 
-Defined in: [src/graphql/types/FundCampaign/updatedAt.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/FundCampaign/updatedAt.ts#L23)
+Defined in: [src/graphql/types/FundCampaign/updatedAt.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/graphql/types/FundCampaign/updatedAt.ts#L23)
 
 Resolver for the updatedAt field of FundCampaign type.
 Validates user authentication and authorization before returning the last update timestamp.
@@ -17,6 +17,10 @@ Only administrators and organization admins have access to this field.
 ### parent
 
 The parent FundCampaign object containing the updatedAt field
+
+#### amountRaised
+
+`number`
 
 #### createdAt
 
@@ -76,16 +80,16 @@ GraphQL context containing authentication and database clients
 
 `Promise`\<`Date` \| `null`\>
 
-The timestamp when the fund campaign was last updated
+Promise<Date> The timestamp when the fund campaign was last updated
 
 ## Throws
 
-With code 'unauthenticated' if user is not logged in
+TalawaGraphQLError With code 'unauthenticated' if user is not logged in
 
 ## Throws
 
-With code 'unauthorized_action' if user lacks required permissions
+TalawaGraphQLError With code 'unauthorized_action' if user lacks required permissions
 
 ## Throws
 
-With code 'unexpected' for database or other runtime errors
+TalawaGraphQLError With code 'unexpected' for database or other runtime errors

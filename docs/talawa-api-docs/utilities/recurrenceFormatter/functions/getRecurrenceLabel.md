@@ -6,7 +6,7 @@
 
 > **getRecurrenceLabel**(`rule`): `string`
 
-Defined in: [src/utilities/recurrenceFormatter.ts:221](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/utilities/recurrenceFormatter.ts#L221)
+Defined in: [src/utilities/recurrenceFormatter.ts:221](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/recurrenceFormatter.ts#L221)
 
 Gets a short recurrence label suitable for UI buttons or compact displays.
 
@@ -99,4 +99,4 @@ The recurrence rule from the database
 
 `string`
 
-A short label describing the recurrence frequency
+- A short label describing the recurrence frequency

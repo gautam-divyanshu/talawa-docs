@@ -6,7 +6,7 @@
 
 > **cleanupSpecificOrganization**(`organizationId`, `drizzleClient`, `logger`): `Promise`\<\{ `instancesDeleted`: `number`; `retentionCutoffDate`: `Date`; \}\>
 
-Defined in: [src/workers/eventCleanupWorker.ts:167](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventCleanupWorker.ts#L167)
+Defined in: [src/workers/eventCleanupWorker.ts:167](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/workers/eventCleanupWorker.ts#L167)
 
 Manually triggers a cleanup of old instances for a specific organization.
 
@@ -30,5 +30,5 @@ The ID of the organization to clean up.
 
 `Promise`\<\{ `instancesDeleted`: `number`; `retentionCutoffDate`: `Date`; \}\>
 
-A promise that resolves to an object containing the number of deleted instances
+- A promise that resolves to an object containing the number of deleted instances
          and the retention cutoff date used.

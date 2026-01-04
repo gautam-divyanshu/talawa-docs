@@ -6,4 +6,4 @@
 
 > `const` **tagAssignmentsTableInsertSchema**: `BuildSchema`\<`"insert"`, \{ `assigneeId`: `PgColumn`\<\{ \}, \{ \}, \{ \}\>; `createdAt`: `PgColumn`\<\{ \}, \{ \}, \{ \}\>; `creatorId`: `PgColumn`\<\{ \}, \{ \}, \{ \}\>; `tagId`: `PgColumn`\<\{ \}, \{ \}, \{ \}\>; \}, `undefined`\>
 
-Defined in: [src/drizzle/tables/tagAssignments.ts:96](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/drizzle/tables/tagAssignments.ts#L96)
+Defined in: [src/drizzle/tables/tagAssignments.ts:96](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/drizzle/tables/tagAssignments.ts#L96)

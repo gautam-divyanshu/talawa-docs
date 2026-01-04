@@ -6,7 +6,7 @@
 
 > **generatePasswordResetToken**(): `string`
 
-Defined in: [src/utilities/passwordResetTokenUtils.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/utilities/passwordResetTokenUtils.ts#L37)
+Defined in: [src/utilities/passwordResetTokenUtils.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/passwordResetTokenUtils.ts#L37)
 
 Generates a cryptographically secure random password reset token.
 
@@ -14,4 +14,4 @@ Generates a cryptographically secure random password reset token.
 
 `string`
 
-A 64-character hex string token
+- A 64-character hex string token

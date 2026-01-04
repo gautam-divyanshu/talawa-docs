@@ -6,7 +6,7 @@
 
 > **executeEventGeneration**(`job`, `deps`): `Promise`\<[`ProcessingResult`](../../types/interfaces/ProcessingResult.md)\<[`EventGenerationExecutionResult`](../interfaces/EventGenerationExecutionResult.md)\>\>
 
-Defined in: [src/workers/eventGeneration/executionEngine.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/executionEngine.ts#L37)
+Defined in: [src/workers/eventGeneration/executionEngine.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/workers/eventGeneration/executionEngine.ts#L37)
 
 Executes the Generation process for a single recurring event job.
 This function is the core of the execution engine, handling the creation of event instances.
@@ -29,4 +29,4 @@ The dependencies required for the worker, such as the database client and logger
 
 `Promise`\<[`ProcessingResult`](../../types/interfaces/ProcessingResult.md)\<[`EventGenerationExecutionResult`](../interfaces/EventGenerationExecutionResult.md)\>\>
 
-A promise that resolves to a processing result, including metrics and resource usage.
+- A promise that resolves to a processing result, including metrics and resource usage.

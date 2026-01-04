@@ -6,7 +6,7 @@
 
 > **storeRefreshToken**(`drizzleClient`, `userId`, `tokenHash`, `expiresAt`): `Promise`\<\{ `id`: `string`; \}\>
 
-Defined in: [src/utilities/refreshTokenUtils.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/utilities/refreshTokenUtils.ts#L38)
+Defined in: [src/utilities/refreshTokenUtils.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/refreshTokenUtils.ts#L38)
 
 Stores a refresh token in the database.
 
@@ -40,4 +40,4 @@ The expiration date of the token
 
 `Promise`\<\{ `id`: `string`; \}\>
 
-The created refresh token record
+- The created refresh token record

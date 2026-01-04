@@ -6,7 +6,7 @@
 
 > **emergencyCleanupBefore**(`cutoffDate`, `drizzleClient`, `logger`): `Promise`\<\{ `instancesDeleted`: `number`; `organizationsAffected`: `number`; \}\>
 
-Defined in: [src/workers/eventCleanupWorker.ts:285](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventCleanupWorker.ts#L285)
+Defined in: [src/workers/eventCleanupWorker.ts:285](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/workers/eventCleanupWorker.ts#L285)
 
 Performs an emergency cleanup of all materialized instances older than a specified
 cutoff date, across all organizations. This method should be used with caution as it
@@ -32,5 +32,5 @@ The date before which all instances will be deleted.
 
 `Promise`\<\{ `instancesDeleted`: `number`; `organizationsAffected`: `number`; \}\>
 
-A promise that resolves to an object with the number of deleted instances
+- A promise that resolves to an object with the number of deleted instances
          and the number of affected organizations.

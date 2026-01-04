@@ -6,7 +6,7 @@
 
 > **revokeRefreshTokenByHash**(`drizzleClient`, `tokenHash`): `Promise`\<`boolean`\>
 
-Defined in: [src/utilities/refreshTokenUtils.ts:105](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/utilities/refreshTokenUtils.ts#L105)
+Defined in: [src/utilities/refreshTokenUtils.ts:105](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/refreshTokenUtils.ts#L105)
 
 Revokes a refresh token by setting its revokedAt timestamp.
 
@@ -28,4 +28,4 @@ The hashed refresh token to revoke
 
 `Promise`\<`boolean`\>
 
-True if token was revoked, false if not found or already revoked
+- True if token was revoked, false if not found or already revoked

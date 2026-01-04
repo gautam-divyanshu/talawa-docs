@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/Mutation/updateCurrentUser
+
+## Variables
+
+- [mutationUpdateCurrentUserArgumentsSchema](variables/mutationUpdateCurrentUserArgumentsSchema.md)

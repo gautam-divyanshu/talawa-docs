@@ -4,13 +4,32 @@
 
 # utilities/pluginInstaller
 
-## Interfaces
+## References
 
-- [PluginInstallationOptions](interfaces/PluginInstallationOptions.md)
-- [PluginZipStructure](interfaces/PluginZipStructure.md)
+### extractPluginZip
 
-## Functions
+Re-exports [extractPluginZip](extraction/functions/extractPluginZip.md)
 
-- [extractPluginZip](functions/extractPluginZip.md)
-- [installPluginFromZip](functions/installPluginFromZip.md)
-- [validatePluginZip](functions/validatePluginZip.md)
+***
+
+### installPluginFromZip
+
+Re-exports [installPluginFromZip](installation/functions/installPluginFromZip.md)
+
+***
+
+### PluginInstallationOptions
+
+Re-exports [PluginInstallationOptions](types/interfaces/PluginInstallationOptions.md)
+
+***
+
+### PluginZipStructure
+
+Re-exports [PluginZipStructure](types/interfaces/PluginZipStructure.md)
+
+***
+
+### validatePluginZip
+
+Re-exports [validatePluginZip](validation/functions/validatePluginZip.md)

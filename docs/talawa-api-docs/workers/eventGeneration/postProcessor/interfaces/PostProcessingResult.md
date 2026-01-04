@@ -4,9 +4,7 @@
 
 # Interface: PostProcessingResult
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/postProcessor.ts#L14)
-
-## Description
+Defined in: [src/workers/eventGeneration/postProcessor.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/workers/eventGeneration/postProcessor.ts#L14)
 
 Represents the result of post-processing operations, including whether cleanup was performed and any errors encountered.
 
@@ -16,7 +14,7 @@ Represents the result of post-processing operations, including whether cleanup w
 
 > **cleanupPerformed**: `boolean`
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/postProcessor.ts#L15)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/workers/eventGeneration/postProcessor.ts#L15)
 
 ***
 
@@ -24,7 +22,7 @@ Defined in: [src/workers/eventGeneration/postProcessor.ts:15](https://github.com
 
 > **errors**: `string`[]
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/postProcessor.ts#L16)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/workers/eventGeneration/postProcessor.ts#L16)
 
 ***
 
@@ -32,4 +30,4 @@ Defined in: [src/workers/eventGeneration/postProcessor.ts:16](https://github.com
 
 > **windowsUpdated**: `number`
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/workers/eventGeneration/postProcessor.ts#L17)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/workers/eventGeneration/postProcessor.ts#L17)

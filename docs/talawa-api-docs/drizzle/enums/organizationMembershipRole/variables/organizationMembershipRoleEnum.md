@@ -6,6 +6,6 @@
 
 > `const` **organizationMembershipRoleEnum**: `ZodEnum`\<\[`"administrator"`, `"regular"`\]\>
 
-Defined in: [src/drizzle/enums/organizationMembershipRole.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/drizzle/enums/organizationMembershipRole.ts#L6)
+Defined in: [src/drizzle/enums/organizationMembershipRole.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/drizzle/enums/organizationMembershipRole.ts#L6)
 
 Possible variants of the role assigned to a user within an organization.

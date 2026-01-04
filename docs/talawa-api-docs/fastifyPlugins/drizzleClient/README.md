@@ -4,6 +4,10 @@
 
 # fastifyPlugins/drizzleClient
 
+## Type Aliases
+
+- [DrizzleClient](type-aliases/DrizzleClient.md)
+
 ## Variables
 
 - [drizzleClient](variables/drizzleClient.md)

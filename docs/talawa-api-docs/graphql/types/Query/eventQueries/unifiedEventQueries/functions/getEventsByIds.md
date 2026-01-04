@@ -6,7 +6,7 @@
 
 > **getEventsByIds**(`eventIds`, `drizzleClient`, `logger`): `Promise`\<[`EventWithAttachments`](../type-aliases/EventWithAttachments.md)[]\>
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:362](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L362)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:362](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L362)
 
 Retrieves events by their specific IDs, supporting both standalone events and
 generated instances in a single, unified query. This function is used by the
@@ -36,5 +36,5 @@ The logger for logging debug and error messages.
 
 `Promise`\<[`EventWithAttachments`](../type-aliases/EventWithAttachments.md)[]\>
 
-A promise that resolves to an array of the requested event objects,
+- A promise that resolves to an array of the requested event objects,
          unified into a common format.

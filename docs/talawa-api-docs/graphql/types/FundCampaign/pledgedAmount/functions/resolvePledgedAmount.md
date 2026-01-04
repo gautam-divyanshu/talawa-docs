@@ -6,7 +6,7 @@
 
 > **resolvePledgedAmount**(`parent`, `_args`, `ctx`): `Promise`\<`bigint`\>
 
-Defined in: [src/graphql/types/FundCampaign/pledgedAmount.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/graphql/types/FundCampaign/pledgedAmount.ts#L16)
+Defined in: [src/graphql/types/FundCampaign/pledgedAmount.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/graphql/types/FundCampaign/pledgedAmount.ts#L16)
 
 Resolves the total pledged amount for a fund campaign.
 
@@ -15,6 +15,10 @@ Resolves the total pledged amount for a fund campaign.
 ### parent
 
 The parent FundCampaign object.
+
+#### amountRaised
+
+`number`
 
 #### createdAt
 
@@ -76,4 +80,4 @@ The GraphQL context.
 
 `Promise`\<`bigint`\>
 
-The total pledged amount as a BigInt.
+- The total pledged amount as a BigInt.

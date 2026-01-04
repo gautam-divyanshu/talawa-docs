@@ -6,4 +6,4 @@
 
 > `const` **recurrenceRulesTableRelations**: `Relations`\<`"recurrence_rules"`, \{ `baseRecurringEvent`: `One`\<`"events"`, `true`\>; `creator`: `One`\<`"users"`, `true`\>; `organization`: `One`\<`"organizations"`, `true`\>; `updater`: `One`\<`"users"`, `false`\>; \}\>
 
-Defined in: [src/drizzle/tables/recurrenceRules.ts:200](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/drizzle/tables/recurrenceRules.ts#L200)
+Defined in: [src/drizzle/tables/recurrenceRules.ts:200](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/drizzle/tables/recurrenceRules.ts#L200)

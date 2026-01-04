@@ -6,6 +6,6 @@
 
 > `const` **chatMembershipsTable**: `PgTableWithColumns`\<\{ \}\>
 
-Defined in: [src/drizzle/tables/chatMemberships.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/aa036083713a382be03ddad8b72207946e5ffeb4/src/drizzle/tables/chatMemberships.ts#L18)
+Defined in: [src/drizzle/tables/chatMemberships.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/drizzle/tables/chatMemberships.ts#L18)
 
 Drizzle orm postgres table definition for chat memberships.
