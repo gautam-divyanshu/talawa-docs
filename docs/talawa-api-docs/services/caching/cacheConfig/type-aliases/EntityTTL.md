@@ -6,17 +6,25 @@
 
 > **EntityTTL** = `object`
 
-Defined in: [src/services/caching/cacheConfig.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/services/caching/cacheConfig.ts#L10)
+Defined in: [src/services/caching/cacheConfig.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/services/caching/cacheConfig.ts#L10)
 
 TTL configuration for different entity types (in seconds).
 
 ## Properties
 
+### actionItem
+
+> **actionItem**: `number`
+
+Defined in: [src/services/caching/cacheConfig.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/services/caching/cacheConfig.ts#L15)
+
+***
+
 ### event
 
 > **event**: `number`
 
-Defined in: [src/services/caching/cacheConfig.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/services/caching/cacheConfig.ts#L13)
+Defined in: [src/services/caching/cacheConfig.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/services/caching/cacheConfig.ts#L13)
 
 ***
 
@@ -24,7 +32,7 @@ Defined in: [src/services/caching/cacheConfig.ts:13](https://github.com/Palisado
 
 > **organization**: `number`
 
-Defined in: [src/services/caching/cacheConfig.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/services/caching/cacheConfig.ts#L12)
+Defined in: [src/services/caching/cacheConfig.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/services/caching/cacheConfig.ts#L12)
 
 ***
 
@@ -32,7 +40,7 @@ Defined in: [src/services/caching/cacheConfig.ts:12](https://github.com/Palisado
 
 > **post**: `number`
 
-Defined in: [src/services/caching/cacheConfig.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/services/caching/cacheConfig.ts#L14)
+Defined in: [src/services/caching/cacheConfig.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/services/caching/cacheConfig.ts#L14)
 
 ***
 
@@ -40,4 +48,4 @@ Defined in: [src/services/caching/cacheConfig.ts:14](https://github.com/Palisado
 
 > **user**: `number`
 
-Defined in: [src/services/caching/cacheConfig.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/services/caching/cacheConfig.ts#L11)
+Defined in: [src/services/caching/cacheConfig.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/services/caching/cacheConfig.ts#L11)

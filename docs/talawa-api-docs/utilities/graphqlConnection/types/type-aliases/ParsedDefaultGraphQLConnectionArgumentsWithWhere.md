@@ -6,7 +6,7 @@
 
 > **ParsedDefaultGraphQLConnectionArgumentsWithWhere**\<`Cursor`, `Where`\> = [`ParsedDefaultGraphQLConnectionArguments`](ParsedDefaultGraphQLConnectionArguments.md)\<`Cursor`\> & `object`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/graphqlConnection/types.ts#L26)
+Defined in: [src/utilities/graphqlConnection/types.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/utilities/graphqlConnection/types.ts#L26)
 
 Type of the object containing the parsed default arguments of a graphql connection with where filtering.
 Extends the base connection arguments with a generic where type.

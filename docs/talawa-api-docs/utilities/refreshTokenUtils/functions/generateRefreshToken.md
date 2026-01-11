@@ -6,7 +6,7 @@
 
 > **generateRefreshToken**(): `string`
 
-Defined in: [src/utilities/refreshTokenUtils.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/refreshTokenUtils.ts#L17)
+Defined in: [src/utilities/refreshTokenUtils.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/utilities/refreshTokenUtils.ts#L17)
 
 Generates a cryptographically secure random refresh token.
 

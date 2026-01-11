@@ -6,7 +6,7 @@
 
 > **revokeAllUserRefreshTokens**(`drizzleClient`, `userId`): `Promise`\<`number`\>
 
-Defined in: [src/utilities/refreshTokenUtils.ts:129](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/refreshTokenUtils.ts#L129)
+Defined in: [src/utilities/refreshTokenUtils.ts:129](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/utilities/refreshTokenUtils.ts#L129)
 
 Revokes all refresh tokens for a user (useful for logout from all devices).
 

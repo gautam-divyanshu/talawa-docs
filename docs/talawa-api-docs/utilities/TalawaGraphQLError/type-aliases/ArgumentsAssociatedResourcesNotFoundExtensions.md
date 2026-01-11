@@ -6,7 +6,7 @@
 
 > **ArgumentsAssociatedResourcesNotFoundExtensions** = `object`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/TalawaGraphQLError.ts#L32)
+Defined in: [src/utilities/TalawaGraphQLError.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/utilities/TalawaGraphQLError.ts#L32)
 
 When resources associated to the provided graphql arguments cannot be not found.
 
@@ -37,7 +37,7 @@ throw new TalawaGraphQLError({
 
 > **code**: `"arguments_associated_resources_not_found"`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/TalawaGraphQLError.ts#L33)
+Defined in: [src/utilities/TalawaGraphQLError.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/utilities/TalawaGraphQLError.ts#L33)
 
 ***
 
@@ -45,7 +45,7 @@ Defined in: [src/utilities/TalawaGraphQLError.ts:33](https://github.com/Palisado
 
 > **issues**: `object`[]
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/TalawaGraphQLError.ts#L34)
+Defined in: [src/utilities/TalawaGraphQLError.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/utilities/TalawaGraphQLError.ts#L34)
 
 #### argumentPath
 

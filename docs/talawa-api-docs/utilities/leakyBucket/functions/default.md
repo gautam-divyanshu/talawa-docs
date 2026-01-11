@@ -4,9 +4,9 @@
 
 # Function: default()
 
-> **default**(`fastify`, `key`, `capacity`, `refillRate`, `cost`): `Promise`\<`boolean`\>
+> **default**(`fastify`, `key`, `capacity`, `refillRate`, `cost`, `logger`): `Promise`\<`boolean`\>
 
-Defined in: [src/utilities/leakyBucket.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/leakyBucket.ts#L13)
+Defined in: [src/utilities/leakyBucket.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/utilities/leakyBucket.ts#L15)
 
 Implements a leaky bucket rate limiter.
 
@@ -41,6 +41,12 @@ The rate at which tokens are added to the bucket.
 `number`
 
 The cost in tokens for each request.
+
+### logger
+
+[`AppLogger`](../../logging/logger/type-aliases/AppLogger.md)
+
+The logger instance.
 
 ## Returns
 

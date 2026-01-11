@@ -6,7 +6,7 @@
 
 > **getEventType**(`rule`): `"NEVER_ENDING"` \| `"COUNT_BASED"` \| `"END_DATE_BASED"` \| `"HYBRID"`
 
-Defined in: [src/utilities/recurringEvent/types.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/utilities/recurringEvent/types.ts#L58)
+Defined in: [src/utilities/recurringEvent/types.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/utilities/recurringEvent/types.ts#L58)
 
 Classifies a recurrence rule into one of four types: "NEVER_ENDING", "COUNT_BASED",
 "END_DATE_BASED", or "HYBRID". This helps in understanding how the recurrence

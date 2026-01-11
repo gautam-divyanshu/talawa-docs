@@ -6,7 +6,7 @@
 
 > **executePostProcessing**(`executionResults`, `_metrics`, `config`, `deps`): `Promise`\<[`PostProcessingResult`](../interfaces/PostProcessingResult.md)\>
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/workers/eventGeneration/postProcessor.ts#L30)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/workers/eventGeneration/postProcessor.ts#L30)
 
 Executes post-processing tasks after the materialization of event instances is complete.
 This includes operations like cleaning up old data and logging final statistics.

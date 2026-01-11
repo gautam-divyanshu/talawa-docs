@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/Event/organization
+
+## Functions
+
+- [resolveEventOrganization](functions/resolveEventOrganization.md)

@@ -6,7 +6,7 @@
 
 > **resolveCreatedAt**(`parent`, `_args`, `ctx`): `Promise`\<`Date`\>
 
-Defined in: [src/graphql/types/ActionItem/createdAt.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/graphql/types/ActionItem/createdAt.ts#L11)
+Defined in: [src/graphql/types/ActionItem/createdAt.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/graphql/types/ActionItem/createdAt.ts#L11)
 
 Resolver for the createdAt field on ActionItem.
 Returns the createdAt timestamp if the current user is authenticated

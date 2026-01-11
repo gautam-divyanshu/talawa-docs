@@ -6,6 +6,8 @@
 
 ## Interfaces
 
+- [CacheWrapperLogger](interfaces/CacheWrapperLogger.md)
+- [CacheWrapperMetrics](interfaces/CacheWrapperMetrics.md)
 - [WrapWithCacheOptions](interfaces/WrapWithCacheOptions.md)
 
 ## Functions

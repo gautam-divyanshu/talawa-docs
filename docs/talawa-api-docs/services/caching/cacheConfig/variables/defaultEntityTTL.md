@@ -6,6 +6,6 @@
 
 > `const` **defaultEntityTTL**: [`EntityTTL`](../type-aliases/EntityTTL.md)
 
-Defined in: [src/services/caching/cacheConfig.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/services/caching/cacheConfig.ts#L20)
+Defined in: [src/services/caching/cacheConfig.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/services/caching/cacheConfig.ts#L21)
 
 Default TTL values per entity type.

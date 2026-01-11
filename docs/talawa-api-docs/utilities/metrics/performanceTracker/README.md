@@ -7,6 +7,7 @@
 ## Interfaces
 
 - [PerformanceTracker](interfaces/PerformanceTracker.md)
+- [PerformanceTrackerOptions](interfaces/PerformanceTrackerOptions.md)
 
 ## Type Aliases
 

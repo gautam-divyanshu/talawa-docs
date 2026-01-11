@@ -6,7 +6,7 @@
 
 > **cleanupSpecificOrganization**(`organizationId`, `drizzleClient`, `logger`): `Promise`\<\{ `instancesDeleted`: `number`; `retentionCutoffDate`: `Date`; \}\>
 
-Defined in: [src/workers/eventCleanupWorker.ts:167](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/workers/eventCleanupWorker.ts#L167)
+Defined in: [src/workers/eventCleanupWorker.ts:167](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/workers/eventCleanupWorker.ts#L167)
 
 Manually triggers a cleanup of old instances for a specific organization.
 

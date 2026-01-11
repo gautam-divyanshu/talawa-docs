@@ -6,7 +6,7 @@
 
 > **validateResolvedInstance**(`resolvedInstance`, `logger`): `boolean`
 
-Defined in: [src/services/eventGeneration/instanceResolver.ts:264](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/services/eventGeneration/instanceResolver.ts#L264)
+Defined in: [src/services/eventGeneration/instanceResolver.ts:264](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/services/eventGeneration/instanceResolver.ts#L264)
 
 Validates that a resolved generated instance contains all required fields.
 This function helps ensure data integrity before the instance is used elsewhere.

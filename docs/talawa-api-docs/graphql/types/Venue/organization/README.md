@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/Venue/organization
+
+## Functions
+
+- [resolveOrganization](functions/resolveOrganization.md)

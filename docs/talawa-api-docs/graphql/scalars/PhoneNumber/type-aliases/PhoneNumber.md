@@ -6,7 +6,7 @@
 
 > **PhoneNumber** = `object`
 
-Defined in: [src/graphql/scalars/PhoneNumber.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/graphql/scalars/PhoneNumber.ts#L12)
+Defined in: [src/graphql/scalars/PhoneNumber.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/graphql/scalars/PhoneNumber.ts#L12)
 
 `PhoneNumber` scalar type for pothos schema.
 
@@ -16,7 +16,7 @@ Defined in: [src/graphql/scalars/PhoneNumber.ts:12](https://github.com/Palisadoe
 
 > **Input**: `string`
 
-Defined in: [src/graphql/scalars/PhoneNumber.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/graphql/scalars/PhoneNumber.ts#L13)
+Defined in: [src/graphql/scalars/PhoneNumber.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/graphql/scalars/PhoneNumber.ts#L13)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [src/graphql/scalars/PhoneNumber.ts:13](https://github.com/Palisadoe
 
 > **Output**: `string`
 
-Defined in: [src/graphql/scalars/PhoneNumber.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/4fc4e12ad9f960600b3078451d438c08033538a9/src/graphql/scalars/PhoneNumber.ts#L14)
+Defined in: [src/graphql/scalars/PhoneNumber.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/graphql/scalars/PhoneNumber.ts#L14)
