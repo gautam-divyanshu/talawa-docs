@@ -6,7 +6,7 @@
 
 > **FeedbackStats**(`__namedParameters`): `Element`
 
-Defined in: [components/EventStats/Statistics/Feedback/Feedback.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/EventStats/Statistics/Feedback/Feedback.tsx#L44)
+Defined in: [components/EventStats/Statistics/Feedback/Feedback.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/EventStats/Statistics/Feedback/Feedback.tsx#L44)
 
 ## Parameters
 

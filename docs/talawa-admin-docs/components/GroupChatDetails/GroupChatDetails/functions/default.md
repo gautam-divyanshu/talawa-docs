@@ -4,20 +4,16 @@
 
 # Function: default()
 
-> **default**(`__namedParameters`): `JSX.Element`
+> **default**(`__namedParameters`): `Element`
 
-Defined in: [src/components/GroupChatDetails/GroupChatDetails.tsx:120](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/GroupChatDetails/GroupChatDetails.tsx#L120)
-
-Component for displaying and managing group chat details.
+Defined in: [components/GroupChatDetails/GroupChatDetails.tsx:79](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/GroupChatDetails/GroupChatDetails.tsx#L79)
 
 ## Parameters
 
 ### \_\_namedParameters
 
-`InterfaceGoroupChatDetailsProps`
+`InterfaceGroupChatDetailsProps`
 
 ## Returns
 
-`JSX.Element`
-
-The rendered component.
+`Element`

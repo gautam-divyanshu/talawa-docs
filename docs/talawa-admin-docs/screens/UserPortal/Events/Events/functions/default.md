@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/UserPortal/Events/Events.tsx:75](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/UserPortal/Events/Events.tsx#L75)
+Defined in: [screens/UserPortal/Events/Events.tsx:74](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/UserPortal/Events/Events.tsx#L74)
 
 ## Returns
 

@@ -6,7 +6,7 @@
 
 > `const` **emptyProps**: `object`
 
-Defined in: [components/EventStats/EventStatsMocks.ts:103](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/EventStats/EventStatsMocks.ts#L103)
+Defined in: [components/EventStats/EventStatsMocks.ts:103](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/EventStats/EventStatsMocks.ts#L103)
 
 ## Type Declaration
 

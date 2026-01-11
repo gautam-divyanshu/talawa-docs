@@ -4,7 +4,7 @@
 
 # Interface: InterfaceEditUserTagModalProps
 
-Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L40)
+Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L34)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:40](ht
 
 > **editUserTagModalIsOpen**: `boolean`
 
-Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L41)
+Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L35)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:41](ht
 
 > **handleEditUserTag**: (`e`) => `Promise`\<`void`\>
 
-Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L45)
+Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L39)
 
 #### Parameters
 
@@ -38,7 +38,7 @@ Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:45](ht
 
 > **hideEditUserTagModal**: () => `void`
 
-Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L42)
+Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L36)
 
 #### Returns
 
@@ -50,7 +50,7 @@ Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:42](ht
 
 > **newTagName**: `string`
 
-Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L43)
+Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L37)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:43](ht
 
 > **setNewTagName**: (`state`) => `void`
 
-Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L44)
+Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L38)
 
 #### Parameters
 
@@ -76,7 +76,7 @@ Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:44](ht
 
 > **t**: `TFunction`\<`"translation"`, `"manageTag"`\>
 
-Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L46)
+Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L40)
 
 ***
 
@@ -84,4 +84,4 @@ Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:46](ht
 
 > **tCommon**: `TFunction`\<`"common"`, `undefined`\>
 
-Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L47)
+Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L41)

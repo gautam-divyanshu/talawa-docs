@@ -6,4 +6,4 @@
 
 > `const` **MOCKS**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `confirmNewPassword`: `string`; `newPassword`: `string`; `previousPassword`: `string`; \}; \}; `result`: \{ `data`: \{ `users`: `object`[]; \}; `errors?`: `undefined`; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `confirmNewPassword`: `string`; `newPassword`: `string`; `previousPassword`: `string`; \}; \}; `result`: \{ `data?`: `undefined`; `errors`: `object`[]; \}; \})[]
 
-Defined in: [components/UserPasswordUpdate/UserPasswordUpdateMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/UserPasswordUpdate/UserPasswordUpdateMocks.ts#L3)
+Defined in: [components/UserPasswordUpdate/UserPasswordUpdateMocks.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/UserPasswordUpdate/UserPasswordUpdateMocks.ts#L3)

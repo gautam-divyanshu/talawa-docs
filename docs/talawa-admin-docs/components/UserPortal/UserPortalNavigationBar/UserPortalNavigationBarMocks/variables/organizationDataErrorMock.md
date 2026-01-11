@@ -6,7 +6,7 @@
 
 > `const` **organizationDataErrorMock**: `object`
 
-Defined in: [components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts:108](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts#L108)
+Defined in: [components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts:108](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts#L108)
 
 Mock GraphQL error response for fetching organization basic data
 Used to test error handling when organization query fails

@@ -6,6 +6,9 @@
 
 ## Variables
 
+- [logoutErrorMock](variables/logoutErrorMock.md)
+- [logoutMock](variables/logoutMock.md)
+- [logoutNetworkErrorMock](variables/logoutNetworkErrorMock.md)
 - [mockNavigationLinksBase](variables/mockNavigationLinksBase.md)
 - [mockOrganizationId](variables/mockOrganizationId.md)
 - [mockOrganizationName](variables/mockOrganizationName.md)
@@ -14,9 +17,6 @@
 - [organizationDataErrorMock](variables/organizationDataErrorMock.md)
 - [organizationDataMock](variables/organizationDataMock.md)
 - [organizationDataNullMock](variables/organizationDataNullMock.md)
-- [revokeRefreshTokenErrorMock](variables/revokeRefreshTokenErrorMock.md)
-- [revokeRefreshTokenMock](variables/revokeRefreshTokenMock.md)
-- [revokeRefreshTokenNetworkErrorMock](variables/revokeRefreshTokenNetworkErrorMock.md)
 
 ## Functions
 

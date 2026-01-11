@@ -6,4 +6,4 @@
 
 > `const` **default**: `React.FC`\<[`InterfaceEditUserTagModalProps`](../interfaces/InterfaceEditUserTagModalProps.md)\>
 
-Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L50)
+Defined in: [screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/ManageTag/editModal/EditUserTagModal.tsx#L44)

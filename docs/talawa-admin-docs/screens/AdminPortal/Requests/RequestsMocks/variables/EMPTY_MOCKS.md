@@ -6,4 +6,4 @@
 
 > `const` **EMPTY\_MOCKS**: (\{ `request`: \{ `query`: `DocumentNode`; `variables`: \{ `first`: `number`; `input`: \{ `id`: `string`; \}; `name_contains`: `string`; `skip`: `number`; \}; \}; `result`: \{ `data`: \{ `organization`: \{ `id`: `string`; `membershipRequests`: `any`[]; \}; `organizations?`: `undefined`; \}; \}; \} \| \{ `request`: \{ `query`: `DocumentNode`; `variables?`: `undefined`; \}; `result`: \{ `data`: \{ `organization?`: `undefined`; `organizations`: `any`[]; \}; \}; \})[]
 
-Defined in: [screens/AdminPortal/Requests/RequestsMocks.ts:449](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/Requests/RequestsMocks.ts#L449)
+Defined in: [screens/AdminPortal/Requests/RequestsMocks.ts:316](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/Requests/RequestsMocks.ts#L316)

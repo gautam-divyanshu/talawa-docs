@@ -6,7 +6,7 @@
 
 > `const` **updateActionItemMutation**: `object`
 
-Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:331](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L331)
+Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:334](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L334)
 
 ## Type Declaration
 
@@ -64,4 +64,4 @@ Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:331
 
 #### result.data.updateActionItem.updatedAt
 
-> **updatedAt**: `string` = `'2025-07-01T07:49:24Z'`
+> **updatedAt**: `string`

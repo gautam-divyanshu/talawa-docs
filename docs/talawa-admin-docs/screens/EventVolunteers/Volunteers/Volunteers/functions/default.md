@@ -4,16 +4,24 @@
 
 # Function: default()
 
-> **default**(): `JSX.Element`
+> **default**(): `Element`
 
-Defined in: [src/screens/EventVolunteers/Volunteers/Volunteers.tsx:76](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/EventVolunteers/Volunteers/Volunteers.tsx#L76)
+Defined in: [screens/EventVolunteers/Volunteers/Volunteers.tsx:106](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/EventVolunteers/Volunteers/Volunteers.tsx#L106)
 
-Component for managing and displaying event volunteers related to an event.
+Renders the Event Volunteers screen.
 
-This component allows users to view, filter, sort, and create volunteers. It also handles fetching and displaying related data such as volunteer acceptance status, etc.
+Responsibilities:
+- Displays volunteer listings with status chips
+- Supports search and filter via SearchFilterBar
+- Shows volunteer avatars and hours volunteered
+- Handles add, view, and delete volunteer flows
+- Integrates with DataGrid for table display
+
+Localization:
+- Uses `common` and `eventVolunteers` namespaces
 
 ## Returns
 
-`JSX.Element`
+`Element`
 
-The rendered component.
+JSX.Element

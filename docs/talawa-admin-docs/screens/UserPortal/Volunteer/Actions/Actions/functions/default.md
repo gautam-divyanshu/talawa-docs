@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/UserPortal/Volunteer/Actions/Actions.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/UserPortal/Volunteer/Actions/Actions.tsx#L35)
+Defined in: [screens/UserPortal/Volunteer/Actions/Actions.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/UserPortal/Volunteer/Actions/Actions.tsx#L35)
 
 Component for displaying and managing action items assigned to the current volunteer.
 Provides functionality to view action details and update completion status.

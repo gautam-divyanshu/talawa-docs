@@ -1,0 +1,22 @@
+[**talawa-admin**](../../../../../../../README.md)
+
+***
+
+# Function: default()
+
+> **default**(): `Element`
+
+Defined in: [components/AdminPortal/OrgSettings/General/DeleteOrg/DeleteOrg.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/AdminPortal/OrgSettings/General/DeleteOrg/DeleteOrg.tsx#L28)
+
+A component for deleting an organization.
+
+It displays a card with a delete button. When the delete button is clicked,
+a modal appears asking for confirmation. Depending on the type of organization
+(sample or regular), it performs the delete operation and shows appropriate
+success or error messages.
+
+## Returns
+
+`Element`
+
+JSX.Element - The rendered component with delete functionality.

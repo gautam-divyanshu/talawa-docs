@@ -6,7 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [components/Pagination/PaginationList/PaginationList.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/Pagination/PaginationList/PaginationList.tsx#L50)
+Defined in: [components/Pagination/PaginationList/PaginationList.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/Pagination/PaginationList/PaginationList.tsx#L50)
 
 ## Parameters
 

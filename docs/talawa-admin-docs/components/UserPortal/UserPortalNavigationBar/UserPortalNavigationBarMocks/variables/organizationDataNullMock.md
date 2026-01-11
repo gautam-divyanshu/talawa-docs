@@ -6,7 +6,7 @@
 
 > `const` **organizationDataNullMock**: `object`
 
-Defined in: [components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts:148](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts#L148)
+Defined in: [components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts:148](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts#L148)
 
 Mock GraphQL null data response for organization query
 Used to test fallback behavior when data is null

@@ -6,4 +6,4 @@
 
 > `const` **CustomTableCell**: `React.FC`\<\{ `eventId`: `string`; \}\>
 
-Defined in: [components/MemberActivity/Modal/CustomCell/customTableCell.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/MemberActivity/Modal/CustomCell/customTableCell.tsx#L34)
+Defined in: [components/MemberActivity/Modal/CustomCell/customTableCell.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/MemberActivity/Modal/CustomCell/customTableCell.tsx#L34)

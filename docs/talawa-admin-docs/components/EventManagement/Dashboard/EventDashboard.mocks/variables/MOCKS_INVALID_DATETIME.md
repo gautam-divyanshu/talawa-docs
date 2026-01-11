@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_INVALID\_DATETIME**: `object`[]
 
-Defined in: [components/EventManagement/Dashboard/EventDashboard.mocks.ts:128](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/EventManagement/Dashboard/EventDashboard.mocks.ts#L128)
+Defined in: [components/EventManagement/Dashboard/EventDashboard.mocks.ts:156](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/EventManagement/Dashboard/EventDashboard.mocks.ts#L156)
 
 ## Type Declaration
 
@@ -72,7 +72,7 @@ Defined in: [components/EventManagement/Dashboard/EventDashboard.mocks.ts:128](h
 
 #### result.data.event.endAt
 
-> **endAt**: `string` = `'2024-01-02T17:00:00Z'`
+> **endAt**: `string`
 
 #### result.data.event.endTime
 
@@ -100,7 +100,7 @@ Defined in: [components/EventManagement/Dashboard/EventDashboard.mocks.ts:128](h
 
 #### result.data.event.startAt
 
-> **startAt**: `string` = `'2024-01-01T09:00:00Z'`
+> **startAt**: `string`
 
 #### result.data.event.startTime
 

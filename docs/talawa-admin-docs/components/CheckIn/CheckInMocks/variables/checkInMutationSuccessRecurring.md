@@ -6,7 +6,7 @@
 
 > `const` **checkInMutationSuccessRecurring**: `object`[]
 
-Defined in: [components/CheckIn/CheckInMocks.ts:103](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/components/CheckIn/CheckInMocks.ts#L103)
+Defined in: [components/CheckIn/CheckInMocks.ts:104](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/CheckIn/CheckInMocks.ts#L104)
 
 ## Type Declaration
 
@@ -44,7 +44,7 @@ Defined in: [components/CheckIn/CheckInMocks.ts:103](https://github.com/Palisado
 
 #### result.data.checkIn.checkinTime
 
-> **checkinTime**: `string` = `'2023-01-01T08:00:00Z'`
+> **checkinTime**: `string`
 
 #### result.data.checkIn.checkoutTime
 

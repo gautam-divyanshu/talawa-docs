@@ -6,7 +6,7 @@
 
 > **generateMockUser**(`id`, `firstName`, `lastName`, `email`, `createdAt`, `isSuperAdmin`): `InterfaceMockUser`
 
-Defined in: [screens/AdminPortal/Users/Organization.mocks.ts:236](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/AdminPortal/Users/Organization.mocks.ts#L236)
+Defined in: [screens/AdminPortal/Users/Organization.mocks.ts:236](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/Users/Organization.mocks.ts#L236)
 
 ## Parameters
 

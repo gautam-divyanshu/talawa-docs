@@ -6,13 +6,13 @@
 
 > `const` **actionItemCategory2**: `object`
 
-Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L22)
+Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/OrganizationActionItems/OrganizationActionItem.mocks.ts#L25)
 
 ## Type Declaration
 
 ### createdAt
 
-> **createdAt**: `string` = `'2024-08-25'`
+> **createdAt**: `string`
 
 ### creatorId
 
@@ -36,4 +36,4 @@ Defined in: [screens/OrganizationActionItems/OrganizationActionItem.mocks.ts:22]
 
 ### updatedAt
 
-> **updatedAt**: `string` = `'2024-08-25'`
+> **updatedAt**: `string`

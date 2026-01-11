@@ -6,7 +6,7 @@
 
 > **createEventVolunteer**(`id`, `name`, `overrides`): `object`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc3abee3ec7208447f84a5286dfe9cc9bbdaa02a/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L28)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L30)
 
 ## Parameters
 
