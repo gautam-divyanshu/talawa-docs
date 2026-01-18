@@ -4,7 +4,7 @@
 
 # Class: PluginLifecycle
 
-Defined in: [src/plugin/manager/lifecycle.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/plugin/manager/lifecycle.ts#L40)
+Defined in: [src/plugin/manager/lifecycle.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/manager/lifecycle.ts#L40)
 
 ## Constructors
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/manager/lifecycle.ts:40](https://github.com/PalisadoesFo
 
 > **new PluginLifecycle**(`pluginContext`, `loadedPlugins`, `extensionRegistry`): `PluginLifecycle`
 
-Defined in: [src/plugin/manager/lifecycle.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/plugin/manager/lifecycle.ts#L41)
+Defined in: [src/plugin/manager/lifecycle.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/manager/lifecycle.ts#L41)
 
 #### Parameters
 
@@ -38,7 +38,7 @@ Defined in: [src/plugin/manager/lifecycle.ts:41](https://github.com/PalisadoesFo
 
 > **activatePlugin**(`pluginId`, `pluginManager`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/lifecycle.ts:132](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/plugin/manager/lifecycle.ts#L132)
+Defined in: [src/plugin/manager/lifecycle.ts:137](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/manager/lifecycle.ts#L137)
 
 Activate a plugin - trigger schema rebuild
 
@@ -62,7 +62,7 @@ Activate a plugin - trigger schema rebuild
 
 > **deactivatePlugin**(`pluginId`, `pluginManager`, `dropTables`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/lifecycle.ts:188](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/plugin/manager/lifecycle.ts#L188)
+Defined in: [src/plugin/manager/lifecycle.ts:196](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/manager/lifecycle.ts#L196)
 
 Deactivate a plugin - trigger schema rebuild
 
@@ -90,7 +90,7 @@ Deactivate a plugin - trigger schema rebuild
 
 > **getPluginModule**(`pluginId`): `Promise`\<[`IPluginLifecycle`](../../../types/interfaces/IPluginLifecycle.md) \| `null`\>
 
-Defined in: [src/plugin/manager/lifecycle.ts:375](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/plugin/manager/lifecycle.ts#L375)
+Defined in: [src/plugin/manager/lifecycle.ts:397](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/manager/lifecycle.ts#L397)
 
 Get plugin module for lifecycle hooks
 
@@ -110,7 +110,7 @@ Get plugin module for lifecycle hooks
 
 > **installPlugin**(`pluginId`, `pluginManager`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/lifecycle.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/plugin/manager/lifecycle.ts#L50)
+Defined in: [src/plugin/manager/lifecycle.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/manager/lifecycle.ts#L50)
 
 Install a plugin - install dependencies and create plugin-defined databases
 
@@ -134,7 +134,7 @@ Install a plugin - install dependencies and create plugin-defined databases
 
 > **removeFromExtensionRegistry**(`pluginId`): `void`
 
-Defined in: [src/plugin/manager/lifecycle.ts:395](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/plugin/manager/lifecycle.ts#L395)
+Defined in: [src/plugin/manager/lifecycle.ts:417](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/manager/lifecycle.ts#L417)
 
 Remove plugin from extension registry
 
@@ -154,7 +154,7 @@ Remove plugin from extension registry
 
 > **uninstallPlugin**(`pluginId`, `pluginManager`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/lifecycle.ts:90](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/plugin/manager/lifecycle.ts#L90)
+Defined in: [src/plugin/manager/lifecycle.ts:95](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/manager/lifecycle.ts#L95)
 
 Uninstall a plugin - remove tables and cleanup
 
@@ -178,7 +178,7 @@ Uninstall a plugin - remove tables and cleanup
 
 > **unloadPlugin**(`pluginId`, `pluginManager`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/manager/lifecycle.ts:521](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/plugin/manager/lifecycle.ts#L521)
+Defined in: [src/plugin/manager/lifecycle.ts:546](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/manager/lifecycle.ts#L546)
 
 Unload a plugin - remove from memory without database changes
 

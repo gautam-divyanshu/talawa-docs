@@ -6,7 +6,7 @@
 
 > **getClearAccessTokenCookieOptions**(`options`): `CookieSerializeOptions`
 
-Defined in: [src/utilities/cookieConfig.ts:92](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/utilities/cookieConfig.ts#L92)
+Defined in: [src/utilities/cookieConfig.ts:92](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/cookieConfig.ts#L92)
 
 Generates cookie options for clearing/removing access token cookies.
 Used during logout to invalidate the access token cookie.

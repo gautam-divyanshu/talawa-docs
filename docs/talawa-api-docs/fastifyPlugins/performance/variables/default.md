@@ -6,12 +6,13 @@
 
 > **default**: (`app`) => `Promise`\<`void`\>
 
-Defined in: [src/fastifyPlugins/performance.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/fastifyPlugins/performance.ts#L31)
+Defined in: [src/fastifyPlugins/performance.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/fastifyPlugins/performance.ts#L57)
 
 Fastify plugin that adds performance tracking to all requests.
 - Attaches a performance tracker to each request
 - Adds Server-Timing headers to responses
-- Provides /metrics/perf endpoint for recent performance snapshots
+- Provides /metrics/perf endpoint for recent performance snapshots (requires authentication)
+- Exposes getMetricsSnapshots for background worker metrics aggregation
 
 ## Parameters
 

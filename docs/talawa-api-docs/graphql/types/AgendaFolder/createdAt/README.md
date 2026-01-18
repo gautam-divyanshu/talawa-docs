@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/AgendaFolder/createdAt
+
+## Functions
+
+- [resolveCreatedAt](functions/resolveCreatedAt.md)

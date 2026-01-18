@@ -4,6 +4,10 @@
 
 # config/emailConfig
 
+## Type Aliases
+
+- [EmailEnvConfig](type-aliases/EmailEnvConfig.md)
+
 ## Variables
 
-- [emailConfig](variables/emailConfig.md)
+- [rawEmailEnvConfig](variables/rawEmailEnvConfig.md)

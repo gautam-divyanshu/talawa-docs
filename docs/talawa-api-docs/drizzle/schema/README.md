@@ -66,6 +66,18 @@ Re-exports [advertisementsTableRelations](../tables/advertisements/variables/adv
 
 ***
 
+### agendaCategoriesTable
+
+Re-exports [agendaCategoriesTable](../tables/agendaCategories/variables/agendaCategoriesTable.md)
+
+***
+
+### agendaCategoriesTableRelations
+
+Re-exports [agendaCategoriesTableRelations](../tables/agendaCategories/variables/agendaCategoriesTableRelations.md)
+
+***
+
 ### agendaFoldersTable
 
 Re-exports [agendaFoldersTable](../tables/agendaFolders/variables/agendaFoldersTable.md)
@@ -75,6 +87,18 @@ Re-exports [agendaFoldersTable](../tables/agendaFolders/variables/agendaFoldersT
 ### agendaFoldersTableRelations
 
 Re-exports [agendaFoldersTableRelations](../tables/agendaFolders/variables/agendaFoldersTableRelations.md)
+
+***
+
+### agendaItemAttachmentsTable
+
+Re-exports [agendaItemAttachmentsTable](../tables/agendaItemAttachments/variables/agendaItemAttachmentsTable.md)
+
+***
+
+### agendaItemAttachmentsTableRelations
+
+Re-exports [agendaItemAttachmentsTableRelations](../tables/agendaItemAttachments/variables/agendaItemAttachmentsTableRelations.md)
 
 ***
 
@@ -195,6 +219,18 @@ Re-exports [emailNotificationsTable](../tables/EmailNotification/variables/email
 ### emailNotificationsTableRelations
 
 Re-exports [emailNotificationsTableRelations](../tables/EmailNotification/variables/emailNotificationsTableRelations.md)
+
+***
+
+### emailVerificationTokensTable
+
+Re-exports [emailVerificationTokensTable](../tables/emailVerificationTokens/variables/emailVerificationTokensTable.md)
+
+***
+
+### emailVerificationTokensTableRelations
+
+Re-exports [emailVerificationTokensTableRelations](../tables/emailVerificationTokens/variables/emailVerificationTokensTableRelations.md)
 
 ***
 
@@ -435,6 +471,18 @@ Re-exports [notificationTemplatesTable](../tables/NotificationTemplate/variables
 ### notificationTemplatesTableRelations
 
 Re-exports [notificationTemplatesTableRelations](../tables/NotificationTemplate/variables/notificationTemplatesTableRelations.md)
+
+***
+
+### oauthAccountsTable
+
+Re-exports [oauthAccountsTable](../tables/oauthAccount/variables/oauthAccountsTable.md)
+
+***
+
+### oauthAccountsTableRelations
+
+Re-exports [oauthAccountsTableRelations](../tables/oauthAccount/variables/oauthAccountsTableRelations.md)
 
 ***
 

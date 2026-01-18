@@ -17,3 +17,4 @@
 ## Functions
 
 - [createPerformanceTracker](functions/createPerformanceTracker.md)
+- [isPerformanceTracker](functions/isPerformanceTracker.md)

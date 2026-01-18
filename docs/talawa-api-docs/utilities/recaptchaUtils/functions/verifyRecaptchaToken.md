@@ -6,7 +6,7 @@
 
 > **verifyRecaptchaToken**(`token`, `secretKey`): `Promise`\<`boolean`\>
 
-Defined in: [src/utilities/recaptchaUtils.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/utilities/recaptchaUtils.ts#L13)
+Defined in: [src/utilities/recaptchaUtils.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/recaptchaUtils.ts#L14)
 
 Verifies a Google reCAPTCHA v2 token by making a request to Google's verification API.
 

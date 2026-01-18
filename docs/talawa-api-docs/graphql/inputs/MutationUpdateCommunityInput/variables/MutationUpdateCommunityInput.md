@@ -6,4 +6,4 @@
 
 > `const` **MutationUpdateCommunityInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `facebookURL?`: `string` \| `null`; `githubURL?`: `string` \| `null`; `inactivityTimeoutDuration?`: `number` \| `null`; `instagramURL?`: `string` \| `null`; `linkedinURL?`: `string` \| `null`; `logo?`: `Promise`\<`FileUpload`\> \| `null`; `name?`: `string` \| `null`; `redditURL?`: `string` \| `null`; `slackURL?`: `string` \| `null`; `websiteURL?`: `string` \| `null`; `xURL?`: `string` \| `null`; `youtubeURL?`: `string` \| `null`; \}\>
 
-Defined in: [src/graphql/inputs/MutationUpdateCommunityInput.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/graphql/inputs/MutationUpdateCommunityInput.ts#L33)
+Defined in: [src/graphql/inputs/MutationUpdateCommunityInput.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/graphql/inputs/MutationUpdateCommunityInput.ts#L33)

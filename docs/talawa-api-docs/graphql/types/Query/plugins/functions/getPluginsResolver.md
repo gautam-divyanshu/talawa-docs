@@ -6,7 +6,7 @@
 
 > **getPluginsResolver**(`_`, `args`, `ctx`): `Promise`\<`object`[]\>
 
-Defined in: [src/graphql/types/Query/plugins.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/graphql/types/Query/plugins.ts#L50)
+Defined in: [src/graphql/types/Query/plugins.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/graphql/types/Query/plugins.ts#L50)
 
 Resolver for getPlugins
 

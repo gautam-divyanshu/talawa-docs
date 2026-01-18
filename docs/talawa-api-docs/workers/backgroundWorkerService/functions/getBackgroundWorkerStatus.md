@@ -6,7 +6,7 @@
 
 > **getBackgroundWorkerStatus**(): `object`
 
-Defined in: [src/workers/backgroundWorkerService.ts:219](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/workers/backgroundWorkerService.ts#L219)
+Defined in: [src/workers/backgroundWorkerService.ts:325](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/workers/backgroundWorkerService.ts#L325)
 
 Retrieves the current status of the background worker service, including scheduling information.
 
@@ -27,6 +27,14 @@ Retrieves the current status of the background worker service, including schedul
 ### materializationSchedule
 
 > **materializationSchedule**: `string`
+
+### metricsEnabled?
+
+> `optional` **metricsEnabled**: `boolean`
+
+### metricsSchedule?
+
+> `optional` **metricsSchedule**: `string`
 
 ### nextCleanupRun?
 

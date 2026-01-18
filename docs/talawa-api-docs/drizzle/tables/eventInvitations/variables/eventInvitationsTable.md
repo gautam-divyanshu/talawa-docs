@@ -6,7 +6,7 @@
 
 > `const` **eventInvitationsTable**: `PgTableWithColumns`\<\{ \}\>
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/b24a30943e90218609bbe2cec77af89181bb6c56/src/drizzle/tables/eventInvitations.ts#L23)
+Defined in: [src/drizzle/tables/eventInvitations.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/drizzle/tables/eventInvitations.ts#L23)
 
 Table to store event invitations for both users and non-users.
 Invitations are created with an email and a secure token. When

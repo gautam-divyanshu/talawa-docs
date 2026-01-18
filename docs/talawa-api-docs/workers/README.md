@@ -6,6 +6,18 @@
 
 ## References
 
+### AggregatedMetrics
+
+Re-exports [AggregatedMetrics](metrics/types/interfaces/AggregatedMetrics.md)
+
+***
+
+### CacheMetrics
+
+Re-exports [CacheMetrics](metrics/types/interfaces/CacheMetrics.md)
+
+***
+
 ### cleanupOldGeneratedInstances
 
 Re-exports [cleanupOldGeneratedInstances](../services/eventGeneration/windowManager/functions/cleanupOldGeneratedInstances.md)
@@ -144,6 +156,12 @@ Re-exports [JobDiscoveryConfig](eventGeneration/jobDiscovery/interfaces/JobDisco
 
 ***
 
+### OperationMetrics
+
+Re-exports [OperationMetrics](metrics/types/interfaces/OperationMetrics.md)
+
+***
+
 ### PostProcessingConfig
 
 Re-exports [PostProcessingConfig](eventGeneration/postProcessor/interfaces/PostProcessingConfig.md)
@@ -192,6 +210,18 @@ Re-exports [runMaterializationWorkerSafely](backgroundWorkerService/functions/ru
 
 ***
 
+### runMetricsAggregationWorker
+
+Re-exports [runMetricsAggregationWorker](metrics/metricsAggregationWorker/functions/runMetricsAggregationWorker.md)
+
+***
+
+### runMetricsAggregationWorkerSafely
+
+Re-exports [runMetricsAggregationWorkerSafely](backgroundWorkerService/functions/runMetricsAggregationWorkerSafely.md)
+
+***
+
 ### runSingleOrganizationWorker
 
 Re-exports [runSingleOrganizationWorker](eventGeneration/eventGenerationPipeline/functions/runSingleOrganizationWorker.md)
@@ -207,6 +237,12 @@ Re-exports [startBackgroundWorkers](backgroundWorkerService/functions/startBackg
 ### stopBackgroundWorkers
 
 Re-exports [stopBackgroundWorkers](backgroundWorkerService/functions/stopBackgroundWorkers.md)
+
+***
+
+### TimeSeriesMetrics
+
+Re-exports [TimeSeriesMetrics](metrics/types/interfaces/TimeSeriesMetrics.md)
 
 ***
 
