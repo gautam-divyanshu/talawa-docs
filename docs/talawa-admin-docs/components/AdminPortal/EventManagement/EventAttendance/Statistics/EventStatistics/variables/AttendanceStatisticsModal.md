@@ -1,0 +1,9 @@
+[**talawa-admin**](../../../../../../../README.md)
+
+***
+
+# Variable: AttendanceStatisticsModal
+
+> `const` **AttendanceStatisticsModal**: `React.FC`\<`InterfaceAttendanceStatisticsModalProps`\>
+
+Defined in: [components/AdminPortal/EventManagement/EventAttendance/Statistics/EventStatistics.tsx:105](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/AdminPortal/EventManagement/EventAttendance/Statistics/EventStatistics.tsx#L105)

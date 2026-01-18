@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_ERROR\_SUB\_TAGS**: `object`[]
 
-Defined in: [screens/AdminPortal/SubTags/SubTagsMocks.ts:246](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/AdminPortal/SubTags/SubTagsMocks.ts#L246)
+Defined in: [screens/AdminPortal/SubTags/SubTagsMocks.ts:252](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/AdminPortal/SubTags/SubTagsMocks.ts#L252)
 
 ## Type Declaration
 

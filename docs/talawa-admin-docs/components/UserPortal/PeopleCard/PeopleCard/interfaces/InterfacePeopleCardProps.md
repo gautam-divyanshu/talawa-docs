@@ -4,7 +4,7 @@
 
 # Interface: InterfacePeopleCardProps
 
-Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L43)
+Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L40)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:43](https://github.
 
 > **email**: `string`
 
-Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L47)
+Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L44)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:47](https://github.
 
 > **id**: `string`
 
-Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L44)
+Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L41)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:44](https://github.
 
 > **image**: `string`
 
-Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L46)
+Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L43)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:46](https://github.
 
 > **name**: `string`
 
-Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L45)
+Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L42)
 
 ***
 
@@ -44,7 +44,7 @@ Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:45](https://github.
 
 > **role**: `string`
 
-Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L48)
+Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L45)
 
 ***
 
@@ -52,4 +52,4 @@ Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:48](https://github.
 
 > **sno**: `string`
 
-Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L49)
+Defined in: [components/UserPortal/PeopleCard/PeopleCard.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L46)

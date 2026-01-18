@@ -6,7 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [components/AgendaCategory/AgendaCategoryContainer.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/components/AgendaCategory/AgendaCategoryContainer.tsx#L49)
+Defined in: [components/AgendaCategory/AgendaCategoryContainer.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/AgendaCategory/AgendaCategoryContainer.tsx#L49)
 
 ## Parameters
 

@@ -8,6 +8,11 @@
 
 - [InterfacePledgeModal](interfaces/InterfacePledgeModal.md)
 
+## Variables
+
+- [default](variables/default.md)
+
 ## Functions
 
-- [default](functions/default.md)
+- [areOptionsEqual](functions/areOptionsEqual.md)
+- [getMemberLabel](functions/getMemberLabel.md)

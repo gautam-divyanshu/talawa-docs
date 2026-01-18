@@ -6,4 +6,5 @@
 
 ## Functions
 
+- [computeCalendarFromStartDate](functions/computeCalendarFromStartDate.md)
 - [default](functions/default.md)

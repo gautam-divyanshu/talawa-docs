@@ -4,10 +4,12 @@
 
 # screens/AdminPortal/OrganizationFundCampaign/modal/CampaignModal
 
-## Interfaces
-
-- [InterfaceCampaignModal](interfaces/InterfaceCampaignModal.md)
-
 ## Variables
 
 - [default](variables/default.md)
+
+## References
+
+### InterfaceCampaignModal
+
+Re-exports [InterfaceCampaignModal](../types/interfaces/InterfaceCampaignModal.md)

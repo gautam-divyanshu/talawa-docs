@@ -4,6 +4,6 @@
 
 # Variable: userId
 
-> `const` **userId**: `any`
+> `const` **userId**: `unknown`
 
-Defined in: [src/screens/UserPortal/LeaveOrganization/LeaveOrganization.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/LeaveOrganization/LeaveOrganization.tsx#L21)
+Defined in: [screens/UserPortal/LeaveOrganization/LeaveOrganization.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/UserPortal/LeaveOrganization/LeaveOrganization.tsx#L25)

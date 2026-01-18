@@ -6,46 +6,42 @@
 
 > `const` **default**: `React.FC`\<`InterfaceRecurringEventVolunteerModalProps`\>
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/RecurringEventVolunteerModal.tsx:77](https://github.com/PalisadoesFoundation/talawa-admin/blob/8fd8f00df0a90979db5fffb62c8c8045329d3776/src/screens/UserPortal/Volunteer/UpcomingEvents/RecurringEventVolunteerModal.tsx#L77)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/RecurringEventVolunteerModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/UserPortal/Volunteer/UpcomingEvents/RecurringEventVolunteerModal.tsx#L27)
 
-RecurringEventVolunteerModal - A modal component for choosing recurring event volunteer scope
-
-## Param
-
-The component props
+RecurringEventVolunteerModal component
 
 ## Param
 
-Whether the modal should be displayed
+Whether the modal is visible.
 
 ## Param
 
-Function to call when modal should be hidden
+Callback to close the modal.
 
 ## Param
 
-Name of the recurring event
+Name of the event.
 
 ## Param
 
-Date of the current event instance
+Date of the current event instance.
 
 ## Param
 
-Callback for volunteering for entire series
+Handler for entire-series selection.
 
 ## Param
 
-Callback for volunteering for single instance
+Handler for single-instance selection.
 
 ## Param
 
-Whether this is for joining a volunteer group
+Whether joining a volunteer group.
 
 ## Param
 
-Name of the volunteer group if applicable
+Name of the volunteer group (if applicable).
 
 ## Returns
 
-A React functional component rendering the volunteer scope selection modal
+JSX.Element

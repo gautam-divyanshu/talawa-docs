@@ -4,9 +4,9 @@
 
 # Interface: InterfacePledgeModal
 
-Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L30)
+Defined in: [screens/UserPortal/Campaigns/PledgeModal.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L23)
 
-Interface representing the properties for the `PledgeModal` component.
+Props for the `PledgeModal` component.
 
 ## Properties
 
@@ -14,15 +14,9 @@ Interface representing the properties for the `PledgeModal` component.
 
 > **campaignId**: `string`
 
-Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L33)
+Defined in: [screens/UserPortal/Campaigns/PledgeModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L29)
 
-***
-
-### endDate
-
-> **endDate**: `Date`
-
-Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L37)
+ID of the campaign associated with the pledge.
 
 ***
 
@@ -30,7 +24,9 @@ Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:37](https://github
 
 > **hide**: () => `void`
 
-Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L32)
+Defined in: [screens/UserPortal/Campaigns/PledgeModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L27)
+
+Handler to close the modal.
 
 #### Returns
 
@@ -42,7 +38,9 @@ Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:32](https://github
 
 > **isOpen**: `boolean`
 
-Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L31)
+Defined in: [screens/UserPortal/Campaigns/PledgeModal.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L25)
+
+Indicates whether the modal is open or closed.
 
 ***
 
@@ -50,7 +48,9 @@ Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:31](https://github
 
 > **mode**: `"create"` \| `"edit"`
 
-Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L38)
+Defined in: [screens/UserPortal/Campaigns/PledgeModal.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L37)
+
+Determines whether the modal is in create or edit mode.
 
 ***
 
@@ -58,7 +58,9 @@ Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:38](https://github
 
 > **pledge**: `InterfacePledgeInfo`
 
-Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L35)
+Defined in: [screens/UserPortal/Campaigns/PledgeModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L33)
+
+Pledge data to edit; null when creating a new pledge.
 
 ***
 
@@ -66,7 +68,9 @@ Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:35](https://github
 
 > **refetchPledge**: () => `void`
 
-Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L36)
+Defined in: [screens/UserPortal/Campaigns/PledgeModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L35)
+
+Trigger to refetch pledge data after updates.
 
 #### Returns
 
@@ -78,4 +82,6 @@ Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:36](https://github
 
 > **userId**: `string`
 
-Defined in: [src/screens/UserPortal/Campaigns/PledgeModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L34)
+Defined in: [screens/UserPortal/Campaigns/PledgeModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/UserPortal/Campaigns/PledgeModal.tsx#L31)
+
+ID of the user creating or editing the pledge.

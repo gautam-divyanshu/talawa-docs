@@ -7,3 +7,4 @@
 ## Functions
 
 - [default](functions/default.md)
+- [getStatusBadgeProps](functions/getStatusBadgeProps.md)

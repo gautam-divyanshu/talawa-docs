@@ -4,6 +4,6 @@
 
 # screens/AdminPortal/PluginStore/PluginModal
 
-## Variables
+## Functions
 
-- [default](variables/default.md)
+- [default](functions/default.md)
