@@ -6,7 +6,7 @@
 
 > `const` **eventData**: `object`[]
 
-Defined in: [components/EventCalender/EventCalenderMocks.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/EventCalender/EventCalenderMocks.ts#L10)
+Defined in: [components/EventCalender/EventCalenderMocks.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/EventCalender/EventCalenderMocks.ts#L10)
 
 ## Type Declaration
 
@@ -20,7 +20,15 @@ Defined in: [components/EventCalender/EventCalenderMocks.ts:10](https://github.c
 
 ### creator
 
-> **creator**: `object` = `{}`
+> **creator**: `object`
+
+#### creator.id
+
+> **id**: `string` = `'1'`
+
+#### creator.name
+
+> **name**: `string` = `'Creator 1'`
 
 ### description
 
@@ -37,6 +45,10 @@ Defined in: [components/EventCalender/EventCalenderMocks.ts:10](https://github.c
 ### id
 
 > **id**: `string` = `'1'`
+
+### isInviteOnly
+
+> **isInviteOnly**: `boolean` = `false`
 
 ### isPublic
 

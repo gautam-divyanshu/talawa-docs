@@ -6,6 +6,6 @@
 
 > `const` **default**: `React.FC`\<[`InterfaceOrganizationModalProps`](../interfaces/InterfaceOrganizationModalProps.md)\>
 
-Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:84](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L84)
+Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:82](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L82)
 
 Represents the organization modal component.

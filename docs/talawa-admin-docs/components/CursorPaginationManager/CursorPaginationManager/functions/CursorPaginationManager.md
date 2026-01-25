@@ -6,7 +6,7 @@
 
 > **CursorPaginationManager**\<`TData`, `TNode`, `TVariables`\>(`props`): `ReactElement`
 
-Defined in: [components/CursorPaginationManager/CursorPaginationManager.tsx:127](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/CursorPaginationManager/CursorPaginationManager.tsx#L127)
+Defined in: [components/CursorPaginationManager/CursorPaginationManager.tsx:127](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/CursorPaginationManager/CursorPaginationManager.tsx#L127)
 
 CursorPaginationManager - A reusable component for cursor-based pagination
 
@@ -37,7 +37,7 @@ The GraphQL query variables type
 
 ### props
 
-`InterfaceCursorPaginationManagerProps`\<`TNode`, `TVariables`\>
+`InterfaceCursorPaginationManagerProps`\<`TData`, `TNode`, `TVariables`\>
 
 ## Returns
 

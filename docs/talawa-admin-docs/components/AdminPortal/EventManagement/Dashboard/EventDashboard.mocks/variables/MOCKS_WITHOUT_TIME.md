@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_WITHOUT\_TIME**: `object`[]
 
-Defined in: [components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts#L52)
+Defined in: [components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts#L53)
 
 ## Type Declaration
 
@@ -81,6 +81,10 @@ Defined in: [components/AdminPortal/EventManagement/Dashboard/EventDashboard.moc
 #### result.data.event.id
 
 > **id**: `string` = `'event123'`
+
+#### result.data.event.isInviteOnly
+
+> **isInviteOnly**: `boolean` = `false`
 
 #### result.data.event.isPublic
 

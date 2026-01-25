@@ -4,7 +4,7 @@
 
 # Interface: InterfaceCardItem
 
-Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L44)
+Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L41)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:44](https
 
 > `optional` **creator**: `string`
 
-Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L48)
+Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L45)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:48](https
 
 > `optional` **eventId**: `string`
 
-Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L50)
+Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L47)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:50](https
 
 > `optional` **location**: `string`
 
-Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L49)
+Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L46)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:49](https
 
 > `optional` **orgId**: `string`
 
-Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L51)
+Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L48)
 
 ***
 
@@ -44,7 +44,7 @@ Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:51](https
 
 > `optional` **startdate**: `string`
 
-Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L47)
+Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L44)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:47](https
 
 > `optional` **time**: `string`
 
-Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L46)
+Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L43)
 
 ***
 
@@ -60,4 +60,4 @@ Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:46](https
 
 > **title**: `string`
 
-Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L45)
+Defined in: [components/MemberActivity/Card/EventsAttendedCardItem.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/MemberActivity/Card/EventsAttendedCardItem.tsx#L42)

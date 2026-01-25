@@ -6,4 +6,4 @@
 
 > `const` **MOCKS\_ERROR\_ASSIGN\_OR\_REMOVAL\_TAGS**: (\{ `error?`: `undefined`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `after`: `any`; `currentTagId?`: `undefined`; `first`: `number`; `id`: `string`; `selectedTagIds?`: `undefined`; `where`: \{ `name`: \{ `starts_with`: `string`; \}; \}; \}; \}; `result`: \{ `data`: \{ `organizations`: `object`[]; \}; \}; \} \| \{ `error`: `Error`; `request`: \{ `query`: `DocumentNode`; `variables`: \{ `after?`: `undefined`; `currentTagId`: `string`; `first?`: `undefined`; `id?`: `undefined`; `selectedTagIds`: `string`[]; `where?`: `undefined`; \}; \}; `result?`: `undefined`; \})[]
 
-Defined in: [components/AdminPortal/TagActions/TagActionsMocks.ts:382](https://github.com/PalisadoesFoundation/talawa-admin/blob/7de9fc83b19d9a7e4f0c39bbb159d7e24e276afa/src/components/AdminPortal/TagActions/TagActionsMocks.ts#L382)
+Defined in: [components/AdminPortal/TagActions/TagActionsMocks.ts:406](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/AdminPortal/TagActions/TagActionsMocks.ts#L406)
