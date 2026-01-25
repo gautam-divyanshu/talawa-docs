@@ -4,8 +4,8 @@
 
 # Variable: checkInCheckOutInputSchema
 
-> `const` **checkInCheckOutInputSchema**: `ZodEffects`\<`ZodObject`\<\{ `eventId`: `ZodOptional`\<`ZodString`\>; `recurringEventInstanceId`: `ZodOptional`\<`ZodString`\>; `userId`: `ZodString`; \}, `"strip"`, `ZodTypeAny`, \{ `eventId?`: `string`; `recurringEventInstanceId?`: `string`; `userId`: `string`; \}, \{ `eventId?`: `string`; `recurringEventInstanceId?`: `string`; `userId`: `string`; \}\>, \{ `eventId?`: `string`; `recurringEventInstanceId?`: `string`; `userId`: `string`; \}, \{ `eventId?`: `string`; `recurringEventInstanceId?`: `string`; `userId`: `string`; \}\>
+> `const` **checkInCheckOutInputSchema**: `ZodObject`\<\{ `eventId`: `ZodOptional`\<`ZodString`\>; `recurringEventInstanceId`: `ZodOptional`\<`ZodString`\>; `userId`: `ZodString`; \}, `$strip`\>
 
-Defined in: [src/graphql/inputs/CheckInCheckOutInput.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/graphql/inputs/CheckInCheckOutInput.ts#L7)
+Defined in: [src/graphql/inputs/CheckInCheckOutInput.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/inputs/CheckInCheckOutInput.ts#L7)
 
 Zod schema for CheckInCheckOutInput validation.

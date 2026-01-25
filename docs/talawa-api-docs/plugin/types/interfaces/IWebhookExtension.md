@@ -4,7 +4,7 @@
 
 # Interface: IWebhookExtension
 
-Defined in: [src/plugin/types.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/types.ts#L61)
+Defined in: [src/plugin/types.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/plugin/types.ts#L61)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:61](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **description**: `string`
 
-Defined in: [src/plugin/types.ts:65](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/types.ts#L65)
+Defined in: [src/plugin/types.ts:65](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/plugin/types.ts#L65)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/plugin/types.ts:65](https://github.com/PalisadoesFoundation/tal
 
 > **handler**: `string`
 
-Defined in: [src/plugin/types.ts:63](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/types.ts#L63)
+Defined in: [src/plugin/types.ts:63](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/plugin/types.ts#L63)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/plugin/types.ts:63](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **method**: `"DELETE"` \| `"GET"` \| `"PATCH"` \| `"POST"` \| `"PUT"`
 
-Defined in: [src/plugin/types.ts:64](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/types.ts#L64)
+Defined in: [src/plugin/types.ts:64](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/plugin/types.ts#L64)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/plugin/types.ts:64](https://github.com/PalisadoesFoundation/tal
 
 > **path**: `string`
 
-Defined in: [src/plugin/types.ts:62](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/plugin/types.ts#L62)
+Defined in: [src/plugin/types.ts:62](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/plugin/types.ts#L62)

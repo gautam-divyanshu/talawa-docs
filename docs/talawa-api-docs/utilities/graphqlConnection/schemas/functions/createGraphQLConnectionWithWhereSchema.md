@@ -4,9 +4,9 @@
 
 # Function: createGraphQLConnectionWithWhereSchema()
 
-> **createGraphQLConnectionWithWhereSchema**\<`T`\>(`whereSchema`): `ZodObject`\<`object` & `object`, `"strip"`, `ZodTypeAny`, \{ \[k in "first" \| "last" \| "before" \| "after" \| "where"\]: addQuestionMarks\<baseObjectOutputType\<\{ after: ZodEffects\<ZodOptional\<ZodNullable\<ZodString\>\>, string \| undefined, string \| null \| undefined\>; before: ZodEffects\<ZodOptional\<ZodNullable\<ZodString\>\>, string \| undefined, string \| null \| undefined\>; first: ZodEffects\<ZodOptional\<ZodNullable\<ZodNumber\>\>, number \| undefined, number \| null \| undefined\>; last: ZodEffects\<ZodOptional\<ZodNullable\<ZodNumber\>\>, number \| undefined, number \| null \| undefined\> \} & \{ where: ZodNullable\<ZodDefault\<T\>\> \}\>, any\>\[k\] \}, \{ \[k in "first" \| "last" \| "before" \| "after" \| "where"\]: baseObjectInputType\<\{ after: ZodEffects\<ZodOptional\<ZodNullable\<ZodString\>\>, string \| undefined, string \| null \| undefined\>; before: ZodEffects\<ZodOptional\<ZodNullable\<ZodString\>\>, string \| undefined, string \| null \| undefined\>; first: ZodEffects\<ZodOptional\<ZodNullable\<ZodNumber\>\>, number \| undefined, number \| null \| undefined\>; last: ZodEffects\<ZodOptional\<ZodNullable\<ZodNumber\>\>, number \| undefined, number \| null \| undefined\> \} & \{ where: ZodNullable\<ZodDefault\<T\>\> \}\>\[k\] \}\>
+> **createGraphQLConnectionWithWhereSchema**\<`T`\>(`whereSchema`): `ZodObject`\<\{ `after`: `ZodPipe`\<`ZodOptional`\<`ZodNullable`\<`ZodString`\>\>, `ZodTransform`\<`string` \| `undefined`, `string` \| `null` \| `undefined`\>\>; `before`: `ZodPipe`\<`ZodOptional`\<`ZodNullable`\<`ZodString`\>\>, `ZodTransform`\<`string` \| `undefined`, `string` \| `null` \| `undefined`\>\>; `first`: `ZodPipe`\<`ZodOptional`\<`ZodNullable`\<`ZodNumber`\>\>, `ZodTransform`\<`number` \| `undefined`, `number` \| `null` \| `undefined`\>\>; `last`: `ZodPipe`\<`ZodOptional`\<`ZodNullable`\<`ZodNumber`\>\>, `ZodTransform`\<`number` \| `undefined`, `number` \| `null` \| `undefined`\>\>; `where`: `ZodDefault`\<`ZodType`\<`unknown`, `unknown`, `$ZodTypeInternals`\<`unknown`, `unknown`\>\>\>; \}, `$strip`\>
 
-Defined in: [src/utilities/graphqlConnection/schemas.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/graphqlConnection/schemas.ts#L36)
+Defined in: [src/utilities/graphqlConnection/schemas.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/graphqlConnection/schemas.ts#L36)
 
 Helper function to create a schema for connection arguments with a where clause.
 Extends the default connection arguments schema with a custom where schema.
@@ -15,7 +15,7 @@ Extends the default connection arguments schema with a custom where schema.
 
 ### T
 
-`T` *extends* `ZodType`\<`any`, `ZodTypeDef`, `any`\>
+`T` *extends* `ZodType`\<`unknown`, `unknown`, `$ZodTypeInternals`\<`unknown`, `unknown`\>\>
 
 ## Parameters
 
@@ -27,6 +27,6 @@ The Zod schema for the where clause
 
 ## Returns
 
-`ZodObject`\<`object` & `object`, `"strip"`, `ZodTypeAny`, \{ \[k in "first" \| "last" \| "before" \| "after" \| "where"\]: addQuestionMarks\<baseObjectOutputType\<\{ after: ZodEffects\<ZodOptional\<ZodNullable\<ZodString\>\>, string \| undefined, string \| null \| undefined\>; before: ZodEffects\<ZodOptional\<ZodNullable\<ZodString\>\>, string \| undefined, string \| null \| undefined\>; first: ZodEffects\<ZodOptional\<ZodNullable\<ZodNumber\>\>, number \| undefined, number \| null \| undefined\>; last: ZodEffects\<ZodOptional\<ZodNullable\<ZodNumber\>\>, number \| undefined, number \| null \| undefined\> \} & \{ where: ZodNullable\<ZodDefault\<T\>\> \}\>, any\>\[k\] \}, \{ \[k in "first" \| "last" \| "before" \| "after" \| "where"\]: baseObjectInputType\<\{ after: ZodEffects\<ZodOptional\<ZodNullable\<ZodString\>\>, string \| undefined, string \| null \| undefined\>; before: ZodEffects\<ZodOptional\<ZodNullable\<ZodString\>\>, string \| undefined, string \| null \| undefined\>; first: ZodEffects\<ZodOptional\<ZodNullable\<ZodNumber\>\>, number \| undefined, number \| null \| undefined\>; last: ZodEffects\<ZodOptional\<ZodNullable\<ZodNumber\>\>, number \| undefined, number \| null \| undefined\> \} & \{ where: ZodNullable\<ZodDefault\<T\>\> \}\>\[k\] \}\>
+`ZodObject`\<\{ `after`: `ZodPipe`\<`ZodOptional`\<`ZodNullable`\<`ZodString`\>\>, `ZodTransform`\<`string` \| `undefined`, `string` \| `null` \| `undefined`\>\>; `before`: `ZodPipe`\<`ZodOptional`\<`ZodNullable`\<`ZodString`\>\>, `ZodTransform`\<`string` \| `undefined`, `string` \| `null` \| `undefined`\>\>; `first`: `ZodPipe`\<`ZodOptional`\<`ZodNullable`\<`ZodNumber`\>\>, `ZodTransform`\<`number` \| `undefined`, `number` \| `null` \| `undefined`\>\>; `last`: `ZodPipe`\<`ZodOptional`\<`ZodNullable`\<`ZodNumber`\>\>, `ZodTransform`\<`number` \| `undefined`, `number` \| `null` \| `undefined`\>\>; `where`: `ZodDefault`\<`ZodType`\<`unknown`, `unknown`, `$ZodTypeInternals`\<`unknown`, `unknown`\>\>\>; \}, `$strip`\>
 
 - A Zod schema for connection arguments with the where clause

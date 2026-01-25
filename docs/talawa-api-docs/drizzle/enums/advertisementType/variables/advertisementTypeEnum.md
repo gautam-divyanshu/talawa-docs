@@ -4,8 +4,8 @@
 
 # Variable: advertisementTypeEnum
 
-> `const` **advertisementTypeEnum**: `ZodEnum`\<\[`"banner"`, `"menu"`, `"pop_up"`\]\>
+> `const` **advertisementTypeEnum**: `ZodEnum`\<\{ `banner`: `"banner"`; `menu`: `"menu"`; `pop_up`: `"pop_up"`; \}\>
 
-Defined in: [src/drizzle/enums/advertisementType.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/drizzle/enums/advertisementType.ts#L6)
+Defined in: [src/drizzle/enums/advertisementType.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/drizzle/enums/advertisementType.ts#L6)
 
 Possible variants of the type of an advertisement.

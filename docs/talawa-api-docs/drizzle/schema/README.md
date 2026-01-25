@@ -114,6 +114,18 @@ Re-exports [agendaItemsTableRelations](../tables/agendaItems/variables/agendaIte
 
 ***
 
+### agendaItemUrlTable
+
+Re-exports [agendaItemUrlTable](../tables/agendaItemUrls/variables/agendaItemUrlTable.md)
+
+***
+
+### agendaItemUrlTableRelations
+
+Re-exports [agendaItemUrlTableRelations](../tables/agendaItemUrls/variables/agendaItemUrlTableRelations.md)
+
+***
+
 ### blockedUsersTable
 
 Re-exports [blockedUsersTable](../tables/blockedUsers/variables/blockedUsersTable.md)

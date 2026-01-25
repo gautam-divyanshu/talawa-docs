@@ -7,4 +7,5 @@
 ## Variables
 
 - [actionItemExceptionsTable](variables/actionItemExceptionsTable.md)
+- [actionItemExceptionsTableInsertSchema](variables/actionItemExceptionsTableInsertSchema.md)
 - [actionItemExceptionsTableRelations](variables/actionItemExceptionsTableRelations.md)

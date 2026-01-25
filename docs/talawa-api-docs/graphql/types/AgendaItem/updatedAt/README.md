@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/AgendaItem/updatedAt
+
+## Functions
+
+- [resolveUpdatedAt](functions/resolveUpdatedAt.md)

@@ -6,7 +6,7 @@
 
 > **getQueryPluginsInput**(): `object`
 
-Defined in: [src/graphql/types/Plugin/inputs.ts:125](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/graphql/types/Plugin/inputs.ts#L125)
+Defined in: [src/graphql/types/Plugin/inputs.ts:125](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/Plugin/inputs.ts#L125)
 
 ## Returns
 
@@ -14,7 +14,7 @@ Defined in: [src/graphql/types/Plugin/inputs.ts:125](https://github.com/Palisado
 
 ### schema
 
-> **schema**: `ZodObject`\<\{ `isActivated`: `ZodOptional`\<`ZodBoolean`\>; `isInstalled`: `ZodOptional`\<`ZodBoolean`\>; `pluginId`: `ZodOptional`\<`ZodString`\>; \}, `"strip"`, `ZodTypeAny`, \{ `isActivated?`: `boolean`; `isInstalled?`: `boolean`; `pluginId?`: `string`; \}, \{ `isActivated?`: `boolean`; `isInstalled?`: `boolean`; `pluginId?`: `string`; \}\> = `queryPluginsInputSchema`
+> **schema**: `ZodObject`\<\{ `isActivated`: `ZodOptional`\<`ZodBoolean`\>; `isInstalled`: `ZodOptional`\<`ZodBoolean`\>; `pluginId`: `ZodOptional`\<`ZodString`\>; \}, `$strip`\> = `queryPluginsInputSchema`
 
 ### type
 

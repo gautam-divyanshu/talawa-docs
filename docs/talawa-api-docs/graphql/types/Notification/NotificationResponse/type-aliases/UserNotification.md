@@ -6,4 +6,4 @@
 
 > **UserNotification** = `z.infer`\<*typeof* [`userNotificationSchema`](../variables/userNotificationSchema.md)\>
 
-Defined in: [src/graphql/types/Notification/NotificationResponse.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/graphql/types/Notification/NotificationResponse.ts#L20)
+Defined in: [src/graphql/types/Notification/NotificationResponse.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/Notification/NotificationResponse.ts#L20)

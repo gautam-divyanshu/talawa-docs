@@ -6,6 +6,6 @@
 
 > `const` **AssignUserTag**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `assigneeId`: `string`; `tagId`: `string`; \}, \{ `assigneeId`: `string`; `tagId`: `string`; \}\>
 
-Defined in: [src/graphql/types/AssignUserTag/AssignUserTag.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/graphql/types/AssignUserTag/AssignUserTag.ts#L6)
+Defined in: [src/graphql/types/AssignUserTag/AssignUserTag.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/AssignUserTag/AssignUserTag.ts#L6)
 
 Represents a user assigned to a tag by an organization.

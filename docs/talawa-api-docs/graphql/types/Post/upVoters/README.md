@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/Post/upVoters
+
+## Functions
+
+- [upVotersComplexity](functions/upVotersComplexity.md)

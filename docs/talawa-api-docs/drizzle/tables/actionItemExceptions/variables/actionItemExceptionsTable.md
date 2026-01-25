@@ -6,4 +6,4 @@
 
 > `const` **actionItemExceptionsTable**: `PgTableWithColumns`\<\{ \}\>
 
-Defined in: [src/drizzle/tables/actionItemExceptions.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/drizzle/tables/actionItemExceptions.ts#L17)
+Defined in: [src/drizzle/tables/actionItemExceptions.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/drizzle/tables/actionItemExceptions.ts#L18)

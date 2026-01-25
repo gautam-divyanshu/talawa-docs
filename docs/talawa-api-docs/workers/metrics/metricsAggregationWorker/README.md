@@ -6,5 +6,4 @@
 
 ## Functions
 
-- [calculatePercentile](functions/calculatePercentile.md)
 - [runMetricsAggregationWorker](functions/runMetricsAggregationWorker.md)

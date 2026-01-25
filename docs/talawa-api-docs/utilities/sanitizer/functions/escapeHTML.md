@@ -8,7 +8,7 @@
 
 > **escapeHTML**(`str`): [`HTMLSafeString`](../type-aliases/HTMLSafeString.md)
 
-Defined in: [src/utilities/sanitizer.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/sanitizer.ts#L31)
+Defined in: [src/utilities/sanitizer.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/sanitizer.ts#L31)
 
 Escapes HTML characters in a string to prevent XSS attacks.
 
@@ -30,7 +30,7 @@ The string to escape.
 
 > **escapeHTML**(`str`): [`HTMLSafeString`](../type-aliases/HTMLSafeString.md) \| `null`
 
-Defined in: [src/utilities/sanitizer.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/sanitizer.ts#L32)
+Defined in: [src/utilities/sanitizer.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/sanitizer.ts#L32)
 
 Escapes HTML characters in a string to prevent XSS attacks.
 
@@ -52,7 +52,7 @@ The string to escape.
 
 > **escapeHTML**(`str`): [`HTMLSafeString`](../type-aliases/HTMLSafeString.md) \| `undefined`
 
-Defined in: [src/utilities/sanitizer.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/sanitizer.ts#L33)
+Defined in: [src/utilities/sanitizer.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/sanitizer.ts#L33)
 
 Escapes HTML characters in a string to prevent XSS attacks.
 
@@ -74,7 +74,7 @@ The string to escape.
 
 > **escapeHTML**(`str`): [`HTMLSafeString`](../type-aliases/HTMLSafeString.md) \| `null` \| `undefined`
 
-Defined in: [src/utilities/sanitizer.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/sanitizer.ts#L34)
+Defined in: [src/utilities/sanitizer.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/sanitizer.ts#L34)
 
 Escapes HTML characters in a string to prevent XSS attacks.
 

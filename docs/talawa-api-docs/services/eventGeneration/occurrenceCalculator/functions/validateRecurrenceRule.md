@@ -6,7 +6,7 @@
 
 > **validateRecurrenceRule**(`recurrenceRule`): `boolean`
 
-Defined in: [src/services/eventGeneration/occurrenceCalculator.ts:498](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/services/eventGeneration/occurrenceCalculator.ts#L498)
+Defined in: [src/services/eventGeneration/occurrenceCalculator.ts:498](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/services/eventGeneration/occurrenceCalculator.ts#L498)
 
 Validates the configuration of a recurrence rule to ensure it has a valid frequency
 and a positive interval.

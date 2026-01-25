@@ -6,7 +6,7 @@
 
 > **PasswordResetPayload** = `object`
 
-Defined in: [src/graphql/types/PasswordResetPayload.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/graphql/types/PasswordResetPayload.ts#L3)
+Defined in: [src/graphql/types/PasswordResetPayload.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/PasswordResetPayload.ts#L3)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/graphql/types/PasswordResetPayload.ts:3](https://github.com/Pal
 
 > **authenticationToken**: `string` \| `null`
 
-Defined in: [src/graphql/types/PasswordResetPayload.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/graphql/types/PasswordResetPayload.ts#L5)
+Defined in: [src/graphql/types/PasswordResetPayload.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/PasswordResetPayload.ts#L5)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/graphql/types/PasswordResetPayload.ts:5](https://github.com/Pal
 
 > **refreshToken**: `string` \| `null`
 
-Defined in: [src/graphql/types/PasswordResetPayload.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/graphql/types/PasswordResetPayload.ts#L6)
+Defined in: [src/graphql/types/PasswordResetPayload.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/PasswordResetPayload.ts#L6)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/graphql/types/PasswordResetPayload.ts:6](https://github.com/Pal
 
 > **success**: `boolean`
 
-Defined in: [src/graphql/types/PasswordResetPayload.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/graphql/types/PasswordResetPayload.ts#L4)
+Defined in: [src/graphql/types/PasswordResetPayload.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/PasswordResetPayload.ts#L4)

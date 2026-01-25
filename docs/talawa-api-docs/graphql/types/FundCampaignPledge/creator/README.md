@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/FundCampaignPledge/creator
+
+## Functions
+
+- [resolveCreator](functions/resolveCreator.md)

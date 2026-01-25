@@ -6,7 +6,7 @@
 
 > **traceable**\<`T`\>(`model`, `op`, `fn`): `Promise`\<`T`\>
 
-Defined in: [src/utilities/db/traceableQuery.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/db/traceableQuery.ts#L20)
+Defined in: [src/utilities/db/traceableQuery.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/db/traceableQuery.ts#L20)
 
 Wraps a database operation with OpenTelemetry tracing.
 Creates a span for the operation with safe attributes (no SQL or PII).

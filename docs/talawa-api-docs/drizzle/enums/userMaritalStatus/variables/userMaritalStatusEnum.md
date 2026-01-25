@@ -4,8 +4,8 @@
 
 # Variable: userMaritalStatusEnum
 
-> `const` **userMaritalStatusEnum**: `ZodEnum`\<\[`"divorced"`, `"engaged"`, `"married"`, `"seperated"`, `"single"`, `"widowed"`\]\>
+> `const` **userMaritalStatusEnum**: `ZodEnum`\<\{ `divorced`: `"divorced"`; `engaged`: `"engaged"`; `married`: `"married"`; `seperated`: `"seperated"`; `single`: `"single"`; `widowed`: `"widowed"`; \}\>
 
-Defined in: [src/drizzle/enums/userMaritalStatus.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/drizzle/enums/userMaritalStatus.ts#L6)
+Defined in: [src/drizzle/enums/userMaritalStatus.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/drizzle/enums/userMaritalStatus.ts#L6)
 
 Possible variants of the martial status(if applicable) of a user.

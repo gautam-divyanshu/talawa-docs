@@ -4,7 +4,7 @@
 
 # Interface: IOAuthProvider
 
-Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L7)
+Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L7)
 
 Interface for OAuth2 provider implementations
 All providers must implement this interface to ensure consistent behavior
@@ -15,7 +15,7 @@ All providers must implement this interface to ensure consistent behavior
 
 > **exchangeCodeForTokens**(`code`, `redirectUri`): `Promise`\<[`OAuthProviderTokenResponse`](../../../types/interfaces/OAuthProviderTokenResponse.md)\>
 
-Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L22)
+Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L22)
 
 Exchange authorization code for access tokens
 
@@ -53,7 +53,7 @@ If authorization code is invalid
 
 > **getProviderName**(): `string`
 
-Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L12)
+Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L12)
 
 Get the unique name identifier for this provider
 
@@ -69,7 +69,7 @@ Provider name (e.g., "google", "github")
 
 > **getUserProfile**(`accessToken`): `Promise`\<[`OAuthUserProfile`](../../../types/interfaces/OAuthUserProfile.md)\>
 
-Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/86c684402120721d2151d1e28feb0b6d2f345849/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L33)
+Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L33)
 
 Fetch user profile information using access token
 
