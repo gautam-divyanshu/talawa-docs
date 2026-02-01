@@ -4,9 +4,9 @@
 
 # Function: default()
 
-> **default**(`__namedParameters`): `JSX.Element`
+> **default**(`__namedParameters`): `Element`
 
-Defined in: [src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:136](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx#L136)
+Defined in: [components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:190](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx#L190)
 
 ## Parameters
 
@@ -16,4 +16,4 @@ Defined in: [src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:136
 
 ## Returns
 
-`JSX.Element`
+`Element`

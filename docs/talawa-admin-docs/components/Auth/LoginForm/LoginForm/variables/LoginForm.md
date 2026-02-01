@@ -6,7 +6,7 @@
 
 > `const` **LoginForm**: `React.FC`\<`InterfaceLoginFormProps`\>
 
-Defined in: [components/Auth/LoginForm/LoginForm.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/Auth/LoginForm/LoginForm.tsx#L37)
+Defined in: [components/Auth/LoginForm/LoginForm.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/components/Auth/LoginForm/LoginForm.tsx#L37)
 
 Reusable login form component that composes EmailField and PasswordField.
 

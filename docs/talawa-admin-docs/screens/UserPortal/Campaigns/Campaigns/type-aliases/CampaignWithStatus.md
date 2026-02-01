@@ -6,7 +6,7 @@
 
 > **CampaignWithStatus** = `InterfaceUserCampaign` & `object`
 
-Defined in: [screens/UserPortal/Campaigns/Campaigns.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/screens/UserPortal/Campaigns/Campaigns.tsx#L20)
+Defined in: [screens/UserPortal/Campaigns/Campaigns.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/screens/UserPortal/Campaigns/Campaigns.tsx#L21)
 
 Extended interface for campaigns with computed status
 

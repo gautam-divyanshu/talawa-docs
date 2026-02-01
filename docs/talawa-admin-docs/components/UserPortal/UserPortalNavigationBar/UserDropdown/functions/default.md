@@ -6,9 +6,13 @@
 
 > **default**(`props`): `Element`
 
-Defined in: [components/UserPortal/UserPortalNavigationBar/UserDropdown.tsx:43](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/UserPortal/UserPortalNavigationBar/UserDropdown.tsx#L43)
+Defined in: [components/UserPortal/UserPortalNavigationBar/UserDropdown.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/components/UserPortal/UserPortalNavigationBar/UserDropdown.tsx#L40)
 
 UserProfileDropdown Component
+
+Renders a dropdown menu for user profile actions including settings navigation
+and logout functionality. This component is typically used in the navigation bar
+to provide quick access to user-related actions.
 
 ## Parameters
 
@@ -16,21 +20,11 @@ UserProfileDropdown Component
 
 `InterfaceUserDropdownProps`
 
-Component props
-
 ## Returns
 
 `Element`
 
 The rendered dropdown component, or null if showUserProfile is false
-
-## Description
-
-Renders a dropdown menu for user profile actions including settings navigation
-and logout functionality. This component is typically used in the navigation bar
-to provide quick access to user-related actions.
-
-## Component
 
 ## Example
 

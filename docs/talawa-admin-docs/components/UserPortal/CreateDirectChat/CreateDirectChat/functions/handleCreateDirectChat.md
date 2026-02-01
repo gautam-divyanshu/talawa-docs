@@ -4,9 +4,9 @@
 
 # Function: handleCreateDirectChat()
 
-> **handleCreateDirectChat**(`id`, `chats`, `t`, `createChat`, `organizationId`, `userId`, `chatsListRefetch`, `toggleCreateDirectChatModal`): `Promise`\<`void`\>
+> **handleCreateDirectChat**(`id`, `userName`, `chats`, `t`, `createChat`, `createChatMembership`, `organizationId`, `userId`, `currentUserName`, `chatsListRefetch`, `toggleCreateDirectChatModal`): `Promise`\<`void`\>
 
-Defined in: [src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:70](https://github.com/PalisadoesFoundation/talawa-admin/blob/08e16f7278515a41d082038d0e262bb9ad1de931/src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx#L70)
+Defined in: [components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:74](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx#L74)
 
 ## Parameters
 
@@ -14,17 +14,25 @@ Defined in: [src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:70]
 
 `string`
 
+### userName
+
+`string`
+
 ### chats
 
-[`Chat`](../../../../../screens/UserPortal/Chat/Chat/type-aliases/Chat.md)[]
+`GroupChat`[]
 
 ### t
 
-`TFunction`\<`"userChat"`\>
+`TFunction`\<`"translation"`, `"userChat"`\>
 
 ### createChat
 
-(`options`?) => `Promise`\<`FetchResult`\<`unknown`\>\>(`arg0`) => `unknown`
+\{(`options?`): `Promise`\<`FetchResult`\<`unknown`\>\>; (`arg0`): `unknown`; \}
+
+### createChatMembership
+
+\{(`options?`): `Promise`\<`FetchResult`\<`unknown`\>\>; (`arg0`): `unknown`; \}
 
 ### organizationId
 
@@ -34,13 +42,17 @@ Defined in: [src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:70]
 
 `string`
 
+### currentUserName
+
+`string`
+
 ### chatsListRefetch
 
-(`variables`?) => `Promise`\<`ApolloQueryResult`\<`unknown`\>\>() => `Promise`\<`ApolloQueryResult`\<`unknown`\>\>
+\{(`variables?`): `Promise`\<`ApolloQueryResult`\<`unknown`\>\>; (): `Promise`\<`ApolloQueryResult`\<`unknown`\>\>; \}
 
 ### toggleCreateDirectChatModal
 
-() => `void`() => `void`
+\{(): `void`; (): `void`; \}
 
 ## Returns
 

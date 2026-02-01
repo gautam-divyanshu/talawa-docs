@@ -6,9 +6,13 @@
 
 > **default**(`props`): `Element`
 
-Defined in: [components/UserPortal/UserPortalNavigationBar/LanguageSelector.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/6445033f887df17fecf22e7ce251f7ab43ed5425/src/components/UserPortal/UserPortalNavigationBar/LanguageSelector.tsx#L51)
+Defined in: [components/UserPortal/UserPortalNavigationBar/LanguageSelector.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/components/UserPortal/UserPortalNavigationBar/LanguageSelector.tsx#L48)
 
 LanguageSelector Component
+
+Renders a dropdown menu for language selection with flag icons and language names.
+Displays all available languages from the languages utility and automatically disables
+the currently selected language. Integrates with i18next for internationalization.
 
 ## Parameters
 
@@ -16,21 +20,11 @@ LanguageSelector Component
 
 `InterfaceLanguageSelectorProps`
 
-Component props
-
 ## Returns
 
 `Element`
 
 The rendered language selector dropdown, or null if showLanguageSelector is false
-
-## Description
-
-Renders a dropdown menu for language selection with flag icons and language names.
-Displays all available languages from the languages utility and automatically disables
-the currently selected language. Integrates with i18next for internationalization.
-
-## Component
 
 ## Example
 
