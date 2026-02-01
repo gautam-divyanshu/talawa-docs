@@ -6,6 +6,6 @@
 
 > `const` **POST\_CAPTION\_MAX\_LENGTH**: `2048` = `2048`
 
-Defined in: [src/drizzle/tables/posts.ts:137](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/drizzle/tables/posts.ts#L137)
+Defined in: [src/drizzle/tables/posts.ts:137](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/drizzle/tables/posts.ts#L137)
 
 Maximum length for post caption.

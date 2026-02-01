@@ -4,7 +4,7 @@
 
 # Interface: CookieConfigOptions
 
-Defined in: [src/utilities/cookieConfig.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/cookieConfig.ts#L23)
+Defined in: [src/utilities/cookieConfig.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/cookieConfig.ts#L23)
 
 Default cookie options with security best practices.
 These options ensure cookies are protected from XSS attacks.
@@ -15,7 +15,7 @@ These options ensure cookies are protected from XSS attacks.
 
 > `optional` **domain**: `string`
 
-Defined in: [src/utilities/cookieConfig.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/cookieConfig.ts#L32)
+Defined in: [src/utilities/cookieConfig.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/cookieConfig.ts#L32)
 
 Optional domain for the cookie (for cross-subdomain authentication).
 
@@ -25,7 +25,7 @@ Optional domain for the cookie (for cross-subdomain authentication).
 
 > **isSecure**: `boolean`
 
-Defined in: [src/utilities/cookieConfig.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/cookieConfig.ts#L27)
+Defined in: [src/utilities/cookieConfig.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/cookieConfig.ts#L27)
 
 Whether the application is running in a secure (HTTPS) environment.
 
@@ -35,6 +35,6 @@ Whether the application is running in a secure (HTTPS) environment.
 
 > `optional` **path**: `string`
 
-Defined in: [src/utilities/cookieConfig.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/cookieConfig.ts#L37)
+Defined in: [src/utilities/cookieConfig.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/cookieConfig.ts#L37)
 
 Cookie path.

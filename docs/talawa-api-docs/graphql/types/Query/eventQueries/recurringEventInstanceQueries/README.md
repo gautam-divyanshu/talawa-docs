@@ -10,7 +10,8 @@
 
 ## Functions
 
+- [getRecurringEventInstanceByBaseId](functions/getRecurringEventInstanceByBaseId.md)
 - [getRecurringEventInstanceById](functions/getRecurringEventInstanceById.md)
-- [getRecurringEventInstancesByBaseId](functions/getRecurringEventInstancesByBaseId.md)
+- [getRecurringEventInstancesByBaseIds](functions/getRecurringEventInstancesByBaseIds.md)
 - [getRecurringEventInstancesByIds](functions/getRecurringEventInstancesByIds.md)
 - [getRecurringEventInstancesInDateRange](functions/getRecurringEventInstancesInDateRange.md)

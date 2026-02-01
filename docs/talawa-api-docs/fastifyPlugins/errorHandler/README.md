@@ -6,4 +6,10 @@
 
 ## Variables
 
-- [default](variables/default.md)
+- [errorHandlerPlugin](variables/errorHandlerPlugin.md)
+
+## References
+
+### default
+
+Renames and re-exports [errorHandlerPlugin](variables/errorHandlerPlugin.md)

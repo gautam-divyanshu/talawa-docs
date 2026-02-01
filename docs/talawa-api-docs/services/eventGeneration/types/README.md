@@ -14,3 +14,7 @@
 - [ResolveInstanceInput](interfaces/ResolveInstanceInput.md)
 - [ServiceDependencies](interfaces/ServiceDependencies.md)
 - [WindowManagerConfig](interfaces/WindowManagerConfig.md)
+
+## Type Aliases
+
+- [EventTemplateWithAttachments](type-aliases/EventTemplateWithAttachments.md)

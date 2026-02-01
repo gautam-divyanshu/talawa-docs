@@ -4,6 +4,11 @@
 
 # utilities/leakyBucket
 
+## Type Aliases
+
+- [LeakyBucketResult](type-aliases/LeakyBucketResult.md)
+
 ## Functions
 
-- [default](functions/default.md)
+- [complexityLeakyBucket](functions/complexityLeakyBucket.md)
+- [leakyBucket](functions/leakyBucket.md)

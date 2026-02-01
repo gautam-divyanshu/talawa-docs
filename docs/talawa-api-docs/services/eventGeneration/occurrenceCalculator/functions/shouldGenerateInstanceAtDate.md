@@ -6,7 +6,7 @@
 
 > **shouldGenerateInstanceAtDate**(`date`, `recurrenceRule`, `startDate`): `boolean`
 
-Defined in: [src/services/eventGeneration/occurrenceCalculator.ts:262](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/services/eventGeneration/occurrenceCalculator.ts#L262)
+Defined in: [src/services/eventGeneration/occurrenceCalculator.ts:262](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/services/eventGeneration/occurrenceCalculator.ts#L262)
 
 Determines whether a recurring event instance should be generated on a specific date,
 based on the recurrence rule and its frequency-specific constraints.

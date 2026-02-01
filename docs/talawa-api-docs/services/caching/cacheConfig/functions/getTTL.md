@@ -6,7 +6,7 @@
 
 > **getTTL**(`entity`): `number`
 
-Defined in: [src/services/caching/cacheConfig.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/services/caching/cacheConfig.ts#L75)
+Defined in: [src/services/caching/cacheConfig.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/services/caching/cacheConfig.ts#L75)
 
 Get the TTL for a specific entity type.
 Respects environment variable overrides via CACHE_ENTITY_TTLS.

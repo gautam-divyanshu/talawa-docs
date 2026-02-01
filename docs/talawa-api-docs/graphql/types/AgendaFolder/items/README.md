@@ -7,3 +7,7 @@
 ## Variables
 
 - [itemsArgumentsSchema](variables/itemsArgumentsSchema.md)
+
+## Functions
+
+- [resolveItems](functions/resolveItems.md)

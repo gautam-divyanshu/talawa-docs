@@ -4,7 +4,7 @@
 
 # Class: ProfileFetchError
 
-Defined in: [src/utilities/auth/oauth/errors.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/auth/oauth/errors.ts#L45)
+Defined in: [src/utilities/auth/oauth/errors.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/errors.ts#L45)
 
 Error thrown when profile fetch fails
 
@@ -18,7 +18,7 @@ Error thrown when profile fetch fails
 
 > **new ProfileFetchError**(`message`): `ProfileFetchError`
 
-Defined in: [src/utilities/auth/oauth/errors.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/auth/oauth/errors.ts#L46)
+Defined in: [src/utilities/auth/oauth/errors.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/errors.ts#L46)
 
 #### Parameters
 
@@ -40,7 +40,7 @@ Defined in: [src/utilities/auth/oauth/errors.ts:46](https://github.com/Palisadoe
 
 > **code**: `string`
 
-Defined in: [src/utilities/auth/oauth/errors.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/auth/oauth/errors.ts#L7)
+Defined in: [src/utilities/auth/oauth/errors.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/errors.ts#L7)
 
 #### Inherited from
 
@@ -52,7 +52,7 @@ Defined in: [src/utilities/auth/oauth/errors.ts:7](https://github.com/Palisadoes
 
 > `optional` **statusCode**: `number`
 
-Defined in: [src/utilities/auth/oauth/errors.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/auth/oauth/errors.ts#L8)
+Defined in: [src/utilities/auth/oauth/errors.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/errors.ts#L8)
 
 #### Inherited from
 

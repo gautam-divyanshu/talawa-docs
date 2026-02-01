@@ -14,6 +14,11 @@
 - [FILE\_UPLOAD\_CONFIG](variables/FILE_UPLOAD_CONFIG.md)
 - [graphql](variables/graphql.md)
 
+## Functions
+
+- [extractZodMessage](functions/extractZodMessage.md)
+- [getPublicErrorMessage](functions/getPublicErrorMessage.md)
+
 ## References
 
 ### default

@@ -6,7 +6,7 @@
 
 > **BatchCreateRecurringEventInstancesInput** = `object`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:356](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/drizzle/tables/recurringEventInstances.ts#L356)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:359](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/drizzle/tables/recurringEventInstances.ts#L359)
 
 Input type for batch creating recurring event instances.
 
@@ -16,7 +16,7 @@ Input type for batch creating recurring event instances.
 
 > **instances**: [`CreateRecurringEventInstanceInput`](CreateRecurringEventInstanceInput.md)[]
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:357](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/drizzle/tables/recurringEventInstances.ts#L357)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:360](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/drizzle/tables/recurringEventInstances.ts#L360)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:357](https://github.c
 
 > **organizationId**: `string`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:358](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/drizzle/tables/recurringEventInstances.ts#L358)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:361](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/drizzle/tables/recurringEventInstances.ts#L361)

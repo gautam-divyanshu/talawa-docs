@@ -30,15 +30,21 @@ Re-exports [getEventsByIds](unifiedEventQueries/functions/getEventsByIds.md)
 
 ***
 
+### getRecurringEventInstanceByBaseId
+
+Re-exports [getRecurringEventInstanceByBaseId](recurringEventInstanceQueries/functions/getRecurringEventInstanceByBaseId.md)
+
+***
+
 ### getRecurringEventInstanceById
 
 Re-exports [getRecurringEventInstanceById](recurringEventInstanceQueries/functions/getRecurringEventInstanceById.md)
 
 ***
 
-### getRecurringEventInstancesByBaseId
+### getRecurringEventInstancesByBaseIds
 
-Re-exports [getRecurringEventInstancesByBaseId](recurringEventInstanceQueries/functions/getRecurringEventInstancesByBaseId.md)
+Re-exports [getRecurringEventInstancesByBaseIds](recurringEventInstanceQueries/functions/getRecurringEventInstancesByBaseIds.md)
 
 ***
 

@@ -4,7 +4,7 @@
 
 # Interface: ReadNotificationResponseShape
 
-Defined in: [src/graphql/types/Notification/ReadNotificationResponse.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/Notification/ReadNotificationResponse.ts#L3)
+Defined in: [src/graphql/types/Notification/ReadNotificationResponse.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/types/Notification/ReadNotificationResponse.ts#L3)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/graphql/types/Notification/ReadNotificationResponse.ts:3](https
 
 > `optional` **message**: `string`
 
-Defined in: [src/graphql/types/Notification/ReadNotificationResponse.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/Notification/ReadNotificationResponse.ts#L5)
+Defined in: [src/graphql/types/Notification/ReadNotificationResponse.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/types/Notification/ReadNotificationResponse.ts#L5)
 
 ***
 
@@ -20,4 +20,4 @@ Defined in: [src/graphql/types/Notification/ReadNotificationResponse.ts:5](https
 
 > **success**: `boolean`
 
-Defined in: [src/graphql/types/Notification/ReadNotificationResponse.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/Notification/ReadNotificationResponse.ts#L4)
+Defined in: [src/graphql/types/Notification/ReadNotificationResponse.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/types/Notification/ReadNotificationResponse.ts#L4)

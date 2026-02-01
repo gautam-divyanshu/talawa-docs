@@ -6,7 +6,7 @@
 
 > **validateWindowConfig**(`config`): `boolean`
 
-Defined in: [src/services/eventGeneration/windowManager.ts:278](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/services/eventGeneration/windowManager.ts#L278)
+Defined in: [src/services/eventGeneration/windowManager.ts:278](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/services/eventGeneration/windowManager.ts#L278)
 
 Validates the configuration of a window manager to ensure all properties are within
 acceptable ranges and formats.

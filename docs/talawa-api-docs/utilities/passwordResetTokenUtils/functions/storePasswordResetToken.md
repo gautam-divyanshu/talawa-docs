@@ -6,7 +6,7 @@
 
 > **storePasswordResetToken**(`drizzleClient`, `userId`, `tokenHash`, `expiresAt`): `Promise`\<\{ `id`: `string`; \}\>
 
-Defined in: [src/utilities/passwordResetTokenUtils.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/passwordResetTokenUtils.ts#L72)
+Defined in: [src/utilities/passwordResetTokenUtils.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/passwordResetTokenUtils.ts#L72)
 
 Stores a password reset token in the database.
 

@@ -6,4 +6,4 @@
 
 > `const` **mutationDeletePostVoteInputSchema**: `ZodObject`\<\{ `creatorId`: `ZodUUID`; `postId`: `ZodUUID`; \}, \{ \}\>
 
-Defined in: [src/graphql/inputs/MutationDeletePostVoteInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/inputs/MutationDeletePostVoteInput.ts#L5)
+Defined in: [src/graphql/inputs/MutationDeletePostVoteInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/inputs/MutationDeletePostVoteInput.ts#L5)

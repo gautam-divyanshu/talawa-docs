@@ -6,7 +6,7 @@
 
 > **getRecurringEventInstancesByIds**(`instanceIds`, `drizzleClient`, `logger`): `Promise`\<[`ResolvedRecurringEventInstance`](../../../../../../drizzle/tables/recurringEventInstances/type-aliases/ResolvedRecurringEventInstance.md)[]\>
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:96](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L96)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:132](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L132)
 
 Retrieves multiple resolved recurring event instances by their specific IDs.
 This function performs a batch operation to efficiently fetch and resolve instances,

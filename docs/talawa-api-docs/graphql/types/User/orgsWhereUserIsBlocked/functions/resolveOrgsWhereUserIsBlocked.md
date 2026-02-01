@@ -6,7 +6,7 @@
 
 > **resolveOrgsWhereUserIsBlocked**(`parent`, `args`, `ctx`): `Promise`\<[`DefaultGraphQLConnection`](../../../../../utilities/graphqlConnection/types/type-aliases/DefaultGraphQLConnection.md)\<[`BlockedUser`](../../../BlockedUser/BlockedUser/type-aliases/BlockedUser.md)\>\>
 
-Defined in: [src/graphql/types/User/orgsWhereUserIsBlocked.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/graphql/types/User/orgsWhereUserIsBlocked.ts#L54)
+Defined in: [src/graphql/types/User/orgsWhereUserIsBlocked.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/types/User/orgsWhereUserIsBlocked.ts#L54)
 
 ## Parameters
 

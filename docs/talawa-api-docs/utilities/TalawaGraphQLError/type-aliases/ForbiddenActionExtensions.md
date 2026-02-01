@@ -6,7 +6,7 @@
 
 > **ForbiddenActionExtensions** = `object`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:70](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/TalawaGraphQLError.ts#L70)
+Defined in: [src/utilities/TalawaGraphQLError.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/TalawaGraphQLError.ts#L71)
 
 When the client tries to perform an action that conflicts with real world expectations of the application.
 
@@ -28,4 +28,4 @@ throw new TalawaGraphQLError(
 
 > **code**: `"forbidden_action"`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/f55b9babb4ee32c06104383cf8760b84f8143482/src/utilities/TalawaGraphQLError.ts#L71)
+Defined in: [src/utilities/TalawaGraphQLError.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/TalawaGraphQLError.ts#L72)
