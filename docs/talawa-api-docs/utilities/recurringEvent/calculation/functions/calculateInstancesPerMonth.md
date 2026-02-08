@@ -4,9 +4,9 @@
 
 # Function: calculateInstancesPerMonth()
 
-> **calculateInstancesPerMonth**(`frequency`, `interval`): `number`
+> **calculateInstancesPerMonth**(`frequency`, `interval?`): `number`
 
-Defined in: [src/utilities/recurringEvent/calculation.ts:118](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/recurringEvent/calculation.ts#L118)
+Defined in: [src/utilities/recurringEvent/calculation.ts:118](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/recurringEvent/calculation.ts#L118)
 
 Calculates the estimated number of instances per month for a given frequency and interval.
 This is useful for resource planning, performance estimations, and other calculations
@@ -20,7 +20,7 @@ where an average monthly occurrence rate is needed.
 
 The frequency of the recurrence (e.g., "DAILY", "WEEKLY").
 
-### interval
+### interval?
 
 `number` = `1`
 

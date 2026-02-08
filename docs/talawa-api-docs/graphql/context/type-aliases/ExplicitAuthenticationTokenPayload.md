@@ -6,7 +6,7 @@
 
 > **ExplicitAuthenticationTokenPayload** = `object`
 
-Defined in: [src/graphql/context.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/context.ts#L20)
+Defined in: [src/graphql/context.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/context.ts#L21)
 
 Type of the payload encoded into or decoded from the authentication json web token.
 
@@ -16,4 +16,4 @@ Type of the payload encoded into or decoded from the authentication json web tok
 
 > **user**: `Pick`\<*typeof* `usersTable.$inferSelect`, `"id"`\>
 
-Defined in: [src/graphql/context.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/context.ts#L21)
+Defined in: [src/graphql/context.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/context.ts#L22)

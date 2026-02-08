@@ -4,7 +4,7 @@
 
 # Interface: PerformanceTrackerOptions
 
-Defined in: [src/utilities/metrics/performanceTracker.ts:90](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/metrics/performanceTracker.ts#L90)
+Defined in: [src/utilities/metrics/performanceTracker.ts:90](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/metrics/performanceTracker.ts#L90)
 
 Options for creating a performance tracker.
 
@@ -14,7 +14,7 @@ Options for creating a performance tracker.
 
 > `optional` **\_\_slowArray**: `object`[]
 
-Defined in: [src/utilities/metrics/performanceTracker.ts:102](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/metrics/performanceTracker.ts#L102)
+Defined in: [src/utilities/metrics/performanceTracker.ts:102](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/metrics/performanceTracker.ts#L102)
 
 **`Internal`**
 
@@ -36,7 +36,7 @@ If provided, this array will be used instead of creating a new one.
 
 > `optional` **slowMs**: `number`
 
-Defined in: [src/utilities/metrics/performanceTracker.ts:96](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/metrics/performanceTracker.ts#L96)
+Defined in: [src/utilities/metrics/performanceTracker.ts:96](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/metrics/performanceTracker.ts#L96)
 
 Threshold in milliseconds for considering an operation as slow.
 Operations exceeding this threshold will be added to the slow array.

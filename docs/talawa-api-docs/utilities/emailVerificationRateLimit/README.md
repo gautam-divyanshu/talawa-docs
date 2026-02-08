@@ -10,5 +10,6 @@
 
 ## Functions
 
+- [\_\_resetLastCleanupAtForTests](functions/resetLastCleanupAtForTests.md)
 - [checkEmailVerificationRateLimit](functions/checkEmailVerificationRateLimit.md)
 - [resetEmailVerificationRateLimit](functions/resetEmailVerificationRateLimit.md)

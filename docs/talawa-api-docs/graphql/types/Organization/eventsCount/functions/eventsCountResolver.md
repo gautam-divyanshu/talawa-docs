@@ -6,7 +6,7 @@
 
 > **eventsCountResolver**(`parent`, `_args`, `ctx`): `Promise`\<`number`\>
 
-Defined in: [src/graphql/types/Organization/eventsCount.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/types/Organization/eventsCount.ts#L10)
+Defined in: [src/graphql/types/Organization/eventsCount.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/types/Organization/eventsCount.ts#L10)
 
 ## Parameters
 

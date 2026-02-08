@@ -4,7 +4,7 @@
 
 # Class: TalawaRestError
 
-Defined in: [src/utilities/errors/TalawaRestError.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/errors/TalawaRestError.ts#L36)
+Defined in: [src/utilities/errors/TalawaRestError.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/errors/TalawaRestError.ts#L36)
 
 Custom error class for REST API endpoints with standardized error codes and HTTP status mapping.
 
@@ -45,7 +45,7 @@ throw new TalawaRestError({
 
 > **new TalawaRestError**(`args`): `TalawaRestError`
 
-Defined in: [src/utilities/errors/TalawaRestError.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/errors/TalawaRestError.ts#L53)
+Defined in: [src/utilities/errors/TalawaRestError.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/errors/TalawaRestError.ts#L53)
 
 Creates a new TalawaRestError instance.
 
@@ -89,7 +89,7 @@ Error configuration object containing:
 
 > `readonly` **code**: [`ErrorCode`](../../errorCodes/enumerations/ErrorCode.md)
 
-Defined in: [src/utilities/errors/TalawaRestError.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/errors/TalawaRestError.ts#L38)
+Defined in: [src/utilities/errors/TalawaRestError.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/errors/TalawaRestError.ts#L38)
 
 The standardized error code
 
@@ -99,7 +99,7 @@ The standardized error code
 
 > `readonly` `optional` **details**: `unknown`
 
-Defined in: [src/utilities/errors/TalawaRestError.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/errors/TalawaRestError.ts#L42)
+Defined in: [src/utilities/errors/TalawaRestError.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/errors/TalawaRestError.ts#L42)
 
 Optional additional error context
 
@@ -109,7 +109,7 @@ Optional additional error context
 
 > `readonly` **statusCode**: `number`
 
-Defined in: [src/utilities/errors/TalawaRestError.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/errors/TalawaRestError.ts#L40)
+Defined in: [src/utilities/errors/TalawaRestError.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/errors/TalawaRestError.ts#L40)
 
 HTTP status code for this error
 
@@ -119,7 +119,7 @@ HTTP status code for this error
 
 > **toJSON**(`correlationId?`): [`StandardErrorPayload`](../../errorCodes/type-aliases/StandardErrorPayload.md)
 
-Defined in: [src/utilities/errors/TalawaRestError.ts:95](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/errors/TalawaRestError.ts#L95)
+Defined in: [src/utilities/errors/TalawaRestError.ts:95](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/errors/TalawaRestError.ts#L95)
 
 Converts the error to a standardized JSON response format.
 

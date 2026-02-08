@@ -4,7 +4,7 @@
 
 # Interface: WindowProcessingResult
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/workers/eventGeneration/windowManager.ts#L29)
+Defined in: [src/workers/eventGeneration/windowManager.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/workers/eventGeneration/windowManager.ts#L29)
 
 Result of window processing
 
@@ -14,7 +14,7 @@ Result of window processing
 
 > **eventsProcessed**: `number`
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/workers/eventGeneration/windowManager.ts#L33)
+Defined in: [src/workers/eventGeneration/windowManager.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/workers/eventGeneration/windowManager.ts#L33)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/workers/eventGeneration/windowManager.ts:33](https://github.com
 
 > **instancesCreated**: `number`
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/workers/eventGeneration/windowManager.ts#L32)
+Defined in: [src/workers/eventGeneration/windowManager.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/workers/eventGeneration/windowManager.ts#L32)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/workers/eventGeneration/windowManager.ts:32](https://github.com
 
 > **organizationId**: `string`
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/workers/eventGeneration/windowManager.ts#L31)
+Defined in: [src/workers/eventGeneration/windowManager.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/workers/eventGeneration/windowManager.ts#L31)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/workers/eventGeneration/windowManager.ts:31](https://github.com
 
 > **processingTime**: `number`
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/workers/eventGeneration/windowManager.ts#L34)
+Defined in: [src/workers/eventGeneration/windowManager.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/workers/eventGeneration/windowManager.ts#L34)
 
 ***
 
@@ -46,4 +46,4 @@ Defined in: [src/workers/eventGeneration/windowManager.ts:34](https://github.com
 
 > **windowId**: `string`
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/workers/eventGeneration/windowManager.ts#L30)
+Defined in: [src/workers/eventGeneration/windowManager.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/workers/eventGeneration/windowManager.ts#L30)

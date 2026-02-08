@@ -6,6 +6,8 @@
 
 ## Interfaces
 
+- [GitHubEmail](interfaces/GitHubEmail.md)
+- [GitHubUser](interfaces/GitHubUser.md)
 - [OAuthConfig](interfaces/OAuthConfig.md)
 - [OAuthProviderTokenResponse](interfaces/OAuthProviderTokenResponse.md)
 - [OAuthUserProfile](interfaces/OAuthUserProfile.md)

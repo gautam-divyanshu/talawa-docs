@@ -4,7 +4,7 @@
 
 # Interface: OAuthProvidersConfig
 
-Defined in: [src/config/oauth.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/config/oauth.ts#L8)
+Defined in: [src/config/oauth.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/config/oauth.ts#L8)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/config/oauth.ts:8](https://github.com/PalisadoesFoundation/tala
 
 > **github**: `OAuthProviderConfig`
 
-Defined in: [src/config/oauth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/config/oauth.ts#L10)
+Defined in: [src/config/oauth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/config/oauth.ts#L10)
 
 ***
 
@@ -20,4 +20,4 @@ Defined in: [src/config/oauth.ts:10](https://github.com/PalisadoesFoundation/tal
 
 > **google**: `OAuthProviderConfig`
 
-Defined in: [src/config/oauth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/config/oauth.ts#L9)
+Defined in: [src/config/oauth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/config/oauth.ts#L9)

@@ -4,7 +4,7 @@
 
 # Class: InvalidAuthorizationCodeError
 
-Defined in: [src/utilities/auth/oauth/errors.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/errors.ts#L19)
+Defined in: [src/utilities/auth/oauth/errors.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/errors.ts#L19)
 
 Error thrown when authorization code is invalid
 
@@ -16,13 +16,13 @@ Error thrown when authorization code is invalid
 
 ### Constructor
 
-> **new InvalidAuthorizationCodeError**(`message`): `InvalidAuthorizationCodeError`
+> **new InvalidAuthorizationCodeError**(`message?`): `InvalidAuthorizationCodeError`
 
-Defined in: [src/utilities/auth/oauth/errors.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/errors.ts#L20)
+Defined in: [src/utilities/auth/oauth/errors.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/errors.ts#L20)
 
 #### Parameters
 
-##### message
+##### message?
 
 `string` = `"Invalid authorization code"`
 
@@ -40,7 +40,7 @@ Defined in: [src/utilities/auth/oauth/errors.ts:20](https://github.com/Palisadoe
 
 > **code**: `string`
 
-Defined in: [src/utilities/auth/oauth/errors.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/errors.ts#L7)
+Defined in: [src/utilities/auth/oauth/errors.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/errors.ts#L7)
 
 #### Inherited from
 
@@ -52,7 +52,7 @@ Defined in: [src/utilities/auth/oauth/errors.ts:7](https://github.com/Palisadoes
 
 > `optional` **statusCode**: `number`
 
-Defined in: [src/utilities/auth/oauth/errors.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/errors.ts#L8)
+Defined in: [src/utilities/auth/oauth/errors.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/errors.ts#L8)
 
 #### Inherited from
 

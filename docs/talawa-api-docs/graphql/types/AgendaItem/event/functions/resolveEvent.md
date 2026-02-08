@@ -6,7 +6,7 @@
 
 > **resolveEvent**(`parent`, `_args`, `ctx`): `Promise`\<`object` & `object`\>
 
-Defined in: [src/graphql/types/AgendaItem/event.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/types/AgendaItem/event.ts#L9)
+Defined in: [src/graphql/types/AgendaItem/event.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/types/AgendaItem/event.ts#L9)
 
 ## Parameters
 

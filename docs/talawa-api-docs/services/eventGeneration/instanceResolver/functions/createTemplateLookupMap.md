@@ -6,7 +6,7 @@
 
 > **createTemplateLookupMap**(`templates`): `Map`\<`string`, [`EventTemplateWithAttachments`](../../types/type-aliases/EventTemplateWithAttachments.md)\>
 
-Defined in: [src/services/eventGeneration/instanceResolver.ts:250](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/services/eventGeneration/instanceResolver.ts#L250)
+Defined in: [src/services/eventGeneration/instanceResolver.ts:250](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/services/eventGeneration/instanceResolver.ts#L250)
 
 Creates a lookup map for event templates to enable efficient batch processing.
 The map is keyed by the event template ID.

@@ -6,7 +6,7 @@
 
 > `const` **pluginSystem**: (`fastify`) => `Promise`\<`void`\>
 
-Defined in: [src/fastifyPlugins/pluginSystem.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/fastifyPlugins/pluginSystem.ts#L18)
+Defined in: [src/fastifyPlugins/pluginSystem.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/fastifyPlugins/pluginSystem.ts#L18)
 
 Integrates the plugin system into the Fastify application.
 This plugin initializes the plugin manager and makes it available

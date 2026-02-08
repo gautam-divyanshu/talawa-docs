@@ -6,7 +6,7 @@
 
 > **EventVolunteerGroupsResolver**(`parent`, `_args`, `ctx`): `Promise`\<`object`[]\>
 
-Defined in: [src/graphql/types/Event/volunteerGroups.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/types/Event/volunteerGroups.ts#L12)
+Defined in: [src/graphql/types/Event/volunteerGroups.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/types/Event/volunteerGroups.ts#L12)
 
 ## Parameters
 

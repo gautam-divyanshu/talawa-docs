@@ -6,7 +6,7 @@
 
 > `const` **observabilityConfig**: `object`
 
-Defined in: [src/config/observability.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/config/observability.ts#L5)
+Defined in: [src/config/observability.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/config/observability.ts#L5)
 
 ## Type Declaration
 
@@ -14,13 +14,21 @@ Defined in: [src/config/observability.ts:5](https://github.com/PalisadoesFoundat
 
 > **enabled**: `boolean`
 
-### environment
+### exporterEnabled
 
-> **environment**: `string`
+> **exporterEnabled**: `boolean`
 
-### otlpEndpoint
+### exporterType
 
-> **otlpEndpoint**: `string`
+> **exporterType**: `string`
+
+### otlpMetricEndpoint
+
+> **otlpMetricEndpoint**: `string` \| `undefined` = `process.env.API_OTEL_METRIC_EXPORTER_ENDPOINT`
+
+### otlpTraceEndpoint
+
+> **otlpTraceEndpoint**: `string` \| `undefined` = `process.env.API_OTEL_TRACE_EXPORTER_ENDPOINT`
 
 ### samplingRatio
 

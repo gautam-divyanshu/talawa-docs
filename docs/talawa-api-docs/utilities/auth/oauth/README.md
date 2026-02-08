@@ -12,6 +12,18 @@ Re-exports [BaseOAuthProvider](providers/BaseOAuthProvider/classes/BaseOAuthProv
 
 ***
 
+### GitHubOAuthProvider
+
+Re-exports [GitHubOAuthProvider](providers/GitHubOAuthProvider/classes/GitHubOAuthProvider.md)
+
+***
+
+### GoogleOAuthProvider
+
+Re-exports [GoogleOAuthProvider](providers/GoogleOAuthProvider/classes/GoogleOAuthProvider.md)
+
+***
+
 ### InvalidAuthorizationCodeError
 
 Re-exports [InvalidAuthorizationCodeError](errors/classes/InvalidAuthorizationCodeError.md)

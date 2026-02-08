@@ -6,7 +6,7 @@
 
 > `const` **VolunteerMembershipFilter**: `EnumRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, `"group"` \| `"individual"`, `"group"` \| `"individual"`\>
 
-Defined in: [src/graphql/enums/VolunteerMembershipFilter.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/enums/VolunteerMembershipFilter.ts#L7)
+Defined in: [src/graphql/enums/VolunteerMembershipFilter.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/enums/VolunteerMembershipFilter.ts#L7)
 
 GraphQL enum type for volunteer membership filter.
 Used to filter memberships by type (group or individual).

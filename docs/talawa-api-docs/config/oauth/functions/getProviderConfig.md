@@ -4,9 +4,9 @@
 
 # Function: getProviderConfig()
 
-> **getProviderConfig**(`provider`, `env`): `Required`\<`OAuthProviderConfig`\>
+> **getProviderConfig**(`provider`, `env?`): `Required`\<`OAuthProviderConfig`\>
 
-Defined in: [src/config/oauth.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/config/oauth.ts#L60)
+Defined in: [src/config/oauth.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/config/oauth.ts#L60)
 
 Get provider config, throwing if provider is not enabled or invalid.
 
@@ -16,7 +16,7 @@ Get provider config, throwing if provider is not enabled or invalid.
 
 [`ProviderKey`](../type-aliases/ProviderKey.md)
 
-### env
+### env?
 
 `ProcessEnv` = `process.env`
 

@@ -6,7 +6,7 @@
 
 > **debounce**\<`T`\>(`func`, `delay`): (...`args`) => `void`
 
-Defined in: [src/plugin/utils.ts:180](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/plugin/utils.ts#L180)
+Defined in: [src/plugin/utils.ts:180](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/plugin/utils.ts#L180)
 
 Debounces a function call
 

@@ -4,10 +4,15 @@
 
 # Abstract Class: BaseOAuthProvider
 
-Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L14)
+Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L14)
 
 Abstract base class for OAuth providers
 Implements common HTTP logic and error handling
+
+## Extended by
+
+- [`GitHubOAuthProvider`](../../GitHubOAuthProvider/classes/GitHubOAuthProvider.md)
+- [`GoogleOAuthProvider`](../../GoogleOAuthProvider/classes/GoogleOAuthProvider.md)
 
 ## Implements
 
@@ -19,7 +24,7 @@ Implements common HTTP logic and error handling
 
 > **new BaseOAuthProvider**(`providerName`, `config`): `BaseOAuthProvider`
 
-Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L26)
+Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L26)
 
 #### Parameters
 
@@ -39,9 +44,9 @@ Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:26](https:/
 
 ### exchangeCodeForTokens()
 
-> `abstract` **exchangeCodeForTokens**(`code`, `redirectUri`): `Promise`\<[`OAuthProviderTokenResponse`](../../../types/interfaces/OAuthProviderTokenResponse.md)\>
+> `abstract` **exchangeCodeForTokens**(`code`, `redirectUri?`): `Promise`\<[`OAuthProviderTokenResponse`](../../../types/interfaces/OAuthProviderTokenResponse.md)\>
 
-Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L36)
+Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L36)
 
 Exchange authorization code for access tokens
 
@@ -53,11 +58,11 @@ Exchange authorization code for access tokens
 
 Authorization code from OAuth callback
 
-##### redirectUri
+##### redirectUri?
 
 `string`
 
-Redirect URI used in authorization request
+Optional redirect URI used in authorization request. If not provided, uses config redirectUri
 
 #### Returns
 
@@ -67,7 +72,7 @@ Token response with access token and optional refresh token
 
 #### Throws
 
-If token exchange fails
+If token exchange fails or if no redirect URI is available
 
 #### Throws
 
@@ -83,7 +88,7 @@ If authorization code is invalid
 
 > **getProviderName**(): `string`
 
-Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L32)
+Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L32)
 
 Get the unique name identifier for this provider
 
@@ -103,7 +108,7 @@ Provider name (e.g., "google", "github")
 
 > `abstract` **getUserProfile**(`accessToken`): `Promise`\<[`OAuthUserProfile`](../../../types/interfaces/OAuthUserProfile.md)\>
 
-Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L40)
+Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L40)
 
 Fetch user profile information using access token
 

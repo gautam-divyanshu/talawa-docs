@@ -6,4 +6,4 @@
 
 > **Event** = *typeof* `eventsTable.$inferSelect` & `object` \| [`ResolvedRecurringEventInstance`](../../../../../drizzle/tables/recurringEventInstances/type-aliases/ResolvedRecurringEventInstance.md) & `object`
 
-Defined in: [src/graphql/types/Event/Event.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/1ed05dfbd5f8b040258a6172cdf4d8be325f6225/src/graphql/types/Event/Event.ts#L13)
+Defined in: [src/graphql/types/Event/Event.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/types/Event/Event.ts#L13)
