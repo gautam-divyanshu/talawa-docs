@@ -4,9 +4,9 @@
 
 # Function: NotificationToastContainer()
 
-> **NotificationToastContainer**(`props`): `ReactElement`
+> **NotificationToastContainer**(`props?`): `ReactElement`
 
-Defined in: [shared-components/NotificationToast/NotificationToast.tsx:148](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/shared-components/NotificationToast/NotificationToast.tsx#L148)
+Defined in: [shared-components/NotificationToast/NotificationToast.tsx:148](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc82c850e280189101f3f3784976f5c13ae288a3/src/shared-components/NotificationToast/NotificationToast.tsx#L148)
 
 NotificationToastContainer
 
@@ -15,7 +15,7 @@ any prop via `props`.
 
 ## Parameters
 
-### props
+### props?
 
 `ToastContainerProps` = `{}`
 

@@ -6,7 +6,7 @@
 
 > **handleCreateDirectChat**(`id`, `userName`, `chats`, `t`, `createChat`, `createChatMembership`, `organizationId`, `userId`, `currentUserName`, `chatsListRefetch`, `toggleCreateDirectChatModal`): `Promise`\<`void`\>
 
-Defined in: [components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:74](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx#L74)
+Defined in: [components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc82c850e280189101f3f3784976f5c13ae288a3/src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx#L61)
 
 ## Parameters
 
@@ -20,7 +20,7 @@ Defined in: [components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:74](htt
 
 ### chats
 
-`GroupChat`[]
+`Chat`[]
 
 ### t
 
@@ -28,11 +28,11 @@ Defined in: [components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:74](htt
 
 ### createChat
 
-\{(`options?`): `Promise`\<`FetchResult`\<`unknown`\>\>; (`arg0`): `unknown`; \}
+`CreateChatMutation`
 
 ### createChatMembership
 
-\{(`options?`): `Promise`\<`FetchResult`\<`unknown`\>\>; (`arg0`): `unknown`; \}
+`CreateChatMembershipMutation`
 
 ### organizationId
 
@@ -48,11 +48,11 @@ Defined in: [components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:74](htt
 
 ### chatsListRefetch
 
-\{(`variables?`): `Promise`\<`ApolloQueryResult`\<`unknown`\>\>; (): `Promise`\<`ApolloQueryResult`\<`unknown`\>\>; \}
+`ChatsListRefetch`
 
 ### toggleCreateDirectChatModal
 
-\{(): `void`; (): `void`; \}
+() => `void`
 
 ## Returns
 

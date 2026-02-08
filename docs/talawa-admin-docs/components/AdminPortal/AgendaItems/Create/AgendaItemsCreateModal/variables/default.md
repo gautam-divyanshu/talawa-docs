@@ -6,4 +6,41 @@
 
 > `const` **default**: `React.FC`\<`InterfaceAgendaItemsCreateModalProps`\>
 
-Defined in: [components/AdminPortal/AgendaItems/Create/AgendaItemsCreateModal.tsx:61](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/components/AdminPortal/AgendaItems/Create/AgendaItemsCreateModal.tsx#L61)
+Defined in: [components/AdminPortal/AgendaItems/Create/AgendaItemsCreateModal.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc82c850e280189101f3f3784976f5c13ae288a3/src/components/AdminPortal/AgendaItems/Create/AgendaItemsCreateModal.tsx#L49)
+
+AgendaItemsCreateModal
+
+Create modal for adding a new agenda item.
+Built on `CreateModal` for consistent create UX and loading handling.
+
+## Param
+
+Controls modal visibility
+
+## Param
+
+Callback to close the modal
+
+## Param
+
+ID of the event
+
+## Param
+
+Available agenda item categories
+
+## Param
+
+Available agenda folders
+
+## Param
+
+Refetches agenda folder data after creation
+
+## Param
+
+i18n translation function
+
+## Returns
+
+JSX.Element

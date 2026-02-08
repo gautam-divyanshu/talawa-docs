@@ -4,9 +4,9 @@
 
 # Function: computeCalendarFromStartDate()
 
-> **computeCalendarFromStartDate**(`startDate`, `refDate`): `object`
+> **computeCalendarFromStartDate**(`startDate`, `refDate?`): `object`
 
-Defined in: [screens/UserPortal/Events/Events.tsx:87](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/screens/UserPortal/Events/Events.tsx#L87)
+Defined in: [screens/UserPortal/Events/Events.tsx:87](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc82c850e280189101f3f3784976f5c13ae288a3/src/screens/UserPortal/Events/Events.tsx#L87)
 
 ## Parameters
 
@@ -14,7 +14,7 @@ Defined in: [screens/UserPortal/Events/Events.tsx:87](https://github.com/Palisad
 
 `Date`
 
-### refDate
+### refDate?
 
 `Date` = `...`
 

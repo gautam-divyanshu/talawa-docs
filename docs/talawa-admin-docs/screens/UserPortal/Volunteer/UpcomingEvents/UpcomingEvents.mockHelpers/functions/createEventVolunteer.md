@@ -4,9 +4,9 @@
 
 # Function: createEventVolunteer()
 
-> **createEventVolunteer**(`id`, `name`, `overrides`): `object`
+> **createEventVolunteer**(`id`, `name`, `overrides?`): `object`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L30)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc82c850e280189101f3f3784976f5c13ae288a3/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L30)
 
 ## Parameters
 
@@ -18,7 +18,7 @@ Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelp
 
 `string`
 
-### overrides
+### overrides?
 
 [`InterfaceEventVolunteerOverride`](../interfaces/InterfaceEventVolunteerOverride.md) = `{}`
 

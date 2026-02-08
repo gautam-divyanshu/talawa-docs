@@ -4,6 +4,6 @@
 
 # components/UserPortal/UserProfileSettings/UserProfile
 
-## Variables
+## Functions
 
-- [default](variables/default.md)
+- [default](functions/default.md)

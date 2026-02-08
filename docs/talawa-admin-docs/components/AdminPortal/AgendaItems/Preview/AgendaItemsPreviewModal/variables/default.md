@@ -6,4 +6,27 @@
 
 > `const` **default**: `React.FC`\<`InterfaceAgendaItemsPreviewModalProps`\>
 
-Defined in: [components/AdminPortal/AgendaItems/Preview/AgendaItemsPreviewModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/2ff6db920bf1a39547f449c2455f8deb5af29900/src/components/AdminPortal/AgendaItems/Preview/AgendaItemsPreviewModal.tsx#L18)
+Defined in: [components/AdminPortal/AgendaItems/Preview/AgendaItemsPreviewModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc82c850e280189101f3f3784976f5c13ae288a3/src/components/AdminPortal/AgendaItems/Preview/AgendaItemsPreviewModal.tsx#L19)
+
+AgendaItemsPreviewModal
+Read-only preview modal for agenda item details rendered in `ViewModal`.
+
+## Param
+
+Controls modal visibility
+
+## Param
+
+Callback to close the preview modal
+
+## Param
+
+Agenda item data to display
+
+## Param
+
+i18n translation function
+
+## Returns
+
+JSX.Element
