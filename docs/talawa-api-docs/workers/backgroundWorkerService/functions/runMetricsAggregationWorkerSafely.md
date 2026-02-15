@@ -6,7 +6,7 @@
 
 > **runMetricsAggregationWorkerSafely**(`getMetricsSnapshots`, `windowMinutes`, `logger`): `Promise`\<`void`\>
 
-Defined in: [src/workers/backgroundWorkerService.ts:255](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/workers/backgroundWorkerService.ts#L255)
+Defined in: [src/workers/backgroundWorkerService.ts:268](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/workers/backgroundWorkerService.ts#L268)
 
 Executes the metrics aggregation worker with robust error handling to prevent crashes.
 

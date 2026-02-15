@@ -6,7 +6,7 @@
 
 > **resolveItems**(`parent`, `args`, `ctx`): `Promise`\<[`DefaultGraphQLConnection`](../../../../../utilities/graphqlConnection/types/type-aliases/DefaultGraphQLConnection.md)\<\{ `categoryId`: `string`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `description`: `string` \| `null`; `duration`: `string` \| `null`; `eventId`: `string`; `folderId`: `string`; `id`: `string`; `key`: `string` \| `null`; `name`: `string`; `notes`: `string` \| `null`; `sequence`: `number`; `type`: `string`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; \}\>\>
 
-Defined in: [src/graphql/types/AgendaFolder/items.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/types/AgendaFolder/items.ts#L56)
+Defined in: [src/graphql/types/AgendaFolder/items.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/types/AgendaFolder/items.ts#L56)
 
 ## Parameters
 

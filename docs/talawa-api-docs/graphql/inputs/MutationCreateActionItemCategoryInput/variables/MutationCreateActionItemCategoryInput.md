@@ -6,4 +6,4 @@
 
 > `const` **MutationCreateActionItemCategoryInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `description?`: `string` \| `null`; `isDisabled`: `boolean`; `name`: `string`; `organizationId`: `string`; \}\>
 
-Defined in: [src/graphql/inputs/MutationCreateActionItemCategoryInput.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/inputs/MutationCreateActionItemCategoryInput.ts#L11)
+Defined in: [src/graphql/inputs/MutationCreateActionItemCategoryInput.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/inputs/MutationCreateActionItemCategoryInput.ts#L12)

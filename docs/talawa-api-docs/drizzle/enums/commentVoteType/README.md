@@ -6,4 +6,5 @@
 
 ## Variables
 
-- [commentVoteTypeEnum](variables/commentVoteTypeEnum.md)
+- [commentVoteTypeValues](variables/commentVoteTypeValues.md)
+- [commentVoteTypeZodEnum](variables/commentVoteTypeZodEnum.md)

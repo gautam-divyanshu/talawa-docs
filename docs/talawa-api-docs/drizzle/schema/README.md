@@ -210,6 +210,12 @@ Re-exports [commentVotesTableRelations](../tables/commentVotes/variables/comment
 
 ***
 
+### commentVoteTypePgEnum
+
+Re-exports [commentVoteTypePgEnum](../tables/commentVotes/variables/commentVoteTypePgEnum.md)
+
+***
+
 ### communitiesTable
 
 Re-exports [communitiesTable](../tables/communities/variables/communitiesTable.md)

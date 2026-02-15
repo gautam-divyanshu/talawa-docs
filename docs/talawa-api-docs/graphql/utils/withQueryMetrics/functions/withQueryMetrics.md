@@ -6,7 +6,7 @@
 
 > **withQueryMetrics**\<`TParent`, `TArgs`, `TContext`, `TResult`\>(`options`, `resolver`): (`parent`, `args`, `context`) => `Promise`\<`TResult`\>
 
-Defined in: [src/graphql/utils/withQueryMetrics.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/utils/withQueryMetrics.ts#L47)
+Defined in: [src/graphql/utils/withQueryMetrics.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/utils/withQueryMetrics.ts#L47)
 
 Wraps a GraphQL query resolver with performance tracking instrumentation.
 

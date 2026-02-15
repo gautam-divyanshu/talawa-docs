@@ -6,7 +6,7 @@
 
 > **discoverEventGenerationWorkloads**(`config`, `deps`): `Promise`\<[`DiscoveredWorkload`](../interfaces/DiscoveredWorkload.md)[]\>
 
-Defined in: [src/workers/eventGeneration/jobDiscovery.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/workers/eventGeneration/jobDiscovery.ts#L48)
+Defined in: [src/workers/eventGeneration/jobDiscovery.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/workers/eventGeneration/jobDiscovery.ts#L48)
 
 Discovers organizations and their recurring events that require EventGeneration,
 creating a prioritized list of workloads.

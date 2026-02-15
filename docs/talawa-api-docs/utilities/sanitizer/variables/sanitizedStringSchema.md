@@ -6,7 +6,7 @@
 
 > `const` **sanitizedStringSchema**: `ZodString`
 
-Defined in: [src/utilities/sanitizer.ts:91](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/sanitizer.ts#L91)
+Defined in: [src/utilities/sanitizer.ts:91](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/sanitizer.ts#L91)
 
 Zod schema for a string that is automatically sanitized (trimmed).
 Note: This returns a plain string to allow chaining with .min()/.max().

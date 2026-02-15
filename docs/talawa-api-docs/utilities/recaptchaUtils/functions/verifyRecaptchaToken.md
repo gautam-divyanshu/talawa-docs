@@ -4,11 +4,11 @@
 
 # Function: verifyRecaptchaToken()
 
-> **verifyRecaptchaToken**(`token`, `secretKey`): `Promise`\<`boolean`\>
+> **verifyRecaptchaToken**(`token`, `secretKey`, `expectedAction?`, `scoreThreshold?`): `Promise`\<\{ `action?`: `string`; `score?`: `number`; `success`: `boolean`; \}\>
 
-Defined in: [src/utilities/recaptchaUtils.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/recaptchaUtils.ts#L14)
+Defined in: [src/utilities/recaptchaUtils.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/recaptchaUtils.ts#L22)
 
-Verifies a Google reCAPTCHA v2 token by making a request to Google's verification API.
+Verifies a Google reCAPTCHA v3 token by making a request to Google's verification API.
 
 ## Parameters
 
@@ -16,10 +16,28 @@ Verifies a Google reCAPTCHA v2 token by making a request to Google's verificatio
 
 `string`
 
+The reCAPTCHA token to verify
+
 ### secretKey
 
 `string`
 
+The secret key for verification
+
+### expectedAction?
+
+`string`
+
+The expected action name (optional, for additional validation)
+
+### scoreThreshold?
+
+`number` = `0.5`
+
+Minimum score threshold (0.0-1.0, default 0.5)
+
 ## Returns
 
-`Promise`\<`boolean`\>
+`Promise`\<\{ `action?`: `string`; `score?`: `number`; `success`: `boolean`; \}\>
+
+A promise resolving to an object with success status, and optional score and action fields

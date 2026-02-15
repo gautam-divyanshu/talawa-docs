@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/User/naturalLanguageCode
+
+## Functions
+
+- [resolveNaturalLanguageCode](functions/resolveNaturalLanguageCode.md)

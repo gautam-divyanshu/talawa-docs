@@ -4,7 +4,7 @@
 
 # Interface: TimeWindowOptions
 
-Defined in: [src/utilities/metrics/dbHelpers.ts:192](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/metrics/dbHelpers.ts#L192)
+Defined in: [src/utilities/metrics/dbHelpers.ts:192](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/metrics/dbHelpers.ts#L192)
 
 Options for generating time windows.
 
@@ -14,7 +14,7 @@ Options for generating time windows.
 
 > `optional` **alignToBoundaries**: `boolean`
 
-Defined in: [src/utilities/metrics/dbHelpers.ts:202](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/metrics/dbHelpers.ts#L202)
+Defined in: [src/utilities/metrics/dbHelpers.ts:202](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/metrics/dbHelpers.ts#L202)
 
 Whether to align windows to boundaries (e.g., minute boundaries).
 Defaults to false.
@@ -25,7 +25,7 @@ Defaults to false.
 
 > `optional` **windowSizeMs**: `number`
 
-Defined in: [src/utilities/metrics/dbHelpers.ts:197](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/metrics/dbHelpers.ts#L197)
+Defined in: [src/utilities/metrics/dbHelpers.ts:197](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/metrics/dbHelpers.ts#L197)
 
 Size of each time window in milliseconds.
 Defaults to 60000 (1 minute).

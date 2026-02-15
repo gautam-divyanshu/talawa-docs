@@ -4,7 +4,7 @@
 
 # Interface: OAuthConfig
 
-Defined in: [src/utilities/auth/oauth/types.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/types.ts#L27)
+Defined in: [src/utilities/auth/oauth/types.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/types.ts#L27)
 
 Configuration for OAuth provider
 
@@ -14,7 +14,7 @@ Configuration for OAuth provider
 
 > **clientId**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/types.ts#L28)
+Defined in: [src/utilities/auth/oauth/types.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/types.ts#L28)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/utilities/auth/oauth/types.ts:28](https://github.com/Palisadoes
 
 > **clientSecret**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/types.ts#L29)
+Defined in: [src/utilities/auth/oauth/types.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/types.ts#L29)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/utilities/auth/oauth/types.ts:29](https://github.com/Palisadoes
 
 > `optional` **redirectUri**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/types.ts#L30)
+Defined in: [src/utilities/auth/oauth/types.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/types.ts#L30)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/utilities/auth/oauth/types.ts:30](https://github.com/Palisadoes
 
 > `optional` **requestTimeoutMs**: `number`
 
-Defined in: [src/utilities/auth/oauth/types.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/auth/oauth/types.ts#L31)
+Defined in: [src/utilities/auth/oauth/types.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/types.ts#L31)

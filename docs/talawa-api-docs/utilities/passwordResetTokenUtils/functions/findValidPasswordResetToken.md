@@ -6,7 +6,7 @@
 
 > **findValidPasswordResetToken**(`drizzleClient`, `tokenHash`): `Promise`\<\{ `expiresAt`: `Date` \| `null`; `id`: `string`; `usedAt`: `Date` \| `null`; `userId`: `string`; \} \| `undefined`\>
 
-Defined in: [src/utilities/passwordResetTokenUtils.ts:106](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/utilities/passwordResetTokenUtils.ts#L106)
+Defined in: [src/utilities/passwordResetTokenUtils.ts:106](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/passwordResetTokenUtils.ts#L106)
 
 Finds a valid (non-expired, non-used) password reset token by its hash.
 

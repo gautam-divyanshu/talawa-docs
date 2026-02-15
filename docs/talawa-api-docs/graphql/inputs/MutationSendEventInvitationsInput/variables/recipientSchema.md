@@ -6,4 +6,4 @@
 
 > `const` **recipientSchema**: `ZodObject`\<\{ `email`: `ZodString`; `name`: `ZodOptional`\<`ZodString`\>; \}, `$strip`\>
 
-Defined in: [src/graphql/inputs/MutationSendEventInvitationsInput.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/36d1ea832b10d1e9883eff7a03104362b71079bd/src/graphql/inputs/MutationSendEventInvitationsInput.ts#L7)
+Defined in: [src/graphql/inputs/MutationSendEventInvitationsInput.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/inputs/MutationSendEventInvitationsInput.ts#L8)

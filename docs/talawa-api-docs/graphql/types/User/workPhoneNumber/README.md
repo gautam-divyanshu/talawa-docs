@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/User/workPhoneNumber
+
+## Functions
+
+- [workPhoneNumberResolver](functions/workPhoneNumberResolver.md)
