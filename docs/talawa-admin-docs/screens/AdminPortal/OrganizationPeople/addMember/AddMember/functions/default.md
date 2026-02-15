@@ -4,9 +4,15 @@
 
 # Function: default()
 
-> **default**(): `Element`
+> **default**(`__namedParameters?`): `Element`
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/AddMember.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc82c850e280189101f3f3784976f5c13ae288a3/src/screens/AdminPortal/OrganizationPeople/addMember/AddMember.tsx#L55)
+Defined in: [screens/AdminPortal/OrganizationPeople/addMember/AddMember.tsx:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/1de97dc40e6b2c1912f1a794db50684eedba4ceb/src/screens/AdminPortal/OrganizationPeople/addMember/AddMember.tsx#L57)
+
+## Parameters
+
+### \_\_namedParameters?
+
+`InterfaceAddMemberProps` = `{}`
 
 ## Returns
 

@@ -6,4 +6,4 @@
 
 > `const` **fetchErrorMocks**: `IBaseMutationMock`\<\{ `after`: `any`; `first`: `number`; `id`: `string`; `where`: \{ `isCompleted`: `boolean`; \}; \}\>[]
 
-Defined in: [components/AdminPortal/Advertisements/AdvertisementsMocks.ts:565](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc82c850e280189101f3f3784976f5c13ae288a3/src/components/AdminPortal/Advertisements/AdvertisementsMocks.ts#L565)
+Defined in: [components/AdminPortal/Advertisements/AdvertisementsMocks.ts:568](https://github.com/PalisadoesFoundation/talawa-admin/blob/1de97dc40e6b2c1912f1a794db50684eedba4ceb/src/components/AdminPortal/Advertisements/AdvertisementsMocks.ts#L568)

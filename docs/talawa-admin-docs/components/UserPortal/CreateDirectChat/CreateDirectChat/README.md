@@ -7,4 +7,3 @@
 ## Functions
 
 - [default](functions/default.md)
-- [handleCreateDirectChat](functions/handleCreateDirectChat.md)

@@ -6,7 +6,7 @@
 
 > `const` **logoutErrorMock**: `object`
 
-Defined in: [components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts:120](https://github.com/PalisadoesFoundation/talawa-admin/blob/fc82c850e280189101f3f3784976f5c13ae288a3/src/components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts#L120)
+Defined in: [components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts:120](https://github.com/PalisadoesFoundation/talawa-admin/blob/1de97dc40e6b2c1912f1a794db50684eedba4ceb/src/components/UserPortal/UserPortalNavigationBar/UserPortalNavigationBarMocks.ts#L120)
 
 Mock GraphQL error response for logout
 Used to test error handling during logout

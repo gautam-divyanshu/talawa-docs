@@ -7,9 +7,3 @@
 ## Variables
 
 - [UserTableRow](variables/UserTableRow.md)
-
-## References
-
-### default
-
-Renames and re-exports [UserTableRow](variables/UserTableRow.md)

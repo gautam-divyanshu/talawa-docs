@@ -7,9 +7,3 @@
 ## Variables
 
 - [LoginForm](variables/LoginForm.md)
-
-## References
-
-### default
-
-Renames and re-exports [LoginForm](variables/LoginForm.md)
