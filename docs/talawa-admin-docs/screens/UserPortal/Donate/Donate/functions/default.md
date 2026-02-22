@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/UserPortal/Donate/Donate.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/1de97dc40e6b2c1912f1a794db50684eedba4ceb/src/screens/UserPortal/Donate/Donate.tsx#L41)
+Defined in: [screens/UserPortal/Donate/Donate.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/UserPortal/Donate/Donate.tsx#L45)
 
 Component for handling donations to an organization.
 Allows users to make donations and view their donation history.

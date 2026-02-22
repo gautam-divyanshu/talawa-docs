@@ -6,7 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [components/UserDetails/UserTags.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/1de97dc40e6b2c1912f1a794db50684eedba4ceb/src/components/UserDetails/UserTags.tsx#L52)
+Defined in: [components/UserDetails/UserTags.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/components/UserDetails/UserTags.tsx#L52)
 
 ## Parameters
 
