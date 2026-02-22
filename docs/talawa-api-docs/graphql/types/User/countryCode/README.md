@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/User/countryCode
+
+## Functions
+
+- [UserCountryCodeResolver](functions/UserCountryCodeResolver.md)

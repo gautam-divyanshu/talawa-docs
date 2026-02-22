@@ -6,7 +6,7 @@
 
 > **LeakyBucketResult** = `object`
 
-Defined in: [src/utilities/leakyBucket.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/leakyBucket.ts#L7)
+Defined in: [src/utilities/leakyBucket.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/leakyBucket.ts#L7)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/utilities/leakyBucket.ts:7](https://github.com/PalisadoesFounda
 
 > **allowed**: `boolean`
 
-Defined in: [src/utilities/leakyBucket.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/leakyBucket.ts#L8)
+Defined in: [src/utilities/leakyBucket.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/leakyBucket.ts#L8)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/utilities/leakyBucket.ts:8](https://github.com/PalisadoesFounda
 
 > **remaining**: `number`
 
-Defined in: [src/utilities/leakyBucket.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/leakyBucket.ts#L9)
+Defined in: [src/utilities/leakyBucket.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/leakyBucket.ts#L9)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/utilities/leakyBucket.ts:9](https://github.com/PalisadoesFounda
 
 > **resetAt**: `number`
 
-Defined in: [src/utilities/leakyBucket.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/leakyBucket.ts#L10)
+Defined in: [src/utilities/leakyBucket.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/leakyBucket.ts#L10)

@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/User/employmentStatus
+
+## Functions
+
+- [employmentStatusResolver](functions/employmentStatusResolver.md)

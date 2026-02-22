@@ -4,7 +4,7 @@
 
 # Interface: GetStandaloneEventsInput
 
-Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L9)
+Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L9)
 
 Defines the input parameters for querying standalone events.
 
@@ -14,7 +14,7 @@ Defines the input parameters for querying standalone events.
 
 > **endDate**: `Date`
 
-Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L12)
+Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L12)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:12](
 
 > `optional` **eventIds**: `string`[]
 
-Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L16)
+Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L16)
 
 An optional array of event IDs to filter by.
 
@@ -32,7 +32,7 @@ An optional array of event IDs to filter by.
 
 > `optional` **limit**: `number`
 
-Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L20)
+Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L20)
 
 An optional limit on the number of events to return.
 
@@ -42,7 +42,7 @@ An optional limit on the number of events to return.
 
 > **organizationId**: `string`
 
-Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L10)
+Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L10)
 
 ***
 
@@ -50,4 +50,4 @@ Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:10](
 
 > **startDate**: `Date`
 
-Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L11)
+Defined in: [src/graphql/types/Query/eventQueries/standaloneEventQueries.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/types/Query/eventQueries/standaloneEventQueries.ts#L11)

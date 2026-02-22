@@ -4,7 +4,7 @@
 
 # Class: GoogleOAuthProvider
 
-Defined in: [src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts#L30)
+Defined in: [src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts#L29)
 
 Google OAuth 2.0 provider implementation
 Handles code exchange and user profile retrieval from Google's OAuth endpoints
@@ -14,8 +14,7 @@ Handles code exchange and user profile retrieval from Google's OAuth endpoints
 ```typescript
 const provider = new GoogleOAuthProvider({
   clientId: "your-client-id.apps.googleusercontent.com",
-  clientSecret: "your-client-secret",
-  redirectUri: "http://localhost:3000/auth/google/callback"
+  clientSecret: "your-client-secret"
 });
 
 // Exchange authorization code for tokens
@@ -43,7 +42,7 @@ https://developers.google.com/identity/protocols/oauth2/web-server
 
 > **new GoogleOAuthProvider**(`config`): `GoogleOAuthProvider`
 
-Defined in: [src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts#L42)
+Defined in: [src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts#L41)
 
 #### Parameters
 
@@ -63,9 +62,9 @@ Defined in: [src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts:42](https
 
 ### exchangeCodeForTokens()
 
-> **exchangeCodeForTokens**(`code`, `redirectUri?`): `Promise`\<[`OAuthProviderTokenResponse`](../../../types/interfaces/OAuthProviderTokenResponse.md)\>
+> **exchangeCodeForTokens**(`code`, `redirectUri`): `Promise`\<[`OAuthProviderTokenResponse`](../../../types/interfaces/OAuthProviderTokenResponse.md)\>
 
-Defined in: [src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts#L53)
+Defined in: [src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts#L52)
 
 Exchange authorization code for access tokens
 
@@ -77,11 +76,11 @@ Exchange authorization code for access tokens
 
 Authorization code from Google OAuth callback
 
-##### redirectUri?
+##### redirectUri
 
 `string`
 
-Optional redirect URI that was used in the authorization request. If not provided, uses config redirectUri
+redirect URI that was used in the authorization request.
 
 #### Returns
 
@@ -103,7 +102,7 @@ If token exchange fails (e.g., invalid_grant, invalid_client) or if no redirect 
 
 > **getProviderName**(): `string`
 
-Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L32)
+Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L32)
 
 Get the unique name identifier for this provider
 
@@ -123,7 +122,7 @@ Provider name (e.g., "google", "github")
 
 > **getUserProfile**(`accessToken`): `Promise`\<[`OAuthUserProfile`](../../../types/interfaces/OAuthUserProfile.md)\>
 
-Defined in: [src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts:90](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts#L90)
+Defined in: [src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/providers/GoogleOAuthProvider.ts#L88)
 
 Fetch user profile from Google userinfo endpoint
 

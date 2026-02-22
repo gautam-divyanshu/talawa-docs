@@ -4,7 +4,7 @@
 
 # Interface: IOAuthProvider
 
-Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L7)
+Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L7)
 
 Interface for OAuth2 provider implementations
 All providers must implement this interface to ensure consistent behavior
@@ -13,9 +13,9 @@ All providers must implement this interface to ensure consistent behavior
 
 ### exchangeCodeForTokens()
 
-> **exchangeCodeForTokens**(`code`, `redirectUri?`): `Promise`\<[`OAuthProviderTokenResponse`](../../../types/interfaces/OAuthProviderTokenResponse.md)\>
+> **exchangeCodeForTokens**(`code`, `redirectUri`): `Promise`\<[`OAuthProviderTokenResponse`](../../../types/interfaces/OAuthProviderTokenResponse.md)\>
 
-Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L22)
+Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L22)
 
 Exchange authorization code for access tokens
 
@@ -27,11 +27,11 @@ Exchange authorization code for access tokens
 
 Authorization code from OAuth callback
 
-##### redirectUri?
+##### redirectUri
 
 `string`
 
-Optional redirect URI used in authorization request. If not provided, uses config redirectUri
+redirect URI used in authorization request.
 
 #### Returns
 
@@ -53,7 +53,7 @@ If authorization code is invalid
 
 > **getProviderName**(): `string`
 
-Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L12)
+Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L12)
 
 Get the unique name identifier for this provider
 
@@ -69,7 +69,7 @@ Provider name (e.g., "google", "github")
 
 > **getUserProfile**(`accessToken`): `Promise`\<[`OAuthUserProfile`](../../../types/interfaces/OAuthUserProfile.md)\>
 
-Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L33)
+Defined in: [src/utilities/auth/oauth/interfaces/IOAuthProvider.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/interfaces/IOAuthProvider.ts#L33)
 
 Fetch user profile information using access token
 

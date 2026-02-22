@@ -4,7 +4,7 @@
 
 # Class: GitHubOAuthProvider
 
-Defined in: [src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts#L20)
+Defined in: [src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts#L20)
 
 GitHub OAuth provider implementation.
 Handles authentication flow with GitHub OAuth service.
@@ -24,7 +24,7 @@ Features:
 
 > **new GitHubOAuthProvider**(`config`): `GitHubOAuthProvider`
 
-Defined in: [src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts#L26)
+Defined in: [src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts#L26)
 
 Creates a new GitHub OAuth provider instance.
 
@@ -50,7 +50,7 @@ OAuth configuration containing client credentials and settings
 
 > **exchangeCodeForTokens**(`code`, `redirectUri`): `Promise`\<[`OAuthProviderTokenResponse`](../../../types/interfaces/OAuthProviderTokenResponse.md)\>
 
-Defined in: [src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts#L38)
+Defined in: [src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts#L38)
 
 Exchanges an authorization code for access tokens using GitHub's OAuth service.
 
@@ -88,7 +88,7 @@ If token exchange fails
 
 > **getProviderName**(): `string`
 
-Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L32)
+Defined in: [src/utilities/auth/oauth/providers/BaseOAuthProvider.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/providers/BaseOAuthProvider.ts#L32)
 
 Get the unique name identifier for this provider
 
@@ -108,7 +108,7 @@ Provider name (e.g., "google", "github")
 
 > **getUserProfile**(`accessToken`): `Promise`\<[`OAuthUserProfile`](../../../types/interfaces/OAuthUserProfile.md)\>
 
-Defined in: [src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts:94](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts#L94)
+Defined in: [src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts:94](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/auth/oauth/providers/GitHubOAuthProvider.ts#L94)
 
 Fetches user profile information from GitHub API.
 

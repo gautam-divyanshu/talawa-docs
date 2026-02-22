@@ -6,4 +6,4 @@
 
 > **Comment**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `body`: `string`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `id`: `string`; `postId`: `string`; `updatedAt`: `Date` \| `null`; \}, \{ `body`: `string`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `id`: `string`; `postId`: `string`; `updatedAt`: `Date` \| `null`; \}\>
 
-Defined in: [src/graphql/types/Comment/Comment.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/graphql/types/Comment/Comment.ts#L5)
+Defined in: [src/graphql/types/Comment/Comment.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/types/Comment/Comment.ts#L5)

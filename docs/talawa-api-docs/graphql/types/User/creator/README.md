@@ -3,3 +3,7 @@
 ***
 
 # graphql/types/User/creator
+
+## Functions
+
+- [creatorResolver](functions/creatorResolver.md)

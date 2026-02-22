@@ -6,7 +6,7 @@
 
 > **getClearRefreshTokenCookieOptions**(`options`): `CookieSerializeOptions`
 
-Defined in: [src/utilities/cookieConfig.ts:113](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/utilities/cookieConfig.ts#L113)
+Defined in: [src/utilities/cookieConfig.ts:113](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/cookieConfig.ts#L113)
 
 Generates cookie options for clearing/removing refresh token cookies.
 Used during logout to invalidate the refresh token cookie.

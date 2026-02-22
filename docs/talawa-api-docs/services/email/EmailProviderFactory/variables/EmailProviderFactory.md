@@ -6,7 +6,7 @@
 
 > `const` **EmailProviderFactory**: `object`
 
-Defined in: [src/services/email/EmailProviderFactory.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/39075e3ba8206f4ccaf60cdb809b4cedd12c8a45/src/services/email/EmailProviderFactory.ts#L8)
+Defined in: [src/services/email/EmailProviderFactory.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/email/EmailProviderFactory.ts#L8)
 
 ## Type Declaration
 
