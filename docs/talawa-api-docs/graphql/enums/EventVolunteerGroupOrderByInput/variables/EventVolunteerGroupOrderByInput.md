@@ -6,7 +6,7 @@
 
 > `const` **EventVolunteerGroupOrderByInput**: `EnumRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, `"volunteers_ASC"` \| `"volunteers_DESC"` \| `"assignments_ASC"` \| `"assignments_DESC"`, `"volunteers_ASC"` \| `"volunteers_DESC"` \| `"assignments_ASC"` \| `"assignments_DESC"`\>
 
-Defined in: [src/graphql/enums/EventVolunteerGroupOrderByInput.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/enums/EventVolunteerGroupOrderByInput.ts#L19)
+Defined in: [src/graphql/enums/EventVolunteerGroupOrderByInput.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/enums/EventVolunteerGroupOrderByInput.ts#L19)
 
 GraphQL enum type for ordering EventVolunteerGroups.
 Matches the old Talawa API EventVolunteerGroupOrderByInput structure.

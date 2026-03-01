@@ -6,7 +6,7 @@
 
 > `const` **eventVolunteerGroupOrderByInputEnum**: `ZodEnum`\<\{ `assignments_ASC`: `"assignments_ASC"`; `assignments_DESC`: `"assignments_DESC"`; `volunteers_ASC`: `"volunteers_ASC"`; `volunteers_DESC`: `"volunteers_DESC"`; \}\>
 
-Defined in: [src/graphql/enums/EventVolunteerGroupOrderByInput.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/enums/EventVolunteerGroupOrderByInput.ts#L8)
+Defined in: [src/graphql/enums/EventVolunteerGroupOrderByInput.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/enums/EventVolunteerGroupOrderByInput.ts#L8)
 
 Enum for EventVolunteerGroupOrderByInput options.
 Based on the old Talawa API EventVolunteerGroupOrderByInput structure.

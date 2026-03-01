@@ -6,7 +6,7 @@
 
 > **isCountBasedEvent**(`rule`): `boolean`
 
-Defined in: [src/utilities/recurringEvent/types.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/recurringEvent/types.ts#L23)
+Defined in: [src/utilities/recurringEvent/types.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/recurringEvent/types.ts#L23)
 
 Determines if a recurrence rule is count-based.
 A count-based event is defined by a `count` of occurrences and does not have an `endDate`.

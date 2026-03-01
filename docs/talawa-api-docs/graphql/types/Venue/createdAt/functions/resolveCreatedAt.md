@@ -6,7 +6,7 @@
 
 > **resolveCreatedAt**(`parent`, `_args`, `ctx`): `Promise`\<`Date`\>
 
-Defined in: [src/graphql/types/Venue/createdAt.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/types/Venue/createdAt.ts#L18)
+Defined in: [src/graphql/types/Venue/createdAt.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/types/Venue/createdAt.ts#L18)
 
 Resolves the createdAt field for a Venue. Ensures the current user is authenticated
 and has administrator access (system or organization) before returning the value.

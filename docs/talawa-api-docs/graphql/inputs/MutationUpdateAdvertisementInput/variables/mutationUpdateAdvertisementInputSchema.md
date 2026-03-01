@@ -6,4 +6,4 @@
 
 > `const` **mutationUpdateAdvertisementInputSchema**: `ZodObject`\<\{ `description`: `ZodOptional`\<`ZodNullable`\<`ZodString`\>\>; `endAt`: `ZodOptional`\<`ZodNullable`\<`ZodDate`\>\>; `id`: `ZodUUID`; `name`: `ZodOptional`\<`ZodNullable`\<`ZodString`\>\>; `startAt`: `ZodOptional`\<`ZodNullable`\<`ZodDate`\>\>; `type`: `ZodOptional`\<`ZodNullable`\<`ZodString`\>\>; \}, \{ \}\>
 
-Defined in: [src/graphql/inputs/MutationUpdateAdvertisementInput.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/graphql/inputs/MutationUpdateAdvertisementInput.ts#L7)
+Defined in: [src/graphql/inputs/MutationUpdateAdvertisementInput.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/inputs/MutationUpdateAdvertisementInput.ts#L7)

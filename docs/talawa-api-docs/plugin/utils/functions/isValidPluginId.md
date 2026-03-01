@@ -6,7 +6,7 @@
 
 > **isValidPluginId**(`pluginId`): `boolean`
 
-Defined in: [src/plugin/utils.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/plugin/utils.ts#L93)
+Defined in: [src/plugin/utils.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/plugin/utils.ts#L93)
 
 Checks if a plugin ID is valid
 

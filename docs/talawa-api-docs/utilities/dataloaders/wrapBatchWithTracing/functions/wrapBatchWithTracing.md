@@ -6,7 +6,7 @@
 
 > **wrapBatchWithTracing**\<`K`, `V`\>(`name`, `batchFn`): (`keys`) => `Promise`\<(`V` \| `null`)[]\>
 
-Defined in: [src/utilities/dataloaders/wrapBatchWithTracing.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/dataloaders/wrapBatchWithTracing.ts#L18)
+Defined in: [src/utilities/dataloaders/wrapBatchWithTracing.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/dataloaders/wrapBatchWithTracing.ts#L18)
 
 Wraps a DataLoader batch function with OpenTelemetry tracing.
 Creates a span for each batch execution with the keys count as an attribute.

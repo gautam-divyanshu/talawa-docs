@@ -4,7 +4,7 @@
 
 # Interface: ResourceUsage
 
-Defined in: [src/workers/eventGeneration/types.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/workers/eventGeneration/types.ts#L23)
+Defined in: [src/workers/eventGeneration/types.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/workers/eventGeneration/types.ts#L23)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/workers/eventGeneration/types.ts:23](https://github.com/Palisad
 
 > **cpuUsagePercent**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/workers/eventGeneration/types.ts#L25)
+Defined in: [src/workers/eventGeneration/types.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/workers/eventGeneration/types.ts#L25)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/workers/eventGeneration/types.ts:25](https://github.com/Palisad
 
 > **databaseConnections**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/workers/eventGeneration/types.ts#L26)
+Defined in: [src/workers/eventGeneration/types.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/workers/eventGeneration/types.ts#L26)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/workers/eventGeneration/types.ts:26](https://github.com/Palisad
 
 > **memoryUsageMB**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/workers/eventGeneration/types.ts#L24)
+Defined in: [src/workers/eventGeneration/types.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/workers/eventGeneration/types.ts#L24)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/workers/eventGeneration/types.ts:24](https://github.com/Palisad
 
 > **processingThroughput**: `number`
 
-Defined in: [src/workers/eventGeneration/types.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/workers/eventGeneration/types.ts#L27)
+Defined in: [src/workers/eventGeneration/types.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/workers/eventGeneration/types.ts#L27)

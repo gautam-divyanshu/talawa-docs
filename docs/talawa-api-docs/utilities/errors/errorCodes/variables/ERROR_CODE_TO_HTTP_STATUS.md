@@ -6,7 +6,7 @@
 
 > `const` **ERROR\_CODE\_TO\_HTTP\_STATUS**: `Record`\<[`ErrorCode`](../enumerations/ErrorCode.md), `number`\>
 
-Defined in: [src/utilities/errors/errorCodes.ts:86](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/errors/errorCodes.ts#L86)
+Defined in: [src/utilities/errors/errorCodes.ts:86](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/errors/errorCodes.ts#L86)
 
 Maps ErrorCode enum values to their corresponding HTTP status codes.
 

@@ -6,7 +6,7 @@
 
 > **validateRecurrenceInput**(`recurrence`, `startDate`): `object`
 
-Defined in: [src/utilities/recurringEvent/validation.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/recurringEvent/validation.ts#L15)
+Defined in: [src/utilities/recurringEvent/validation.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/recurringEvent/validation.ts#L15)
 
 Validates the recurrence input object against a set of rules to ensure its correctness.
 This function checks for logical consistency, such as ensuring the end date is after the

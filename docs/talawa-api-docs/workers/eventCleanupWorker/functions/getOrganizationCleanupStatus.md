@@ -6,7 +6,7 @@
 
 > **getOrganizationCleanupStatus**(`organizationId`, `drizzleClient`): `Promise`\<\{ `instancesEligibleForCleanup`: `number`; `lastCleanupDate`: `Date` \| `null`; `retentionCutoffDate`: `Date` \| `null`; `retentionMonths`: `number`; `totalInstances`: `number`; \}\>
 
-Defined in: [src/workers/eventCleanupWorker.ts:217](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/workers/eventCleanupWorker.ts#L217)
+Defined in: [src/workers/eventCleanupWorker.ts:217](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/workers/eventCleanupWorker.ts#L217)
 
 Retrieves the cleanup status for a specific organization, including the number of instances
 eligible for cleanup and the current retention settings.

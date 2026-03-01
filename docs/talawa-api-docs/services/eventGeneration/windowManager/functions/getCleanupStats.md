@@ -6,7 +6,7 @@
 
 > **getCleanupStats**(`organizationId`, `drizzleClient`): `Promise`\<\{ `instancesEligibleForCleanup`: `number`; `instancesInRetentionWindow`: `number`; `retentionStartDate`: `Date` \| `null`; `totalInstances`: `number`; \}\>
 
-Defined in: [src/services/eventGeneration/windowManager.ts:216](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/eventGeneration/windowManager.ts#L216)
+Defined in: [src/services/eventGeneration/windowManager.ts:216](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/eventGeneration/windowManager.ts#L216)
 
 Retrieves cleanup statistics for an organization, including the total number of instances,
 the number of instances within the retention window, and the number eligible for cleanup.

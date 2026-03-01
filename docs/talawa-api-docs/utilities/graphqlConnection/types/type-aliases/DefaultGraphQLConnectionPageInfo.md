@@ -6,7 +6,7 @@
 
 > **DefaultGraphQLConnectionPageInfo** = `object`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/graphqlConnection/types.ts#L47)
+Defined in: [src/utilities/graphqlConnection/types.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/graphqlConnection/types.ts#L47)
 
 This is typescript type of a base graphql connection page info object. This connection page info object can be extended to create a custom connnection page info object as long as the new connection object adheres to the default type of this base connection object.
 
@@ -16,7 +16,7 @@ This is typescript type of a base graphql connection page info object. This conn
 
 > **endCursor**: `string` \| `null`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/graphqlConnection/types.ts#L48)
+Defined in: [src/utilities/graphqlConnection/types.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/graphqlConnection/types.ts#L48)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/utilities/graphqlConnection/types.ts:48](https://github.com/Pal
 
 > **hasNextPage**: `boolean`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/graphqlConnection/types.ts#L49)
+Defined in: [src/utilities/graphqlConnection/types.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/graphqlConnection/types.ts#L49)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/utilities/graphqlConnection/types.ts:49](https://github.com/Pal
 
 > **hasPreviousPage**: `boolean`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/graphqlConnection/types.ts#L50)
+Defined in: [src/utilities/graphqlConnection/types.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/graphqlConnection/types.ts#L50)
 
 ***
 
@@ -40,4 +40,4 @@ Defined in: [src/utilities/graphqlConnection/types.ts:50](https://github.com/Pal
 
 > **startCursor**: `string` \| `null`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/utilities/graphqlConnection/types.ts#L51)
+Defined in: [src/utilities/graphqlConnection/types.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/graphqlConnection/types.ts#L51)

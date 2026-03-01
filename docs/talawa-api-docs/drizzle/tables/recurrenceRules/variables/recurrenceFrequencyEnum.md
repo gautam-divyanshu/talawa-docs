@@ -6,6 +6,6 @@
 
 > `const` **recurrenceFrequencyEnum**: `PgEnum`\<\[`"DAILY"`, `"WEEKLY"`, `"MONTHLY"`, `"YEARLY"`\]\>
 
-Defined in: [src/drizzle/tables/recurrenceRules.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/drizzle/tables/recurrenceRules.ts#L22)
+Defined in: [src/drizzle/tables/recurrenceRules.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/drizzle/tables/recurrenceRules.ts#L22)
 
 Enum for recurrence frequency

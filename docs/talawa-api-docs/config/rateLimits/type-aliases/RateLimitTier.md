@@ -6,7 +6,7 @@
 
 > **RateLimitTier** = `object`
 
-Defined in: [src/config/rateLimits.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/config/rateLimits.ts#L4)
+Defined in: [src/config/rateLimits.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/config/rateLimits.ts#L4)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/config/rateLimits.ts:4](https://github.com/PalisadoesFoundation
 
 > **max**: `number`
 
-Defined in: [src/config/rateLimits.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/config/rateLimits.ts#L7)
+Defined in: [src/config/rateLimits.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/config/rateLimits.ts#L7)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/config/rateLimits.ts:7](https://github.com/PalisadoesFoundation
 
 > **name**: `string`
 
-Defined in: [src/config/rateLimits.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/config/rateLimits.ts#L5)
+Defined in: [src/config/rateLimits.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/config/rateLimits.ts#L5)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/config/rateLimits.ts:5](https://github.com/PalisadoesFoundation
 
 > **windowMs**: `number`
 
-Defined in: [src/config/rateLimits.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/config/rateLimits.ts#L6)
+Defined in: [src/config/rateLimits.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/config/rateLimits.ts#L6)

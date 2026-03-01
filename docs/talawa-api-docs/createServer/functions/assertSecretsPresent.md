@@ -6,7 +6,7 @@
 
 > **assertSecretsPresent**(`envConfig`): `void`
 
-Defined in: [src/createServer.ts:64](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/createServer.ts#L64)
+Defined in: [src/createServer.ts:64](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/createServer.ts#L64)
 
 Validates that critical secrets in the environment configuration are neither
 empty nor set to the placeholder sentinel (`PLACEHOLDER_SENTINEL`).

@@ -4,7 +4,7 @@
 
 # Class: EmailQueueProcessor
 
-Defined in: [src/services/email/EmailQueueProcessor.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/email/EmailQueueProcessor.ts#L11)
+Defined in: [src/services/email/EmailQueueProcessor.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/email/EmailQueueProcessor.ts#L11)
 
 Simple email queue processor that processes pending emails
 
@@ -14,7 +14,7 @@ Simple email queue processor that processes pending emails
 
 > **new EmailQueueProcessor**(`emailService`, `ctx`): `EmailQueueProcessor`
 
-Defined in: [src/services/email/EmailQueueProcessor.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/email/EmailQueueProcessor.ts#L17)
+Defined in: [src/services/email/EmailQueueProcessor.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/email/EmailQueueProcessor.ts#L17)
 
 #### Parameters
 
@@ -36,7 +36,7 @@ Defined in: [src/services/email/EmailQueueProcessor.ts:17](https://github.com/Pa
 
 > **processPendingEmails**(): `Promise`\<`void`\>
 
-Defined in: [src/services/email/EmailQueueProcessor.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/email/EmailQueueProcessor.ts#L28)
+Defined in: [src/services/email/EmailQueueProcessor.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/email/EmailQueueProcessor.ts#L28)
 
 Process pending emails from the queue
 
@@ -50,7 +50,7 @@ Process pending emails from the queue
 
 > **startBackgroundProcessing**(`intervalMs?`): `void`
 
-Defined in: [src/services/email/EmailQueueProcessor.ts:145](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/email/EmailQueueProcessor.ts#L145)
+Defined in: [src/services/email/EmailQueueProcessor.ts:145](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/email/EmailQueueProcessor.ts#L145)
 
 Start background processor - simple setInterval approach
 
@@ -70,7 +70,7 @@ Start background processor - simple setInterval approach
 
 > **stopBackgroundProcessing**(): `void`
 
-Defined in: [src/services/email/EmailQueueProcessor.ts:157](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/email/EmailQueueProcessor.ts#L157)
+Defined in: [src/services/email/EmailQueueProcessor.ts:157](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/email/EmailQueueProcessor.ts#L157)
 
 #### Returns
 

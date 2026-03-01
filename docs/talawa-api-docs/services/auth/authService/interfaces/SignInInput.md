@@ -4,7 +4,7 @@
 
 # Interface: SignInInput
 
-Defined in: [src/services/auth/authService.ts:120](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/auth/authService.ts#L120)
+Defined in: [src/services/auth/authService.ts:120](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/auth/authService.ts#L120)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/services/auth/authService.ts:120](https://github.com/Palisadoes
 
 > **email**: `string`
 
-Defined in: [src/services/auth/authService.ts:121](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/auth/authService.ts#L121)
+Defined in: [src/services/auth/authService.ts:121](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/auth/authService.ts#L121)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/services/auth/authService.ts:121](https://github.com/Palisadoes
 
 > `optional` **ip**: `string`
 
-Defined in: [src/services/auth/authService.ts:123](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/auth/authService.ts#L123)
+Defined in: [src/services/auth/authService.ts:123](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/auth/authService.ts#L123)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/services/auth/authService.ts:123](https://github.com/Palisadoes
 
 > **password**: `string`
 
-Defined in: [src/services/auth/authService.ts:122](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/auth/authService.ts#L122)
+Defined in: [src/services/auth/authService.ts:122](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/auth/authService.ts#L122)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/services/auth/authService.ts:122](https://github.com/Palisadoes
 
 > `optional` **userAgent**: `string`
 
-Defined in: [src/services/auth/authService.ts:124](https://github.com/PalisadoesFoundation/talawa-api/blob/e0c5d64d62f9cbd7e709b63db8cf19f32f235f61/src/services/auth/authService.ts#L124)
+Defined in: [src/services/auth/authService.ts:124](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/auth/authService.ts#L124)
