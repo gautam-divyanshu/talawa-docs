@@ -4,7 +4,7 @@
 
 # Enumeration: OrganizationMembershipRole
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L33)
+Defined in: [types/AdminPortal/OrganizationMembershipRole/interface.ts:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/types/AdminPortal/OrganizationMembershipRole/interface.ts#L5)
 
 Represents the role of a user within an organization.
 Used to define permissions and access levels.
@@ -15,7 +15,7 @@ Used to define permissions and access levels.
 
 > **ADMIN**: `"administrator"`
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L34)
+Defined in: [types/AdminPortal/OrganizationMembershipRole/interface.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/types/AdminPortal/OrganizationMembershipRole/interface.ts#L6)
 
 ***
 
@@ -23,4 +23,4 @@ Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:34](https
 
 > **REGULAR**: `"regular"`
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L35)
+Defined in: [types/AdminPortal/OrganizationMembershipRole/interface.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/types/AdminPortal/OrganizationMembershipRole/interface.ts#L7)

@@ -6,7 +6,7 @@
 
 > `const` **event3**: `object`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockEvents.ts:85](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockEvents.ts#L85)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockEvents.ts:85](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockEvents.ts#L85)
 
 ## Type Declaration
 

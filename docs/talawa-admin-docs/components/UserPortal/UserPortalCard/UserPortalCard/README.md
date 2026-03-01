@@ -4,6 +4,6 @@
 
 # components/UserPortal/UserPortalCard/UserPortalCard
 
-## Variables
+## Functions
 
-- [default](variables/default.md)
+- [default](functions/default.md)

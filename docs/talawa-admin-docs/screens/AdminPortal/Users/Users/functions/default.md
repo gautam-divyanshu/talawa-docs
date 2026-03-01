@@ -6,7 +6,7 @@
 
 > **default**(): `ReactElement`
 
-Defined in: [screens/AdminPortal/Users/Users.tsx:74](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/Users/Users.tsx#L74)
+Defined in: [screens/AdminPortal/Users/Users.tsx:74](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/AdminPortal/Users/Users.tsx#L74)
 
 The Users component displays a list of users with search, filter, sort, and infinite scroll capabilities.
 

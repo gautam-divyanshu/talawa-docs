@@ -6,7 +6,7 @@
 
 > `const` **default**: `React.FC`\<`InterfaceAgendaItemsDeleteModalProps`\>
 
-Defined in: [components/AdminPortal/AgendaItems/Delete/AgendaItemsDeleteModal.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/components/AdminPortal/AgendaItems/Delete/AgendaItemsDeleteModal.tsx#L26)
+Defined in: [components/AdminPortal/AgendaItems/Delete/AgendaItemsDeleteModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/components/AdminPortal/AgendaItems/Delete/AgendaItemsDeleteModal.tsx#L27)
 
 AgendaItemsDeleteModal
 

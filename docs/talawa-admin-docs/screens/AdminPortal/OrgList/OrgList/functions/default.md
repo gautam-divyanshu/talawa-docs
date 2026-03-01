@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/AdminPortal/OrgList/OrgList.tsx:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/OrgList/OrgList.tsx#L71)
+Defined in: [screens/AdminPortal/OrgList/OrgList.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/AdminPortal/OrgList/OrgList.tsx#L66)
 
 OrgList component displays a list of organizations and allows administrators to create new ones.
 It also handles the email verification warning banner.

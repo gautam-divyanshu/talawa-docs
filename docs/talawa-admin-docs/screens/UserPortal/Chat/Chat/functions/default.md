@@ -6,7 +6,7 @@
 
 > **default**(): `Element`
 
-Defined in: [screens/UserPortal/Chat/Chat.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/UserPortal/Chat/Chat.tsx#L48)
+Defined in: [screens/UserPortal/Chat/Chat.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/UserPortal/Chat/Chat.tsx#L48)
 
 ## Returns
 

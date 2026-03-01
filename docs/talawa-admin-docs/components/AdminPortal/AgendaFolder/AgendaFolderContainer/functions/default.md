@@ -6,7 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [components/AdminPortal/AgendaFolder/AgendaFolderContainer.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/components/AdminPortal/AgendaFolder/AgendaFolderContainer.tsx#L49)
+Defined in: [components/AdminPortal/AgendaFolder/AgendaFolderContainer.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/components/AdminPortal/AgendaFolder/AgendaFolderContainer.tsx#L49)
 
 ## Parameters
 
@@ -27,10 +27,6 @@ Defined in: [components/AdminPortal/AgendaFolder/AgendaFolderContainer.tsx:49](h
 #### refetchAgendaFolder
 
 () => `void`
-
-#### t
-
-(`key`) => `string`
 
 ## Returns
 

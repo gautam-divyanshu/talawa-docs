@@ -6,7 +6,7 @@
 
 > `const` **SEARCH\_EMPTY\_MOCKS**: `object`[]
 
-Defined in: [screens/AdminPortal/Leaderboard/Leaderboard.mocks.ts:208](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/Leaderboard/Leaderboard.mocks.ts#L208)
+Defined in: [screens/AdminPortal/Leaderboard/Leaderboard.mocks.ts:208](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/AdminPortal/Leaderboard/Leaderboard.mocks.ts#L208)
 
 ## Type Declaration
 

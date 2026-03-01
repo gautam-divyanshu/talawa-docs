@@ -4,9 +4,9 @@
 
 # Interface: InterfaceOrganizationModalProps
 
-Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:72](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L72)
+Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L38)
 
-Represents the properties of the OrganizationModal component.
+Interface for the properties of the OrganizationModal component.
 
 ## Properties
 
@@ -14,7 +14,9 @@ Represents the properties of the OrganizationModal component.
 
 > **createOrg**: (`e`) => `Promise`\<`void`\>
 
-Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:77](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L77)
+Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L48)
+
+A function to handle the submission of the organization creation form.
 
 #### Parameters
 
@@ -32,7 +34,9 @@ Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:77](https:/
 
 > **formState**: `InterfaceFormStateType`
 
-Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:75](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L75)
+Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L44)
+
+The state of the form in the organization modal.
 
 ***
 
@@ -40,7 +44,9 @@ Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:75](https:/
 
 > **setFormState**: (`state`) => `void`
 
-Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:76](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L76)
+Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L46)
+
+A function to update the state of the form in the organization modal.
 
 #### Parameters
 
@@ -58,7 +64,9 @@ Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:76](https:/
 
 > **showModal**: `boolean`
 
-Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:73](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L73)
+Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L40)
+
+A boolean indicating whether the modal should be displayed.
 
 ***
 
@@ -66,7 +74,9 @@ Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:73](https:/
 
 > **toggleModal**: () => `void`
 
-Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:74](https://github.com/PalisadoesFoundation/talawa-admin/blob/460bd2773acfa2e179245b3aaa6f4a49389b14d5/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L74)
+Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L42)
+
+A function to toggle the visibility of the modal.
 
 #### Returns
 
