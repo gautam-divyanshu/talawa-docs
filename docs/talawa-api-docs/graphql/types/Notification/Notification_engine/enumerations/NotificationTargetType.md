@@ -4,7 +4,7 @@
 
 # Enumeration: NotificationTargetType
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/types/Notification/Notification_engine.ts#L12)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Notification/Notification_engine.ts#L12)
 
 Target types for notification audience
 
@@ -14,7 +14,7 @@ Target types for notification audience
 
 > **ADMIN**: `"admin"`
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/types/Notification/Notification_engine.ts#L15)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Notification/Notification_engine.ts#L15)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/graphql/types/Notification/Notification\_engine.ts:15](https://
 
 > **ORGANIZATION**: `"organization"`
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/types/Notification/Notification_engine.ts#L14)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Notification/Notification_engine.ts#L14)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/graphql/types/Notification/Notification\_engine.ts:14](https://
 
 > **ORGANIZATION\_ADMIN**: `"organization_admin"`
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/types/Notification/Notification_engine.ts#L16)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Notification/Notification_engine.ts#L16)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/graphql/types/Notification/Notification\_engine.ts:16](https://
 
 > **USER**: `"user"`
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/types/Notification/Notification_engine.ts#L13)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Notification/Notification_engine.ts#L13)

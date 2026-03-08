@@ -6,7 +6,7 @@
 
 > **initializeGenerationWindow**(`input`, `drizzleClient`, `logger`): `Promise`\<\{ `configurationNotes`: `string` \| `null`; `createdAt`: `Date`; `createdById`: `string`; `currentWindowEndDate`: `Date`; `historyRetentionMonths`: `number`; `hotWindowMonthsAhead`: `number`; `id`: `string`; `isEnabled`: `boolean`; `lastProcessedAt`: `Date`; `lastProcessedInstanceCount`: `number`; `lastUpdatedById`: `string` \| `null`; `maxInstancesPerRun`: `number`; `organizationId`: `string`; `processingPriority`: `number`; `retentionStartDate`: `Date`; `updatedAt`: `Date` \| `null`; \}\>
 
-Defined in: [src/services/eventGeneration/windowManager.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/eventGeneration/windowManager.ts#L16)
+Defined in: [src/services/eventGeneration/windowManager.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/windowManager.ts#L16)
 
 Initializes the Generation window for a given organization, setting up the time frame
 for which event instances will be generated and retained.

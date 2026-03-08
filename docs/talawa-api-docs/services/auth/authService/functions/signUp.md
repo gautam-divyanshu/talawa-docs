@@ -6,7 +6,7 @@
 
 > **signUp**(`db`, `log`, `input`): `Promise`\<[`SignUpResult`](../type-aliases/SignUpResult.md)\>
 
-Defined in: [src/services/auth/authService.ts:65](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/auth/authService.ts#L65)
+Defined in: [src/services/auth/authService.ts:65](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/auth/authService.ts#L65)
 
 Registers a new user.
 

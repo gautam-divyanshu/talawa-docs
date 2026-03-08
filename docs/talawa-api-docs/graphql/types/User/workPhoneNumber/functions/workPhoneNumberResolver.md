@@ -6,7 +6,7 @@
 
 > **workPhoneNumberResolver**(`parent`, `_args`, `ctx`): `Promise`\<`string` \| `null`\>
 
-Defined in: [src/graphql/types/User/workPhoneNumber.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/types/User/workPhoneNumber.ts#L14)
+Defined in: [src/graphql/types/User/workPhoneNumber.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/User/workPhoneNumber.ts#L14)
 
 Resolver for the workPhoneNumber field on the User type.
 

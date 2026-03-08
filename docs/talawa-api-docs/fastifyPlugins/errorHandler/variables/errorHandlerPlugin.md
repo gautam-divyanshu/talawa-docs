@@ -6,7 +6,7 @@
 
 > `const` **errorHandlerPlugin**: (`fastify`) => `Promise`\<`void`\>
 
-Defined in: [src/fastifyPlugins/errorHandler.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/fastifyPlugins/errorHandler.ts#L45)
+Defined in: [src/fastifyPlugins/errorHandler.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/fastifyPlugins/errorHandler.ts#L45)
 
 Global Fastify error handler plugin that provides unified error responses.
 

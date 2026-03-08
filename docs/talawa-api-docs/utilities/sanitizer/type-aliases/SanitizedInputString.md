@@ -6,7 +6,7 @@
 
 > **SanitizedInputString** = `string` & `object`
 
-Defined in: [src/utilities/sanitizer.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/sanitizer.ts#L22)
+Defined in: [src/utilities/sanitizer.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/utilities/sanitizer.ts#L22)
 
 Branded type for strings that have been sanitized (trimmed, normalized) for input.
 Use `sanitizeInput()` to create instances of this type.

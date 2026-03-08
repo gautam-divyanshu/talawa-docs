@@ -4,7 +4,7 @@
 
 # Interface: WorkerConfig
 
-Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/workers/eventGeneration/eventGenerationPipeline.ts#L21)
+Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/workers/eventGeneration/eventGenerationPipeline.ts#L21)
 
 Configuration for the materialization worker, specifying concurrency and processing limits.
 
@@ -14,7 +14,7 @@ Configuration for the materialization worker, specifying concurrency and process
 
 > **enablePostProcessing**: `boolean`
 
-Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/workers/eventGeneration/eventGenerationPipeline.ts#L24)
+Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/workers/eventGeneration/eventGenerationPipeline.ts#L24)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:24](https://
 
 > **maxConcurrentJobs**: `number`
 
-Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/workers/eventGeneration/eventGenerationPipeline.ts#L22)
+Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/workers/eventGeneration/eventGenerationPipeline.ts#L22)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:22](https://
 
 > **maxOrganizations**: `number`
 
-Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/workers/eventGeneration/eventGenerationPipeline.ts#L23)
+Defined in: [src/workers/eventGeneration/eventGenerationPipeline.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/workers/eventGeneration/eventGenerationPipeline.ts#L23)

@@ -6,7 +6,7 @@
 
 > **UnauthenticatedExtensions** = `object`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:113](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/TalawaGraphQLError.ts#L113)
+Defined in: [src/utilities/TalawaGraphQLError.ts:113](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/utilities/TalawaGraphQLError.ts#L113)
 
 When the client must be authenticated to perform an action.
 
@@ -26,4 +26,4 @@ throw new TalawaGraphQLError({
 
 > **code**: `"unauthenticated"`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:114](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/TalawaGraphQLError.ts#L114)
+Defined in: [src/utilities/TalawaGraphQLError.ts:114](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/utilities/TalawaGraphQLError.ts#L114)

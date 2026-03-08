@@ -4,7 +4,7 @@
 
 # Interface: CalculatedOccurrence
 
-Defined in: [src/services/eventGeneration/types.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/eventGeneration/types.ts#L45)
+Defined in: [src/services/eventGeneration/types.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L45)
 
 Result of occurrence calculation
 
@@ -14,7 +14,7 @@ Result of occurrence calculation
 
 > **actualEndTime**: `Date`
 
-Defined in: [src/services/eventGeneration/types.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/eventGeneration/types.ts#L49)
+Defined in: [src/services/eventGeneration/types.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L49)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/services/eventGeneration/types.ts:49](https://github.com/Palisa
 
 > **actualStartTime**: `Date`
 
-Defined in: [src/services/eventGeneration/types.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/eventGeneration/types.ts#L48)
+Defined in: [src/services/eventGeneration/types.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L48)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/services/eventGeneration/types.ts:48](https://github.com/Palisa
 
 > **isCancelled**: `boolean`
 
-Defined in: [src/services/eventGeneration/types.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/eventGeneration/types.ts#L50)
+Defined in: [src/services/eventGeneration/types.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L50)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/services/eventGeneration/types.ts:50](https://github.com/Palisa
 
 > **originalStartTime**: `Date`
 
-Defined in: [src/services/eventGeneration/types.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/eventGeneration/types.ts#L47)
+Defined in: [src/services/eventGeneration/types.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L47)
 
 ***
 
@@ -46,7 +46,7 @@ Defined in: [src/services/eventGeneration/types.ts:47](https://github.com/Palisa
 
 > **recurringEventInstanceId**: `string`
 
-Defined in: [src/services/eventGeneration/types.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/eventGeneration/types.ts#L46)
+Defined in: [src/services/eventGeneration/types.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L46)
 
 ***
 
@@ -54,7 +54,7 @@ Defined in: [src/services/eventGeneration/types.ts:46](https://github.com/Palisa
 
 > **sequenceNumber**: `number`
 
-Defined in: [src/services/eventGeneration/types.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/eventGeneration/types.ts#L51)
+Defined in: [src/services/eventGeneration/types.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L51)
 
 ***
 
@@ -62,4 +62,4 @@ Defined in: [src/services/eventGeneration/types.ts:51](https://github.com/Palisa
 
 > **totalCount**: `number` \| `null`
 
-Defined in: [src/services/eventGeneration/types.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/eventGeneration/types.ts#L52)
+Defined in: [src/services/eventGeneration/types.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L52)

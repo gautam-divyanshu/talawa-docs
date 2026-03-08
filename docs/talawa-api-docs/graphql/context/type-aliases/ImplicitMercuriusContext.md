@@ -6,7 +6,7 @@
 
 > **ImplicitMercuriusContext** = `object`
 
-Defined in: [src/graphql/context.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/context.ts#L14)
+Defined in: [src/graphql/context.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/context.ts#L14)
 
 Type of the implicit context object passed by mercurius that is merged with the explicit context object and passed to the graphql resolvers each time they resolve a graphql operation at runtime.
 
@@ -16,4 +16,4 @@ Type of the implicit context object passed by mercurius that is merged with the 
 
 > **pubsub**: [`PubSub`](../../pubsub/type-aliases/PubSub.md)
 
-Defined in: [src/graphql/context.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/graphql/context.ts#L15)
+Defined in: [src/graphql/context.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/context.ts#L15)

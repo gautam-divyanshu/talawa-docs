@@ -6,7 +6,7 @@
 
 > **rotateRefresh**(`db`, `log`, `token`): `Promise`\<[`RotateRefreshResult`](../type-aliases/RotateRefreshResult.md)\>
 
-Defined in: [src/services/auth/authService.ts:197](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/auth/authService.ts#L197)
+Defined in: [src/services/auth/authService.ts:197](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/auth/authService.ts#L197)
 
 Rotates a refresh token: revokes the old one and issues new access and refresh tokens.
 

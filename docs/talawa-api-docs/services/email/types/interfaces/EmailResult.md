@@ -4,7 +4,7 @@
 
 # Interface: EmailResult
 
-Defined in: [src/services/email/types.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/email/types.ts#L21)
+Defined in: [src/services/email/types.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/email/types.ts#L21)
 
 Email result interface
 
@@ -14,7 +14,7 @@ Email result interface
 
 > `optional` **error**: `string`
 
-Defined in: [src/services/email/types.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/email/types.ts#L25)
+Defined in: [src/services/email/types.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/email/types.ts#L25)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/services/email/types.ts:25](https://github.com/PalisadoesFounda
 
 > **id**: `string`
 
-Defined in: [src/services/email/types.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/email/types.ts#L22)
+Defined in: [src/services/email/types.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/email/types.ts#L22)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/services/email/types.ts:22](https://github.com/PalisadoesFounda
 
 > `optional` **messageId**: `string`
 
-Defined in: [src/services/email/types.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/email/types.ts#L24)
+Defined in: [src/services/email/types.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/email/types.ts#L24)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/services/email/types.ts:24](https://github.com/PalisadoesFounda
 
 > **success**: `boolean`
 
-Defined in: [src/services/email/types.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/services/email/types.ts#L23)
+Defined in: [src/services/email/types.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/email/types.ts#L23)

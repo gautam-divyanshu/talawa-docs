@@ -6,7 +6,7 @@
 
 > **calculateMean**(`values`): `number`
 
-Defined in: [src/utilities/metrics/dbHelpers.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/29f85325b75d0f277ef992b07c6afd8761e3db6a/src/utilities/metrics/dbHelpers.ts#L20)
+Defined in: [src/utilities/metrics/dbHelpers.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/utilities/metrics/dbHelpers.ts#L20)
 
 Calculates the mean (average) of an array of numbers.
 
