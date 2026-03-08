@@ -6,7 +6,7 @@
 
 > **default**(`orgId`): `ReactElement`
 
-Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L66)
+Defined in: [components/LeftDrawerOrg/LeftDrawerOrg.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L66)
 
 LeftDrawerOrg component for displaying organization details and options.
 

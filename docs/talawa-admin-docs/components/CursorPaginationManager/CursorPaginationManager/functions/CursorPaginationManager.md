@@ -6,7 +6,7 @@
 
 > **CursorPaginationManager**\<`TData`, `TNode`, `TVariables`\>(`props`): `ReactElement`
 
-Defined in: [components/CursorPaginationManager/CursorPaginationManager.tsx:128](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/components/CursorPaginationManager/CursorPaginationManager.tsx#L128)
+Defined in: [components/CursorPaginationManager/CursorPaginationManager.tsx:128](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/CursorPaginationManager/CursorPaginationManager.tsx#L128)
 
 CursorPaginationManager - A reusable component for cursor-based pagination
 

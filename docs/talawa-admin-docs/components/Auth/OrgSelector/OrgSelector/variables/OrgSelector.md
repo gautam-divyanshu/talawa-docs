@@ -6,7 +6,7 @@
 
 > `const` **OrgSelector**: `React.FC`\<`InterfaceOrgSelectorProps`\>
 
-Defined in: [components/Auth/OrgSelector/OrgSelector.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/components/Auth/OrgSelector/OrgSelector.tsx#L26)
+Defined in: [components/Auth/OrgSelector/OrgSelector.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/OrgSelector/OrgSelector.tsx#L26)
 
 Reusable organization selector component with search/autocomplete and accessibility support.
 

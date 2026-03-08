@@ -6,7 +6,7 @@
 
 > **brandForProvider**(`provider`): `InterfaceProviderBrand`
 
-Defined in: [components/Auth/theme/oauthBrand.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/9325ac63b1aa0de5c188b3108fe5b032999b90ee/src/components/Auth/theme/oauthBrand.tsx#L49)
+Defined in: [components/Auth/theme/oauthBrand.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/theme/oauthBrand.tsx#L49)
 
 Retrieves the branding configuration for a specific OAuth provider.
 
