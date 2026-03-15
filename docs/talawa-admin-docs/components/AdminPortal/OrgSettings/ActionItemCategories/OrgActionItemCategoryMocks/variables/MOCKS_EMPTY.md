@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_EMPTY**: `object`[]
 
-Defined in: [components/AdminPortal/OrgSettings/ActionItemCategories/OrgActionItemCategoryMocks.ts:359](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/AdminPortal/OrgSettings/ActionItemCategories/OrgActionItemCategoryMocks.ts#L359)
+Defined in: [components/AdminPortal/OrgSettings/ActionItemCategories/OrgActionItemCategoryMocks.ts:359](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/AdminPortal/OrgSettings/ActionItemCategories/OrgActionItemCategoryMocks.ts#L359)
 
 ## Type Declaration
 

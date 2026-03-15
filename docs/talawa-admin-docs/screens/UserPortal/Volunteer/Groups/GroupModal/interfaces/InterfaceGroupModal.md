@@ -4,7 +4,7 @@
 
 # Interface: InterfaceGroupModal
 
-Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L37)
+Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L37)
 
 Props for the GroupModal component.
 
@@ -14,7 +14,7 @@ Props for the GroupModal component.
 
 > **eventId**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L40)
+Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L40)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:40](https://gith
 
 > **group**: `InterfaceVolunteerGroupInfo`
 
-Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L41)
+Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L41)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:41](https://gith
 
 > **hide**: () => `void`
 
-Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L39)
+Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L39)
 
 #### Returns
 
@@ -42,7 +42,7 @@ Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:39](https://gith
 
 > **isOpen**: `boolean`
 
-Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L38)
+Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L38)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:38](https://gith
 
 > **refetchGroups**: () => `void`
 
-Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L42)
+Defined in: [screens/UserPortal/Volunteer/Groups/GroupModal.tsx:42](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/Groups/GroupModal.tsx#L42)
 
 #### Returns
 

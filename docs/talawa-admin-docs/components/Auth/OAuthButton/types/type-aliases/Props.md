@@ -6,7 +6,7 @@
 
 > **Props** = `object`
 
-Defined in: [components/Auth/OAuthButton/types.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/OAuthButton/types.ts#L6)
+Defined in: [components/Auth/OAuthButton/types.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/Auth/OAuthButton/types.ts#L6)
 
 Props for the OAuthButton component.
 
@@ -16,7 +16,7 @@ Props for the OAuthButton component.
 
 > `optional` **aria-label**: `string`
 
-Defined in: [components/Auth/OAuthButton/types.ts:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/OAuthButton/types.ts#L13)
+Defined in: [components/Auth/OAuthButton/types.ts:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/Auth/OAuthButton/types.ts#L13)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [components/Auth/OAuthButton/types.ts:13](https://github.com/Palisad
 
 > `optional` **children**: `React.ReactNode`
 
-Defined in: [components/Auth/OAuthButton/types.ts:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/OAuthButton/types.ts#L14)
+Defined in: [components/Auth/OAuthButton/types.ts:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/Auth/OAuthButton/types.ts#L14)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [components/Auth/OAuthButton/types.ts:14](https://github.com/Palisad
 
 > `optional` **className**: `string`
 
-Defined in: [components/Auth/OAuthButton/types.ts:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/OAuthButton/types.ts#L12)
+Defined in: [components/Auth/OAuthButton/types.ts:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/Auth/OAuthButton/types.ts#L12)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [components/Auth/OAuthButton/types.ts:12](https://github.com/Palisad
 
 > `optional` **disabled**: `boolean`
 
-Defined in: [components/Auth/OAuthButton/types.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/OAuthButton/types.ts#L9)
+Defined in: [components/Auth/OAuthButton/types.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/Auth/OAuthButton/types.ts#L9)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [components/Auth/OAuthButton/types.ts:9](https://github.com/Palisado
 
 > `optional` **fullWidth**: `boolean`
 
-Defined in: [components/Auth/OAuthButton/types.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/OAuthButton/types.ts#L10)
+Defined in: [components/Auth/OAuthButton/types.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/Auth/OAuthButton/types.ts#L10)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [components/Auth/OAuthButton/types.ts:10](https://github.com/Palisad
 
 > `optional` **loading**: `boolean`
 
-Defined in: [components/Auth/OAuthButton/types.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/OAuthButton/types.ts#L8)
+Defined in: [components/Auth/OAuthButton/types.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/Auth/OAuthButton/types.ts#L8)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [components/Auth/OAuthButton/types.ts:8](https://github.com/Palisado
 
 > **mode**: [`OAuthMode`](../../OAuthButton/type-aliases/OAuthMode.md)
 
-Defined in: [components/Auth/OAuthButton/types.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/OAuthButton/types.ts#L7)
+Defined in: [components/Auth/OAuthButton/types.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/Auth/OAuthButton/types.ts#L7)
 
 ***
 
@@ -72,4 +72,4 @@ Defined in: [components/Auth/OAuthButton/types.ts:7](https://github.com/Palisado
 
 > `optional` **size**: [`OAuthSize`](../../OAuthButton/type-aliases/OAuthSize.md)
 
-Defined in: [components/Auth/OAuthButton/types.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/a3aff34c5338b675e61260486f2477e6f97319b3/src/components/Auth/OAuthButton/types.ts#L11)
+Defined in: [components/Auth/OAuthButton/types.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/Auth/OAuthButton/types.ts#L11)
