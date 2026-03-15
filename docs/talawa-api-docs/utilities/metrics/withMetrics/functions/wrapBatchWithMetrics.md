@@ -6,7 +6,7 @@
 
 > **wrapBatchWithMetrics**\<`K`, `V`\>(`op`, `perf`, `batchFn`): (`keys`) => `Promise`\<(`V` \| `null`)[]\>
 
-Defined in: [src/utilities/metrics/withMetrics.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/utilities/metrics/withMetrics.ts#L18)
+Defined in: [src/utilities/metrics/withMetrics.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/metrics/withMetrics.ts#L18)
 
 Wraps a DataLoader batch function with performance tracking.
 Tracks the duration of database operations for monitoring.

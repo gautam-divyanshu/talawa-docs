@@ -4,25 +4,41 @@
 
 # Interface: CalculatedOccurrence
 
-Defined in: [src/services/eventGeneration/types.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L45)
+Defined in: [src/services/eventGeneration/types.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L45)
 
 Result of occurrence calculation
 
 ## Properties
 
+### actualEndDate
+
+> **actualEndDate**: `string` \| `null`
+
+Defined in: [src/services/eventGeneration/types.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L54)
+
+***
+
 ### actualEndTime
 
-> **actualEndTime**: `Date`
+> **actualEndTime**: `Date` \| `null`
 
-Defined in: [src/services/eventGeneration/types.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L49)
+Defined in: [src/services/eventGeneration/types.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L50)
+
+***
+
+### actualStartDate
+
+> **actualStartDate**: `string` \| `null`
+
+Defined in: [src/services/eventGeneration/types.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L53)
 
 ***
 
 ### actualStartTime
 
-> **actualStartTime**: `Date`
+> **actualStartTime**: `Date` \| `null`
 
-Defined in: [src/services/eventGeneration/types.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L48)
+Defined in: [src/services/eventGeneration/types.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L49)
 
 ***
 
@@ -30,15 +46,23 @@ Defined in: [src/services/eventGeneration/types.ts:48](https://github.com/Palisa
 
 > **isCancelled**: `boolean`
 
-Defined in: [src/services/eventGeneration/types.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L50)
+Defined in: [src/services/eventGeneration/types.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L55)
+
+***
+
+### originalStartDate
+
+> **originalStartDate**: `string` \| `null`
+
+Defined in: [src/services/eventGeneration/types.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L52)
 
 ***
 
 ### originalStartTime
 
-> **originalStartTime**: `Date`
+> **originalStartTime**: `Date` \| `null`
 
-Defined in: [src/services/eventGeneration/types.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L47)
+Defined in: [src/services/eventGeneration/types.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L48)
 
 ***
 
@@ -46,7 +70,7 @@ Defined in: [src/services/eventGeneration/types.ts:47](https://github.com/Palisa
 
 > **recurringEventInstanceId**: `string`
 
-Defined in: [src/services/eventGeneration/types.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L46)
+Defined in: [src/services/eventGeneration/types.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L46)
 
 ***
 
@@ -54,7 +78,7 @@ Defined in: [src/services/eventGeneration/types.ts:46](https://github.com/Palisa
 
 > **sequenceNumber**: `number`
 
-Defined in: [src/services/eventGeneration/types.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L51)
+Defined in: [src/services/eventGeneration/types.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L56)
 
 ***
 
@@ -62,4 +86,4 @@ Defined in: [src/services/eventGeneration/types.ts:51](https://github.com/Palisa
 
 > **totalCount**: `number` \| `null`
 
-Defined in: [src/services/eventGeneration/types.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/eventGeneration/types.ts#L52)
+Defined in: [src/services/eventGeneration/types.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/eventGeneration/types.ts#L57)

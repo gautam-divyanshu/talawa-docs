@@ -6,7 +6,7 @@
 
 > **filterInviteOnlyEvents**(`input`): `Promise`\<[`EventWithAttachments`](../type-aliases/EventWithAttachments.md)[]\>
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:74](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L74)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:75](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L75)
 
 Filters invite-only events based on visibility rules.
 An invite-only event is only visible to:

@@ -6,7 +6,7 @@
 
 > **createOrganizationLoader**(`db`, `cache`, `perf?`): `DataLoader`\<`string`, \{ `addressLine1`: `string` \| `null`; `addressLine2`: `string` \| `null`; `avatarMimeType`: `string` \| `null`; `avatarName`: `string` \| `null`; `city`: `string` \| `null`; `countryCode`: `string` \| `null`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `description`: `string` \| `null`; `id`: `string`; `name`: `string`; `postalCode`: `string` \| `null`; `state`: `string` \| `null`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; `userRegistrationRequired`: `boolean` \| `null`; \} \| `null`, `string`\>
 
-Defined in: [src/utilities/dataloaders/organizationLoader.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/utilities/dataloaders/organizationLoader.ts#L36)
+Defined in: [src/utilities/dataloaders/organizationLoader.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/dataloaders/organizationLoader.ts#L36)
 
 Creates a DataLoader for batching organization lookups by ID.
 When a cache service is provided, wraps the batch function with cache-first logic.

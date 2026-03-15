@@ -6,7 +6,7 @@
 
 > **revokeAllUserPasswordResetTokens**(`drizzleClient`, `userId`): `Promise`\<`number`\>
 
-Defined in: [src/utilities/passwordResetTokenUtils.ts:177](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/utilities/passwordResetTokenUtils.ts#L177)
+Defined in: [src/utilities/passwordResetTokenUtils.ts:177](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/passwordResetTokenUtils.ts#L177)
 
 Revokes all password reset tokens for a user (marks them as used).
 Useful when user successfully resets password or requests a new token.

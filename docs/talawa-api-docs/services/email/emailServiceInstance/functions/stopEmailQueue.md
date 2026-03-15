@@ -6,7 +6,7 @@
 
 > **stopEmailQueue**(`log?`): `void`
 
-Defined in: [src/services/email/emailServiceInstance.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/services/email/emailServiceInstance.ts#L31)
+Defined in: [src/services/email/emailServiceInstance.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/email/emailServiceInstance.ts#L31)
 
 ## Parameters
 

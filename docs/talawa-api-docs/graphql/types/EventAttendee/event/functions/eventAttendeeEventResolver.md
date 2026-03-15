@@ -6,7 +6,7 @@
 
 > **eventAttendeeEventResolver**(`parent`, `_args`, `ctx`): `Promise`\<[`Event`](../../../Event/Event/type-aliases/Event.md) \| `null`\>
 
-Defined in: [src/graphql/types/EventAttendee/event.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/EventAttendee/event.ts#L20)
+Defined in: [src/graphql/types/EventAttendee/event.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/EventAttendee/event.ts#L20)
 
 Resolves the event that an event attendee is associated with.
 

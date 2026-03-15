@@ -4,7 +4,7 @@
 
 # Interface: FilterInviteOnlyEventsInput
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L48)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L49)
 
 Parameters for filtering events based on invite-only visibility rules.
 
@@ -14,7 +14,7 @@ Parameters for filtering events based on invite-only visibility rules.
 
 > **currentUserId**: `string`
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L50)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L51)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:50](htt
 
 > **currentUserOrgMembership**: \{ `role`: `string`; \} \| `Map`\<`string`, \{ `role`: `string`; \} \| `undefined`\> \| `undefined`
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L57)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L58)
 
 Either a single organization membership (for single-org queries) or
 a map of organization IDs to memberships (for cross-org queries).
@@ -34,7 +34,7 @@ If a map is provided, it will be used to look up membership per event.
 
 > **currentUserRole**: `string`
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L51)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L52)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:51](htt
 
 > **drizzleClient**: `NodePgDatabase`\<[`drizzle/schema`](../../../../../../drizzle/schema/README.md)\>
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L61)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:62](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L62)
 
 ***
 
@@ -50,4 +50,4 @@ Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:61](htt
 
 > **events**: [`EventWithAttachments`](../type-aliases/EventWithAttachments.md)[]
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L49)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L50)

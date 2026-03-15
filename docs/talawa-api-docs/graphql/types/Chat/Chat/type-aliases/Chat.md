@@ -6,4 +6,4 @@
 
 > **Chat** = *typeof* `chatsTable.$inferSelect`
 
-Defined in: [src/graphql/types/Chat/Chat.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/Chat/Chat.ts#L25)
+Defined in: [src/graphql/types/Chat/Chat.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Chat/Chat.ts#L25)

@@ -6,7 +6,7 @@
 
 > `const` **cacheService**: (`fastify`) => `Promise`\<`void`\>
 
-Defined in: [src/fastifyPlugins/cacheService.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/fastifyPlugins/cacheService.ts#L24)
+Defined in: [src/fastifyPlugins/cacheService.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/fastifyPlugins/cacheService.ts#L24)
 
 Fastify plugin that registers a Redis-backed CacheService on the FastifyInstance.
 Uses the Redis client already registered by @fastify/redis.

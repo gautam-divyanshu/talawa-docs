@@ -6,7 +6,7 @@
 
 > **AgendaItemUrl**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `agendaItemId`: `string`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `id`: `string`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; `url`: `string`; \}, \{ `agendaItemId`: `string`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `id`: `string`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; `url`: `string`; \}\>
 
-Defined in: [src/graphql/types/AgendaItemUrl/AgendaItemUrl.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/graphql/types/AgendaItemUrl/AgendaItemUrl.ts#L8)
+Defined in: [src/graphql/types/AgendaItemUrl/AgendaItemUrl.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/AgendaItemUrl/AgendaItemUrl.ts#L8)
 
 GraphQL object reference for AgendaItemUrl type.
 Used to define the GraphQL schema for URLs associated with agenda items.

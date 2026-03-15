@@ -4,7 +4,7 @@
 
 # Enumeration: OAuthProvider
 
-Defined in: [src/types/oauthAccount.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/types/oauthAccount.ts#L9)
+Defined in: [src/types/oauthAccount.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/types/oauthAccount.ts#L9)
 
 OAuth provider enum matching database values
 
@@ -14,7 +14,7 @@ OAuth provider enum matching database values
 
 > **GITHUB**: `"github"`
 
-Defined in: [src/types/oauthAccount.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/types/oauthAccount.ts#L11)
+Defined in: [src/types/oauthAccount.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/types/oauthAccount.ts#L11)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [src/types/oauthAccount.ts:11](https://github.com/PalisadoesFoundati
 
 > **GOOGLE**: `"google"`
 
-Defined in: [src/types/oauthAccount.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/bac950e699f25975d58faf99422a1af81bd3b461/src/types/oauthAccount.ts#L10)
+Defined in: [src/types/oauthAccount.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/types/oauthAccount.ts#L10)
