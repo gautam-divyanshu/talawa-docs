@@ -6,7 +6,7 @@
 
 > **usePluginFilters**(`__namedParameters`): `object`
 
-Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginFilters.ts:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/PluginStore/hooks/usePluginFilters.ts#L16)
+Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginFilters.ts:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/PluginStore/hooks/usePluginFilters.ts#L16)
 
 ## Parameters
 
@@ -18,7 +18,7 @@ Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginFilters.ts:16](https
 
 `object`
 
-### debouncedSearch()
+### debouncedSearch
 
 > **debouncedSearch**: (...`args`) => `void`
 
@@ -48,7 +48,7 @@ Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginFilters.ts:16](https
 
 > **selectedOption**: `string`
 
-### getInstalledPlugin()
+### getInstalledPlugin
 
 > **getInstalledPlugin**: (`pluginName`) => `IInstalledPlugin`
 
@@ -62,7 +62,7 @@ Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginFilters.ts:16](https
 
 `IInstalledPlugin`
 
-### handleFilterChange()
+### handleFilterChange
 
 > **handleFilterChange**: (`value`) => `void`
 
@@ -70,13 +70,13 @@ Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginFilters.ts:16](https
 
 ##### value
 
-`string` | `number`
+`string` \| `number`
 
 #### Returns
 
 `void`
 
-### isInstalled()
+### isInstalled
 
 > **isInstalled**: (`pluginName`) => `boolean`
 

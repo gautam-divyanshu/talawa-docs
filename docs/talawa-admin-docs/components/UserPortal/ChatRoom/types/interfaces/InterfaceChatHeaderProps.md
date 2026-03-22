@@ -4,7 +4,7 @@
 
 # Interface: InterfaceChatHeaderProps
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:100](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/UserPortal/ChatRoom/types.ts#L100)
+Defined in: [components/UserPortal/ChatRoom/types.ts:100](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L100)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:100](https://github.com/Pal
 
 > **chatImage**: `string`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:101](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/UserPortal/ChatRoom/types.ts#L101)
+Defined in: [components/UserPortal/ChatRoom/types.ts:101](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L101)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:101](https://github.com/Pal
 
 > **chatSubtitle**: `string`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:103](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/UserPortal/ChatRoom/types.ts#L103)
+Defined in: [components/UserPortal/ChatRoom/types.ts:103](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L103)
 
 ***
 
@@ -28,23 +28,23 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:103](https://github.com/Pal
 
 > **chatTitle**: `string`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:102](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/UserPortal/ChatRoom/types.ts#L102)
+Defined in: [components/UserPortal/ChatRoom/types.ts:102](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L102)
 
 ***
 
 ### isGroup?
 
-> `optional` **isGroup**: `boolean`
+> `optional` **isGroup?**: `boolean`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:104](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/UserPortal/ChatRoom/types.ts#L104)
+Defined in: [components/UserPortal/ChatRoom/types.ts:104](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L104)
 
 ***
 
-### onGroupClick()?
+### onGroupClick?
 
-> `optional` **onGroupClick**: () => `void`
+> `optional` **onGroupClick?**: () => `void`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:105](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/UserPortal/ChatRoom/types.ts#L105)
+Defined in: [components/UserPortal/ChatRoom/types.ts:105](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L105)
 
 #### Returns
 

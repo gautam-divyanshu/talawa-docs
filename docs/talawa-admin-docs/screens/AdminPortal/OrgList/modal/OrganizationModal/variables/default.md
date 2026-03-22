@@ -6,7 +6,7 @@
 
 > `const` **default**: `React.FC`\<[`InterfaceOrganizationModalProps`](../interfaces/InterfaceOrganizationModalProps.md)\>
 
-Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:58](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L58)
+Defined in: [screens/AdminPortal/OrgList/modal/OrganizationModal.tsx:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrgList/modal/OrganizationModal.tsx#L57)
 
 OrganizationModal component allows administrators to create a new organization.
 It provides a form to enter organization details like name, description, address, and an image.

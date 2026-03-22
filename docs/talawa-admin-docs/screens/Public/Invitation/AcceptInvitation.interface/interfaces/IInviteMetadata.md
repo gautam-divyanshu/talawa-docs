@@ -4,7 +4,7 @@
 
 # Interface: IInviteMetadata
 
-Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L4)
+Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L4)
 
 Shape of the event invitation payload returned by verifyEventInvitation.
 
@@ -12,17 +12,17 @@ Shape of the event invitation payload returned by verifyEventInvitation.
 
 ### eventId?
 
-> `optional` **eventId**: `string`
+> `optional` **eventId?**: `string`
 
-Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L10)
+Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L10)
 
 ***
 
 ### expiresAt?
 
-> `optional` **expiresAt**: `string`
+> `optional` **expiresAt?**: `string`
 
-Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L9)
+Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L9)
 
 ***
 
@@ -30,44 +30,44 @@ Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:9](https://
 
 > **invitationToken**: `string`
 
-Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L5)
+Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L5)
 
 ***
 
 ### inviteeEmailMasked?
 
-> `optional` **inviteeEmailMasked**: `string`
+> `optional` **inviteeEmailMasked?**: `string`
 
-Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L6)
+Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:6](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L6)
 
 ***
 
 ### inviteeName?
 
-> `optional` **inviteeName**: `string`
+> `optional` **inviteeName?**: `string`
 
-Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L7)
+Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L7)
 
 ***
 
 ### organizationId?
 
-> `optional` **organizationId**: `string`
+> `optional` **organizationId?**: `string`
 
-Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L12)
+Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L12)
 
 ***
 
 ### recurringEventInstanceId?
 
-> `optional` **recurringEventInstanceId**: `string`
+> `optional` **recurringEventInstanceId?**: `string`
 
-Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L11)
+Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L11)
 
 ***
 
 ### status?
 
-> `optional` **status**: `string`
+> `optional` **status?**: `string`
 
-Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L8)
+Defined in: [screens/Public/Invitation/AcceptInvitation.interface.ts:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/Public/Invitation/AcceptInvitation.interface.ts#L8)

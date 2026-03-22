@@ -4,7 +4,7 @@
 
 # Interface: InterfaceFundModal
 
-Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L16)
+Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L15)
 
 ## Properties
 
@@ -12,15 +12,15 @@ Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:16](https
 
 > **fund**: `InterfaceFundInfo`
 
-Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L20)
+Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L19)
 
 ***
 
-### hide()
+### hide
 
 > **hide**: () => `void`
 
-Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L18)
+Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L17)
 
 #### Returns
 
@@ -32,7 +32,7 @@ Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:18](https
 
 > **isOpen**: `boolean`
 
-Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L17)
+Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L16)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:17](https
 
 > **mode**: `"create"` \| `"edit"`
 
-Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L22)
+Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L21)
 
 ***
 
@@ -48,15 +48,15 @@ Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:22](https
 
 > **orgId**: `string`
 
-Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L21)
+Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L20)
 
 ***
 
-### refetchFunds()
+### refetchFunds
 
 > **refetchFunds**: () => `void`
 
-Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L19)
+Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L18)
 
 #### Returns
 

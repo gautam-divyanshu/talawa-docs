@@ -4,15 +4,15 @@
 
 # Interface: InterfaceMembershipOptions
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L17)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L17)
 
 ## Properties
 
 ### endAt?
 
-> `optional` **endAt**: `string`
+> `optional` **endAt?**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L23)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L23)
 
 ***
 
@@ -20,39 +20,39 @@ Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelp
 
 > **eventId**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L19)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L19)
 
 ***
 
 ### eventName?
 
-> `optional` **eventName**: `string`
+> `optional` **eventName?**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L21)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L21)
 
 ***
 
 ### groupDescription?
 
-> `optional` **groupDescription**: `string`
+> `optional` **groupDescription?**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L27)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L27)
 
 ***
 
 ### groupId?
 
-> `optional` **groupId**: `string`
+> `optional` **groupId?**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L25)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L25)
 
 ***
 
 ### groupName?
 
-> `optional` **groupName**: `string`
+> `optional` **groupName?**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L26)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L26)
 
 ***
 
@@ -60,23 +60,23 @@ Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelp
 
 > **id**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L18)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L18)
 
 ***
 
 ### recurrenceRuleId?
 
-> `optional` **recurrenceRuleId**: `string`
+> `optional` **recurrenceRuleId?**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L24)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L24)
 
 ***
 
 ### startAt?
 
-> `optional` **startAt**: `string`
+> `optional` **startAt?**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L22)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L22)
 
 ***
 
@@ -84,4 +84,4 @@ Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelp
 
 > **status**: `string`
 
-Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L20)
+Defined in: [screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/UserPortal/Volunteer/UpcomingEvents/UpcomingEvents.mockHelpers.ts#L20)

@@ -6,7 +6,7 @@
 
 > `const` **default**: `React.FC`\<[`InterfaceFundModal`](../interfaces/InterfaceFundModal.md)\>
 
-Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L35)
+Defined in: [screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationFunds/modal/FundModal.tsx#L34)
 
 Modal component for creating or editing a Fund.
 

@@ -4,7 +4,7 @@
 
 # Interface: IEdge
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:1](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L1)
+Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:1](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:1](https:
 
 > **cursor**: `string`
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:2](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L2)
+Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:2](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L2)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:2](https:
 
 > **node**: `object`
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L3)
+Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:3](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L3)
 
 #### avatarURL
 
@@ -28,7 +28,7 @@ Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:3](https:
 
 #### createdAt?
 
-> `optional` **createdAt**: `string`
+> `optional` **createdAt?**: `string`
 
 #### emailAddress
 

@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_INVALID\_DATETIME**: `object`[]
 
-Defined in: [components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts:165](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts#L165)
+Defined in: [components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts:167](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts#L167)
 
 ## Type Declaration
 

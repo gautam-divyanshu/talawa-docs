@@ -4,7 +4,7 @@
 
 # Interface: InterfaceWeeklyEventCalenderProps
 
-Defined in: [components/EventCalender/Weekly/WeeklyEventCalender.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/EventCalender/Weekly/WeeklyEventCalender.tsx#L47)
+Defined in: [components/EventCalender/Weekly/WeeklyEventCalender.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/EventCalender/Weekly/WeeklyEventCalender.tsx#L47)
 
 ## Extends
 
@@ -16,15 +16,15 @@ Defined in: [components/EventCalender/Weekly/WeeklyEventCalender.tsx:47](https:/
 
 > **currentDate**: `Date`
 
-Defined in: [components/EventCalender/Weekly/WeeklyEventCalender.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/EventCalender/Weekly/WeeklyEventCalender.tsx#L48)
+Defined in: [components/EventCalender/Weekly/WeeklyEventCalender.tsx:48](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/EventCalender/Weekly/WeeklyEventCalender.tsx#L48)
 
 ***
 
 ### currentMonth?
 
-> `optional` **currentMonth**: `number`
+> `optional` **currentMonth?**: `number`
 
-Defined in: [types/Event/interface.ts:128](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/types/Event/interface.ts#L128)
+Defined in: [types/Event/interface.ts:130](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/types/Event/interface.ts#L130)
 
 #### Inherited from
 
@@ -34,9 +34,9 @@ Defined in: [types/Event/interface.ts:128](https://github.com/PalisadoesFoundati
 
 ### currentYear?
 
-> `optional` **currentYear**: `number`
+> `optional` **currentYear?**: `number`
 
-Defined in: [types/Event/interface.ts:129](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/types/Event/interface.ts#L129)
+Defined in: [types/Event/interface.ts:131](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/types/Event/interface.ts#L131)
 
 #### Inherited from
 
@@ -48,7 +48,7 @@ Defined in: [types/Event/interface.ts:129](https://github.com/PalisadoesFoundati
 
 > **eventData**: `IEvent`[]
 
-Defined in: [types/Event/interface.ts:121](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/types/Event/interface.ts#L121)
+Defined in: [types/Event/interface.ts:123](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/types/Event/interface.ts#L123)
 
 #### Inherited from
 
@@ -56,11 +56,11 @@ Defined in: [types/Event/interface.ts:121](https://github.com/PalisadoesFoundati
 
 ***
 
-### onMonthChange()?
+### onMonthChange?
 
-> `optional` **onMonthChange**: (`month`, `year`) => `void`
+> `optional` **onMonthChange?**: (`month`, `year`) => `void`
 
-Defined in: [types/Event/interface.ts:127](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/types/Event/interface.ts#L127)
+Defined in: [types/Event/interface.ts:129](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/types/Event/interface.ts#L129)
 
 #### Parameters
 
@@ -84,9 +84,9 @@ Defined in: [types/Event/interface.ts:127](https://github.com/PalisadoesFoundati
 
 ### orgData?
 
-> `optional` **orgData**: `IOrgList` \| `InterfaceOrgForEventFilter`
+> `optional` **orgData?**: `IOrgList` \| `InterfaceOrgForEventFilter`
 
-Defined in: [types/Event/interface.ts:123](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/types/Event/interface.ts#L123)
+Defined in: [types/Event/interface.ts:125](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/types/Event/interface.ts#L125)
 
 #### Inherited from
 
@@ -94,11 +94,11 @@ Defined in: [types/Event/interface.ts:123](https://github.com/PalisadoesFoundati
 
 ***
 
-### refetchEvents()?
+### refetchEvents?
 
-> `optional` **refetchEvents**: () => `void`
+> `optional` **refetchEvents?**: () => `void`
 
-Defined in: [types/Event/interface.ts:122](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/types/Event/interface.ts#L122)
+Defined in: [types/Event/interface.ts:124](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/types/Event/interface.ts#L124)
 
 #### Returns
 
@@ -112,9 +112,9 @@ Defined in: [types/Event/interface.ts:122](https://github.com/PalisadoesFoundati
 
 ### userId?
 
-> `optional` **userId**: `string`
+> `optional` **userId?**: `string`
 
-Defined in: [types/Event/interface.ts:125](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/types/Event/interface.ts#L125)
+Defined in: [types/Event/interface.ts:127](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/types/Event/interface.ts#L127)
 
 #### Inherited from
 
@@ -124,9 +124,9 @@ Defined in: [types/Event/interface.ts:125](https://github.com/PalisadoesFoundati
 
 ### userRole?
 
-> `optional` **userRole**: `string`
+> `optional` **userRole?**: `string`
 
-Defined in: [types/Event/interface.ts:124](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/types/Event/interface.ts#L124)
+Defined in: [types/Event/interface.ts:126](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/types/Event/interface.ts#L126)
 
 #### Inherited from
 
@@ -136,9 +136,9 @@ Defined in: [types/Event/interface.ts:124](https://github.com/PalisadoesFoundati
 
 ### viewType?
 
-> `optional` **viewType**: [`ViewType`](../../../../../screens/AdminPortal/OrganizationEvents/OrganizationEvents/enumerations/ViewType.md)
+> `optional` **viewType?**: [`ViewType`](../../../../../screens/AdminPortal/OrganizationEvents/OrganizationEvents/enumerations/ViewType.md)
 
-Defined in: [types/Event/interface.ts:126](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/types/Event/interface.ts#L126)
+Defined in: [types/Event/interface.ts:128](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/types/Event/interface.ts#L128)
 
 #### Inherited from
 

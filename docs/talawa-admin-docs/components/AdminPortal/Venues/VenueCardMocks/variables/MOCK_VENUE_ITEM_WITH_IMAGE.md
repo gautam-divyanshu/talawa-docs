@@ -6,7 +6,7 @@
 
 > `const` **MOCK\_VENUE\_ITEM\_WITH\_IMAGE**: `object`
 
-Defined in: [components/AdminPortal/Venues/VenueCardMocks.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/AdminPortal/Venues/VenueCardMocks.ts#L11)
+Defined in: [components/AdminPortal/Venues/VenueCardMocks.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/AdminPortal/Venues/VenueCardMocks.ts#L11)
 
 ## Type Declaration
 

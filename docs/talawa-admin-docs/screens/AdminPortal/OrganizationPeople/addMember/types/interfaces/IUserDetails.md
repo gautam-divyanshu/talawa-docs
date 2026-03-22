@@ -4,15 +4,15 @@
 
 # Interface: IUserDetails
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L13)
+Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L13)
 
 ## Properties
 
 ### avatarURL?
 
-> `optional` **avatarURL**: `string`
+> `optional` **avatarURL?**: `string`
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L17)
+Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L17)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:17](https
 
 > **emailAddress**: `string`
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L16)
+Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L16)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:16](https
 
 > **id**: `string`
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L14)
+Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L14)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:14](https
 
 > **name**: `string`
 
-Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L15)
+Defined in: [screens/AdminPortal/OrganizationPeople/addMember/types.ts:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationPeople/addMember/types.ts#L15)

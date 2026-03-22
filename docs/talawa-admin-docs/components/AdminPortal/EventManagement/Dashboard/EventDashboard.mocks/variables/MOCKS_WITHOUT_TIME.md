@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_WITHOUT\_TIME**: `object`[]
 
-Defined in: [components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts:73](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts#L73)
+Defined in: [components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts:73](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/AdminPortal/EventManagement/Dashboard/EventDashboard.mocks.ts#L73)
 
 ## Type Declaration
 
@@ -72,7 +72,11 @@ Defined in: [components/AdminPortal/EventManagement/Dashboard/EventDashboard.moc
 
 #### result.data.event.endAt
 
-> **endAt**: `string`
+> **endAt**: `any` = `null`
+
+#### result.data.event.endDate
+
+> **endDate**: `string`
 
 #### result.data.event.id
 
@@ -120,7 +124,11 @@ Defined in: [components/AdminPortal/EventManagement/Dashboard/EventDashboard.moc
 
 #### result.data.event.startAt
 
-> **startAt**: `string`
+> **startAt**: `any` = `null`
+
+#### result.data.event.startDate
+
+> **startDate**: `string`
 
 #### result.data.event.updatedAt
 

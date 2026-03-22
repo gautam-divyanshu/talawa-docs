@@ -6,7 +6,7 @@
 
 > **usePluginActions**(`__namedParameters`): `object`
 
-Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginActions.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/PluginStore/hooks/usePluginActions.ts#L17)
+Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginActions.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/PluginStore/hooks/usePluginActions.ts#L17)
 
 ## Parameters
 
@@ -18,7 +18,7 @@ Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginActions.ts:17](https
 
 `object`
 
-### closeUninstallModal()
+### closeUninstallModal
 
 > **closeUninstallModal**: () => `void`
 
@@ -26,7 +26,7 @@ Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginActions.ts:17](https
 
 `void`
 
-### handleInstallPlugin()
+### handleInstallPlugin
 
 > **handleInstallPlugin**: (`plugin`) => `Promise`\<`void`\>
 
@@ -40,7 +40,7 @@ Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginActions.ts:17](https
 
 `Promise`\<`void`\>
 
-### handleUninstallConfirm()
+### handleUninstallConfirm
 
 > **handleUninstallConfirm**: () => `Promise`\<`void`\>
 
@@ -60,7 +60,7 @@ Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginActions.ts:17](https
 
 > **showUninstallModal**: `boolean`
 
-### togglePluginStatus()
+### togglePluginStatus
 
 > **togglePluginStatus**: (`plugin`, `status`) => `Promise`\<`void`\>
 
@@ -72,13 +72,13 @@ Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginActions.ts:17](https
 
 ##### status
 
-`"active"` | `"inactive"`
+`"active"` \| `"inactive"`
 
 #### Returns
 
 `Promise`\<`void`\>
 
-### uninstallPlugin()
+### uninstallPlugin
 
 > **uninstallPlugin**: (`plugin`) => `void`
 

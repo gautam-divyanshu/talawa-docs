@@ -4,7 +4,7 @@
 
 # Enumeration: ViewType
 
-Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:88](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx#L88)
+Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:90](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx#L90)
 
 ## Enumeration Members
 
@@ -12,7 +12,7 @@ Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:88](h
 
 > **DAY**: `"Day"`
 
-Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:89](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx#L89)
+Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:91](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx#L91)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:89](h
 
 > **MONTH**: `"Month View"`
 
-Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:91](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx#L91)
+Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:93](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx#L93)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:91](h
 
 > **WEEK**: `"Week View"`
 
-Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:90](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx#L90)
+Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:92](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx#L92)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:90](h
 
 > **YEAR**: `"Year View"`
 
-Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:92](https://github.com/PalisadoesFoundation/talawa-admin/blob/fb3b30d69cbd78c0bc89ab15fb81a998876e1850/src/screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx#L92)
+Defined in: [screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx:94](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/OrganizationEvents/OrganizationEvents.tsx#L94)
