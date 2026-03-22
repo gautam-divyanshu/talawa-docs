@@ -6,36 +6,36 @@
 
 > **UpdateEventInvitationInput** = `object`
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:161](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventInvitations.ts#L161)
+Defined in: [src/drizzle/tables/eventInvitations.ts:161](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventInvitations.ts#L161)
 
 ## Properties
 
 ### metadata?
 
-> `optional` **metadata**: `unknown`
+> `optional` **metadata?**: `unknown`
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:165](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventInvitations.ts#L165)
+Defined in: [src/drizzle/tables/eventInvitations.ts:165](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventInvitations.ts#L165)
 
 ***
 
 ### respondedAt?
 
-> `optional` **respondedAt**: `Date`
+> `optional` **respondedAt?**: `Date`
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:164](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventInvitations.ts#L164)
+Defined in: [src/drizzle/tables/eventInvitations.ts:164](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventInvitations.ts#L164)
 
 ***
 
 ### status?
 
-> `optional` **status**: `string`
+> `optional` **status?**: `string`
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:163](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventInvitations.ts#L163)
+Defined in: [src/drizzle/tables/eventInvitations.ts:163](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventInvitations.ts#L163)
 
 ***
 
 ### userId?
 
-> `optional` **userId**: `string` \| `null`
+> `optional` **userId?**: `string` \| `null`
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:162](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventInvitations.ts#L162)
+Defined in: [src/drizzle/tables/eventInvitations.ts:162](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventInvitations.ts#L162)

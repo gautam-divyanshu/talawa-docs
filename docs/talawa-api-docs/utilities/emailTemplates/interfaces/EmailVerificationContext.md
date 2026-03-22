@@ -4,7 +4,7 @@
 
 # Interface: EmailVerificationContext
 
-Defined in: [src/utilities/emailTemplates.ts:113](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/emailTemplates.ts#L113)
+Defined in: [src/utilities/emailTemplates.ts:113](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/emailTemplates.ts#L113)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/utilities/emailTemplates.ts:113](https://github.com/PalisadoesF
 
 > **communityName**: `string`
 
-Defined in: [src/utilities/emailTemplates.ts:115](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/emailTemplates.ts#L115)
+Defined in: [src/utilities/emailTemplates.ts:115](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/emailTemplates.ts#L115)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/utilities/emailTemplates.ts:115](https://github.com/PalisadoesF
 
 > **expiryText**: `string`
 
-Defined in: [src/utilities/emailTemplates.ts:117](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/emailTemplates.ts#L117)
+Defined in: [src/utilities/emailTemplates.ts:117](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/emailTemplates.ts#L117)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/utilities/emailTemplates.ts:117](https://github.com/PalisadoesF
 
 > **userName**: `string`
 
-Defined in: [src/utilities/emailTemplates.ts:114](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/emailTemplates.ts#L114)
+Defined in: [src/utilities/emailTemplates.ts:114](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/emailTemplates.ts#L114)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/utilities/emailTemplates.ts:114](https://github.com/PalisadoesF
 
 > **verificationLink**: `string`
 
-Defined in: [src/utilities/emailTemplates.ts:116](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/emailTemplates.ts#L116)
+Defined in: [src/utilities/emailTemplates.ts:116](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/emailTemplates.ts#L116)

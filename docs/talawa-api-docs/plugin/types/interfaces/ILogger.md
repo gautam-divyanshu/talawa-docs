@@ -4,21 +4,21 @@
 
 # Interface: ILogger
 
-Defined in: [src/plugin/types.ts:129](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/plugin/types.ts#L129)
+Defined in: [src/plugin/types.ts:129](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L129)
 
 ## Properties
 
-### debug()?
+### debug?
 
-> `optional` **debug**: (`messageOrObj`, ...`args`) => `void`
+> `optional` **debug?**: (`messageOrObj`, ...`args`) => `void`
 
-Defined in: [src/plugin/types.ts:133](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/plugin/types.ts#L133)
+Defined in: [src/plugin/types.ts:133](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L133)
 
 #### Parameters
 
 ##### messageOrObj
 
-`string` | `object`
+`string` \| `object`
 
 ##### args
 
@@ -30,17 +30,17 @@ Defined in: [src/plugin/types.ts:133](https://github.com/PalisadoesFoundation/ta
 
 ***
 
-### error()?
+### error?
 
-> `optional` **error**: (`messageOrObj`, ...`args`) => `void`
+> `optional` **error?**: (`messageOrObj`, ...`args`) => `void`
 
-Defined in: [src/plugin/types.ts:131](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/plugin/types.ts#L131)
+Defined in: [src/plugin/types.ts:131](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L131)
 
 #### Parameters
 
 ##### messageOrObj
 
-`string` | `object`
+`string` \| `object`
 
 ##### args
 
@@ -52,17 +52,17 @@ Defined in: [src/plugin/types.ts:131](https://github.com/PalisadoesFoundation/ta
 
 ***
 
-### info()?
+### info?
 
-> `optional` **info**: (`messageOrObj`, ...`args`) => `void`
+> `optional` **info?**: (`messageOrObj`, ...`args`) => `void`
 
-Defined in: [src/plugin/types.ts:130](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/plugin/types.ts#L130)
+Defined in: [src/plugin/types.ts:130](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L130)
 
 #### Parameters
 
 ##### messageOrObj
 
-`string` | `object`
+`string` \| `object`
 
 ##### args
 
@@ -74,17 +74,17 @@ Defined in: [src/plugin/types.ts:130](https://github.com/PalisadoesFoundation/ta
 
 ***
 
-### warn()?
+### warn?
 
-> `optional` **warn**: (`messageOrObj`, ...`args`) => `void`
+> `optional` **warn?**: (`messageOrObj`, ...`args`) => `void`
 
-Defined in: [src/plugin/types.ts:132](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/plugin/types.ts#L132)
+Defined in: [src/plugin/types.ts:132](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L132)
 
 #### Parameters
 
 ##### messageOrObj
 
-`string` | `object`
+`string` \| `object`
 
 ##### args
 

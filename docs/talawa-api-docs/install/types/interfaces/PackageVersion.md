@@ -4,7 +4,7 @@
 
 # Interface: PackageVersion
 
-Defined in: [src/install/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/install/types.ts#L39)
+Defined in: [src/install/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/install/types.ts#L39)
 
 Package version information
 
@@ -14,7 +14,7 @@ Package version information
 
 > **isInstalled**: `boolean`
 
-Defined in: [src/install/types.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/install/types.ts#L42)
+Defined in: [src/install/types.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/install/types.ts#L42)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/install/types.ts:42](https://github.com/PalisadoesFoundation/ta
 
 > **meetsRequirement**: `boolean`
 
-Defined in: [src/install/types.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/install/types.ts#L43)
+Defined in: [src/install/types.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/install/types.ts#L43)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/install/types.ts:43](https://github.com/PalisadoesFoundation/ta
 
 > **name**: `string`
 
-Defined in: [src/install/types.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/install/types.ts#L40)
+Defined in: [src/install/types.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/install/types.ts#L40)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/install/types.ts:40](https://github.com/PalisadoesFoundation/ta
 
 > **version**: `string` \| `null`
 
-Defined in: [src/install/types.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/install/types.ts#L41)
+Defined in: [src/install/types.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/install/types.ts#L41)

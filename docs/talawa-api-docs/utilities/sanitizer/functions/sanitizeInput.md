@@ -8,7 +8,7 @@
 
 > **sanitizeInput**(`str`): [`SanitizedInputString`](../type-aliases/SanitizedInputString.md)
 
-Defined in: [src/utilities/sanitizer.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/sanitizer.ts#L55)
+Defined in: [src/utilities/sanitizer.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/sanitizer.ts#L55)
 
 Sanitizes user input by trimming whitespace and normalizing the string.
 This is for INPUT normalization, not OUTPUT escaping.
@@ -31,7 +31,7 @@ The string to sanitize.
 
 > **sanitizeInput**(`str`): [`SanitizedInputString`](../type-aliases/SanitizedInputString.md) \| `null`
 
-Defined in: [src/utilities/sanitizer.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/sanitizer.ts#L56)
+Defined in: [src/utilities/sanitizer.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/sanitizer.ts#L56)
 
 Sanitizes user input by trimming whitespace and normalizing the string.
 This is for INPUT normalization, not OUTPUT escaping.
@@ -40,9 +40,9 @@ This is for INPUT normalization, not OUTPUT escaping.
 
 #### str
 
-The string to sanitize.
+`string` \| `null`
 
-`string` | `null`
+The string to sanitize.
 
 ### Returns
 
@@ -54,7 +54,7 @@ The string to sanitize.
 
 > **sanitizeInput**(`str`): [`SanitizedInputString`](../type-aliases/SanitizedInputString.md) \| `undefined`
 
-Defined in: [src/utilities/sanitizer.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/sanitizer.ts#L57)
+Defined in: [src/utilities/sanitizer.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/sanitizer.ts#L57)
 
 Sanitizes user input by trimming whitespace and normalizing the string.
 This is for INPUT normalization, not OUTPUT escaping.
@@ -63,9 +63,9 @@ This is for INPUT normalization, not OUTPUT escaping.
 
 #### str
 
-The string to sanitize.
+`string` \| `undefined`
 
-`string` | `undefined`
+The string to sanitize.
 
 ### Returns
 
@@ -77,7 +77,7 @@ The string to sanitize.
 
 > **sanitizeInput**(`str`): [`SanitizedInputString`](../type-aliases/SanitizedInputString.md) \| `null` \| `undefined`
 
-Defined in: [src/utilities/sanitizer.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/sanitizer.ts#L60)
+Defined in: [src/utilities/sanitizer.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/sanitizer.ts#L60)
 
 Sanitizes user input by trimming whitespace and normalizing the string.
 This is for INPUT normalization, not OUTPUT escaping.
@@ -86,9 +86,9 @@ This is for INPUT normalization, not OUTPUT escaping.
 
 #### str
 
-The string to sanitize.
+`string` \| `null` \| `undefined`
 
-`string` | `null` | `undefined`
+The string to sanitize.
 
 ### Returns
 

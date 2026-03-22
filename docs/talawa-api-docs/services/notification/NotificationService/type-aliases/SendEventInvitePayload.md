@@ -6,23 +6,23 @@
 
 > **SendEventInvitePayload** = `object`
 
-Defined in: [src/services/notification/NotificationService.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/notification/NotificationService.ts#L13)
+Defined in: [src/services/notification/NotificationService.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/notification/NotificationService.ts#L13)
 
 ## Properties
 
 ### eventId?
 
-> `optional` **eventId**: `string`
+> `optional` **eventId?**: `string`
 
-Defined in: [src/services/notification/NotificationService.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/notification/NotificationService.ts#L16)
+Defined in: [src/services/notification/NotificationService.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/notification/NotificationService.ts#L16)
 
 ***
 
 ### eventName?
 
-> `optional` **eventName**: `string`
+> `optional` **eventName?**: `string`
 
-Defined in: [src/services/notification/NotificationService.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/notification/NotificationService.ts#L17)
+Defined in: [src/services/notification/NotificationService.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/notification/NotificationService.ts#L17)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/services/notification/NotificationService.ts:17](https://github
 
 > **invitationToken**: `string`
 
-Defined in: [src/services/notification/NotificationService.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/notification/NotificationService.ts#L20)
+Defined in: [src/services/notification/NotificationService.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/notification/NotificationService.ts#L20)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/services/notification/NotificationService.ts:20](https://github
 
 > **invitationUrl**: `string`
 
-Defined in: [src/services/notification/NotificationService.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/notification/NotificationService.ts#L21)
+Defined in: [src/services/notification/NotificationService.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/notification/NotificationService.ts#L21)
 
 ***
 
@@ -46,15 +46,15 @@ Defined in: [src/services/notification/NotificationService.ts:21](https://github
 
 > **inviteeEmail**: `string`
 
-Defined in: [src/services/notification/NotificationService.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/notification/NotificationService.ts#L14)
+Defined in: [src/services/notification/NotificationService.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/notification/NotificationService.ts#L14)
 
 ***
 
 ### inviteeName?
 
-> `optional` **inviteeName**: `string`
+> `optional` **inviteeName?**: `string`
 
-Defined in: [src/services/notification/NotificationService.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/notification/NotificationService.ts#L15)
+Defined in: [src/services/notification/NotificationService.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/notification/NotificationService.ts#L15)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [src/services/notification/NotificationService.ts:15](https://github
 
 > **inviterId**: `string`
 
-Defined in: [src/services/notification/NotificationService.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/notification/NotificationService.ts#L19)
+Defined in: [src/services/notification/NotificationService.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/notification/NotificationService.ts#L19)
 
 ***
 
@@ -70,4 +70,4 @@ Defined in: [src/services/notification/NotificationService.ts:19](https://github
 
 > **organizationId**: `string`
 
-Defined in: [src/services/notification/NotificationService.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/notification/NotificationService.ts#L18)
+Defined in: [src/services/notification/NotificationService.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/notification/NotificationService.ts#L18)

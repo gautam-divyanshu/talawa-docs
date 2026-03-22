@@ -6,7 +6,7 @@
 
 > **persistRefreshToken**(`db`, `params`): `Promise`\<`void`\>
 
-Defined in: [src/services/auth/refreshStore.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/auth/refreshStore.ts#L46)
+Defined in: [src/services/auth/refreshStore.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/auth/refreshStore.ts#L46)
 
 Persists a refresh token in the database.
 Stores only userId, tokenHash (SHA-256 of token), and expiresAt.

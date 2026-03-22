@@ -4,7 +4,7 @@
 
 # Interface: IExtensionRegistry
 
-Defined in: [src/plugin/types.ts:92](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/plugin/types.ts#L92)
+Defined in: [src/plugin/types.ts:92](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L92)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:92](https://github.com/PalisadoesFoundation/tal
 
 > **database**: `object`
 
-Defined in: [src/plugin/types.ts:97](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/plugin/types.ts#L97)
+Defined in: [src/plugin/types.ts:97](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L97)
 
 #### enums
 
@@ -32,7 +32,7 @@ Defined in: [src/plugin/types.ts:97](https://github.com/PalisadoesFoundation/tal
 
 > **graphql**: `object`
 
-Defined in: [src/plugin/types.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/plugin/types.ts#L93)
+Defined in: [src/plugin/types.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L93)
 
 #### builderExtensions
 
@@ -44,7 +44,7 @@ Defined in: [src/plugin/types.ts:93](https://github.com/PalisadoesFoundation/tal
 
 > **hooks**: `object`
 
-Defined in: [src/plugin/types.ts:102](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/plugin/types.ts#L102)
+Defined in: [src/plugin/types.ts:102](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L102)
 
 #### post
 
@@ -60,7 +60,7 @@ Defined in: [src/plugin/types.ts:102](https://github.com/PalisadoesFoundation/ta
 
 > **webhooks**: `object`
 
-Defined in: [src/plugin/types.ts:106](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/plugin/types.ts#L106)
+Defined in: [src/plugin/types.ts:106](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L106)
 
 #### handlers
 

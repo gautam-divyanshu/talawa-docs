@@ -4,7 +4,7 @@
 
 # Interface: AggregatedMetrics
 
-Defined in: [src/workers/metrics/types.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/workers/metrics/types.ts#L61)
+Defined in: [src/workers/metrics/types.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/metrics/types.ts#L61)
 
 Aggregated performance metrics from multiple request snapshots.
 
@@ -18,7 +18,7 @@ Aggregated performance metrics from multiple request snapshots.
 
 > **cache**: [`CacheMetrics`](CacheMetrics.md)
 
-Defined in: [src/workers/metrics/types.ts:80](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/workers/metrics/types.ts#L80)
+Defined in: [src/workers/metrics/types.ts:80](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/metrics/types.ts#L80)
 
 Aggregated cache metrics
 
@@ -26,9 +26,9 @@ Aggregated cache metrics
 
 ### complexity?
 
-> `optional` **complexity**: `object`
+> `optional` **complexity?**: `object`
 
-Defined in: [src/workers/metrics/types.ts:91](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/workers/metrics/types.ts#L91)
+Defined in: [src/workers/metrics/types.ts:91](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/metrics/types.ts#L91)
 
 GraphQL complexity metrics (if available)
 
@@ -62,7 +62,7 @@ Minimum complexity score
 
 > **operations**: [`OperationMetrics`](OperationMetrics.md)[]
 
-Defined in: [src/workers/metrics/types.ts:82](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/workers/metrics/types.ts#L82)
+Defined in: [src/workers/metrics/types.ts:82](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/metrics/types.ts#L82)
 
 Metrics grouped by operation type
 
@@ -72,7 +72,7 @@ Metrics grouped by operation type
 
 > **requests**: `object`
 
-Defined in: [src/workers/metrics/types.ts:63](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/workers/metrics/types.ts#L63)
+Defined in: [src/workers/metrics/types.ts:63](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/metrics/types.ts#L63)
 
 Overall request statistics
 
@@ -124,7 +124,7 @@ Minimum total request time in milliseconds
 
 > **slowOperations**: `object`
 
-Defined in: [src/workers/metrics/types.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/workers/metrics/types.ts#L84)
+Defined in: [src/workers/metrics/types.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/metrics/types.ts#L84)
 
 Slow operations summary
 
@@ -146,7 +146,7 @@ Total number of slow operations
 
 > **snapshotCount**: `number`
 
-Defined in: [src/workers/metrics/types.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/workers/metrics/types.ts#L55)
+Defined in: [src/workers/metrics/types.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/metrics/types.ts#L55)
 
 Number of snapshots included in this aggregation
 
@@ -160,7 +160,7 @@ Number of snapshots included in this aggregation
 
 > **timestamp**: `number`
 
-Defined in: [src/workers/metrics/types.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/workers/metrics/types.ts#L51)
+Defined in: [src/workers/metrics/types.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/metrics/types.ts#L51)
 
 Timestamp when metrics were aggregated
 
@@ -174,7 +174,7 @@ Timestamp when metrics were aggregated
 
 > **windowMinutes**: `number`
 
-Defined in: [src/workers/metrics/types.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/workers/metrics/types.ts#L53)
+Defined in: [src/workers/metrics/types.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/metrics/types.ts#L53)
 
 Time window in minutes for this aggregation
 

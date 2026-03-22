@@ -4,7 +4,7 @@
 
 # Interface: InstallResult
 
-Defined in: [src/install/types.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/install/types.ts#L47)
+Defined in: [src/install/types.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/install/types.ts#L47)
 
 Installation result
 
@@ -14,15 +14,15 @@ Installation result
 
 > **duration**: `number`
 
-Defined in: [src/install/types.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/install/types.ts#L51)
+Defined in: [src/install/types.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/install/types.ts#L51)
 
 ***
 
 ### error?
 
-> `optional` **error**: `string`
+> `optional` **error?**: `string`
 
-Defined in: [src/install/types.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/install/types.ts#L49)
+Defined in: [src/install/types.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/install/types.ts#L49)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/install/types.ts:49](https://github.com/PalisadoesFoundation/ta
 
 > **packagesInstalled**: `string`[]
 
-Defined in: [src/install/types.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/install/types.ts#L50)
+Defined in: [src/install/types.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/install/types.ts#L50)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/install/types.ts:50](https://github.com/PalisadoesFoundation/ta
 
 > **success**: `boolean`
 
-Defined in: [src/install/types.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/install/types.ts#L48)
+Defined in: [src/install/types.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/install/types.ts#L48)

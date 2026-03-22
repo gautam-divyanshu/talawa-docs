@@ -6,7 +6,7 @@
 
 > **applyRecurrenceOverrides**(`newStartAt`, `originalRecurrence`, `inputRecurrence?`): `object`
 
-Defined in: [src/utilities/recurringEvent/calculation.ts:216](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/recurringEvent/calculation.ts#L216)
+Defined in: [src/utilities/recurringEvent/calculation.ts:216](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/recurringEvent/calculation.ts#L216)
 
 Applies calendar-style override logic for recurring event updates.
 This function implements the following rules:
@@ -19,9 +19,9 @@ This function implements the following rules:
 
 ### newStartAt
 
-The new start time for the event (if provided)
+`Date` \| `undefined`
 
-`Date` | `undefined`
+The new start time for the event (if provided)
 
 ### originalRecurrence
 
@@ -73,23 +73,23 @@ The recurrence input from the user (if provided)
 
 ### byDay?
 
-> `optional` **byDay**: `string`[]
+> `optional` **byDay?**: `string`[]
 
 ### byMonth?
 
-> `optional` **byMonth**: `number`[]
+> `optional` **byMonth?**: `number`[]
 
 ### byMonthDay?
 
-> `optional` **byMonthDay**: `number`[]
+> `optional` **byMonthDay?**: `number`[]
 
 ### count?
 
-> `optional` **count**: `number`
+> `optional` **count?**: `number`
 
 ### endDate?
 
-> `optional` **endDate**: `Date`
+> `optional` **endDate?**: `Date`
 
 ### frequency
 
@@ -97,8 +97,8 @@ The recurrence input from the user (if provided)
 
 ### interval?
 
-> `optional` **interval**: `number`
+> `optional` **interval?**: `number`
 
 ### never?
 
-> `optional` **never**: `boolean`
+> `optional` **never?**: `boolean`

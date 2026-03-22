@@ -6,7 +6,7 @@
 
 > **CreateEventAttendeeInput** = `object`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:251](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L251)
+Defined in: [src/drizzle/tables/eventAttendees.ts:251](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L251)
 
 Type for creating a new event attendee record.
 
@@ -14,33 +14,33 @@ Type for creating a new event attendee record.
 
 ### eventId?
 
-> `optional` **eventId**: `string`
+> `optional` **eventId?**: `string`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:253](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L253)
+Defined in: [src/drizzle/tables/eventAttendees.ts:253](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L253)
 
 ***
 
 ### isInvited?
 
-> `optional` **isInvited**: `boolean`
+> `optional` **isInvited?**: `boolean`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:255](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L255)
+Defined in: [src/drizzle/tables/eventAttendees.ts:255](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L255)
 
 ***
 
 ### isRegistered?
 
-> `optional` **isRegistered**: `boolean`
+> `optional` **isRegistered?**: `boolean`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:256](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L256)
+Defined in: [src/drizzle/tables/eventAttendees.ts:256](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L256)
 
 ***
 
 ### recurringEventInstanceId?
 
-> `optional` **recurringEventInstanceId**: `string`
+> `optional` **recurringEventInstanceId?**: `string`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:254](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L254)
+Defined in: [src/drizzle/tables/eventAttendees.ts:254](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L254)
 
 ***
 
@@ -48,4 +48,4 @@ Defined in: [src/drizzle/tables/eventAttendees.ts:254](https://github.com/Palisa
 
 > **userId**: `string`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:252](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L252)
+Defined in: [src/drizzle/tables/eventAttendees.ts:252](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L252)

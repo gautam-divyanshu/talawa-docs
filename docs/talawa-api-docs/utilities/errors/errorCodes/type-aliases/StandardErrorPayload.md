@@ -6,7 +6,7 @@
 
 > **StandardErrorPayload** = `object`
 
-Defined in: [src/utilities/errors/errorCodes.ts:135](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/errors/errorCodes.ts#L135)
+Defined in: [src/utilities/errors/errorCodes.ts:135](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/errors/errorCodes.ts#L135)
 
 Standard error payload structure returned by REST endpoints.
 
@@ -32,7 +32,7 @@ all REST API endpoints in the Talawa API.
 
 > **error**: `object`
 
-Defined in: [src/utilities/errors/errorCodes.ts:137](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/errors/errorCodes.ts#L137)
+Defined in: [src/utilities/errors/errorCodes.ts:137](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/errors/errorCodes.ts#L137)
 
 Error container object
 
@@ -44,13 +44,13 @@ Standardized error code from ErrorCode enum
 
 #### correlationId?
 
-> `optional` **correlationId**: `string`
+> `optional` **correlationId?**: `string`
 
 Request correlation ID for tracing
 
 #### details?
 
-> `optional` **details**: `unknown`
+> `optional` **details?**: `unknown`
 
 Optional additional error context and details
 

@@ -6,7 +6,7 @@
 
 > **ParsedDefaultGraphQLConnectionArguments**\<`Cursor`\> = `object`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/graphqlConnection/types.ts#L4)
+Defined in: [src/utilities/graphqlConnection/types.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/graphqlConnection/types.ts#L4)
 
 Type of the object containing the parsed default arguments of a graphql connection.
 
@@ -20,9 +20,9 @@ Type of the object containing the parsed default arguments of a graphql connecti
 
 ### cursor?
 
-> `optional` **cursor**: `Cursor`
+> `optional` **cursor?**: `Cursor`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/graphqlConnection/types.ts#L8)
+Defined in: [src/utilities/graphqlConnection/types.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/graphqlConnection/types.ts#L8)
 
 The cursor representing the position in the connection.
 
@@ -32,7 +32,7 @@ The cursor representing the position in the connection.
 
 > **isInversed**: `boolean`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/graphqlConnection/types.ts#L19)
+Defined in: [src/utilities/graphqlConnection/types.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/graphqlConnection/types.ts#L19)
 
 This field is used to identify whether the client wants to traverse the graphql connection edges in the default order or in the inversed order.
 
@@ -48,6 +48,6 @@ An example would be scrolling on twitter's home page(assuming they're using grap
 
 > **limit**: `number`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/graphqlConnection/types.ts#L12)
+Defined in: [src/utilities/graphqlConnection/types.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/graphqlConnection/types.ts#L12)
 
 The amount of graphql connection edges to return in a single graphql connection operation.

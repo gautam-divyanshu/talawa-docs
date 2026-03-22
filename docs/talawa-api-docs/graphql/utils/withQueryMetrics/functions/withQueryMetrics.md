@@ -6,7 +6,7 @@
 
 > **withQueryMetrics**\<`TParent`, `TArgs`, `TContext`, `TResult`\>(`options`, `resolver`): (`parent`, `args`, `context`) => `Promise`\<`TResult`\>
 
-Defined in: [src/graphql/utils/withQueryMetrics.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/utils/withQueryMetrics.ts#L47)
+Defined in: [src/graphql/utils/withQueryMetrics.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/utils/withQueryMetrics.ts#L47)
 
 Wraps a GraphQL query resolver with performance tracking instrumentation.
 
@@ -59,25 +59,7 @@ The original resolver function to wrap.
 
 A wrapped resolver function with performance tracking behavior.
 
-> (`parent`, `args`, `context`): `Promise`\<`TResult`\>
-
-### Parameters
-
-#### parent
-
-`TParent`
-
-#### args
-
-`TArgs`
-
-#### context
-
-`TContext`
-
-### Returns
-
-`Promise`\<`TResult`\>
+(`parent`, `args`, `context`) => `Promise`\<`TResult`\>
 
 ## Example
 

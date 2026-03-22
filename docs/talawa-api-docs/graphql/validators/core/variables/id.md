@@ -6,7 +6,7 @@
 
 > `const` **id**: `ZodString` = `nonEmptyString`
 
-Defined in: [src/graphql/validators/core.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/validators/core.ts#L88)
+Defined in: [src/graphql/validators/core.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/validators/core.ts#L88)
 
 Generic GraphQL ID validator.
 GraphQL ID is an opaque string - we just ensure it's non-empty.

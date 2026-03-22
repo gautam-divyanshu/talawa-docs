@@ -6,4 +6,4 @@
 
 > `const` **mutationUpdateActionItemCategoryInputSchema**: `ZodObject`\<\{ `description`: `ZodOptional`\<`ZodString`\>; `id`: `ZodString`; `isDisabled`: `ZodOptional`\<`ZodBoolean`\>; `name`: `ZodOptional`\<`ZodString`\>; \}, `$strip`\>
 
-Defined in: [src/graphql/inputs/MutationUpdateActionItemCategoryInput.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/inputs/MutationUpdateActionItemCategoryInput.ts#L4)
+Defined in: [src/graphql/inputs/MutationUpdateActionItemCategoryInput.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/inputs/MutationUpdateActionItemCategoryInput.ts#L4)

@@ -6,7 +6,7 @@
 
 > **EventWithAttachments** = `InferSelectModel`\<*typeof* [`eventsTable`](../../../../../../drizzle/tables/events/variables/eventsTable.md)\> & `object`
 
-Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L24)
+Defined in: [src/graphql/types/Query/eventQueries/unifiedEventQueries.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/Query/eventQueries/unifiedEventQueries.ts#L24)
 
 Represents a unified event object that includes attachments and metadata
 to distinguish between standalone and generated events.
@@ -19,7 +19,7 @@ to distinguish between standalone and generated events.
 
 ### baseRecurringEventId?
 
-> `optional` **baseRecurringEventId**: `string`
+> `optional` **baseRecurringEventId?**: `string`
 
 ### eventType
 
@@ -27,16 +27,16 @@ to distinguish between standalone and generated events.
 
 ### hasExceptions?
 
-> `optional` **hasExceptions**: `boolean`
+> `optional` **hasExceptions?**: `boolean`
 
 ### isGenerated?
 
-> `optional` **isGenerated**: `boolean`
+> `optional` **isGenerated?**: `boolean`
 
 ### sequenceNumber?
 
-> `optional` **sequenceNumber**: `number`
+> `optional` **sequenceNumber?**: `number`
 
 ### totalCount?
 
-> `optional` **totalCount**: `number` \| `null`
+> `optional` **totalCount?**: `number` \| `null`

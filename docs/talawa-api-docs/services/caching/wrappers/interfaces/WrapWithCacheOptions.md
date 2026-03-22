@@ -4,7 +4,7 @@
 
 # Interface: WrapWithCacheOptions\<K, _V\>
 
-Defined in: [src/services/caching/wrappers.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/caching/wrappers.ts#L21)
+Defined in: [src/services/caching/wrappers.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/caching/wrappers.ts#L21)
 
 Options for wrapping a batch function with caching.
 
@@ -24,7 +24,7 @@ Options for wrapping a batch function with caching.
 
 > **cache**: [`CacheService`](../../CacheService/interfaces/CacheService.md)
 
-Defined in: [src/services/caching/wrappers.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/caching/wrappers.ts#L25)
+Defined in: [src/services/caching/wrappers.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/caching/wrappers.ts#L25)
 
 The cache service instance.
 
@@ -34,17 +34,17 @@ The cache service instance.
 
 > **entity**: `string`
 
-Defined in: [src/services/caching/wrappers.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/caching/wrappers.ts#L29)
+Defined in: [src/services/caching/wrappers.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/caching/wrappers.ts#L29)
 
 Entity type for cache key generation.
 
 ***
 
-### keyFn()
+### keyFn
 
 > **keyFn**: (`key`) => `string` \| `number`
 
-Defined in: [src/services/caching/wrappers.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/caching/wrappers.ts#L35)
+Defined in: [src/services/caching/wrappers.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/caching/wrappers.ts#L35)
 
 Function to convert a key to its cache key suffix.
 
@@ -66,9 +66,9 @@ String representation for the cache key.
 
 ### logger?
 
-> `optional` **logger**: [`CacheWrapperLogger`](CacheWrapperLogger.md)
+> `optional` **logger?**: [`CacheWrapperLogger`](CacheWrapperLogger.md)
 
-Defined in: [src/services/caching/wrappers.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/caching/wrappers.ts#L43)
+Defined in: [src/services/caching/wrappers.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/caching/wrappers.ts#L43)
 
 Optional logger for recording cache operation failures.
 
@@ -76,9 +76,9 @@ Optional logger for recording cache operation failures.
 
 ### metrics?
 
-> `optional` **metrics**: [`CacheWrapperMetrics`](CacheWrapperMetrics.md)
+> `optional` **metrics?**: [`CacheWrapperMetrics`](CacheWrapperMetrics.md)
 
-Defined in: [src/services/caching/wrappers.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/caching/wrappers.ts#L47)
+Defined in: [src/services/caching/wrappers.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/caching/wrappers.ts#L47)
 
 Optional metrics client for tracking cache operation failures.
 
@@ -88,6 +88,6 @@ Optional metrics client for tracking cache operation failures.
 
 > **ttlSeconds**: `number`
 
-Defined in: [src/services/caching/wrappers.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/caching/wrappers.ts#L39)
+Defined in: [src/services/caching/wrappers.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/caching/wrappers.ts#L39)
 
 TTL in seconds for cached values.

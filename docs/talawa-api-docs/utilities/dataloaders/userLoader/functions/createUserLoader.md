@@ -6,7 +6,7 @@
 
 > **createUserLoader**(`db`, `cache`, `perf?`): `DataLoader`\<`string`, \{ `addressLine1`: `string` \| `null`; `addressLine2`: `string` \| `null`; `avatarMimeType`: `string` \| `null`; `avatarName`: `string` \| `null`; `birthDate`: `Date` \| `null`; `city`: `string` \| `null`; `countryCode`: `string` \| `null`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `description`: `string` \| `null`; `educationGrade`: `string` \| `null`; `emailAddress`: `string`; `employmentStatus`: `string` \| `null`; `failedLoginAttempts`: `number`; `homePhoneNumber`: `string` \| `null`; `id`: `string`; `isEmailAddressVerified`: `boolean`; `lastFailedLoginAt`: `Date` \| `null`; `lockedUntil`: `Date` \| `null`; `maritalStatus`: `string` \| `null`; `mobilePhoneNumber`: `string` \| `null`; `name`: `string`; `natalSex`: `string` \| `null`; `naturalLanguageCode`: `string` \| `null`; `passwordHash`: `string`; `postalCode`: `string` \| `null`; `role`: `string`; `state`: `string` \| `null`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; `workPhoneNumber`: `string` \| `null`; \} \| `null`, `string`\>
 
-Defined in: [src/utilities/dataloaders/userLoader.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/dataloaders/userLoader.ts#L36)
+Defined in: [src/utilities/dataloaders/userLoader.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/dataloaders/userLoader.ts#L36)
 
 Creates a DataLoader for batching user lookups by ID.
 When a cache service is provided, wraps the batch function with cache-first logic.
@@ -22,9 +22,9 @@ The Drizzle client instance for database operations.
 
 ### cache
 
-Optional cache service for cache-first lookups. Pass null to disable caching.
+[`CacheService`](../../../../services/caching/CacheService/interfaces/CacheService.md) \| `null`
 
-[`CacheService`](../../../../services/caching/CacheService/interfaces/CacheService.md) | `null`
+Optional cache service for cache-first lookups. Pass null to disable caching.
 
 ### perf?
 

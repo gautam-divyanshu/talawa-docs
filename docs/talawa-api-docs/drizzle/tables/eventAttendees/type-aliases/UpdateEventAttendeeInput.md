@@ -6,7 +6,7 @@
 
 > **UpdateEventAttendeeInput** = `object`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:262](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L262)
+Defined in: [src/drizzle/tables/eventAttendees.ts:262](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L262)
 
 Type for updating an event attendee record.
 
@@ -14,54 +14,54 @@ Type for updating an event attendee record.
 
 ### checkinTime?
 
-> `optional` **checkinTime**: `Date`
+> `optional` **checkinTime?**: `Date`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:263](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L263)
+Defined in: [src/drizzle/tables/eventAttendees.ts:263](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L263)
 
 ***
 
 ### checkoutTime?
 
-> `optional` **checkoutTime**: `Date`
+> `optional` **checkoutTime?**: `Date`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:264](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L264)
+Defined in: [src/drizzle/tables/eventAttendees.ts:264](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L264)
 
 ***
 
 ### feedbackSubmitted?
 
-> `optional` **feedbackSubmitted**: `boolean`
+> `optional` **feedbackSubmitted?**: `boolean`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:265](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L265)
+Defined in: [src/drizzle/tables/eventAttendees.ts:265](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L265)
 
 ***
 
 ### isCheckedIn?
 
-> `optional` **isCheckedIn**: `boolean`
+> `optional` **isCheckedIn?**: `boolean`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:268](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L268)
+Defined in: [src/drizzle/tables/eventAttendees.ts:268](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L268)
 
 ***
 
 ### isCheckedOut?
 
-> `optional` **isCheckedOut**: `boolean`
+> `optional` **isCheckedOut?**: `boolean`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:269](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L269)
+Defined in: [src/drizzle/tables/eventAttendees.ts:269](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L269)
 
 ***
 
 ### isInvited?
 
-> `optional` **isInvited**: `boolean`
+> `optional` **isInvited?**: `boolean`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:266](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L266)
+Defined in: [src/drizzle/tables/eventAttendees.ts:266](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L266)
 
 ***
 
 ### isRegistered?
 
-> `optional` **isRegistered**: `boolean`
+> `optional` **isRegistered?**: `boolean`
 
-Defined in: [src/drizzle/tables/eventAttendees.ts:267](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/drizzle/tables/eventAttendees.ts#L267)
+Defined in: [src/drizzle/tables/eventAttendees.ts:267](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/tables/eventAttendees.ts#L267)

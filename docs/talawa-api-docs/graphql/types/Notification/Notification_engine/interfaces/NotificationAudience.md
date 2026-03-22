@@ -4,7 +4,7 @@
 
 # Interface: NotificationAudience
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Notification/Notification_engine.ts#L37)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/Notification/Notification_engine.ts#L37)
 
 Interface for audience specification
 
@@ -14,7 +14,7 @@ Interface for audience specification
 
 > **targetIds**: `string`[]
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Notification/Notification_engine.ts#L39)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/Notification/Notification_engine.ts#L39)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [src/graphql/types/Notification/Notification\_engine.ts:39](https://
 
 > **targetType**: [`NotificationTargetType`](../enumerations/NotificationTargetType.md)
 
-Defined in: [src/graphql/types/Notification/Notification\_engine.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/graphql/types/Notification/Notification_engine.ts#L38)
+Defined in: [src/graphql/types/Notification/Notification\_engine.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/Notification/Notification_engine.ts#L38)

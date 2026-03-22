@@ -4,7 +4,7 @@
 
 # Interface: CookieConfigOptions
 
-Defined in: [src/utilities/cookieConfig.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/cookieConfig.ts#L23)
+Defined in: [src/utilities/cookieConfig.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/cookieConfig.ts#L23)
 
 Default cookie options with security best practices.
 These options ensure cookies are protected from XSS attacks.
@@ -13,9 +13,9 @@ These options ensure cookies are protected from XSS attacks.
 
 ### domain?
 
-> `optional` **domain**: `string`
+> `optional` **domain?**: `string`
 
-Defined in: [src/utilities/cookieConfig.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/cookieConfig.ts#L32)
+Defined in: [src/utilities/cookieConfig.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/cookieConfig.ts#L32)
 
 Optional domain for the cookie (for cross-subdomain authentication).
 
@@ -25,7 +25,7 @@ Optional domain for the cookie (for cross-subdomain authentication).
 
 > **isSecure**: `boolean`
 
-Defined in: [src/utilities/cookieConfig.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/cookieConfig.ts#L27)
+Defined in: [src/utilities/cookieConfig.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/cookieConfig.ts#L27)
 
 Whether the application is running in a secure (HTTPS) environment.
 
@@ -33,8 +33,8 @@ Whether the application is running in a secure (HTTPS) environment.
 
 ### path?
 
-> `optional` **path**: `string`
+> `optional` **path?**: `string`
 
-Defined in: [src/utilities/cookieConfig.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/cookieConfig.ts#L37)
+Defined in: [src/utilities/cookieConfig.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/cookieConfig.ts#L37)
 
 Cookie path.

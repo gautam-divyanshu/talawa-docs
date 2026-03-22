@@ -6,7 +6,7 @@
 
 > **createActionItemLoader**(`db`, `cache`, `perf?`): `DataLoader`\<`string`, \{ `assignedAt`: `Date`; `categoryId`: `string` \| `null`; `completionAt`: `Date` \| `null`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `eventId`: `string` \| `null`; `id`: `string`; `isCompleted`: `boolean`; `isTemplate`: `boolean` \| `null`; `organizationId`: `string`; `postCompletionNotes`: `string` \| `null`; `preCompletionNotes`: `string` \| `null`; `recurringEventInstanceId`: `string` \| `null`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; `volunteerGroupId`: `string` \| `null`; `volunteerId`: `string` \| `null`; \} \| `null`, `string`\>
 
-Defined in: [src/utilities/dataloaders/actionItemLoader.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/utilities/dataloaders/actionItemLoader.ts#L36)
+Defined in: [src/utilities/dataloaders/actionItemLoader.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/dataloaders/actionItemLoader.ts#L36)
 
 Creates a DataLoader for batching action item lookups by ID.
 When a cache service is provided, wraps the batch function with cache-first logic.
@@ -22,9 +22,9 @@ The Drizzle client instance for database operations.
 
 ### cache
 
-Optional cache service for cache-first lookups. Pass null to disable caching.
+[`CacheService`](../../../../services/caching/CacheService/interfaces/CacheService.md) \| `null`
 
-[`CacheService`](../../../../services/caching/CacheService/interfaces/CacheService.md) | `null`
+Optional cache service for cache-first lookups. Pass null to disable caching.
 
 ### perf?
 

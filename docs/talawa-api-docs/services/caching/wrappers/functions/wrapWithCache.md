@@ -6,7 +6,7 @@
 
 > **wrapWithCache**\<`K`, `V`\>(`batchFn`, `opts`): (`keys`) => `Promise`\<(`V` \| `null`)[]\>
 
-Defined in: [src/services/caching/wrappers.ts:69](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/caching/wrappers.ts#L69)
+Defined in: [src/services/caching/wrappers.ts:69](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/caching/wrappers.ts#L69)
 
 Wraps a batch function with caching support.
 Ideal for integrating with DataLoader to add a cache layer.
@@ -39,17 +39,7 @@ Caching options.
 
 A wrapped batch function that checks cache first.
 
-> (`keys`): `Promise`\<(`V` \| `null`)[]\>
-
-### Parameters
-
-#### keys
-
-readonly `K`[]
-
-### Returns
-
-`Promise`\<(`V` \| `null`)[]\>
+(`keys`) => `Promise`\<(`V` \| `null`)[]\>
 
 ## Example
 

@@ -6,7 +6,7 @@
 
 > **invalidateEntity**(`cache`, `entity`, `id`): `Promise`\<`void`\>
 
-Defined in: [src/services/caching/invalidation.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/e5257a859e980c4157b048d478eb38a347def32f/src/services/caching/invalidation.ts#L16)
+Defined in: [src/services/caching/invalidation.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/caching/invalidation.ts#L16)
 
 Invalidate a specific entity from the cache.
 
@@ -26,9 +26,9 @@ The entity type (e.g., "user", "organization").
 
 ### id
 
-The entity ID.
+`string` \| `number`
 
-`string` | `number`
+The entity ID.
 
 ## Returns
 
