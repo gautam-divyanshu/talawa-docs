@@ -6,7 +6,7 @@
 
 > `const` **refreshBody**: `ZodObject`\<\{ `refreshToken`: `ZodOptional`\<`ZodString`\>; \}, `$strip`\>
 
-Defined in: [src/routes/auth/validators.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/routes/auth/validators.ts#L42)
+Defined in: [src/routes/auth/validators.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/routes/auth/validators.ts#L42)
 
 Zod schema for REST refresh-token request body.
 In refreshBody, `refreshToken` is intentionally optional because the token may be

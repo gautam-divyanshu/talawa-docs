@@ -6,6 +6,6 @@
 
 > **EnvConfig** = `Static`\<*typeof* [`envConfigSchema`](../variables/envConfigSchema.md)\>
 
-Defined in: [src/envConfigSchema.ts:813](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/envConfigSchema.ts#L813)
+Defined in: [src/envConfigSchema.ts:835](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/envConfigSchema.ts#L835)
 
 Type of the object containing parsed configuration environment variables.

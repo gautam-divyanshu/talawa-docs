@@ -6,7 +6,7 @@
 
 > **getTimeWindows**(`startTime`, `endTime`, `options?`): [`TimeWindow`](../interfaces/TimeWindow.md)[]
 
-Defined in: [src/utilities/metrics/dbHelpers.ts:249](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/metrics/dbHelpers.ts#L249)
+Defined in: [src/utilities/metrics/dbHelpers.ts:249](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/metrics/dbHelpers.ts#L249)
 
 Generates an array of time windows for a given time range.
 Windows are non-overlapping and cover the entire range.

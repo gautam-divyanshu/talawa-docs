@@ -6,4 +6,4 @@
 
 > `const` **MutationDeleteEventInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `id`: `string`; \}\>
 
-Defined in: [src/graphql/inputs/MutationDeleteEventInput.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/inputs/MutationDeleteEventInput.ts#L9)
+Defined in: [src/graphql/inputs/MutationDeleteEventInput.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/inputs/MutationDeleteEventInput.ts#L9)

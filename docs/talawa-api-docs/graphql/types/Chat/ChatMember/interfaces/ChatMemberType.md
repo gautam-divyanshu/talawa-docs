@@ -4,7 +4,7 @@
 
 # Interface: ChatMemberType
 
-Defined in: [src/graphql/types/Chat/ChatMember.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/Chat/ChatMember.ts#L10)
+Defined in: [src/graphql/types/Chat/ChatMember.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/Chat/ChatMember.ts#L10)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/graphql/types/Chat/ChatMember.ts:10](https://github.com/Palisad
 
 > **member**: `object`
 
-Defined in: [src/graphql/types/Chat/ChatMember.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/Chat/ChatMember.ts#L11)
+Defined in: [src/graphql/types/Chat/ChatMember.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/Chat/ChatMember.ts#L11)
 
 #### addressLine1
 
@@ -144,4 +144,4 @@ Defined in: [src/graphql/types/Chat/ChatMember.ts:11](https://github.com/Palisad
 
 > **role**: `"administrator"` \| `"regular"`
 
-Defined in: [src/graphql/types/Chat/ChatMember.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/Chat/ChatMember.ts#L12)
+Defined in: [src/graphql/types/Chat/ChatMember.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/Chat/ChatMember.ts#L12)

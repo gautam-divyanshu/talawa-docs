@@ -4,7 +4,7 @@
 
 # Interface: IPluginManifest
 
-Defined in: [src/plugin/types.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L6)
+Defined in: [src/plugin/types.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L6)
 
 Centralized type definitions for the Talawa API plugin system
 
@@ -14,7 +14,7 @@ Centralized type definitions for the Talawa API plugin system
 
 > **author**: `string`
 
-Defined in: [src/plugin/types.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L11)
+Defined in: [src/plugin/types.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L11)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/plugin/types.ts:11](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **dependencies?**: `Record`\<`string`, `string`\>
 
-Defined in: [src/plugin/types.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L18)
+Defined in: [src/plugin/types.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L18)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/plugin/types.ts:18](https://github.com/PalisadoesFoundation/tal
 
 > **description**: `string`
 
-Defined in: [src/plugin/types.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L10)
+Defined in: [src/plugin/types.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L10)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/plugin/types.ts:10](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **docker?**: `object`
 
-Defined in: [src/plugin/types.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L19)
+Defined in: [src/plugin/types.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L19)
 
 #### buildOnInstall?
 
@@ -78,7 +78,7 @@ Defined in: [src/plugin/types.ts:19](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **extensionPoints?**: [`IExtensionPoints`](IExtensionPoints.md)
 
-Defined in: [src/plugin/types.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L13)
+Defined in: [src/plugin/types.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L13)
 
 ***
 
@@ -86,7 +86,7 @@ Defined in: [src/plugin/types.ts:13](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **homepage?**: `string`
 
-Defined in: [src/plugin/types.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L15)
+Defined in: [src/plugin/types.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L15)
 
 ***
 
@@ -94,7 +94,7 @@ Defined in: [src/plugin/types.ts:15](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **icon?**: `string`
 
-Defined in: [src/plugin/types.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L14)
+Defined in: [src/plugin/types.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L14)
 
 ***
 
@@ -102,7 +102,7 @@ Defined in: [src/plugin/types.ts:14](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **license?**: `string`
 
-Defined in: [src/plugin/types.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L16)
+Defined in: [src/plugin/types.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L16)
 
 ***
 
@@ -110,7 +110,7 @@ Defined in: [src/plugin/types.ts:16](https://github.com/PalisadoesFoundation/tal
 
 > **main**: `string`
 
-Defined in: [src/plugin/types.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L12)
+Defined in: [src/plugin/types.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L12)
 
 ***
 
@@ -118,7 +118,7 @@ Defined in: [src/plugin/types.ts:12](https://github.com/PalisadoesFoundation/tal
 
 > **name**: `string`
 
-Defined in: [src/plugin/types.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L7)
+Defined in: [src/plugin/types.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L7)
 
 ***
 
@@ -126,7 +126,7 @@ Defined in: [src/plugin/types.ts:7](https://github.com/PalisadoesFoundation/tala
 
 > **pluginId**: `string`
 
-Defined in: [src/plugin/types.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L8)
+Defined in: [src/plugin/types.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L8)
 
 ***
 
@@ -134,7 +134,7 @@ Defined in: [src/plugin/types.ts:8](https://github.com/PalisadoesFoundation/tala
 
 > `optional` **tags?**: `string`[]
 
-Defined in: [src/plugin/types.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L17)
+Defined in: [src/plugin/types.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L17)
 
 ***
 
@@ -142,4 +142,4 @@ Defined in: [src/plugin/types.ts:17](https://github.com/PalisadoesFoundation/tal
 
 > **version**: `string`
 
-Defined in: [src/plugin/types.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L9)
+Defined in: [src/plugin/types.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L9)

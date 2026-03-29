@@ -4,7 +4,7 @@
 
 # Class: TalawaGraphQLError
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:372](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/TalawaGraphQLError.ts#L372)
+Defined in: [src/utilities/TalawaGraphQLError.ts:372](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/TalawaGraphQLError.ts#L372)
 
 Custom GraphQL error class that provides structured error handling with typed extensions.
 
@@ -75,7 +75,7 @@ export const user = async (parent, args, ctx) => {
 
 > **new TalawaGraphQLError**(`options`): `TalawaGraphQLError`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:383](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/TalawaGraphQLError.ts#L383)
+Defined in: [src/utilities/TalawaGraphQLError.ts:383](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/TalawaGraphQLError.ts#L383)
 
 Creates a new TalawaGraphQLError instance.
 

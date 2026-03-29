@@ -4,7 +4,7 @@
 
 # Interface: PostProcessingConfig
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/eventGeneration/postProcessor.ts#L7)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/workers/eventGeneration/postProcessor.ts#L7)
 
 Configuration for post-processing operations, allowing features like cleanup to be toggled.
 
@@ -14,4 +14,4 @@ Configuration for post-processing operations, allowing features like cleanup to 
 
 > **enableCleanup**: `boolean`
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/workers/eventGeneration/postProcessor.ts#L8)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/workers/eventGeneration/postProcessor.ts#L8)

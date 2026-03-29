@@ -4,7 +4,7 @@
 
 # Enumeration: ExtensionPointType
 
-Defined in: [src/plugin/types.ts:122](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L122)
+Defined in: [src/plugin/types.ts:122](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L122)
 
 ## Enumeration Members
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:122](https://github.com/PalisadoesFoundation/ta
 
 > **DATABASE**: `"database"`
 
-Defined in: [src/plugin/types.ts:124](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L124)
+Defined in: [src/plugin/types.ts:124](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L124)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/plugin/types.ts:124](https://github.com/PalisadoesFoundation/ta
 
 > **GRAPHQL**: `"graphql"`
 
-Defined in: [src/plugin/types.ts:123](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L123)
+Defined in: [src/plugin/types.ts:123](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L123)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/plugin/types.ts:123](https://github.com/PalisadoesFoundation/ta
 
 > **HOOKS**: `"hooks"`
 
-Defined in: [src/plugin/types.ts:125](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/plugin/types.ts#L125)
+Defined in: [src/plugin/types.ts:125](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/types.ts#L125)

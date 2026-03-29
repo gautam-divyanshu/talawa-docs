@@ -6,7 +6,7 @@
 
 > **RecurringEventInstanceResolver**(`parent`, `_args`, `ctx`): `Promise`\<\{ `actualEndDate`: `string` \| `null`; `actualEndTime`: `Date` \| `null`; `actualStartDate`: `string` \| `null`; `actualStartTime`: `Date` \| `null`; `allDay`: `boolean`; `attachments`: `never`[]; `baseRecurringEventId`: `string`; `createdAt`: `Date`; `creatorId`: `string` \| `null`; `description`: `string` \| `null`; `endAt`: `Date` \| `null`; `endDate`: `string` \| `null`; `generatedAt`: `Date`; `id`: `string`; `isCancelled`: `boolean`; `isInviteOnly`: `boolean`; `isPublic`: `boolean`; `isRecurringEventTemplate`: `boolean`; `isRegisterable`: `boolean`; `lastUpdatedAt`: `Date` \| `null`; `location`: `string` \| `null`; `name`: `string`; `organizationId`: `string`; `originalInstanceStartDate`: `string` \| `null`; `originalInstanceStartTime`: `Date` \| `null`; `originalSeriesId`: `string`; `recurrenceRuleId`: `string`; `sequenceNumber`: `number`; `startAt`: `Date` \| `null`; `startDate`: `string` \| `null`; `totalCount`: `number` \| `null`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; `version`: `string`; \} \| `null`\>
 
-Defined in: [src/graphql/types/EventVolunteerGroup/recurringEventInstance.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/EventVolunteerGroup/recurringEventInstance.ts#L6)
+Defined in: [src/graphql/types/EventVolunteerGroup/recurringEventInstance.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/EventVolunteerGroup/recurringEventInstance.ts#L6)
 
 ## Parameters
 

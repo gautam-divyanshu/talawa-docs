@@ -4,7 +4,7 @@
 
 # Interface: GitHubUser
 
-Defined in: [src/utilities/auth/oauth/types.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/auth/oauth/types.ts#L35)
+Defined in: [src/utilities/auth/oauth/types.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/auth/oauth/types.ts#L35)
 
 GitHub user response structure
 
@@ -14,7 +14,7 @@ GitHub user response structure
 
 > **avatar\_url**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/auth/oauth/types.ts#L40)
+Defined in: [src/utilities/auth/oauth/types.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/auth/oauth/types.ts#L40)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/utilities/auth/oauth/types.ts:40](https://github.com/Palisadoes
 
 > `optional` **email?**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/auth/oauth/types.ts#L39)
+Defined in: [src/utilities/auth/oauth/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/auth/oauth/types.ts#L39)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/utilities/auth/oauth/types.ts:39](https://github.com/Palisadoes
 
 > **id**: `number`
 
-Defined in: [src/utilities/auth/oauth/types.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/auth/oauth/types.ts#L36)
+Defined in: [src/utilities/auth/oauth/types.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/auth/oauth/types.ts#L36)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/utilities/auth/oauth/types.ts:36](https://github.com/Palisadoes
 
 > **login**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/auth/oauth/types.ts#L37)
+Defined in: [src/utilities/auth/oauth/types.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/auth/oauth/types.ts#L37)
 
 ***
 
@@ -46,4 +46,4 @@ Defined in: [src/utilities/auth/oauth/types.ts:37](https://github.com/Palisadoes
 
 > **name**: `string` \| `null`
 
-Defined in: [src/utilities/auth/oauth/types.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/auth/oauth/types.ts#L38)
+Defined in: [src/utilities/auth/oauth/types.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/auth/oauth/types.ts#L38)

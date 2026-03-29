@@ -6,7 +6,7 @@
 
 > `const` **VolunteerMembershipWhereInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `eventId?`: `string` \| `null`; `eventTitle?`: `string` \| `null`; `filter?`: `NonNullable`\<`"group"` \| `"individual"` \| `undefined`\> \| `null`; `groupId?`: `string` \| `null`; `status?`: `NonNullable`\<`"rejected"` \| `"invited"` \| `"requested"` \| `"accepted"` \| `undefined`\> \| `null`; `userId?`: `string` \| `null`; `userName?`: `string` \| `null`; \}\>
 
-Defined in: [src/graphql/inputs/VolunteerMembershipWhereInput.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/inputs/VolunteerMembershipWhereInput.ts#L24)
+Defined in: [src/graphql/inputs/VolunteerMembershipWhereInput.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/inputs/VolunteerMembershipWhereInput.ts#L24)
 
 GraphQL input type for filtering VolunteerMemberships.
 Matches the old Talawa API VolunteerMembershipWhereInput structure.

@@ -6,7 +6,7 @@
 
 > **AuthenticationPayload** = `object`
 
-Defined in: [src/graphql/types/AuthenticationPayload.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/AuthenticationPayload.ts#L5)
+Defined in: [src/graphql/types/AuthenticationPayload.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/AuthenticationPayload.ts#L5)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/graphql/types/AuthenticationPayload.ts:5](https://github.com/Pa
 
 > **authenticationToken**: `string`
 
-Defined in: [src/graphql/types/AuthenticationPayload.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/AuthenticationPayload.ts#L6)
+Defined in: [src/graphql/types/AuthenticationPayload.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/AuthenticationPayload.ts#L6)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/graphql/types/AuthenticationPayload.ts:6](https://github.com/Pa
 
 > **refreshToken**: `string`
 
-Defined in: [src/graphql/types/AuthenticationPayload.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/AuthenticationPayload.ts#L7)
+Defined in: [src/graphql/types/AuthenticationPayload.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/AuthenticationPayload.ts#L7)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/graphql/types/AuthenticationPayload.ts:7](https://github.com/Pa
 
 > **user**: [`User`](../../User/User/type-aliases/User.md)
 
-Defined in: [src/graphql/types/AuthenticationPayload.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/AuthenticationPayload.ts#L8)
+Defined in: [src/graphql/types/AuthenticationPayload.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/AuthenticationPayload.ts#L8)

@@ -6,7 +6,7 @@
 
 > **VolunteerMembershipVolunteerResolver**(`parent`, `_args`, `ctx`): `Promise`\<\{ `createdAt`: `Date`; `creatorId`: `string` \| `null`; `eventId`: `string`; `hasAccepted`: `boolean`; `hoursVolunteered`: `string`; `id`: `string`; `isPublic`: `boolean`; `isTemplate`: `boolean`; `recurringEventInstanceId`: `string` \| `null`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; `userId`: `string`; \}\>
 
-Defined in: [src/graphql/types/EventVolunteerMembership/volunteer.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/EventVolunteerMembership/volunteer.ts#L10)
+Defined in: [src/graphql/types/EventVolunteerMembership/volunteer.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/EventVolunteerMembership/volunteer.ts#L10)
 
 ## Parameters
 

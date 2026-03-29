@@ -6,7 +6,7 @@
 
 > **buildRRuleString**(`recurrence`, `_startDate`): `string`
 
-Defined in: [src/utilities/recurringEvent/formatting.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/recurringEvent/formatting.ts#L13)
+Defined in: [src/utilities/recurringEvent/formatting.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/recurringEvent/formatting.ts#L13)
 
 Converts a recurrence input object into an RRULE string compliant with RFC 5545.
 This function constructs a recurrence rule string based on the provided frequency,

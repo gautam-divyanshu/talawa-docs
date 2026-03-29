@@ -6,7 +6,7 @@
 
 > **AccountLockedExtensions** = `object`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/TalawaGraphQLError.ts#L54)
+Defined in: [src/utilities/TalawaGraphQLError.ts:54](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/TalawaGraphQLError.ts#L54)
 
 When the user's account is temporarily locked due to too many failed login attempts.
 The retryAfter field indicates when the account will be unlocked (ISO 8601 timestamp).
@@ -28,7 +28,7 @@ throw new TalawaGraphQLError({
 
 > **code**: `"account_locked"`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/TalawaGraphQLError.ts#L55)
+Defined in: [src/utilities/TalawaGraphQLError.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/TalawaGraphQLError.ts#L55)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/utilities/TalawaGraphQLError.ts:55](https://github.com/Palisado
 
 > **retryAfter**: `string`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/TalawaGraphQLError.ts#L56)
+Defined in: [src/utilities/TalawaGraphQLError.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/TalawaGraphQLError.ts#L56)

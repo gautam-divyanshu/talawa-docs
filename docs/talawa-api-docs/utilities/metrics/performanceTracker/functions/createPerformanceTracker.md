@@ -6,7 +6,7 @@
 
 > **createPerformanceTracker**(`opts?`): [`PerformanceTracker`](../interfaces/PerformanceTracker.md)
 
-Defined in: [src/utilities/metrics/performanceTracker.ts:118](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/utilities/metrics/performanceTracker.ts#L118)
+Defined in: [src/utilities/metrics/performanceTracker.ts:118](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/metrics/performanceTracker.ts#L118)
 
 Creates a performance tracker for request-level metrics.
 Tracks operations, cache hits/misses, and provides snapshots.

@@ -6,7 +6,7 @@
 
 > **shutdownTracing**(): `Promise`\<`void`\>
 
-Defined in: [src/observability/tracing/bootstrap.ts:118](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/observability/tracing/bootstrap.ts#L118)
+Defined in: [src/observability/tracing/bootstrap.ts:118](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/observability/tracing/bootstrap.ts#L118)
 
 Shutdown OpenTelemetry tracing gracefully.
 This function should be called from the graceful shutdown handler.

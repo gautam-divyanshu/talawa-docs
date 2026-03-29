@@ -895,6 +895,7 @@
 - [utilities/metrics/dbHelpers](utilities/metrics/dbHelpers/README.md)
 - [utilities/metrics/performanceTracker](utilities/metrics/performanceTracker/README.md)
 - [utilities/metrics/withMetrics](utilities/metrics/withMetrics/README.md)
+- [utilities/passwordChangeRateLimit](utilities/passwordChangeRateLimit/README.md)
 - [utilities/passwordResetRateLimit](utilities/passwordResetRateLimit/README.md)
 - [utilities/passwordResetTokenUtils](utilities/passwordResetTokenUtils/README.md)
 - [utilities/pluginDependencyInstaller](utilities/pluginDependencyInstaller/README.md)

@@ -6,7 +6,7 @@
 
 > **getCurrentSchema**(): `GraphQLSchema`
 
-Defined in: [src/graphql/schema.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/schema.ts#L31)
+Defined in: [src/graphql/schema.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/schema.ts#L31)
 
 Get the current schema (with plugins if initialized)
 

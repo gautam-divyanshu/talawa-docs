@@ -6,7 +6,7 @@
 
 > **addressLine2Resolver**(`parent`, `_args`, `ctx`): `Promise`\<`string` \| `null`\>
 
-Defined in: [src/graphql/types/User/addressLine2.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/graphql/types/User/addressLine2.ts#L18)
+Defined in: [src/graphql/types/User/addressLine2.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/User/addressLine2.ts#L18)
 
 Resolver for the `addressLine2` field on the `User` type.
 Checks authentication and authorization before returning the escaped value.

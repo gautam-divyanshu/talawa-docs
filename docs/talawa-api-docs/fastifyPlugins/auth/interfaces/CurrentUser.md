@@ -4,7 +4,7 @@
 
 # Interface: CurrentUser
 
-Defined in: [src/fastifyPlugins/auth.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/fastifyPlugins/auth.ts#L18)
+Defined in: [src/fastifyPlugins/auth.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/fastifyPlugins/auth.ts#L18)
 
 Authenticated user set on the request by the auth plugin. Single authoritative shape for FastifyRequest.currentUser.
 
@@ -14,7 +14,7 @@ Authenticated user set on the request by the auth plugin. Single authoritative s
 
 > `optional` **email?**: `string`
 
-Defined in: [src/fastifyPlugins/auth.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/fastifyPlugins/auth.ts#L20)
+Defined in: [src/fastifyPlugins/auth.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/fastifyPlugins/auth.ts#L20)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [src/fastifyPlugins/auth.ts:20](https://github.com/PalisadoesFoundat
 
 > **id**: `string`
 
-Defined in: [src/fastifyPlugins/auth.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/fastifyPlugins/auth.ts#L19)
+Defined in: [src/fastifyPlugins/auth.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/fastifyPlugins/auth.ts#L19)

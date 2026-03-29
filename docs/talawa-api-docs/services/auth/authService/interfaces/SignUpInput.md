@@ -4,7 +4,7 @@
 
 # Interface: SignUpInput
 
-Defined in: [src/services/auth/authService.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/auth/authService.ts#L46)
+Defined in: [src/services/auth/authService.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/services/auth/authService.ts#L46)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/services/auth/authService.ts:46](https://github.com/PalisadoesF
 
 > **email**: `string`
 
-Defined in: [src/services/auth/authService.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/auth/authService.ts#L47)
+Defined in: [src/services/auth/authService.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/services/auth/authService.ts#L47)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/services/auth/authService.ts:47](https://github.com/PalisadoesF
 
 > **firstName**: `string`
 
-Defined in: [src/services/auth/authService.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/auth/authService.ts#L49)
+Defined in: [src/services/auth/authService.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/services/auth/authService.ts#L49)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/services/auth/authService.ts:49](https://github.com/PalisadoesF
 
 > **lastName**: `string`
 
-Defined in: [src/services/auth/authService.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/auth/authService.ts#L50)
+Defined in: [src/services/auth/authService.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/services/auth/authService.ts#L50)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/services/auth/authService.ts:50](https://github.com/PalisadoesF
 
 > **password**: `string`
 
-Defined in: [src/services/auth/authService.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/services/auth/authService.ts#L48)
+Defined in: [src/services/auth/authService.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/services/auth/authService.ts#L48)

@@ -6,7 +6,7 @@
 
 > **assertSecretsPresent**(`envConfig`): `void`
 
-Defined in: [src/createServer.ts:64](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/createServer.ts#L64)
+Defined in: [src/createServer.ts:64](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/createServer.ts#L64)
 
 Validates that critical secrets in the environment configuration are neither
 empty nor set to the placeholder sentinel (`PLACEHOLDER_SENTINEL`).
@@ -455,6 +455,20 @@ Default: 1 (sample all traces)
 `string` = `...`
 
 Service name for OpenTelemetry.
+
+#### API_PASSWORD_CHANGE_RATE_LIMIT_MAX_CHANGES?
+
+`number` = `...`
+
+Maximum number of password changes allowed per rate limit window.
+Default: 3
+
+#### API_PASSWORD_CHANGE_RATE_LIMIT_WINDOW_SECONDS?
+
+`number` = `...`
+
+Rate limit window duration in seconds for password changes.
+Default: 3600 (1 hour)
 
 #### API_PASSWORD_RESET_ADMIN_TOKEN_EXPIRES_SECONDS?
 

@@ -6,6 +6,6 @@
 
 > `const` **chatMembershipRoleEnum**: `ZodEnum`\<\{ `administrator`: `"administrator"`; `regular`: `"regular"`; \}\>
 
-Defined in: [src/drizzle/enums/chatMembershipRole.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/4192946e517a94b573c8f323a0a5b2837aeccf3f/src/drizzle/enums/chatMembershipRole.ts#L6)
+Defined in: [src/drizzle/enums/chatMembershipRole.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/drizzle/enums/chatMembershipRole.ts#L6)
 
 Possible variants of the role assigned to a user within a chat.
