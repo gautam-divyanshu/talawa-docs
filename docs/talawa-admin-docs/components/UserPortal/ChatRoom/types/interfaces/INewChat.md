@@ -4,7 +4,7 @@
 
 # Interface: INewChat
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L26)
+Defined in: [components/UserPortal/ChatRoom/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L26)
 
 Chat Types
 
@@ -37,7 +37,7 @@ const chat: INewChat = {
 
 > `optional` **avatarMimeType?**: `string`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L30)
+Defined in: [components/UserPortal/ChatRoom/types.ts:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L30)
 
 ***
 
@@ -45,7 +45,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:30](https://github.com/Pali
 
 > `optional` **avatarURL?**: `string`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L31)
+Defined in: [components/UserPortal/ChatRoom/types.ts:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L31)
 
 ***
 
@@ -53,7 +53,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:31](https://github.com/Pali
 
 > **createdAt**: `string`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L33)
+Defined in: [components/UserPortal/ChatRoom/types.ts:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L33)
 
 ***
 
@@ -61,7 +61,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:33](https://github.com/Pali
 
 > `optional` **creator?**: `object`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L40)
+Defined in: [components/UserPortal/ChatRoom/types.ts:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L40)
 
 #### avatarMimeType?
 
@@ -85,7 +85,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:40](https://github.com/Pali
 
 > `optional` **description?**: `string`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L29)
+Defined in: [components/UserPortal/ChatRoom/types.ts:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L29)
 
 ***
 
@@ -93,7 +93,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:29](https://github.com/Pali
 
 > **id**: `string`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L27)
+Defined in: [components/UserPortal/ChatRoom/types.ts:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L27)
 
 ***
 
@@ -101,7 +101,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:27](https://github.com/Pali
 
 > **isGroup**: `boolean`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L32)
+Defined in: [components/UserPortal/ChatRoom/types.ts:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L32)
 
 ***
 
@@ -109,7 +109,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:32](https://github.com/Pali
 
 > **members**: `object`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L52)
+Defined in: [components/UserPortal/ChatRoom/types.ts:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L52)
 
 #### edges
 
@@ -121,7 +121,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:52](https://github.com/Pali
 
 > **messages**: `object`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L66)
+Defined in: [components/UserPortal/ChatRoom/types.ts:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L66)
 
 #### edges
 
@@ -153,7 +153,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:66](https://github.com/Pali
 
 > **name**: `string`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L28)
+Defined in: [components/UserPortal/ChatRoom/types.ts:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L28)
 
 ***
 
@@ -161,7 +161,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:28](https://github.com/Pali
 
 > `optional` **organization?**: `object`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L35)
+Defined in: [components/UserPortal/ChatRoom/types.ts:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L35)
 
 #### countryCode?
 
@@ -181,7 +181,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:35](https://github.com/Pali
 
 > **updatedAt**: `string`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L34)
+Defined in: [components/UserPortal/ChatRoom/types.ts:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L34)
 
 ***
 
@@ -189,7 +189,7 @@ Defined in: [components/UserPortal/ChatRoom/types.ts:34](https://github.com/Pali
 
 > `optional` **updater?**: `object`
 
-Defined in: [components/UserPortal/ChatRoom/types.ts:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/UserPortal/ChatRoom/types.ts#L46)
+Defined in: [components/UserPortal/ChatRoom/types.ts:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/UserPortal/ChatRoom/types.ts#L46)
 
 #### avatarMimeType?
 

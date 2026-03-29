@@ -6,7 +6,7 @@
 
 > **default**(`props`): `Element`
 
-Defined in: [components/HolidayCards/HolidayCard.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/HolidayCards/HolidayCard.tsx#L25)
+Defined in: [components/HolidayCards/HolidayCard.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/HolidayCards/HolidayCard.tsx#L25)
 
 ## Parameters
 

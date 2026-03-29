@@ -6,7 +6,7 @@
 
 > `const` **mockOrgDataWithEmptyFields**: `object`
 
-Defined in: [components/AdminPortal/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/AdminPortal/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts#L26)
+Defined in: [components/AdminPortal/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/AdminPortal/OrgSettings/General/OrgUpdate/OrgUpdateMocks.ts#L26)
 
 Variant with empty address fields for mutation payload tests.
 

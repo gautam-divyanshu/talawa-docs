@@ -6,7 +6,7 @@
 
 > `const` **default**: `React.FC`\<`InterfaceAssignmentTypeSelectorProps`\>
 
-Defined in: [components/AdminPortal/AssignmentTypeSelector/AssignmentTypeSelector.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/components/AdminPortal/AssignmentTypeSelector/AssignmentTypeSelector.tsx#L17)
+Defined in: [components/AdminPortal/AssignmentTypeSelector/AssignmentTypeSelector.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/AdminPortal/AssignmentTypeSelector/AssignmentTypeSelector.tsx#L17)
 
 Chip-based toggle selector for choosing assignment type (volunteer or volunteer group).
 

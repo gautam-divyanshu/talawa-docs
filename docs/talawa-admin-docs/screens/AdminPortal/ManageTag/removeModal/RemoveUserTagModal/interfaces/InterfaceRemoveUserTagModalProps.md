@@ -4,7 +4,7 @@
 
 # Interface: InterfaceRemoveUserTagModalProps
 
-Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx#L26)
+Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx#L26)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:26
 
 > **handleRemoveUserTag**: () => `Promise`\<`void`\>
 
-Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx#L29)
+Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx#L29)
 
 #### Returns
 
@@ -24,7 +24,7 @@ Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:29
 
 > **removeUserTagModalIsOpen**: `boolean`
 
-Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx#L27)
+Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx#L27)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:27
 
 > **toggleRemoveUserTagModal**: () => `void`
 
-Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/6fc3485a4facf0986d54647cd149412b30c0b289/src/screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx#L28)
+Defined in: [screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/ManageTag/removeModal/RemoveUserTagModal.tsx#L28)
 
 #### Returns
 
