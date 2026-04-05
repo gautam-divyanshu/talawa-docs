@@ -4,7 +4,7 @@
 
 # Interface: InterfaceVenueModalProps
 
-Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L51)
+Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:51](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L51)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:51](https://gith
 
 > **edit**: `boolean`
 
-Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L57)
+Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:57](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L57)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:57](https://gith
 
 > **onHide**: () => `void`
 
-Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L53)
+Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:53](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L53)
 
 #### Returns
 
@@ -32,7 +32,7 @@ Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:53](https://gith
 
 > **orgId**: `string`
 
-Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L55)
+Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:55](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L55)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:55](https://gith
 
 > **refetchVenues**: () => `void`
 
-Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L54)
+Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:54](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L54)
 
 #### Returns
 
@@ -52,7 +52,7 @@ Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:54](https://gith
 
 > **show**: `boolean`
 
-Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L52)
+Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L52)
 
 ***
 
@@ -60,4 +60,4 @@ Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:52](https://gith
 
 > `optional` **venueData?**: `InterfaceQueryVenueListItem`
 
-Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L56)
+Defined in: [components/AdminPortal/Venues/Modal/VenueModal.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/AdminPortal/Venues/Modal/VenueModal.tsx#L56)

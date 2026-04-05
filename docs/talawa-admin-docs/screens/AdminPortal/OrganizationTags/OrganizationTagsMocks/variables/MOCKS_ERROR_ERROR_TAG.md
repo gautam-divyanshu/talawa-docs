@@ -6,7 +6,7 @@
 
 > `const` **MOCKS\_ERROR\_ERROR\_TAG**: `object`[] = `MOCK_RESPONSES.ERROR_CREATE_TAG`
 
-Defined in: [screens/AdminPortal/OrganizationTags/OrganizationTagsMocks.ts:313](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/OrganizationTags/OrganizationTagsMocks.ts#L313)
+Defined in: [screens/AdminPortal/OrganizationTags/OrganizationTagsMocks.ts:313](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/OrganizationTags/OrganizationTagsMocks.ts#L313)
 
 ## Type Declaration
 

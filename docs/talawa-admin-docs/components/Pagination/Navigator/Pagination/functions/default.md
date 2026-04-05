@@ -6,7 +6,7 @@
 
 > **default**(`props`): `Element`
 
-Defined in: [components/Pagination/Navigator/Pagination.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/Pagination/Navigator/Pagination.tsx#L49)
+Defined in: [components/Pagination/Navigator/Pagination.tsx:49](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/Pagination/Navigator/Pagination.tsx#L49)
 
 ## Parameters
 

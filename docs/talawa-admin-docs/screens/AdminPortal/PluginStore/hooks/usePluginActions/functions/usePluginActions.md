@@ -6,7 +6,7 @@
 
 > **usePluginActions**(`__namedParameters`): `object`
 
-Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginActions.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/PluginStore/hooks/usePluginActions.ts#L17)
+Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginActions.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/PluginStore/hooks/usePluginActions.ts#L26)
 
 ## Parameters
 
@@ -58,7 +58,7 @@ Defined in: [screens/AdminPortal/PluginStore/hooks/usePluginActions.ts:17](https
 
 ### showUninstallModal
 
-> **showUninstallModal**: `boolean`
+> **showUninstallModal**: `boolean` = `uninstallModal.isOpen`
 
 ### togglePluginStatus
 

@@ -6,7 +6,7 @@
 
 > `const` **default**: `React.FC`\<[`Props`](../../types/type-aliases/Props.md)\>
 
-Defined in: [components/Auth/OAuthButton/GoogleOAuthButton.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/components/Auth/OAuthButton/GoogleOAuthButton.tsx#L31)
+Defined in: [components/Auth/OAuthButton/GoogleOAuthButton.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/Auth/OAuthButton/GoogleOAuthButton.tsx#L31)
 
 Google OAuth authentication button component.
 

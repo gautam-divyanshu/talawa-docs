@@ -4,7 +4,7 @@
 
 # Interface: InterfacePledgeTableRow
 
-Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L13)
+Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L13)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:13](https:
 
 > **amount**: `number`
 
-Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L19)
+Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L19)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:19](https:
 
 > **currency**: `string`
 
-Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L20)
+Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L20)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:20](https:
 
 > **endDate**: `Date`
 
-Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L17)
+Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L17)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:17](https:
 
 > **id**: `string`
 
-Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L14)
+Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L14)
 
 ***
 
@@ -44,7 +44,7 @@ Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:14](https:
 
 > **original**: `InterfacePledgeInfo`
 
-Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L15)
+Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L15)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:15](https:
 
 > **pledgeDate**: `Date`
 
-Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L18)
+Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L18)
 
 ***
 
@@ -60,4 +60,4 @@ Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:18](https:
 
 > **users**: `InterfaceUserInfoPG`[]
 
-Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/a180e1fe530008895c63552aaba88fc299591b72/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L16)
+Defined in: [screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/FundCampaignPledge/PledgeColumns.tsx#L16)
