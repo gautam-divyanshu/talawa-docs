@@ -6,7 +6,7 @@
 
 > **hashEmailVerificationToken**(`token`): `string`
 
-Defined in: [src/utilities/emailVerificationTokenUtils.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/emailVerificationTokenUtils.ts#L46)
+Defined in: [src/utilities/emailVerificationTokenUtils.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/emailVerificationTokenUtils.ts#L46)
 
 Creates a HMAC-SHA-256 hash of an email verification token for secure storage.
 

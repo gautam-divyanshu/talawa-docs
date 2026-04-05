@@ -6,7 +6,7 @@
 
 > **installPluginDependencies**(`pluginId`, `logger?`): `Promise`\<[`DependencyInstallationResult`](../interfaces/DependencyInstallationResult.md)\>
 
-Defined in: [src/utilities/pluginDependencyInstaller.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/pluginDependencyInstaller.ts#L26)
+Defined in: [src/utilities/pluginDependencyInstaller.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/pluginDependencyInstaller.ts#L26)
 
 Install dependencies for a plugin using pnpm
 

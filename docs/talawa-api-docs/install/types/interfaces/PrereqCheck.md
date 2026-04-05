@@ -4,7 +4,7 @@
 
 # Interface: PrereqCheck
 
-Defined in: [src/install/types.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/install/types.ts#L55)
+Defined in: [src/install/types.ts:55](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/install/types.ts#L55)
 
 Prerequisite check result
 
@@ -14,7 +14,7 @@ Prerequisite check result
 
 > **installed**: `boolean`
 
-Defined in: [src/install/types.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/install/types.ts#L58)
+Defined in: [src/install/types.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/install/types.ts#L58)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/install/types.ts:58](https://github.com/PalisadoesFoundation/ta
 
 > **name**: `string`
 
-Defined in: [src/install/types.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/install/types.ts#L56)
+Defined in: [src/install/types.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/install/types.ts#L56)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/install/types.ts:56](https://github.com/PalisadoesFoundation/ta
 
 > **required**: `boolean`
 
-Defined in: [src/install/types.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/install/types.ts#L57)
+Defined in: [src/install/types.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/install/types.ts#L57)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/install/types.ts:57](https://github.com/PalisadoesFoundation/ta
 
 > **requiredVersion**: `string` \| `null`
 
-Defined in: [src/install/types.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/install/types.ts#L60)
+Defined in: [src/install/types.ts:60](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/install/types.ts#L60)
 
 ***
 
@@ -46,4 +46,4 @@ Defined in: [src/install/types.ts:60](https://github.com/PalisadoesFoundation/ta
 
 > **version**: `string` \| `null`
 
-Defined in: [src/install/types.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/install/types.ts#L59)
+Defined in: [src/install/types.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/install/types.ts#L59)

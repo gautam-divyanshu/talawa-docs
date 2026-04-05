@@ -6,7 +6,7 @@
 
 > **employmentStatusResolver**(`parent`, `_args`, `ctx`): `Promise`\<`"full_time"` \| `"part_time"` \| `"unemployed"` \| `null`\>
 
-Defined in: [src/graphql/types/User/employmentStatus.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/User/employmentStatus.ts#L19)
+Defined in: [src/graphql/types/User/employmentStatus.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/types/User/employmentStatus.ts#L19)
 
 Resolver for the `employmentStatus` field of the `User` type.
 

@@ -6,7 +6,7 @@
 
 > **createDefaultPostProcessingConfig**(): [`PostProcessingConfig`](../interfaces/PostProcessingConfig.md)
 
-Defined in: [src/workers/eventGeneration/postProcessor.ts:96](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/workers/eventGeneration/postProcessor.ts#L96)
+Defined in: [src/workers/eventGeneration/postProcessor.ts:96](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/workers/eventGeneration/postProcessor.ts#L96)
 
 Creates a default configuration object for post-processing operations.
 

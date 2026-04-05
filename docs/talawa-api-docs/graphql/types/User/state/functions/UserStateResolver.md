@@ -6,7 +6,7 @@
 
 > **UserStateResolver**(`parent`, `_args`, `ctx`): `Promise`\<[`HTMLSafeString`](../../../../../utilities/sanitizer/type-aliases/HTMLSafeString.md) \| `null`\>
 
-Defined in: [src/graphql/types/User/state.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/User/state.ts#L21)
+Defined in: [src/graphql/types/User/state.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/types/User/state.ts#L21)
 
 Resolver for the `state` field of the `User` type.
 

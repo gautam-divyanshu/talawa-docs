@@ -6,7 +6,7 @@
 
 > **\_\_resetLastCleanupAtForTests**(`value?`): `void`
 
-Defined in: [src/utilities/passwordResetRateLimit.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/passwordResetRateLimit.ts#L93)
+Defined in: [src/utilities/passwordResetRateLimit.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/passwordResetRateLimit.ts#L93)
 
 **`Internal`**
 

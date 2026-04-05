@@ -6,7 +6,7 @@
 
 > **listKey**(`entity`, `args`): `string`
 
-Defined in: [src/services/caching/cacheKeyGenerator.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/services/caching/cacheKeyGenerator.ts#L88)
+Defined in: [src/services/caching/cacheKeyGenerator.ts:88](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/caching/cacheKeyGenerator.ts#L88)
 
 Generate a cache key for a list query with arguments.
 

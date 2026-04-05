@@ -6,7 +6,7 @@
 
 > **resolveUpdatedAt**(`parent`, `_args`, `ctx`): `Promise`\<`Date` \| `null`\>
 
-Defined in: [src/graphql/types/Venue/updatedAt.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/Venue/updatedAt.ts#L17)
+Defined in: [src/graphql/types/Venue/updatedAt.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/types/Venue/updatedAt.ts#L17)
 
 Resolves the updatedAt field for a Venue. Ensures the current user is authenticated
 and has administrator access (system or organization) before returning the value.

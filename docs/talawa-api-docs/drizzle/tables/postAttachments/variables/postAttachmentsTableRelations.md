@@ -6,4 +6,4 @@
 
 > `const` **postAttachmentsTableRelations**: `Relations`\<`"post_attachments"`, \{ `creator`: `One`\<`"users"`, `false`\>; `post`: `One`\<`"posts"`, `true`\>; `updater`: `One`\<`"users"`, `false`\>; \}\>
 
-Defined in: [src/drizzle/tables/postAttachments.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/drizzle/tables/postAttachments.ts#L93)
+Defined in: [src/drizzle/tables/postAttachments.ts:93](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/postAttachments.ts#L93)

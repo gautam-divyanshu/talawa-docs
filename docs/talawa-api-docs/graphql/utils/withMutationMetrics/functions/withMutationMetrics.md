@@ -6,7 +6,7 @@
 
 > **withMutationMetrics**\<`TParent`, `TArgs`, `TContext`, `TResult`\>(`options`, `resolver`): (`parent`, `args`, `context`) => `Promise`\<`TResult`\>
 
-Defined in: [src/graphql/utils/withMutationMetrics.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/utils/withMutationMetrics.ts#L51)
+Defined in: [src/graphql/utils/withMutationMetrics.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/utils/withMutationMetrics.ts#L51)
 
 Wraps a GraphQL mutation resolver with performance tracking instrumentation.
 

@@ -6,7 +6,7 @@
 
 > **mobilePhoneNumberResolver**(`parent`, `_args`, `ctx`): `Promise`\<`string` \| `null`\>
 
-Defined in: [src/graphql/types/User/mobilePhoneNumber.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/User/mobilePhoneNumber.ts#L15)
+Defined in: [src/graphql/types/User/mobilePhoneNumber.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/types/User/mobilePhoneNumber.ts#L15)
 
 Resolver for the User.mobilePhoneNumber field with access control.
 Only administrators or the user themselves can access this field.

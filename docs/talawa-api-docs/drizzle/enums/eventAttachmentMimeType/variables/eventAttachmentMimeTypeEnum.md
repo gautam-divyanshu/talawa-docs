@@ -6,6 +6,6 @@
 
 > `const` **eventAttachmentMimeTypeEnum**: `ZodEnum`\<\{ `image/avif`: `"image/avif"`; `image/jpeg`: `"image/jpeg"`; `image/png`: `"image/png"`; `image/webp`: `"image/webp"`; `video/mp4`: `"video/mp4"`; `video/webm`: `"video/webm"`; \}\>
 
-Defined in: [src/drizzle/enums/eventAttachmentMimeType.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/drizzle/enums/eventAttachmentMimeType.ts#L8)
+Defined in: [src/drizzle/enums/eventAttachmentMimeType.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/enums/eventAttachmentMimeType.ts#L8)
 
 Possible variants of the type of an attachement of an event.

@@ -6,7 +6,7 @@
 
 > **maritalStatusResolver**(`parent`, `_args`, `ctx`): `Promise`\<`"divorced"` \| `"engaged"` \| `"married"` \| `"separated"` \| `"single"` \| `"widowed"` \| `null`\>
 
-Defined in: [src/graphql/types/User/maritalStatus.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/User/maritalStatus.ts#L23)
+Defined in: [src/graphql/types/User/maritalStatus.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/types/User/maritalStatus.ts#L23)
 
 Resolver for the user's marital status field.
 

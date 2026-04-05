@@ -6,6 +6,6 @@
 
 > `const` **DEFAULT\_EMAIL\_VERIFICATION\_TOKEN\_EXPIRES\_SECONDS**: `86400` = `86_400`
 
-Defined in: [src/utilities/emailVerificationTokenUtils.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/emailVerificationTokenUtils.ts#L24)
+Defined in: [src/utilities/emailVerificationTokenUtils.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/emailVerificationTokenUtils.ts#L24)
 
 Default email verification token expiry: 24 hours in seconds.

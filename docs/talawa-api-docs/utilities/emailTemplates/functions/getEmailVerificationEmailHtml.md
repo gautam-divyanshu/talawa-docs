@@ -6,7 +6,7 @@
 
 > **getEmailVerificationEmailHtml**(`ctx`): `string`
 
-Defined in: [src/utilities/emailTemplates.ts:149](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/emailTemplates.ts#L149)
+Defined in: [src/utilities/emailTemplates.ts:149](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/emailTemplates.ts#L149)
 
 Generates HTML email content for email verification.
 Simple, non-branded design using community name.

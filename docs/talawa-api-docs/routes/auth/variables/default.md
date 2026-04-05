@@ -6,7 +6,7 @@
 
 > `const` **default**: `FastifyPluginAsync`
 
-Defined in: [src/routes/auth.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/routes/auth.ts#L71)
+Defined in: [src/routes/auth.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/routes/auth.ts#L71)
 
 Fastify plugin that registers REST auth routes: POST /auth/signup, /auth/signin,
 /auth/refresh, and /auth/logout. All routes use the "auth" rate limit, request

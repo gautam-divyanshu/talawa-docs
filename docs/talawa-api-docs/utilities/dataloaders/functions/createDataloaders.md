@@ -6,7 +6,7 @@
 
 > **createDataloaders**(`db`, `cache`, `perf?`): [`Dataloaders`](../type-aliases/Dataloaders.md)
 
-Defined in: [src/utilities/dataloaders/index.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/dataloaders/index.ts#L53)
+Defined in: [src/utilities/dataloaders/index.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/dataloaders/index.ts#L53)
 
 Creates all DataLoaders for a request context.
 Each loader is request-scoped to ensure proper caching and isolation.

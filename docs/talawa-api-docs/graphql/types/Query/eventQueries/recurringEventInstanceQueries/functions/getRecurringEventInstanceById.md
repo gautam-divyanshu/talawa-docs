@@ -6,7 +6,7 @@
 
 > **getRecurringEventInstanceById**(`instanceId`, `organizationId`, `drizzleClient`, `logger`): `Promise`\<[`ResolvedRecurringEventInstance`](../../../../../../drizzle/tables/recurringEventInstances/type-aliases/ResolvedRecurringEventInstance.md) \| `null`\>
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:216](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L216)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:216](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L216)
 
 Retrieves a single resolved recurring event instance by its ID and organization ID.
 

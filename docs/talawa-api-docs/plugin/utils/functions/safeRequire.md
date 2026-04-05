@@ -6,7 +6,7 @@
 
 > **safeRequire**\<`T`\>(`modulePath`): `Promise`\<`T` \| `null`\>
 
-Defined in: [src/plugin/utils.ts:119](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/plugin/utils.ts#L119)
+Defined in: [src/plugin/utils.ts:119](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/plugin/utils.ts#L119)
 
 Safely requires a module and handles errors
 

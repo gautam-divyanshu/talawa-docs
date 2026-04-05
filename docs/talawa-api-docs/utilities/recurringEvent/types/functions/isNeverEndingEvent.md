@@ -6,7 +6,7 @@
 
 > **isNeverEndingEvent**(`rule`): `boolean`
 
-Defined in: [src/utilities/recurringEvent/types.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/recurringEvent/types.ts#L10)
+Defined in: [src/utilities/recurringEvent/types.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/recurringEvent/types.ts#L10)
 
 Determines if a recurrence rule represents a never-ending event.
 A never-ending event is one that has neither a `count` nor an `endDate`.

@@ -6,7 +6,7 @@
 
 > `const` **default**: `object`
 
-Defined in: [src/utilities/graphqLimits.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/graphqLimits.ts#L15)
+Defined in: [src/utilities/graphqLimits.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/graphqLimits.ts#L15)
 
 ## Type Declaration
 

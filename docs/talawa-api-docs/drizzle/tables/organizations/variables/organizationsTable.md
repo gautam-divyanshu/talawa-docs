@@ -6,6 +6,6 @@
 
 > `const` **organizationsTable**: `PgTableWithColumns`\<\{ \}\>
 
-Defined in: [src/drizzle/tables/organizations.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/drizzle/tables/organizations.ts#L31)
+Defined in: [src/drizzle/tables/organizations.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/organizations.ts#L30)
 
 Drizzle orm postgres table definition for organizations.

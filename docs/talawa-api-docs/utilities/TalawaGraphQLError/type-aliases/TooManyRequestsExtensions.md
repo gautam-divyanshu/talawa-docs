@@ -6,7 +6,7 @@
 
 > **TooManyRequestsExtensions** = `object`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:246](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/TalawaGraphQLError.ts#L246)
+Defined in: [src/utilities/TalawaGraphQLError.ts:246](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/TalawaGraphQLError.ts#L246)
 
 ## Properties
 
@@ -14,4 +14,4 @@ Defined in: [src/utilities/TalawaGraphQLError.ts:246](https://github.com/Palisad
 
 > **code**: `"too_many_requests"`
 
-Defined in: [src/utilities/TalawaGraphQLError.ts:247](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/TalawaGraphQLError.ts#L247)
+Defined in: [src/utilities/TalawaGraphQLError.ts:247](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/TalawaGraphQLError.ts#L247)

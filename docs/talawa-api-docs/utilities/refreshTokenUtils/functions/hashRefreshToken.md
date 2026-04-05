@@ -6,7 +6,7 @@
 
 > **hashRefreshToken**(`token`): `string`
 
-Defined in: [src/utilities/refreshTokenUtils.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/utilities/refreshTokenUtils.ts#L26)
+Defined in: [src/utilities/refreshTokenUtils.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/refreshTokenUtils.ts#L26)
 
 Creates a SHA-256 hash of a refresh token for secure storage.
 

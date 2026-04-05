@@ -6,4 +6,4 @@
 
 > `const` **mutationDeleteOrganizationMembershipInputSchema**: `ZodObject`\<\{ `memberId`: `ZodString`; `organizationId`: `ZodString`; \}, \{ \}\>
 
-Defined in: [src/graphql/inputs/MutationDeleteOrganizationMembershipInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/graphql/inputs/MutationDeleteOrganizationMembershipInput.ts#L5)
+Defined in: [src/graphql/inputs/MutationDeleteOrganizationMembershipInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/inputs/MutationDeleteOrganizationMembershipInput.ts#L5)

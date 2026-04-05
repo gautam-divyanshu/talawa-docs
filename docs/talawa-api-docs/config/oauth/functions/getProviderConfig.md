@@ -6,7 +6,7 @@
 
 > **getProviderConfig**(`provider`, `env?`): `Required`\<`OAuthProviderConfig`\>
 
-Defined in: [src/config/oauth.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/config/oauth.ts#L50)
+Defined in: [src/config/oauth.ts:50](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/config/oauth.ts#L50)
 
 Get provider config, throwing if provider is not enabled or invalid.
 

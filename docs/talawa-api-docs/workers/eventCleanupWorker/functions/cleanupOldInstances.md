@@ -6,7 +6,7 @@
 
 > **cleanupOldInstances**(`drizzleClient`, `logger`): `Promise`\<\{ `errorsEncountered`: `number`; `instancesDeleted`: `number`; `organizationsProcessed`: `number`; \}\>
 
-Defined in: [src/workers/eventCleanupWorker.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/6cce37874af73f999b252e26ed745146024ad44c/src/workers/eventCleanupWorker.ts#L27)
+Defined in: [src/workers/eventCleanupWorker.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/workers/eventCleanupWorker.ts#L27)
 
 The main method for the cleanup worker, which processes all organizations
 and removes instances that have passed their retention period.
