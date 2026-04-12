@@ -4,7 +4,7 @@
 
 # Interface: IDateRangeValue
 
-Defined in: [screens/AdminPortal/OrganizationFundCampaign/modal/types.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/OrganizationFundCampaign/modal/types.ts#L24)
+Defined in: [screens/AdminPortal/OrganizationFundCampaign/modal/types.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/screens/AdminPortal/OrganizationFundCampaign/modal/types.ts#L24)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [screens/AdminPortal/OrganizationFundCampaign/modal/types.ts:24](htt
 
 > **endDate**: `Date`
 
-Defined in: [screens/AdminPortal/OrganizationFundCampaign/modal/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/OrganizationFundCampaign/modal/types.ts#L26)
+Defined in: [screens/AdminPortal/OrganizationFundCampaign/modal/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/screens/AdminPortal/OrganizationFundCampaign/modal/types.ts#L26)
 
 ***
 
@@ -20,4 +20,4 @@ Defined in: [screens/AdminPortal/OrganizationFundCampaign/modal/types.ts:26](htt
 
 > **startDate**: `Date`
 
-Defined in: [screens/AdminPortal/OrganizationFundCampaign/modal/types.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/screens/AdminPortal/OrganizationFundCampaign/modal/types.ts#L25)
+Defined in: [screens/AdminPortal/OrganizationFundCampaign/modal/types.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/screens/AdminPortal/OrganizationFundCampaign/modal/types.ts#L25)

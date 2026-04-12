@@ -6,7 +6,7 @@
 
 > **default**(`id`): `Element`
 
-Defined in: [components/UserPortal/CommentCard/CommentCard.tsx:69](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/UserPortal/CommentCard/CommentCard.tsx#L69)
+Defined in: [components/UserPortal/CommentCard/CommentCard.tsx:69](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/components/UserPortal/CommentCard/CommentCard.tsx#L69)
 
 CommentCard Component
 

@@ -6,7 +6,7 @@
 
 > **default**(`__namedParameters`): `Element`
 
-Defined in: [components/CollapsibleDropdown/CollapsibleDropdown.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L50)
+Defined in: [components/CollapsibleDropdown/CollapsibleDropdown.tsx:50](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L50)
 
 ## Parameters
 

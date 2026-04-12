@@ -4,7 +4,7 @@
 
 # Interface: InterfaceCustomRecurrenceModalProps
 
-Defined in: [types/Recurrence/interface.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/types/Recurrence/interface.ts#L7)
+Defined in: [types/Recurrence/interface.ts:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/types/Recurrence/interface.ts#L7)
 
 Props interface for the CustomRecurrenceModal component
 
@@ -14,7 +14,7 @@ Props interface for the CustomRecurrenceModal component
 
 > **customRecurrenceModalIsOpen**: `boolean`
 
-Defined in: [types/Recurrence/interface.ts:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/types/Recurrence/interface.ts#L19)
+Defined in: [types/Recurrence/interface.ts:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/types/Recurrence/interface.ts#L19)
 
 Whether the custom recurrence modal is open
 
@@ -24,7 +24,7 @@ Whether the custom recurrence modal is open
 
 > **endDate**: `Date`
 
-Defined in: [types/Recurrence/interface.ts:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/types/Recurrence/interface.ts#L15)
+Defined in: [types/Recurrence/interface.ts:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/types/Recurrence/interface.ts#L15)
 
 Event end date
 
@@ -34,7 +34,7 @@ Event end date
 
 > **hideCustomRecurrenceModal**: () => `void`
 
-Defined in: [types/Recurrence/interface.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/types/Recurrence/interface.ts#L21)
+Defined in: [types/Recurrence/interface.ts:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/types/Recurrence/interface.ts#L21)
 
 Function to hide the custom recurrence modal
 
@@ -48,7 +48,7 @@ Function to hide the custom recurrence modal
 
 > **recurrenceRuleState**: `InterfaceRecurrenceRule`
 
-Defined in: [types/Recurrence/interface.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/types/Recurrence/interface.ts#L9)
+Defined in: [types/Recurrence/interface.ts:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/types/Recurrence/interface.ts#L9)
 
 Current recurrence rule state
 
@@ -58,7 +58,7 @@ Current recurrence rule state
 
 > **setCustomRecurrenceModalIsOpen**: (`state`) => `void`
 
-Defined in: [types/Recurrence/interface.ts:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/types/Recurrence/interface.ts#L23)
+Defined in: [types/Recurrence/interface.ts:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/types/Recurrence/interface.ts#L23)
 
 Function to set custom recurrence modal open state
 
@@ -78,7 +78,7 @@ Function to set custom recurrence modal open state
 
 > **setEndDate**: (`state`) => `void`
 
-Defined in: [types/Recurrence/interface.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/types/Recurrence/interface.ts#L17)
+Defined in: [types/Recurrence/interface.ts:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/types/Recurrence/interface.ts#L17)
 
 Function to set event end date
 
@@ -98,7 +98,7 @@ Function to set event end date
 
 > **setRecurrenceRuleState**: (`state`) => `void`
 
-Defined in: [types/Recurrence/interface.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/types/Recurrence/interface.ts#L11)
+Defined in: [types/Recurrence/interface.ts:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/types/Recurrence/interface.ts#L11)
 
 Function to update recurrence rule state
 
@@ -118,6 +118,6 @@ Function to update recurrence rule state
 
 > **startDate**: `Date`
 
-Defined in: [types/Recurrence/interface.ts:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/types/Recurrence/interface.ts#L27)
+Defined in: [types/Recurrence/interface.ts:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/types/Recurrence/interface.ts#L27)
 
 Event start date

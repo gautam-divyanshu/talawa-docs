@@ -4,7 +4,7 @@
 
 # Interface: InterfaceUserSidebarOrgProps
 
-Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L29)
+Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L29)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:29](https:/
 
 > **hideDrawer**: `boolean`
 
-Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L32)
+Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L32)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:32](https:/
 
 > **orgId**: `string`
 
-Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L30)
+Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L30)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:30](https:/
 
 > **setHideDrawer**: `Dispatch`\<`SetStateAction`\<`boolean`\>\>
 
-Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L33)
+Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L33)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:33](https:/
 
 > **targets**: `TargetsType`[]
 
-Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L31)
+Defined in: [components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/components/UserPortal/UserSidebarOrg/UserSidebarOrg.tsx#L31)

@@ -6,7 +6,7 @@
 
 > `const` **default**: `React.FC`\<`MonthlyCalendarDaysProps`\>
 
-Defined in: [components/EventCalender/Monthly/MonthlyCalendarDays.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/daa074e07cb9ddfe6bb0bbbf7427f4dea4b5d8d7/src/components/EventCalender/Monthly/MonthlyCalendarDays.tsx#L59)
+Defined in: [components/EventCalender/Monthly/MonthlyCalendarDays.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/b87aaed727690609a6d5a345627bfa10a8d26ef0/src/components/EventCalender/Monthly/MonthlyCalendarDays.tsx#L59)
 
 Renders the month grid day cells with holidays, preview events,
 and lazy "View All" support for days with additional events.
