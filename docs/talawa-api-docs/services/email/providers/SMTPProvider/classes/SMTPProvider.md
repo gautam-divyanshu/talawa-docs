@@ -4,7 +4,7 @@
 
 # Class: SMTPProvider
 
-Defined in: [src/services/email/providers/SMTPProvider.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/email/providers/SMTPProvider.ts#L41)
+Defined in: [src/services/email/providers/SMTPProvider.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/email/providers/SMTPProvider.ts#L41)
 
 SMTP implementation of IEmailProvider using Nodemailer.
 
@@ -21,7 +21,7 @@ It lazily initializes the transporter on first use.
 
 > **new SMTPProvider**(`config`): `SMTPProvider`
 
-Defined in: [src/services/email/providers/SMTPProvider.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/email/providers/SMTPProvider.ts#L51)
+Defined in: [src/services/email/providers/SMTPProvider.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/email/providers/SMTPProvider.ts#L51)
 
 Creates an instance of SMTPProvider.
 
@@ -43,7 +43,7 @@ The SMTP configuration object containing host, port, and credentials.
 
 > **getConfig**(): [`SMTPProviderConfig`](../interfaces/SMTPProviderConfig.md)
 
-Defined in: [src/services/email/providers/SMTPProvider.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/email/providers/SMTPProvider.ts#L59)
+Defined in: [src/services/email/providers/SMTPProvider.ts:59](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/email/providers/SMTPProvider.ts#L59)
 
 Returns the SMTP configuration for testing purposes.
 
@@ -59,7 +59,7 @@ The SMTP configuration object.
 
 > **sendBulkEmails**(`jobs`): `Promise`\<[`EmailResult`](../../../types/interfaces/EmailResult.md)[]\>
 
-Defined in: [src/services/email/providers/SMTPProvider.ts:218](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/email/providers/SMTPProvider.ts#L218)
+Defined in: [src/services/email/providers/SMTPProvider.ts:218](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/email/providers/SMTPProvider.ts#L218)
 
 Sends multiple emails in concurrent batches to respect rate limits.
 
@@ -90,7 +90,7 @@ A promise that resolves to an array of results (success or failure) for each ema
 
 > **sendEmail**(`job`): `Promise`\<[`EmailResult`](../../../types/interfaces/EmailResult.md)\>
 
-Defined in: [src/services/email/providers/SMTPProvider.ts:140](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/email/providers/SMTPProvider.ts#L140)
+Defined in: [src/services/email/providers/SMTPProvider.ts:140](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/email/providers/SMTPProvider.ts#L140)
 
 Send a single email using the configured SMTP server
 

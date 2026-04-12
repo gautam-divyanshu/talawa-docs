@@ -6,4 +6,4 @@
 
 > `const` **mutationUpdateFundCampaignInputSchema**: `ZodObject`\<\{ `endAt`: `ZodOptional`\<`ZodDate`\>; `goalAmount`: `ZodOptional`\<`ZodInt`\>; `id`: `ZodUUID`; `name`: `ZodOptional`\<`ZodString`\>; `startAt`: `ZodOptional`\<`ZodDate`\>; \}, `$strip`\>
 
-Defined in: [src/graphql/inputs/MutationUpdateFundCampaignInput.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/inputs/MutationUpdateFundCampaignInput.ts#L6)
+Defined in: [src/graphql/inputs/MutationUpdateFundCampaignInput.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/inputs/MutationUpdateFundCampaignInput.ts#L6)

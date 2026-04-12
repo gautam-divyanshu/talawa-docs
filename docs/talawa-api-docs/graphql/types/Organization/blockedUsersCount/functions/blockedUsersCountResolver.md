@@ -6,7 +6,7 @@
 
 > **blockedUsersCountResolver**(`parent`, `_args`, `ctx`): `Promise`\<`number`\>
 
-Defined in: [src/graphql/types/Organization/blockedUsersCount.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/types/Organization/blockedUsersCount.ts#L10)
+Defined in: [src/graphql/types/Organization/blockedUsersCount.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/types/Organization/blockedUsersCount.ts#L10)
 
 ## Parameters
 

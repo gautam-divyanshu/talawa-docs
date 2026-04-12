@@ -6,7 +6,7 @@
 
 > **CreateRecurringEventInstanceInput** = `object`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:395](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L395)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:395](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L395)
 
 Input type for creating new recurring event instances.
 
@@ -16,7 +16,7 @@ Input type for creating new recurring event instances.
 
 > `optional` **actualEndDate?**: `string` \| `null`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:406](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L406)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:406](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L406)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:406](https://github.c
 
 > `optional` **actualEndTime?**: `Date` \| `null`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:402](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L402)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:402](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L402)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:402](https://github.c
 
 > `optional` **actualStartDate?**: `string` \| `null`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:405](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L405)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:405](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L405)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:405](https://github.c
 
 > `optional` **actualStartTime?**: `Date` \| `null`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:401](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L401)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:401](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L401)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:401](https://github.c
 
 > **baseRecurringEventId**: `string`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:396](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L396)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:396](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L396)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:396](https://github.c
 
 > `optional` **isCancelled?**: `boolean`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:408](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L408)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:408](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L408)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:408](https://github.c
 
 > **organizationId**: `string`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:407](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L407)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:407](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L407)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:407](https://github.c
 
 > `optional` **originalInstanceStartDate?**: `string` \| `null`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:404](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L404)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:404](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L404)
 
 ***
 
@@ -80,7 +80,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:404](https://github.c
 
 > `optional` **originalInstanceStartTime?**: `Date` \| `null`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:400](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L400)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:400](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L400)
 
 ***
 
@@ -88,7 +88,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:400](https://github.c
 
 > **originalSeriesId**: `string`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:398](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L398)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:398](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L398)
 
 ***
 
@@ -96,7 +96,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:398](https://github.c
 
 > **recurrenceRuleId**: `string`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:397](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L397)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:397](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L397)
 
 ***
 
@@ -104,7 +104,7 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:397](https://github.c
 
 > **sequenceNumber**: `number`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:409](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L409)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:409](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L409)
 
 ***
 
@@ -112,4 +112,4 @@ Defined in: [src/drizzle/tables/recurringEventInstances.ts:409](https://github.c
 
 > `optional` **totalCount?**: `number` \| `null`
 
-Defined in: [src/drizzle/tables/recurringEventInstances.ts:410](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/recurringEventInstances.ts#L410)
+Defined in: [src/drizzle/tables/recurringEventInstances.ts:410](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/recurringEventInstances.ts#L410)

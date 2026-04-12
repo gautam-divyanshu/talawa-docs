@@ -6,4 +6,4 @@
 
 > `const` **organizationsTableRelations**: `Relations`\<`"organizations"`, \{ `actionItemCategoriesWhereOrganization`: `Many`\<`"actionitem_categories"`\>; `actionItemsWhereOrganization`: `Many`\<`"actionitems"`\>; `advertisementsWhereOrganization`: `Many`\<`"advertisements"`\>; `chatsWhereOrganization`: `Many`\<`"chats"`\>; `creator`: `One`\<`"users"`, `false`\>; `eventsWhereOrganization`: `Many`\<`"events"`\>; `fundsWhereOrganization`: `Many`\<`"funds"`\>; `membershipsWhereOrganization`: `Many`\<`"organization_memberships"`\>; `postsWhereOrganization`: `Many`\<`"posts"`\>; `tagFoldersWhereOrganization`: `Many`\<`"tag_folders"`\>; `tagsWhereOrganization`: `Many`\<`"tags"`\>; `updater`: `One`\<`"users"`, `false`\>; `venuesWhereOrganization`: `Many`\<`"venues"`\>; \}\>
 
-Defined in: [src/drizzle/tables/organizations.ts:129](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/drizzle/tables/organizations.ts#L129)
+Defined in: [src/drizzle/tables/organizations.ts:129](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/organizations.ts#L129)

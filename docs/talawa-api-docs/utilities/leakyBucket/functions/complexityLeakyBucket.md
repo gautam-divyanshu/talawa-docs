@@ -6,7 +6,7 @@
 
 > **complexityLeakyBucket**(`fastify`, `key`, `capacity`, `refillRate`, `cost`, `logger`): `Promise`\<`boolean`\>
 
-Defined in: [src/utilities/leakyBucket.ts:153](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/leakyBucket.ts#L153)
+Defined in: [src/utilities/leakyBucket.ts:153](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/leakyBucket.ts#L153)
 
 Implements a leaky bucket rate limiter (Token Bucket algorithm).
 

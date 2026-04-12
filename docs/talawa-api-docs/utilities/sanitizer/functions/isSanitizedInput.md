@@ -6,7 +6,7 @@
 
 > **isSanitizedInput**(`value`): `value is SanitizedInputString`
 
-Defined in: [src/utilities/sanitizer.ts:79](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/sanitizer.ts#L79)
+Defined in: [src/utilities/sanitizer.ts:79](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/sanitizer.ts#L79)
 
 Type guard to check if a value is a SanitizedInputString.
 At runtime, this just checks if it's a trimmed string (may be empty).

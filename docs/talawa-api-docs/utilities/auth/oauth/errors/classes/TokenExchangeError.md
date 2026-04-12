@@ -4,7 +4,7 @@
 
 # Class: TokenExchangeError
 
-Defined in: [src/utilities/auth/oauth/errors.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/auth/oauth/errors.ts#L30)
+Defined in: [src/utilities/auth/oauth/errors.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/auth/oauth/errors.ts#L30)
 
 Error thrown when token exchange fails
 
@@ -18,7 +18,7 @@ Error thrown when token exchange fails
 
 > **new TokenExchangeError**(`message?`, `details?`): `TokenExchangeError`
 
-Defined in: [src/utilities/auth/oauth/errors.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/auth/oauth/errors.ts#L31)
+Defined in: [src/utilities/auth/oauth/errors.ts:31](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/auth/oauth/errors.ts#L31)
 
 #### Parameters
 
@@ -44,7 +44,7 @@ Defined in: [src/utilities/auth/oauth/errors.ts:31](https://github.com/Palisadoe
 
 > **code**: `string`
 
-Defined in: [src/utilities/auth/oauth/errors.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/auth/oauth/errors.ts#L7)
+Defined in: [src/utilities/auth/oauth/errors.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/auth/oauth/errors.ts#L7)
 
 #### Inherited from
 
@@ -56,7 +56,7 @@ Defined in: [src/utilities/auth/oauth/errors.ts:7](https://github.com/Palisadoes
 
 > `optional` **statusCode?**: `number`
 
-Defined in: [src/utilities/auth/oauth/errors.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/auth/oauth/errors.ts#L8)
+Defined in: [src/utilities/auth/oauth/errors.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/auth/oauth/errors.ts#L8)
 
 #### Inherited from
 

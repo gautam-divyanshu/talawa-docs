@@ -6,7 +6,7 @@
 
 > **hashPassword**(`plain`): `Promise`\<`string`\>
 
-Defined in: [src/services/auth/password.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/auth/password.ts#L26)
+Defined in: [src/services/auth/password.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/auth/password.ts#L26)
 
 Hashes a plain-text password using Argon2id.
 

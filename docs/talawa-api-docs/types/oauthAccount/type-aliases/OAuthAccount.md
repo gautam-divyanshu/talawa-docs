@@ -6,6 +6,6 @@
 
 > **OAuthAccount** = *typeof* `oauthAccountsTable.$inferSelect`
 
-Defined in: [src/types/oauthAccount.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/types/oauthAccount.ts#L48)
+Defined in: [src/types/oauthAccount.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/types/oauthAccount.ts#L48)
 
 OAuth account record from the database

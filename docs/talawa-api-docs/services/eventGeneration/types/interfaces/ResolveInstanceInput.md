@@ -4,7 +4,7 @@
 
 # Interface: ResolveInstanceInput
 
-Defined in: [src/services/eventGeneration/types.ts:70](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/eventGeneration/types.ts#L70)
+Defined in: [src/services/eventGeneration/types.ts:70](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/eventGeneration/types.ts#L70)
 
 Input for resolving instance with inheritance
 
@@ -14,7 +14,7 @@ Input for resolving instance with inheritance
 
 > **baseTemplate**: [`EventTemplateWithAttachments`](../type-aliases/EventTemplateWithAttachments.md)
 
-Defined in: [src/services/eventGeneration/types.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/eventGeneration/types.ts#L72)
+Defined in: [src/services/eventGeneration/types.ts:72](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/eventGeneration/types.ts#L72)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/services/eventGeneration/types.ts:72](https://github.com/Palisa
 
 > `optional` **exception?**: `object`
 
-Defined in: [src/services/eventGeneration/types.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/eventGeneration/types.ts#L73)
+Defined in: [src/services/eventGeneration/types.ts:73](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/eventGeneration/types.ts#L73)
 
 #### createdAt
 
@@ -62,7 +62,7 @@ Defined in: [src/services/eventGeneration/types.ts:73](https://github.com/Palisa
 
 > **generatedInstance**: `object`
 
-Defined in: [src/services/eventGeneration/types.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/eventGeneration/types.ts#L71)
+Defined in: [src/services/eventGeneration/types.ts:71](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/eventGeneration/types.ts#L71)
 
 #### actualEndDate
 

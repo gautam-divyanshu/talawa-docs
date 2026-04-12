@@ -6,4 +6,4 @@
 
 > `const` **uploadPluginZipInputSchema**: `ZodObject`\<\{ `activate`: `ZodDefault`\<`ZodOptional`\<`ZodBoolean`\>\>; `pluginZip`: `ZodCustom`\<`Promise`\<`FileUpload`\>, `Promise`\<`FileUpload`\>\>; \}, `$strip`\>
 
-Defined in: [src/graphql/types/Mutation/uploadPluginZip.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/types/Mutation/uploadPluginZip.ts#L9)
+Defined in: [src/graphql/types/Mutation/uploadPluginZip.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/types/Mutation/uploadPluginZip.ts#L9)

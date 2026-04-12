@@ -4,7 +4,7 @@
 
 # Interface: IExtensionPoints
 
-Defined in: [src/plugin/types.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/plugin/types.ts#L32)
+Defined in: [src/plugin/types.ts:32](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/plugin/types.ts#L32)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/plugin/types.ts:32](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **database?**: [`IDatabaseExtension`](IDatabaseExtension.md)[]
 
-Defined in: [src/plugin/types.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/plugin/types.ts#L34)
+Defined in: [src/plugin/types.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/plugin/types.ts#L34)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/plugin/types.ts:34](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **graphql?**: [`IGraphQLExtension`](IGraphQLExtension.md)[]
 
-Defined in: [src/plugin/types.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/plugin/types.ts#L33)
+Defined in: [src/plugin/types.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/plugin/types.ts#L33)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/plugin/types.ts:33](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **hooks?**: [`IHookExtension`](IHookExtension.md)[]
 
-Defined in: [src/plugin/types.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/plugin/types.ts#L35)
+Defined in: [src/plugin/types.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/plugin/types.ts#L35)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/plugin/types.ts:35](https://github.com/PalisadoesFoundation/tal
 
 > `optional` **webhooks?**: [`IWebhookExtension`](IWebhookExtension.md)[]
 
-Defined in: [src/plugin/types.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/plugin/types.ts#L36)
+Defined in: [src/plugin/types.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/plugin/types.ts#L36)

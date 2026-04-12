@@ -6,7 +6,7 @@
 
 > **loadOAuthConfig**(`env?`): [`OAuthProvidersConfig`](../interfaces/OAuthProvidersConfig.md)
 
-Defined in: [src/config/oauth.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/config/oauth.ts#L17)
+Defined in: [src/config/oauth.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/config/oauth.ts#L17)
 
 Load and validate OAuth configuration from environment.
 Providers are disabled if required values are missing.

@@ -6,7 +6,7 @@
 
 > **calculateInstancesPerMonth**(`frequency`, `interval?`): `number`
 
-Defined in: [src/utilities/recurringEvent/calculation.ts:120](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/recurringEvent/calculation.ts#L120)
+Defined in: [src/utilities/recurringEvent/calculation.ts:120](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/recurringEvent/calculation.ts#L120)
 
 Calculates the estimated number of instances per month for a given frequency and interval.
 This is useful for resource planning, performance estimations, and other calculations

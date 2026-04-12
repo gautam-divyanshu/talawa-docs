@@ -6,7 +6,7 @@
 
 > **entityKey**(`entity`, `id`): `string`
 
-Defined in: [src/services/caching/cacheKeyGenerator.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/caching/cacheKeyGenerator.ts#L35)
+Defined in: [src/services/caching/cacheKeyGenerator.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/caching/cacheKeyGenerator.ts#L35)
 
 Generate a cache key for a specific entity by ID.
 Input values are sanitized to prevent key injection attacks.

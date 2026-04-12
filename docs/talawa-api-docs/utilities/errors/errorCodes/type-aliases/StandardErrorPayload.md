@@ -6,7 +6,7 @@
 
 > **StandardErrorPayload** = `object`
 
-Defined in: [src/utilities/errors/errorCodes.ts:140](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/errors/errorCodes.ts#L140)
+Defined in: [src/utilities/errors/errorCodes.ts:140](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/errors/errorCodes.ts#L140)
 
 Standard error payload structure returned by REST endpoints.
 
@@ -32,7 +32,7 @@ all REST API endpoints in the Talawa API.
 
 > **error**: `object`
 
-Defined in: [src/utilities/errors/errorCodes.ts:142](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/errors/errorCodes.ts#L142)
+Defined in: [src/utilities/errors/errorCodes.ts:142](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/errors/errorCodes.ts#L142)
 
 Error container object
 

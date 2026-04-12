@@ -4,7 +4,7 @@
 
 # Interface: SetAuthCookiesTokens
 
-Defined in: [src/services/auth/authService.ts:263](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/auth/authService.ts#L263)
+Defined in: [src/services/auth/authService.ts:263](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/auth/authService.ts#L263)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/services/auth/authService.ts:263](https://github.com/Palisadoes
 
 > `optional` **access?**: `string`
 
-Defined in: [src/services/auth/authService.ts:264](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/auth/authService.ts#L264)
+Defined in: [src/services/auth/authService.ts:264](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/auth/authService.ts#L264)
 
 ***
 
@@ -20,4 +20,4 @@ Defined in: [src/services/auth/authService.ts:264](https://github.com/Palisadoes
 
 > `optional` **refresh?**: `string`
 
-Defined in: [src/services/auth/authService.ts:265](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/auth/authService.ts#L265)
+Defined in: [src/services/auth/authService.ts:265](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/auth/authService.ts#L265)

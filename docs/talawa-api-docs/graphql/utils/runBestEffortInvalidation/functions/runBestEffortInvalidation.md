@@ -6,7 +6,7 @@
 
 > **runBestEffortInvalidation**(`promises`, `entity`, `logger`): `Promise`\<`void`\>
 
-Defined in: [src/graphql/utils/runBestEffortInvalidation.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/utils/runBestEffortInvalidation.ts#L12)
+Defined in: [src/graphql/utils/runBestEffortInvalidation.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/utils/runBestEffortInvalidation.ts#L12)
 
 Executes a list of cache invalidation promises and logs any failures using the provided logger.
 This is a "best-effort" operation: it waits for all promises to settle and does not throw if any fail.

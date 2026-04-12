@@ -6,7 +6,7 @@
 
 > **checkPasswordChangeRateLimit**(`cache`, `userId`, `logger`, `config?`): `Promise`\<`void`\>
 
-Defined in: [src/utilities/passwordChangeRateLimit.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/passwordChangeRateLimit.ts#L49)
+Defined in: [src/utilities/passwordChangeRateLimit.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/passwordChangeRateLimit.ts#L49)
 
 Checks if a user has exceeded the rate limit for password changes.
 Uses Redis via CacheService with a fixed time window.

@@ -4,7 +4,7 @@
 
 # Interface: PasswordResetEmailContext
 
-Defined in: [src/utilities/emailTemplates.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/emailTemplates.ts#L6)
+Defined in: [src/utilities/emailTemplates.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/emailTemplates.ts#L6)
 
 Email template utilities for generating non-branded, self-hosted email content.
 Templates use the configured community name and avoid external branding.
@@ -15,7 +15,7 @@ Templates use the configured community name and avoid external branding.
 
 > **communityName**: `string`
 
-Defined in: [src/utilities/emailTemplates.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/emailTemplates.ts#L8)
+Defined in: [src/utilities/emailTemplates.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/emailTemplates.ts#L8)
 
 ***
 
@@ -23,7 +23,7 @@ Defined in: [src/utilities/emailTemplates.ts:8](https://github.com/PalisadoesFou
 
 > **expiryText**: `string`
 
-Defined in: [src/utilities/emailTemplates.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/emailTemplates.ts#L10)
+Defined in: [src/utilities/emailTemplates.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/emailTemplates.ts#L10)
 
 ***
 
@@ -31,7 +31,7 @@ Defined in: [src/utilities/emailTemplates.ts:10](https://github.com/PalisadoesFo
 
 > **resetLink**: `string`
 
-Defined in: [src/utilities/emailTemplates.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/emailTemplates.ts#L9)
+Defined in: [src/utilities/emailTemplates.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/emailTemplates.ts#L9)
 
 ***
 
@@ -39,4 +39,4 @@ Defined in: [src/utilities/emailTemplates.ts:9](https://github.com/PalisadoesFou
 
 > **userName**: `string`
 
-Defined in: [src/utilities/emailTemplates.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/emailTemplates.ts#L7)
+Defined in: [src/utilities/emailTemplates.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/emailTemplates.ts#L7)

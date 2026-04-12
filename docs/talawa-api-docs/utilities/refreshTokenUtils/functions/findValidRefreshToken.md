@@ -6,7 +6,7 @@
 
 > **findValidRefreshToken**(`drizzleClient`, `tokenHash`): `Promise`\<\{ `expiresAt`: `Date`; `id`: `string`; `revokedAt`: `Date` \| `null`; `userId`: `string`; \} \| `undefined`\>
 
-Defined in: [src/utilities/refreshTokenUtils.ts:66](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/refreshTokenUtils.ts#L66)
+Defined in: [src/utilities/refreshTokenUtils.ts:66](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/refreshTokenUtils.ts#L66)
 
 Finds a valid (non-expired, non-revoked) refresh token by its hash.
 

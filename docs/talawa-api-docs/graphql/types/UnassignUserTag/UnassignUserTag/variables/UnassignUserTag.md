@@ -6,6 +6,6 @@
 
 > `const` **UnassignUserTag**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `assigneeId`: `string`; `tagId`: `string`; \}, \{ `assigneeId`: `string`; `tagId`: `string`; \}\>
 
-Defined in: [src/graphql/types/UnassignUserTag/UnassignUserTag.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/types/UnassignUserTag/UnassignUserTag.ts#L6)
+Defined in: [src/graphql/types/UnassignUserTag/UnassignUserTag.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/types/UnassignUserTag/UnassignUserTag.ts#L6)
 
 Represents a tag unassigned from a user.

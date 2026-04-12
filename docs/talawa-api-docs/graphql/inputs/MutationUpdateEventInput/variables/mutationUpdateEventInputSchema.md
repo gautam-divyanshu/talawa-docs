@@ -6,4 +6,4 @@
 
 > `const` **mutationUpdateEventInputSchema**: `ZodObject`\<\{ `allDay`: `ZodOptional`\<`ZodBoolean`\>; `description`: `ZodOptional`\<`ZodNullable`\<`ZodOptional`\<`ZodString`\>\>\>; `endAt`: `ZodOptional`\<`ZodDate`\>; `endDate`: `ZodOptional`\<`ZodString`\>; `id`: `ZodUUID`; `isInviteOnly`: `ZodOptional`\<`ZodOptional`\<`ZodBoolean`\>\>; `isPublic`: `ZodOptional`\<`ZodOptional`\<`ZodBoolean`\>\>; `isRegisterable`: `ZodOptional`\<`ZodOptional`\<`ZodBoolean`\>\>; `location`: `ZodOptional`\<`ZodNullable`\<`ZodOptional`\<`ZodString`\>\>\>; `name`: `ZodOptional`\<`ZodString`\>; `startAt`: `ZodOptional`\<`ZodDate`\>; `startDate`: `ZodOptional`\<`ZodString`\>; \}, `$strip`\>
 
-Defined in: [src/graphql/inputs/MutationUpdateEventInput.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/graphql/inputs/MutationUpdateEventInput.ts#L6)
+Defined in: [src/graphql/inputs/MutationUpdateEventInput.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/inputs/MutationUpdateEventInput.ts#L6)

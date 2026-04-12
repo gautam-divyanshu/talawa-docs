@@ -6,7 +6,7 @@
 
 > **zReplyParsed**\<`T`\>(`reply`, `schema`, `body`): `T` \| `undefined`
 
-Defined in: [src/routes/validation/zodReply.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/routes/validation/zodReply.ts#L43)
+Defined in: [src/routes/validation/zodReply.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/routes/validation/zodReply.ts#L43)
 
 Validates `body` against a Zod schema and either returns the parsed value or sends a 400 response.
 Does not throw. Callers should check strictly for undefined, e.g. `if (body === undefined) return;`,

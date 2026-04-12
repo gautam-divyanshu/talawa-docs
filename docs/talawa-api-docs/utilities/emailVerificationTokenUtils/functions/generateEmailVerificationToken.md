@@ -6,7 +6,7 @@
 
 > **generateEmailVerificationToken**(): `string`
 
-Defined in: [src/utilities/emailVerificationTokenUtils.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/utilities/emailVerificationTokenUtils.ts#L30)
+Defined in: [src/utilities/emailVerificationTokenUtils.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/emailVerificationTokenUtils.ts#L30)
 
 Generates a cryptographically secure random email verification token.
 

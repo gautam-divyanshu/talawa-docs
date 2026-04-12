@@ -6,7 +6,7 @@
 
 > **stableStringify**(`obj`): `string`
 
-Defined in: [src/services/caching/cacheKeyGenerator.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/caching/cacheKeyGenerator.ts#L53)
+Defined in: [src/services/caching/cacheKeyGenerator.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/caching/cacheKeyGenerator.ts#L53)
 
 Deterministic JSON stringification for cache key generation.
 Sorts object keys to ensure consistent output regardless of insertion order.

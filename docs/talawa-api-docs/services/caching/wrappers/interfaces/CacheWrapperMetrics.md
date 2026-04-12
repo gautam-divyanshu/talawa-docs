@@ -4,7 +4,7 @@
 
 # Interface: CacheWrapperMetrics
 
-Defined in: [src/services/caching/wrappers.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/caching/wrappers.ts#L14)
+Defined in: [src/services/caching/wrappers.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/caching/wrappers.ts#L14)
 
 Metrics interface for cache wrapper operations.
 
@@ -14,7 +14,7 @@ Metrics interface for cache wrapper operations.
 
 > **increment**: (`metric`, `tags?`) => `void`
 
-Defined in: [src/services/caching/wrappers.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/ba020be1455b363dacbc8141230aeacb45671626/src/services/caching/wrappers.ts#L15)
+Defined in: [src/services/caching/wrappers.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/caching/wrappers.ts#L15)
 
 #### Parameters
 
