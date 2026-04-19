@@ -6,7 +6,7 @@
 
 > **getRefreshTokenCookieOptions**(`options`, `maxAgeMs`): `CookieSerializeOptions`
 
-Defined in: [src/utilities/cookieConfig.ts:70](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/cookieConfig.ts#L70)
+Defined in: [src/utilities/cookieConfig.ts:70](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/cookieConfig.ts#L70)
 
 Generates cookie options for refresh tokens.
 Refresh tokens are long-lived and used to obtain new access tokens.

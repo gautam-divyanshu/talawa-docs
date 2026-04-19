@@ -6,7 +6,7 @@
 
 > `const` **EventVolunteerWhereInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `eventId?`: `string` \| `null`; `groupId?`: `string` \| `null`; `hasAccepted?`: `NonNullable`\<`boolean` \| `undefined`\> \| `null`; `id?`: `string` \| `null`; `name_contains?`: `string` \| `null`; \}\>
 
-Defined in: [src/graphql/inputs/EventVolunteerWhereInput.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/inputs/EventVolunteerWhereInput.ts#L20)
+Defined in: [src/graphql/inputs/EventVolunteerWhereInput.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/inputs/EventVolunteerWhereInput.ts#L20)
 
 GraphQL input type for filtering EventVolunteers.
 Matches the old Talawa API EventVolunteerWhereInput structure.

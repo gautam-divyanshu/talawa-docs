@@ -6,7 +6,7 @@
 
 > **HTMLSafeString** = `string` & `object`
 
-Defined in: [src/utilities/sanitizer.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/sanitizer.ts#L15)
+Defined in: [src/utilities/sanitizer.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/sanitizer.ts#L15)
 
 Branded type for strings that have been HTML-escaped for safe output.
 Use `escapeHTML()` to create instances of this type.

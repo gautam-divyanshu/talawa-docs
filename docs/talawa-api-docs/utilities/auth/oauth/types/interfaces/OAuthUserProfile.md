@@ -4,7 +4,7 @@
 
 # Interface: OAuthUserProfile
 
-Defined in: [src/utilities/auth/oauth/types.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/auth/oauth/types.ts#L16)
+Defined in: [src/utilities/auth/oauth/types.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/auth/oauth/types.ts#L16)
 
 Normalized user profile from OAuth provider
 
@@ -14,7 +14,7 @@ Normalized user profile from OAuth provider
 
 > `optional` **email?**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/auth/oauth/types.ts#L18)
+Defined in: [src/utilities/auth/oauth/types.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/auth/oauth/types.ts#L18)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/utilities/auth/oauth/types.ts:18](https://github.com/Palisadoes
 
 > `optional` **emailVerified?**: `boolean`
 
-Defined in: [src/utilities/auth/oauth/types.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/auth/oauth/types.ts#L21)
+Defined in: [src/utilities/auth/oauth/types.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/auth/oauth/types.ts#L21)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/utilities/auth/oauth/types.ts:21](https://github.com/Palisadoes
 
 > `optional` **name?**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/auth/oauth/types.ts#L19)
+Defined in: [src/utilities/auth/oauth/types.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/auth/oauth/types.ts#L19)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/utilities/auth/oauth/types.ts:19](https://github.com/Palisadoes
 
 > `optional` **picture?**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/auth/oauth/types.ts#L20)
+Defined in: [src/utilities/auth/oauth/types.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/auth/oauth/types.ts#L20)
 
 ***
 
@@ -46,4 +46,4 @@ Defined in: [src/utilities/auth/oauth/types.ts:20](https://github.com/Palisadoes
 
 > **providerId**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/auth/oauth/types.ts#L17)
+Defined in: [src/utilities/auth/oauth/types.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/auth/oauth/types.ts#L17)

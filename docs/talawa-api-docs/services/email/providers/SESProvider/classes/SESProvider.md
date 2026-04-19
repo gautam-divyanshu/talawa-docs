@@ -4,7 +4,7 @@
 
 # Class: SESProvider
 
-Defined in: [src/services/email/providers/SESProvider.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/email/providers/SESProvider.ts#L33)
+Defined in: [src/services/email/providers/SESProvider.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/services/email/providers/SESProvider.ts#L33)
 
 AWS SES implementation of IEmailProvider.
 
@@ -21,7 +21,7 @@ It lazily initializes the SESClient and Command constructors on first use.
 
 > **new SESProvider**(`config`): `SESProvider`
 
-Defined in: [src/services/email/providers/SESProvider.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/email/providers/SESProvider.ts#L44)
+Defined in: [src/services/email/providers/SESProvider.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/services/email/providers/SESProvider.ts#L44)
 
 Creates an instance of SESProvider.
 
@@ -43,7 +43,7 @@ The SES configuration object containing region and credentials.
 
 > **sendBulkEmails**(`jobs`): `Promise`\<[`EmailResult`](../../../types/interfaces/EmailResult.md)[]\>
 
-Defined in: [src/services/email/providers/SESProvider.ts:167](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/email/providers/SESProvider.ts#L167)
+Defined in: [src/services/email/providers/SESProvider.ts:167](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/services/email/providers/SESProvider.ts#L167)
 
 Sends multiple emails in concurrent batches to respect rate limits.
 
@@ -74,7 +74,7 @@ A promise that resolves to an array of results (success or failure) for each ema
 
 > **sendEmail**(`job`): `Promise`\<[`EmailResult`](../../../types/interfaces/EmailResult.md)\>
 
-Defined in: [src/services/email/providers/SESProvider.ts:107](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/email/providers/SESProvider.ts#L107)
+Defined in: [src/services/email/providers/SESProvider.ts:107](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/services/email/providers/SESProvider.ts#L107)
 
 Send a single email using AWS SES
 

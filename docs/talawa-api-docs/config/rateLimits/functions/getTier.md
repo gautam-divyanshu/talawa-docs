@@ -6,7 +6,7 @@
 
 > **getTier**(`name`): [`RateLimitTier`](../type-aliases/RateLimitTier.md)
 
-Defined in: [src/config/rateLimits.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/config/rateLimits.ts#L26)
+Defined in: [src/config/rateLimits.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/config/rateLimits.ts#L26)
 
 ## Parameters
 

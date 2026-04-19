@@ -6,7 +6,7 @@
 
 > **resolveCategory**(`parent`, `_args`, `ctx`): `Promise`\<\{ `createdAt`: `Date`; `creatorId`: `string` \| `null`; `description`: `string` \| `null`; `id`: `string`; `isDisabled`: `boolean`; `name`: `string`; `organizationId`: `string`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; \} \| `null`\>
 
-Defined in: [src/graphql/types/ActionItem/actionItemCategory.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/types/ActionItem/actionItemCategory.ts#L9)
+Defined in: [src/graphql/types/ActionItem/actionItemCategory.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/ActionItem/actionItemCategory.ts#L9)
 
 ## Parameters
 

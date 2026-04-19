@@ -6,7 +6,7 @@
 
 > `const` **updateEventVolunteerInputSchema**: `ZodObject`\<\{ `assignments`: `ZodOptional`\<`ZodArray`\<`ZodString`\>\>; `hasAccepted`: `ZodOptional`\<`ZodBoolean`\>; `isPublic`: `ZodOptional`\<`ZodBoolean`\>; \}, `$strip`\>
 
-Defined in: [src/graphql/inputs/UpdateEventVolunteerInput.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/inputs/UpdateEventVolunteerInput.ts#L8)
+Defined in: [src/graphql/inputs/UpdateEventVolunteerInput.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/inputs/UpdateEventVolunteerInput.ts#L8)
 
 Zod schema for UpdateEventVolunteerInput validation.
 Based on the old Talawa API UpdateEventVolunteerInput structure.

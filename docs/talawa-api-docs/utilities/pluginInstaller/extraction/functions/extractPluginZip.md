@@ -6,7 +6,7 @@
 
 > **extractPluginZip**(`zipPath`, `pluginId`, `structure`): `Promise`\<`void`\>
 
-Defined in: [src/utilities/pluginInstaller/extraction.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/utilities/pluginInstaller/extraction.ts#L13)
+Defined in: [src/utilities/pluginInstaller/extraction.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/pluginInstaller/extraction.ts#L13)
 
 Extracts API plugin files from zip to the available directory
 

@@ -6,7 +6,7 @@
 
 > **resolveVolunteerGroup**(`parent`, `_args`, `ctx`): `Promise`\<[`EventVolunteerGroup`](../../../EventVolunteerGroup/EventVolunteerGroup/type-aliases/EventVolunteerGroup.md) \| `null`\>
 
-Defined in: [src/graphql/types/ActionItem/eventVolunteersAndGroups.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/types/ActionItem/eventVolunteersAndGroups.ts#L46)
+Defined in: [src/graphql/types/ActionItem/eventVolunteersAndGroups.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/ActionItem/eventVolunteersAndGroups.ts#L46)
 
 ## Parameters
 

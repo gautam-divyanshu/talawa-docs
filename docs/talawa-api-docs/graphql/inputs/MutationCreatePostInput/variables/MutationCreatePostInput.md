@@ -6,4 +6,4 @@
 
 > `const` **MutationCreatePostInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `attachment?`: `Promise`\<`FileUpload`\> \| `null`; `body?`: `string` \| `null`; `caption`: `string`; `isPinned?`: `boolean` \| `null`; `organizationId`: `string`; \}\>
 
-Defined in: [src/graphql/inputs/MutationCreatePostInput.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/inputs/MutationCreatePostInput.ts#L83)
+Defined in: [src/graphql/inputs/MutationCreatePostInput.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/inputs/MutationCreatePostInput.ts#L83)

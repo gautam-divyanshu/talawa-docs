@@ -6,7 +6,7 @@
 
 > **invalidateEntityLists**(`cache`, `entity`): `Promise`\<`void`\>
 
-Defined in: [src/services/caching/invalidation.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/caching/invalidation.ts#L37)
+Defined in: [src/services/caching/invalidation.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/services/caching/invalidation.ts#L37)
 
 Invalidate all list caches for a specific entity type.
 Use this after mutations that affect list queries (create, delete, bulk update).

@@ -6,7 +6,7 @@
 
 > **createExceptionLookupMap**(`exceptions`): `Map`\<`string`, \{ `createdAt`: `Date`; `creatorId`: `string` \| `null`; `exceptionData`: `unknown`; `id`: `string`; `organizationId`: `string`; `recurringEventInstanceId`: `string`; `updatedAt`: `Date` \| `null`; `updaterId`: `string` \| `null`; \}\>
 
-Defined in: [src/services/eventGeneration/instanceResolver.ts:256](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/eventGeneration/instanceResolver.ts#L256)
+Defined in: [src/services/eventGeneration/instanceResolver.ts:256](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/services/eventGeneration/instanceResolver.ts#L256)
 
 Creates a lookup map for event exceptions to enable efficient batch processing.
 The map is keyed by a composite key of the recurring event ID and instance start time.

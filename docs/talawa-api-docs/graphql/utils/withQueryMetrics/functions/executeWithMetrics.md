@@ -6,7 +6,7 @@
 
 > **executeWithMetrics**\<`TContext`, `TResult`\>(`context`, `operationName`, `resolver`): `Promise`\<`TResult`\>
 
-Defined in: [src/graphql/utils/withQueryMetrics.ts:103](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/utils/withQueryMetrics.ts#L103)
+Defined in: [src/graphql/utils/withQueryMetrics.ts:103](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/utils/withQueryMetrics.ts#L103)
 
 Executes a resolver function with performance tracking (inline utility).
 

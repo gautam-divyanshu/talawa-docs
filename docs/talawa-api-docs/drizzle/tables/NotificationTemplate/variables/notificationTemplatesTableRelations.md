@@ -6,4 +6,4 @@
 
 > `const` **notificationTemplatesTableRelations**: `Relations`\<`"notification_templates"`, \{ `creator`: `One`\<`"users"`, `false`\>; `notificationLogsWhereTemplate`: `Many`\<`"notification_logs"`\>; `updater`: `One`\<`"users"`, `false`\>; \}\>
 
-Defined in: [src/drizzle/tables/NotificationTemplate.ts:94](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/drizzle/tables/NotificationTemplate.ts#L94)
+Defined in: [src/drizzle/tables/NotificationTemplate.ts:94](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/drizzle/tables/NotificationTemplate.ts#L94)

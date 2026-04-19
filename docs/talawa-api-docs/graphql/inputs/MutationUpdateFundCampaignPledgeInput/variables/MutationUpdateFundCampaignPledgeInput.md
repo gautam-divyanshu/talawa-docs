@@ -6,4 +6,4 @@
 
 > `const` **MutationUpdateFundCampaignPledgeInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, \{ `amount?`: `number` \| `null`; `id`: `string`; `note?`: `string` \| `null`; \}\>
 
-Defined in: [src/graphql/inputs/MutationUpdateFundCampaignPledgeInput.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/inputs/MutationUpdateFundCampaignPledgeInput.ts#L22)
+Defined in: [src/graphql/inputs/MutationUpdateFundCampaignPledgeInput.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/inputs/MutationUpdateFundCampaignPledgeInput.ts#L22)

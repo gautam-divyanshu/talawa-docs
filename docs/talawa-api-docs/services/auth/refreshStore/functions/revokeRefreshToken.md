@@ -6,7 +6,7 @@
 
 > **revokeRefreshToken**(`db`, `token`): `Promise`\<`boolean`\>
 
-Defined in: [src/services/auth/refreshStore.ts:74](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/services/auth/refreshStore.ts#L74)
+Defined in: [src/services/auth/refreshStore.ts:74](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/services/auth/refreshStore.ts#L74)
 
 Revokes a refresh token by setting revokedAt.
 Callers can use the return value to detect whether a row was affected (e.g. token existed).

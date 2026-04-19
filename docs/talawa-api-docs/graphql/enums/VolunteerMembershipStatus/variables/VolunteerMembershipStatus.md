@@ -6,7 +6,7 @@
 
 > `const` **VolunteerMembershipStatus**: `EnumRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, `"rejected"` \| `"invited"` \| `"requested"` \| `"accepted"`, `"rejected"` \| `"invited"` \| `"requested"` \| `"accepted"`\>
 
-Defined in: [src/graphql/enums/VolunteerMembershipStatus.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/164e192ab45bfadc8f9212fcf7495afd6ad24351/src/graphql/enums/VolunteerMembershipStatus.ts#L7)
+Defined in: [src/graphql/enums/VolunteerMembershipStatus.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/enums/VolunteerMembershipStatus.ts#L7)
 
 GraphQL enum type for volunteer membership status.
 Based on the old Talawa API volunteer membership status values.
