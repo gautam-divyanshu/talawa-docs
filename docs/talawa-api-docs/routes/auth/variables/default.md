@@ -15,6 +15,8 @@ sign-up, sign-in, token rotation, and cookie handling.
 
 ## Param
 
+**fastify**
+
 Fastify instance. Must provide drizzleClient and rateLimit("auth").
   Optional envConfig with API_COOKIE_DOMAIN (string) and API_IS_SECURE_COOKIES (boolean).
   When present, used to build cookie options for setAuthCookies/clearAuthCookies.

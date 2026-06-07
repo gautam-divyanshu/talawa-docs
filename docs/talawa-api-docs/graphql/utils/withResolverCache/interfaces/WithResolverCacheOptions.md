@@ -10,6 +10,8 @@ Options for wrapping a GraphQL resolver with caching.
 
 ## Type Param
 
+**TResult**
+
 The return type of the resolver.
 
 ## Type Parameters
