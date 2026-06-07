@@ -17,6 +17,8 @@ minimum length, lowercase, uppercase, numeric, and special characters.
 
 ## Param
 
+**props**
+
 Component props
 
 ## Returns

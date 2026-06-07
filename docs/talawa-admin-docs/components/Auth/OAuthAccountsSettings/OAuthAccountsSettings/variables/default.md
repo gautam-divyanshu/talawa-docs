@@ -12,6 +12,8 @@ Displays OAuth account linkage status and actions for a user.
 
 ## Param
 
+**props**
+
 Component props including an optional user id.
 
 ## Returns

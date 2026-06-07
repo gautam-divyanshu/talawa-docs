@@ -13,6 +13,8 @@ Allows users to apply an action item to an entire series or a single instance.
 
 ## Param
 
+**props**
+
 Component props from InterfaceApplyToSelectorProps
 
 ## Returns

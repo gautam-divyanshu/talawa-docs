@@ -47,6 +47,8 @@ This export is maintained for backward compatibility with existing tests.
 
 ## Param
 
+**status**
+
 The membership status string (e.g., 'requested', 'invited', 'accepted', 'rejected')
 
 ## Returns

@@ -13,6 +13,8 @@ and lazy "View All" support for days with additional events.
 
 ## Param
 
+**props**
+
 Grid rendering state, data, and callbacks from the parent calendar.
 
 ## Returns

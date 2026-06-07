@@ -12,29 +12,43 @@ Modal component for creating or editing a Fund Campaign.
 
 ## Param
 
+**isOpen**
+
 Whether the modal is open
 
 ## Param
+
+**hide**
 
 Function to hide the modal
 
 ## Param
 
+**fundId**
+
 Fund ID associated with the campaign
 
 ## Param
+
+**orgId**
 
 Organization ID
 
 ## Param
 
+**campaign**
+
 Existing campaign data or null
 
 ## Param
 
+**refetchCampaign**
+
 Callback to refresh campaign list
 
 ## Param
+
+**mode**
 
 'create' or 'edit'
 

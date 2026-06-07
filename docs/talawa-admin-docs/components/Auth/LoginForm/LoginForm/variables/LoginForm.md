@@ -18,17 +18,25 @@ and user login modes via the isAdmin prop.
 
 ## Param
 
+**isAdmin**
+
 Whether the login form is rendered for an admin user
 
 ## Param
+
+**onSuccess**
 
 Callback invoked with the full sign-in result (user + tokens)
 
 ## Param
 
+**onError**
+
 Callback invoked when the login request fails
 
 ## Param
+
+**testId**
 
 Optional test ID used for querying the component in tests
 

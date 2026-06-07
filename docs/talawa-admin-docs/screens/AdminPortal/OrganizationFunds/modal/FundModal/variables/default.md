@@ -12,24 +12,36 @@ Modal component for creating or editing a Fund.
 
 ## Param
 
+**isOpen**
+
 Whether the modal is open
 
 ## Param
+
+**hide**
 
 Function to hide the modal
 
 ## Param
 
+**refetchFunds**
+
 Callback to refresh funds list
 
 ## Param
+
+**fund**
 
 Existing fund data or null
 
 ## Param
 
+**orgId**
+
 Organization ID
 
 ## Param
+
+**mode**
 
 'create' or 'edit'

@@ -19,6 +19,8 @@ Provides a comprehensive form interface for creating events with features includ
 
 ## Param
 
+**props**
+
 Component props
 
 ## Returns

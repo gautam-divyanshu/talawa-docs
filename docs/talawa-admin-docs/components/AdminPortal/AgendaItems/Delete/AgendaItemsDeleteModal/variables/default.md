@@ -15,21 +15,31 @@ Uses the shared `DeleteModal` for standardized delete behavior.
 
 ## Param
 
+**isOpen**
+
 Controls modal visibility
 
 ## Param
+
+**onClose**
 
 Callback to close the modal
 
 ## Param
 
+**agendaItemId**
+
 ID of the agenda item to delete
 
 ## Param
 
+**refetchAgendaFolder**
+
 Refetches agenda folder data after deletion
 
 ## Param
+
+**t**
 
 i18n translation function
 

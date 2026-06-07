@@ -12,6 +12,8 @@ A customizable OAuth authentication button component that supports multiple prov
 
 ## Param
 
+**props**
+
 The component props
 
 ## Returns

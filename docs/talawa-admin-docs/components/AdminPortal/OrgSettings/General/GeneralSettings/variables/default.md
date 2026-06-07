@@ -12,6 +12,8 @@ A component for displaying general settings for an organization.
 
 ## Param
 
+**props**
+
 The properties passed to the component.
 
 ## Returns

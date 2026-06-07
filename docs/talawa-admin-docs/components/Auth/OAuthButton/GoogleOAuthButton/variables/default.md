@@ -15,6 +15,8 @@ and storing the authentication mode (login/register/link) for callback processin
 
 ## Param
 
+**Props**
+
 Component Props
 
 ## Returns

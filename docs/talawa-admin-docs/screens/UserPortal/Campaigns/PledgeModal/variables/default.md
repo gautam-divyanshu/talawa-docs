@@ -16,6 +16,8 @@ Integrates internationalization and GraphQL operations for pledge creation and u
 
 ## Param
 
+**props**
+
 Props for the PledgeModal component.
 
 ## Returns

@@ -12,6 +12,8 @@ Row component to display a single password requirement with status indicator.
 
 ## Param
 
+**props**
+
 Component props
 
 ## Returns

@@ -13,17 +13,25 @@ This query uses the new connection-based schema with input objects.
 
 ## Param
 
+**input**
+
 QueryOrganizationInput containing the organization ID
 
 ## Param
+
+**first**
 
 Number of members to fetch
 
 ## Param
 
+**after**
+
 Cursor for pagination
 
 ## Param
+
+**where**
 
 MembersWhereInput for filtering (e.g., name_contains)
 

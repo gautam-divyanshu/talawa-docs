@@ -15,37 +15,55 @@ Uses `EditModal` to handle submission, loading, and keyboard actions.
 
 ## Param
 
+**isOpen**
+
 Controls modal visibility
 
 ## Param
+
+**onClose**
 
 Callback to close the modal
 
 ## Param
 
+**agendaItemId**
+
 ID of the agenda item being updated
 
 ## Param
+
+**itemFormState**
 
 Current agenda item form state
 
 ## Param
 
+**setItemFormState**
+
 Setter for agenda item form state
 
 ## Param
+
+**agendaItemCategories**
 
 Available agenda item categories
 
 ## Param
 
+**agendaFolderData**
+
 Available agenda folders
 
 ## Param
 
+**refetchAgendaFolder**
+
 Refetches agenda folder data after update
 
 ## Param
+
+**t**
 
 i18n translation function
 

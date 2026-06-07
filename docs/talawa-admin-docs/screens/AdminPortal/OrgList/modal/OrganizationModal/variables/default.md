@@ -13,6 +13,8 @@ It provides a form to enter organization details like name, description, address
 
 ## Param
 
+**props**
+
 The properties for the OrganizationModal component.
 
 ## Returns

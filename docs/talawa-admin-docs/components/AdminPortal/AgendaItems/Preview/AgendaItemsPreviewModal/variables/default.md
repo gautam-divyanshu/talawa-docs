@@ -13,17 +13,25 @@ Read-only preview modal for agenda item details rendered in `ViewModal`.
 
 ## Param
 
+**isOpen**
+
 Controls modal visibility
 
 ## Param
+
+**hidePreviewModal**
 
 Callback to close the preview modal
 
 ## Param
 
+**formState**
+
 Agenda item data to display
 
 ## Param
+
+**t**
 
 i18n translation function
 

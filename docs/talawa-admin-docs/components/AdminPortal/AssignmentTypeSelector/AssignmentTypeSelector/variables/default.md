@@ -12,6 +12,8 @@ Chip-based toggle selector for choosing assignment type (volunteer or volunteer 
 
 ## Param
 
+**props**
+
 Component props from InterfaceAssignmentTypeSelectorProps
 
 ## Returns

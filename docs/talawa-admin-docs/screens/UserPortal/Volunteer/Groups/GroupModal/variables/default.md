@@ -12,21 +12,31 @@ A modal dialog for editing a volunteer group.
 
 ## Param
 
+**isOpen**
+
 Indicates whether the modal is open.
 
 ## Param
+
+**hide**
 
 Function to close the modal.
 
 ## Param
 
+**eventId**
+
 The ID of the event associated with the volunteer group.
 
 ## Param
 
+**group**
+
 The volunteer group object to be edited.
 
 ## Param
+
+**refetchGroups**
 
 Function to refetch the volunteer groups after an update.
 

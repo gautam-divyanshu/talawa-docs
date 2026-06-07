@@ -15,21 +15,31 @@ Uses `DeleteModal` to provide consistent delete confirmation UI.
 
 ## Param
 
+**isOpen**
+
 Controls modal visibility
 
 ## Param
+
+**onClose**
 
 Callback to close the modal
 
 ## Param
 
+**agendaFolderId**
+
 ID of the agenda folder to delete
 
 ## Param
 
+**refetchAgendaFolder**
+
 Refetches agenda folder data after deletion
 
 ## Param
+
+**t**
 
 i18n translation function
 

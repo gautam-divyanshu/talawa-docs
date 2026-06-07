@@ -12,6 +12,8 @@ Renders the right-side monthly calendar info cards (holidays and legend).
 
 ## Param
 
+**props**
+
 Component props containing filtered holidays and translation helpers.
 
 ## Returns

@@ -19,25 +19,37 @@ and refreshes agenda folder data on successful creation.
 
 ## Param
 
+**isOpen**
+
 Controls modal visibility
 
 ## Param
+
+**hide**
 
 Callback to close the modal
 
 ## Param
 
+**eventId**
+
 ID of the event the folder belongs to
 
 ## Param
+
+**agendaFolderData**
 
 Existing agenda folder data for sequence calculation
 
 ## Param
 
+**t**
+
 i18n translation function
 
 ## Param
+
+**refetchAgendaFolder**
 
 Refetches agenda folder data after creation
 
