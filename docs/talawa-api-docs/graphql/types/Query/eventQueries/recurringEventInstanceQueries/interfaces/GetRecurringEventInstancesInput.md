@@ -4,7 +4,7 @@
 
 # Interface: GetRecurringEventInstancesInput
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L33)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L33)
 
 Defines the input parameters for querying recurring event instances.
 
@@ -14,7 +14,7 @@ Defines the input parameters for querying recurring event instances.
 
 > **endDate**: `Date`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L36)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L36)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.
 
 > `optional` **excludeInstanceIds?**: `string`[]
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L53)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:53](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L53)
 
 Optional array of instance IDs to exclude from the results.
 Useful for filtering out specific instances that should not be returned,
@@ -34,7 +34,7 @@ such as instances that have already been processed or displayed.
 
 > `optional` **includeCancelled?**: `boolean`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L37)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L37)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.
 
 > `optional` **limit?**: `number`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L42)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L42)
 
 Optional maximum number of instances to return (defaults to 1000).
 Must be a positive integer.
@@ -53,7 +53,7 @@ Must be a positive integer.
 
 > `optional` **offset?**: `number`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L47)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L47)
 
 Optional number of instances to skip (defaults to 0).
 Must be a non-negative integer.
@@ -64,7 +64,7 @@ Must be a non-negative integer.
 
 > **organizationId**: `string`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L34)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:34](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L34)
 
 ***
 
@@ -72,4 +72,4 @@ Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.
 
 > **startDate**: `Date`
 
-Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L35)
+Defined in: [src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Query/eventQueries/recurringEventInstanceQueries.ts#L35)

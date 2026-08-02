@@ -6,7 +6,7 @@
 
 > **revokeAllUserEmailVerificationTokens**(`drizzleClient`, `userId`): `Promise`\<`number`\>
 
-Defined in: [src/utilities/emailVerificationTokenUtils.ts:173](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/emailVerificationTokenUtils.ts#L173)
+Defined in: [src/utilities/emailVerificationTokenUtils.ts:173](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/emailVerificationTokenUtils.ts#L173)
 
 Revokes all email verification tokens for a user (marks them as used).
 Useful when user successfully verifies email or requests a new token.

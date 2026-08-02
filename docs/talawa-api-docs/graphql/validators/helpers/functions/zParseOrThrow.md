@@ -6,7 +6,7 @@
 
 > **zParseOrThrow**\<`TSchema`\>(`schema`, `data`): `Promise`\<`output`\<`TSchema`\>\>
 
-Defined in: [src/graphql/validators/helpers.ts:62](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/validators/helpers.ts#L62)
+Defined in: [src/graphql/validators/helpers.ts:62](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/validators/helpers.ts#L62)
 
 Validates data against a Zod schema and throws a TalawaGraphQLError if validation fails.
 

@@ -4,7 +4,7 @@
 
 # Interface: CacheMetrics
 
-Defined in: [src/workers/metrics/types.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/workers/metrics/types.ts#L35)
+Defined in: [src/workers/metrics/types.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/workers/metrics/types.ts#L35)
 
 Aggregated cache metrics.
 
@@ -14,7 +14,7 @@ Aggregated cache metrics.
 
 > **hitRate**: `number`
 
-Defined in: [src/workers/metrics/types.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/workers/metrics/types.ts#L41)
+Defined in: [src/workers/metrics/types.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/workers/metrics/types.ts#L41)
 
 Overall cache hit rate (0-1)
 
@@ -24,7 +24,7 @@ Overall cache hit rate (0-1)
 
 > **totalHits**: `number`
 
-Defined in: [src/workers/metrics/types.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/workers/metrics/types.ts#L37)
+Defined in: [src/workers/metrics/types.ts:37](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/workers/metrics/types.ts#L37)
 
 Total cache hits
 
@@ -34,7 +34,7 @@ Total cache hits
 
 > **totalMisses**: `number`
 
-Defined in: [src/workers/metrics/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/workers/metrics/types.ts#L39)
+Defined in: [src/workers/metrics/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/workers/metrics/types.ts#L39)
 
 Total cache misses
 
@@ -44,6 +44,6 @@ Total cache misses
 
 > **totalOps**: `number`
 
-Defined in: [src/workers/metrics/types.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/workers/metrics/types.ts#L43)
+Defined in: [src/workers/metrics/types.ts:43](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/workers/metrics/types.ts#L43)
 
 Total cache operations

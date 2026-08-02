@@ -6,7 +6,7 @@
 
 > **extendGenerationWindow**(`organizationId`, `additionalMonths`, `drizzleClient`, `logger`): `Promise`\<`Date`\>
 
-Defined in: [src/services/eventGeneration/windowManager.ts:115](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/services/eventGeneration/windowManager.ts#L115)
+Defined in: [src/services/eventGeneration/windowManager.ts:115](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/services/eventGeneration/windowManager.ts#L115)
 
 Extends the Generation window for an organization by a specified number of months,
 allowing for the generation of future event instances.

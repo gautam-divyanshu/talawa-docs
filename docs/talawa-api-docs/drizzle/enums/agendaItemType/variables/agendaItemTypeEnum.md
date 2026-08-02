@@ -6,6 +6,6 @@
 
 > `const` **agendaItemTypeEnum**: `ZodEnum`\<\{ `general`: `"general"`; `note`: `"note"`; `scripture`: `"scripture"`; `song`: `"song"`; \}\>
 
-Defined in: [src/drizzle/enums/agendaItemType.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/drizzle/enums/agendaItemType.ts#L6)
+Defined in: [src/drizzle/enums/agendaItemType.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/drizzle/enums/agendaItemType.ts#L6)
 
 Possible variants of the type of an agenda item.

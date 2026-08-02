@@ -4,7 +4,7 @@
 
 # Interface: WithMutationMetricsOptions
 
-Defined in: [src/graphql/utils/withMutationMetrics.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/utils/withMutationMetrics.ts#L6)
+Defined in: [src/graphql/utils/withMutationMetrics.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/utils/withMutationMetrics.ts#L6)
 
 Options for wrapping a GraphQL mutation resolver with performance tracking.
 
@@ -14,7 +14,7 @@ Options for wrapping a GraphQL mutation resolver with performance tracking.
 
 > **operationName**: `string`
 
-Defined in: [src/graphql/utils/withMutationMetrics.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/utils/withMutationMetrics.ts#L11)
+Defined in: [src/graphql/utils/withMutationMetrics.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/utils/withMutationMetrics.ts#L11)
 
 Name of the mutation operation for performance tracking.
 Should follow the pattern: `mutation:{mutationName}` (e.g., `mutation:createUser`, `mutation:createOrganization`).

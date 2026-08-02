@@ -6,7 +6,7 @@
 
 > **normalizeError**(`err`): [`NormalizedError`](../type-aliases/NormalizedError.md)
 
-Defined in: [src/utilities/errors/errorTransformer.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/errors/errorTransformer.ts#L57)
+Defined in: [src/utilities/errors/errorTransformer.ts:57](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/errors/errorTransformer.ts#L57)
 
 Transforms various error types into a standardized NormalizedError format.
 

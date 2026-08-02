@@ -6,7 +6,7 @@
 
 > **validateWindowConfiguration**(`windowConfig`): `object`
 
-Defined in: [src/workers/eventGeneration/windowManager.ts:247](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/workers/eventGeneration/windowManager.ts#L247)
+Defined in: [src/workers/eventGeneration/windowManager.ts:247](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/workers/eventGeneration/windowManager.ts#L247)
 
 Validates window configuration for processing
 

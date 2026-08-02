@@ -6,7 +6,7 @@
 
 > **UpdateEventInvitationInput** = `object`
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:161](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/drizzle/tables/eventInvitations.ts#L161)
+Defined in: [src/drizzle/tables/eventInvitations.ts:161](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/drizzle/tables/eventInvitations.ts#L161)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/drizzle/tables/eventInvitations.ts:161](https://github.com/Pali
 
 > `optional` **metadata?**: `unknown`
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:165](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/drizzle/tables/eventInvitations.ts#L165)
+Defined in: [src/drizzle/tables/eventInvitations.ts:165](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/drizzle/tables/eventInvitations.ts#L165)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/drizzle/tables/eventInvitations.ts:165](https://github.com/Pali
 
 > `optional` **respondedAt?**: `Date`
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:164](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/drizzle/tables/eventInvitations.ts#L164)
+Defined in: [src/drizzle/tables/eventInvitations.ts:164](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/drizzle/tables/eventInvitations.ts#L164)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/drizzle/tables/eventInvitations.ts:164](https://github.com/Pali
 
 > `optional` **status?**: `string`
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:163](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/drizzle/tables/eventInvitations.ts#L163)
+Defined in: [src/drizzle/tables/eventInvitations.ts:163](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/drizzle/tables/eventInvitations.ts#L163)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/drizzle/tables/eventInvitations.ts:163](https://github.com/Pali
 
 > `optional` **userId?**: `string` \| `null`
 
-Defined in: [src/drizzle/tables/eventInvitations.ts:162](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/drizzle/tables/eventInvitations.ts#L162)
+Defined in: [src/drizzle/tables/eventInvitations.ts:162](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/drizzle/tables/eventInvitations.ts#L162)

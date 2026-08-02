@@ -6,7 +6,7 @@
 
 > **\_EmailAddress** = `object`
 
-Defined in: [src/graphql/scalars/EmailAddress.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/scalars/EmailAddress.ts#L21)
+Defined in: [src/graphql/scalars/EmailAddress.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/scalars/EmailAddress.ts#L21)
 
 `EmailAddress` scalar type for pothos schema.
 The underscore prefix indicates this is an internal type definition.
@@ -24,7 +24,7 @@ Invalid: user\@, user\@.com, \@example.com
 
 > **Input**: `string`
 
-Defined in: [src/graphql/scalars/EmailAddress.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/scalars/EmailAddress.ts#L22)
+Defined in: [src/graphql/scalars/EmailAddress.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/scalars/EmailAddress.ts#L22)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [src/graphql/scalars/EmailAddress.ts:22](https://github.com/Palisado
 
 > **Output**: `string`
 
-Defined in: [src/graphql/scalars/EmailAddress.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/scalars/EmailAddress.ts#L23)
+Defined in: [src/graphql/scalars/EmailAddress.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/scalars/EmailAddress.ts#L23)

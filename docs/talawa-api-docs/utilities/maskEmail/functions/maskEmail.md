@@ -6,7 +6,7 @@
 
 > **maskEmail**(`email`): `string`
 
-Defined in: [src/utilities/maskEmail.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/maskEmail.ts#L14)
+Defined in: [src/utilities/maskEmail.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/maskEmail.ts#L14)
 
 Masks an email address for logging purposes to protect privacy.
 Shows first character of local part and full domain.

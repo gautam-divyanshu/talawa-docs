@@ -6,6 +6,6 @@
 
 > `const` **userIdArg**: `ZodObject`\<\{ `id`: `ZodString`; \}, `$strip`\>
 
-Defined in: [src/graphql/validators/core.ts:174](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/validators/core.ts#L174)
+Defined in: [src/graphql/validators/core.ts:174](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/validators/core.ts#L174)
 
 Common pattern for queries/mutations that accept a user ID.

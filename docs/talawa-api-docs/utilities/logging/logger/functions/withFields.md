@@ -6,7 +6,7 @@
 
 > **withFields**(`logger`, `fields`): [`AppLogger`](../type-aliases/AppLogger.md)
 
-Defined in: [src/utilities/logging/logger.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/utilities/logging/logger.ts#L52)
+Defined in: [src/utilities/logging/logger.ts:52](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/logging/logger.ts#L52)
 
 Creates a child logger with additional fields
 

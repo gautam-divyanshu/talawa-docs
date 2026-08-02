@@ -6,7 +6,7 @@
 
 > **verifyToken**\<`T`\>(`jwt`): `Promise`\<`T`\>
 
-Defined in: [src/services/auth/tokens.ts:148](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/services/auth/tokens.ts#L148)
+Defined in: [src/services/auth/tokens.ts:148](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/services/auth/tokens.ts#L148)
 
 Verifies a JWT and returns the payload. Throws on expired, wrong secret, or wrong issuer.
 

@@ -4,7 +4,7 @@
 
 # Interface: UploadUrlResponse
 
-Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Post/UploadUrlResponse.ts#L3)
+Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:3](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Post/UploadUrlResponse.ts#L3)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:3](https://github.com/P
 
 > **objectName**: `string` \| `null`
 
-Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Post/UploadUrlResponse.ts#L5)
+Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Post/UploadUrlResponse.ts#L5)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:5](https://github.com/P
 
 > **presignedUrl**: `string` \| `null`
 
-Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Post/UploadUrlResponse.ts#L4)
+Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:4](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Post/UploadUrlResponse.ts#L4)
 
 ***
 
@@ -28,4 +28,4 @@ Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:4](https://github.com/P
 
 > **requiresUpload**: `boolean`
 
-Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/5246239edff12106460ef2c69cc54e98da4dedcf/src/graphql/types/Post/UploadUrlResponse.ts#L6)
+Defined in: [src/graphql/types/Post/UploadUrlResponse.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/Post/UploadUrlResponse.ts#L6)
