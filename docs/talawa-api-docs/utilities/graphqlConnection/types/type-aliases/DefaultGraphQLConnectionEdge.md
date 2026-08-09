@@ -6,7 +6,7 @@
 
 > **DefaultGraphQLConnectionEdge**\<`NodeType`\> = `object`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/graphqlConnection/types.ts#L39)
+Defined in: [src/utilities/graphqlConnection/types.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/graphqlConnection/types.ts#L39)
 
 This is typescript type of a base graphql connection edge object. This connection edge object can be extended to create a custom connection edge object as long as the new connection edge object adheres to the default type of this base connection edge object.
 
@@ -22,7 +22,7 @@ This is typescript type of a base graphql connection edge object. This connectio
 
 > **cursor**: `string`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/graphqlConnection/types.ts#L40)
+Defined in: [src/utilities/graphqlConnection/types.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/graphqlConnection/types.ts#L40)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/utilities/graphqlConnection/types.ts:40](https://github.com/Pal
 
 > **node**: `NodeType`
 
-Defined in: [src/utilities/graphqlConnection/types.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/graphqlConnection/types.ts#L41)
+Defined in: [src/utilities/graphqlConnection/types.ts:41](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/graphqlConnection/types.ts#L41)

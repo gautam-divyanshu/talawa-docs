@@ -6,6 +6,6 @@
 
 > `const` **fileMetadataInputSchema**: `ZodObject`\<\{ `fileHash`: `ZodString`; `mimeType`: `ZodEnum`\<\{ `image/avif`: `"image/avif"`; `image/jpeg`: `"image/jpeg"`; `image/png`: `"image/png"`; `image/webp`: `"image/webp"`; `video/mp4`: `"video/mp4"`; `video/quicktime`: `"video/quicktime"`; `video/webm`: `"video/webm"`; \}\>; `name`: `ZodString`; `objectName`: `ZodString`; \}, `$strip`\>
 
-Defined in: [src/graphql/inputs/FileMetadataInput.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/inputs/FileMetadataInput.ts#L9)
+Defined in: [src/graphql/inputs/FileMetadataInput.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/graphql/inputs/FileMetadataInput.ts#L9)
 
 Zod schema for validating file metadata input submitted after MinIO presigned URL upload.

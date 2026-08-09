@@ -4,7 +4,7 @@
 
 # Interface: CacheWrapperLogger
 
-Defined in: [src/services/caching/wrappers.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/services/caching/wrappers.ts#L7)
+Defined in: [src/services/caching/wrappers.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/services/caching/wrappers.ts#L7)
 
 Logger interface for cache wrapper operations.
 
@@ -14,7 +14,7 @@ Logger interface for cache wrapper operations.
 
 > **debug**: (`obj`, `msg?`) => `void`
 
-Defined in: [src/services/caching/wrappers.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/services/caching/wrappers.ts#L8)
+Defined in: [src/services/caching/wrappers.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/services/caching/wrappers.ts#L8)
 
 #### Parameters
 

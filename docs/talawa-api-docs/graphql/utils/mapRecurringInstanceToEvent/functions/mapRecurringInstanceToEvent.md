@@ -6,7 +6,7 @@
 
 > **mapRecurringInstanceToEvent**(`instance`): [`EventWithAttachments`](../../../types/Query/eventQueries/unifiedEventQueries/type-aliases/EventWithAttachments.md)
 
-Defined in: [src/graphql/utils/mapRecurringInstanceToEvent.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/utils/mapRecurringInstanceToEvent.ts#L11)
+Defined in: [src/graphql/utils/mapRecurringInstanceToEvent.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/graphql/utils/mapRecurringInstanceToEvent.ts#L11)
 
 Maps a recurring event instance to the internal unified EventWithAttachments format.
 This is used to treat materialized instances like regular events in queries.

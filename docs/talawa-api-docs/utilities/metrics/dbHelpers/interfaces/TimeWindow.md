@@ -4,7 +4,7 @@
 
 # Interface: TimeWindow
 
-Defined in: [src/utilities/metrics/dbHelpers.ts:208](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/metrics/dbHelpers.ts#L208)
+Defined in: [src/utilities/metrics/dbHelpers.ts:208](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/metrics/dbHelpers.ts#L208)
 
 Represents a single time window.
 
@@ -14,7 +14,7 @@ Represents a single time window.
 
 > **end**: `Date`
 
-Defined in: [src/utilities/metrics/dbHelpers.ts:216](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/metrics/dbHelpers.ts#L216)
+Defined in: [src/utilities/metrics/dbHelpers.ts:216](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/metrics/dbHelpers.ts#L216)
 
 End time of the window (exclusive).
 
@@ -24,6 +24,6 @@ End time of the window (exclusive).
 
 > **start**: `Date`
 
-Defined in: [src/utilities/metrics/dbHelpers.ts:212](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/metrics/dbHelpers.ts#L212)
+Defined in: [src/utilities/metrics/dbHelpers.ts:212](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/metrics/dbHelpers.ts#L212)
 
 Start time of the window (inclusive).

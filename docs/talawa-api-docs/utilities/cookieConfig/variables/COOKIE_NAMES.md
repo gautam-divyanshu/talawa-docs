@@ -6,7 +6,7 @@
 
 > `const` **COOKIE\_NAMES**: `object`
 
-Defined in: [src/utilities/cookieConfig.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/cookieConfig.ts#L7)
+Defined in: [src/utilities/cookieConfig.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/cookieConfig.ts#L7)
 
 Cookie names used for authentication tokens.
 These are centralized here to ensure consistency across the codebase.

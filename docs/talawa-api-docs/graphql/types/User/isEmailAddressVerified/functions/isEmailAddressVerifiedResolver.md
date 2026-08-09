@@ -6,7 +6,7 @@
 
 > **isEmailAddressVerifiedResolver**(`parent`, `_args`, `ctx`): `Promise`\<`boolean`\>
 
-Defined in: [src/graphql/types/User/isEmailAddressVerified.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/graphql/types/User/isEmailAddressVerified.ts#L16)
+Defined in: [src/graphql/types/User/isEmailAddressVerified.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/graphql/types/User/isEmailAddressVerified.ts#L16)
 
 Resolver for the `isEmailAddressVerified` field of the `User` type.
 

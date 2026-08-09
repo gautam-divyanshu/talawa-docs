@@ -6,7 +6,7 @@
 
 > **directoryExists**(`dirPath`): `Promise`\<`boolean`\>
 
-Defined in: [src/plugin/utils.ts:134](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/plugin/utils.ts#L134)
+Defined in: [src/plugin/utils.ts:134](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/plugin/utils.ts#L134)
 
 Checks if a directory exists
 

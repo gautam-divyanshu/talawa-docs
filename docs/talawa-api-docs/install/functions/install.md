@@ -6,7 +6,7 @@
 
 > **install**(`config?`): `Promise`\<[`InstallResult`](../types/interfaces/InstallResult.md)\>
 
-Defined in: [src/install/index.ts:148](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/install/index.ts#L148)
+Defined in: [src/install/index.ts:148](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/install/index.ts#L148)
 
 Main installation function.
 

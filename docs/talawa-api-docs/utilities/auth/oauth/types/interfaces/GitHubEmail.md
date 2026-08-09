@@ -4,7 +4,7 @@
 
 # Interface: GitHubEmail
 
-Defined in: [src/utilities/auth/oauth/types.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/auth/oauth/types.ts#L46)
+Defined in: [src/utilities/auth/oauth/types.ts:46](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/auth/oauth/types.ts#L46)
 
 GitHub email response structure
 
@@ -14,7 +14,7 @@ GitHub email response structure
 
 > **email**: `string`
 
-Defined in: [src/utilities/auth/oauth/types.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/auth/oauth/types.ts#L47)
+Defined in: [src/utilities/auth/oauth/types.ts:47](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/auth/oauth/types.ts#L47)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/utilities/auth/oauth/types.ts:47](https://github.com/Palisadoes
 
 > **primary**: `boolean`
 
-Defined in: [src/utilities/auth/oauth/types.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/auth/oauth/types.ts#L48)
+Defined in: [src/utilities/auth/oauth/types.ts:48](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/auth/oauth/types.ts#L48)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/utilities/auth/oauth/types.ts:48](https://github.com/Palisadoes
 
 > `optional` **verified?**: `boolean`
 
-Defined in: [src/utilities/auth/oauth/types.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/auth/oauth/types.ts#L49)
+Defined in: [src/utilities/auth/oauth/types.ts:49](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/auth/oauth/types.ts#L49)

@@ -4,7 +4,7 @@
 
 # Interface: PluginInstallationOptions
 
-Defined in: [src/utilities/pluginInstaller/types.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/pluginInstaller/types.ts#L8)
+Defined in: [src/utilities/pluginInstaller/types.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/pluginInstaller/types.ts#L8)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [src/utilities/pluginInstaller/types.ts:8](https://github.com/Palisa
 
 > `optional` **activate?**: `boolean`
 
-Defined in: [src/utilities/pluginInstaller/types.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/pluginInstaller/types.ts#L11)
+Defined in: [src/utilities/pluginInstaller/types.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/pluginInstaller/types.ts#L11)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/utilities/pluginInstaller/types.ts:11](https://github.com/Palis
 
 > **drizzleClient**: `DrizzleClientInterface`
 
-Defined in: [src/utilities/pluginInstaller/types.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/pluginInstaller/types.ts#L10)
+Defined in: [src/utilities/pluginInstaller/types.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/pluginInstaller/types.ts#L10)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/utilities/pluginInstaller/types.ts:10](https://github.com/Palis
 
 > **userId**: `string`
 
-Defined in: [src/utilities/pluginInstaller/types.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/pluginInstaller/types.ts#L12)
+Defined in: [src/utilities/pluginInstaller/types.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/pluginInstaller/types.ts#L12)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/utilities/pluginInstaller/types.ts:12](https://github.com/Palis
 
 > **zipFile**: `FileUpload`
 
-Defined in: [src/utilities/pluginInstaller/types.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/5786ae4f6a720dac990dcd3c8ac65cc65d4a7aa7/src/utilities/pluginInstaller/types.ts#L9)
+Defined in: [src/utilities/pluginInstaller/types.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/b9e6fcc765ae0106e0dfd5d4f4612eef0522df38/src/utilities/pluginInstaller/types.ts#L9)
