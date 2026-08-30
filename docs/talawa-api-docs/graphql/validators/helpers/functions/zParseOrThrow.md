@@ -19,7 +19,7 @@ This helper eliminates boilerplate validation code in GraphQL resolvers by:
 
 ### TSchema
 
-`TSchema` *extends* `ZodType`\<`unknown`, `unknown`, `$ZodTypeInternals`\<`unknown`, `unknown`\>\>
+`TSchema` *extends* `ZodTypeAny`\<`unknown`, `unknown`, `$ZodTypeInternals`\<`unknown`, `unknown`\>\>
 
 ## Parameters
 
